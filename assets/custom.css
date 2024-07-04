@@ -60,25 +60,25 @@ label.variant_label_image {
 }
 
 .bundle-products {
-    padding: 4rem 0;
+    padding: 40px 0;
     text-align: center;
   }
   .bundle-products__title {
-    font-size: 2.5rem;
+    font-size: calc(var(--typeHeaderSize)*.85);
     letter-spacing: 2px;
     margin-bottom: 20px;
   }
   .bundle-products__form {
     border: 1px dashed #ececec;
-    padding: 1rem;
-    border-radius: 1rem;
+    padding: 10px;
+    border-radius: 10px;
   }
   @media (min-width: 1100px) {
     .bundle-products__form {
       display: grid;
-      grid-template-columns: 1fr 22rem;
-      grid-gap: 2.4rem;
-      padding: 2.4rem;
+      grid-template-columns: 1fr 320px;
+      grid-gap: 24px;
+      padding: 24px;
     }
   }
   .bundle-products__list {
@@ -87,7 +87,7 @@ label.variant_label_image {
   }
   @media (min-width: 767px) {
     .bundle-products__list {
-      grid-gap: 4rem;
+      grid-gap: 40px;
       grid-template-columns: repeat(4, 1fr);
     }
   }
@@ -109,15 +109,15 @@ label.variant_label_image {
     text-align: center;
 
     @media (max-width: 767px) {
-        padding: 1rem;
+        padding: 10px;
     }
   }
   .bundle-products__item::after {
     position: absolute;
-    right: -3.3rem;
+    right: -33px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 5rem;
+    font-size: 50px;
     color: grey;
   }
   @media (min-width: 767px) {
@@ -131,9 +131,7 @@ label.variant_label_image {
   }
 
   @media (min-width: 767px) {
-    .bundle-products .bundle-products__item:nth-child(2n)::after {
-      display: none;
-    }
+
   }
   @media (min-width: 1100px) {
     .bundle-products .bundle-products__item:nth-child(2n)::after {
@@ -158,37 +156,42 @@ label.variant_label_image {
   .bundle-products__label::after {
     content: "";
     position: absolute;
-    left: 1rem;
-    top: 1rem;
-    width: 2.4rem;
-    height: 2.4rem;
-    border-radius: 0.6rem;
+    left: 10px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
     background-position: center center;
     background-repeat: no-repeat;
     background-color: transparent;
     border: 2px solid var(--colorVariantBorder);
     transition: all 0.3s;
+
+    @media (max-width: 1100px) {
+
+    }
   }
   .bundle-products__item-img {
     max-width: 100%;
     height: auto;
-    border-radius: 1.2rem;
+    border-radius: 12px;
   }
   .bundle-products__item-title {
-    font-size: 1.1rem;
-    line-height: 1.3em;
-    font-weight: bold;
-    padding: 1.2rem 0 0;
+    color: var(--colorTextBody);
+    font-size: calc(var(--typeBaseSize) - 2px);
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    font-family: var(--typeBasePrimary), var(--typeBaseFallback);
+    line-height: var(--typeBaselineHeightMinus01);
+    padding: 12px 0 0;
     margin: 0;
-    text-transform: none !important;
-    font-family: "Azo", sans-serif;
     word-break: break-word;
     flex-grow: 1;
   }
   .bundle-products__item-price {
-    color: #008602;
-    font-size: 1.4rem;
-    font-weight: normal;
+    color: var(--colorPrice);
+    font-size: calc(var(--typeBaseSize)*1.05);
+    letter-spacing: 1px;
     margin-top: 10px;
   }
   .bundle-products__item-price u {
@@ -206,7 +209,7 @@ label.variant_label_image {
       position: -webkit-sticky;
       position: sticky;
       top: 90px;
-      padding-top: 1.6rem;
+      padding-top: 16px;
       border-top: 1px dashed var(--colorBorder);
     }
   }
@@ -214,7 +217,7 @@ label.variant_label_image {
     .bundle-products__price {
       position: static;
       justify-content: flex-end;
-      padding-left: 2.4rem;
+      padding-left: 24px;
       border-left: 1px dashed var(--colorBorder);
     }
   }
@@ -224,8 +227,8 @@ label.variant_label_image {
   .bundle-products__price-label {
     border: 1px dashed #008602;
     background-color: #deece1;
-    border-radius: 1rem;
-    padding: 0.5rem;
+    border-radius: 10px;
+    padding: 5px;
   }
 
   .bundle-products__price-saved {
@@ -236,16 +239,16 @@ label.variant_label_image {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding: 2rem 0;
+    padding: 20px 0;
   }
   .bundle-products__price-old {
     color: grey;
     font-weight: 300;
-    font-size: 1.7rem;
+    font-size: calc(var(--typeBaseSize)*1.1);
     text-decoration: line-through;
   }
   .bundle-products__price-actual {
-    font-size: 1.7rem;
+    font-size: calc(var(--typeBaseSize)*1.4);
     color: #008602;
     font-weight: bold;
   }
