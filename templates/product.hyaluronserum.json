@@ -1,0 +1,473 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "besonders wirksam",
+        "title": "hoch- und niedermolekular",
+        "text": "<p>Unser Hyaluronserum zeichnet sich durch die Verwendung von hochmolekularem und niedermolekularem Hyaluron aus, was es besonders wirksam macht. Hochmolekulares Hyaluron bildet einen feuchtigkeitsspendenden Film auf der Hautoberfläche, der die Haut glättet und sie vor Feuchtigkeitsverlust schützt. Niedermolekulares Hyaluron hingegen dringt tiefer in die Hautschichten ein und kann dort Feuchtigkeit binden, was zu einer verbesserten Hautfeuchtigkeit und Elastizität führt. Die Kombination aus beiden Formen ermöglicht es, die Haut von innen und außen mit Feuchtigkeit zu versorgen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a7c23897f0294569bda8729ebf44ebfa.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_d6ae10ac-2c8d-402d-bdd2-e52202cf2946.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Leichte Textur ohne Kleben",
+        "title": "Thermalwasser",
+        "text": "<p>Thermalwasser zeichnet sich durch seinen hohen Mineralstoffgehalt aus und wird in unserem Hyaluronserum als Trägerstoff für die Wirkstoffe verwendet. Es ermöglicht eine gleichmäßige Verteilung der Inhaltsstoffe auf der Haut und hilft dabei, ihre Wirksamkeit zu maximieren. Durch die Lösung der Aloe Vera in Thermalwasser erreichen wir eine leichte Textur, die sich angenehm auf der Haut verteilen lässt, ohne ein klebriges oder schweres Gefühl zu hinterlassen. Diese leichte Textur ermöglicht es dem Serum, schnell von der Haut aufgenommen zu werden und seine feuchtigkeitsspendenden Eigenschaften zu entfalten, während es gleichzeitig für ein erfrischtes und belebtes Hautgefühl sorgt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_MYjpLz": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "beruhigend und erfrischend",
+        "title": "Aloe Vera",
+        "text": "<p>Aloe Vera ist eine wertvolle Zutat in unserem Hyaluronserum, da es beruhigende und feuchtigkeitsspendende Eigenschaften besitzt. Aloe Vera wirkt entzündungshemmend und beruhigt gereizte Haut, während sie gleichzeitig intensiv mit Feuchtigkeit versorgt wird. Die Kombination von Aloe Vera und Hyaluronsäure verstärkt die feuchtigkeitsspendende Wirkung des Serums und hilft, die Haut geschmeidig, hydratisiert und ausgeglichen zu halten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a2d5c94a31694f529de697b0a83f34b1.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pentylene_Glycol.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "smarte konservierung",
+        "title": "Pentylene Glycol",
+        "text": "<p>Pentylene Glycol ist eine feuchtigkeitsspendende Verbindung, die in Kosmetikprodukten häufig als Lösungsmittel, Feuchthaltemittel und Konservierungsmittel verwendet wird. In unserem Hyaluron-Gesichtsserum dient Pentylene Glycol dazu, Feuchtigkeit in der Haut zu binden und die Wirksamkeit anderer Inhaltsstoffe zu verbessern. Es trägt dazu bei, die Haut mit Feuchtigkeit zu versorgen und sie geschmeidig zu halten, während es gleichzeitig dazu beiträgt, die Stabilität des Serums zu erhalten, indem es das Wachstum von Mikroorganismen hemmt. Somit unterstützt Pentylene Glycol die Gesamtformulierung des Serums und sorgt dafür, dass es seine feuchtigkeitsspendenden Eigenschaften optimal entfalten kann.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist Hyaluron und wie funktioniert es?",
+            "text": "<p>Hyaluronsäure ist eine natürliche Substanz in der Haut, die Feuchtigkeit bindet und für Volumen und Elastizität sorgt. Unser Serum enthält hoch- und niedermolekulares Hyaluron, das in unterschiedliche Hautschichten eindringt und dort Feuchtigkeit speichert.<\/p><p><\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Für welchen Hauttyp ist das Serum geeignet?",
+            "text": "<p>Unser Hyaluronserum ist für alle Hauttypen geeignet, einschließlich trockener, empfindlicher, öliger und zu Akne neigender Haut.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich das Serum anwenden?",
+            "text": "<p>Du kannst das Serum morgens und abends verwenden. Trage es nach der Reinigung und vor der Feuchtigkeitscreme auf.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Serum unter Make-up verwenden?",
+            "text": "<p>Ja, das Serum eignet sich hervorragend als Make-up-Grundlage. Lasse es vor dem Auftragen von Make-up einige Minuten einwirken.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Ist das Serum vegan und tierversuchsfrei?",
+            "text": "<p>Ja, unser Hyaluronserum, wie alles bei puremetics, ist zu 100 % vegan und tierversuchsfrei hergestellt.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange dauert es, bis ich Ergebnisse sehe?",
+            "text": "<p>Die Ergebnisse können je nach Hauttyp variieren, aber viele unserer Kunden berichten bereits nach der ersten Anwendung von einem spürbar hydriertem Effekt und nach kurzer Anwendungsdauer von strafferer Haut.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Serum mit anderen Hautpflegeprodukten kombinieren?",
+            "text": "<p>Ja, das Serum kann problemlos mit anderen Hautpflegeprodukten wie Feuchtigkeitscremes, Sonnencremes und Gesichtsölen kombiniert werden.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält eine Flasche des Serums?",
+            "text": "<p>Die Haltbarkeit einer Flasche hängt von der Häufigkeit der Anwendung ab, aber in der Regel sollte eine Flasche bei regelmäßiger Anwendung 2x täglich mit 0,5 ml etwa drei Monate lang halten.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Serum auch auf anderen Körperpartien verwenden?",
+            "text": "<p>Ja, das Serum kann auch auf anderen Körperpartien wie Hals, Dekolleté und Händen angewendet werden, um die Haut dort zu hydratisieren und zu pflegen.<\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Serum auch während der Schwangerschaft und Stillzeit verwenden?",
+            "text": "<p>Ja, unser Hyaluronserum ist sicher während der Schwangerschaft und Stillzeit anzuwenden. Es enthält keine schädlichen Inhaltsstoffe und ist sanft zur Haut. Dennoch empfehlen wir, vor der Verwendung während der Schwangerschaft oder Stillzeit Ihren Arzt oder Ihre Ärztin zu konsultieren, um sicherzustellen, dass alle Produkte für dich persönlich geeignet sind.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_p4Kcxj",
+        "question_wMaDab"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"Hylauronserum\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "das beste für deine haut und deine Umwelt",
+        "text": "<p>Gesichtsseren sind für viele Menschen ein absolutes Must-Have in der Pflegeroutine und das aus gutem Grund. Leider sehe ich noch viel zu häufig Seren, die in Einwegplastik verpackt sind, obwohl das überhaupt nicht sein muss.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unser Serum kommt in einer Glasflasche mit einem Naturkorken daher. Die Verwendung von Glas statt Kunststoff reduziert die Umweltbelastung durch Plastik und ermöglicht das Recycling und die Wiederverwendung der Flasche. Glas ist zudem eine umweltfreundliche Verpackungsalternative, da es weder Schadstoffe abgibt noch die Qualität des Inhalts beeinträchtigt. Der Naturkorken, der die Flasche verschließt, ist ebenfalls eine nachhaltige Wahl. Kork wird aus der Rinde der Korkeiche gewonnen, ohne den Baum zu schädigen, da die Rinde nachwächst. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Seren wirken übrigens besser, wenn die haut gut gereinigt ist. das passt optimal dazu!",
+        "home_featured_products": "gesichtsseifen",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_G8efbn",
+    "background_video_text_MYjpLz",
+    "text_and_image_aQ6RB3",
+    "text_with_icons_MK3AR6",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

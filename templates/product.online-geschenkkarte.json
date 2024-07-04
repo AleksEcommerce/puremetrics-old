@@ -1,0 +1,268 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Sofortiger Versand via E-Mail!"
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Perfekt! Kommt sofort per E-Mail zum Ausdrucken. Für Leute die Geschenke auf den letzten Drücker kaufen *hust* perfekt!\" - Walter W. via Trusted Shops"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "896cfdc2-1755-4f0e-a369-6db551ec6ea9": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "8886bd3a-94e9-47d8-a2c5-03edeba1222f": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "1520ed8a-b7f9-426c-b38e-dbe1d83708c8": {
+          "type": "tab",
+          "settings": {
+            "title": "Hinweise",
+            "content": "<p>Das aktuelle Guthaben des Gutscheins kann per Abfrage mitgeteilt werden. Hierzu bitte eine E-Mail an shop@puremetics.de senden.<strong> <\/strong><\/p><p>Der Gutschein kann auch mit weiteren Gutscheinen und Rabattcodes kombiniert werden. Eine Barauszahlung des Betrags ist nicht möglich. <\/p><p>Nur einlösbar auf www.puremetics.de Nicht rabattier-fähig. <\/p><p>Guthabenwert der Geschenkkarte zählt nicht in den Warenwert für Gratisversand, sondern erst bei Einlösung!<\/p>",
+            "page": ""
+          }
+        },
+        "e4c044c3-0f6a-4c8c-ba00-f3ceb88184b9": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "811e39a4-d652-4d65-886f-83e764bf8129": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "variant_picker",
+        "896cfdc2-1755-4f0e-a369-6db551ec6ea9",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "8886bd3a-94e9-47d8-a2c5-03edeba1222f",
+        "1520ed8a-b7f9-426c-b38e-dbe1d83708c8",
+        "e4c044c3-0f6a-4c8c-ba00-f3ceb88184b9",
+        "811e39a4-d652-4d65-886f-83e764bf8129"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Wusstest du schon",
+        "title": "was unsere maske so besonders macht?",
+        "text": "<p>Spezifischer Text zum Produkt und deren inhaltsstoffen<\/p><p><br\/><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/person-looks-forward-with-the-shadow-of-a-leaf-on-their-face.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/water-droplets-on-green.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "dEin gamechanger",
+        "title": "Grüntee Extrakt",
+        "text": "<p>Krasstesten Inhaltsstoff raussuchen und vorteile präsentieren<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1632474474f277930f": {
+      "type": "faq",
+      "blocks": {
+        "1632474474f277930f-0": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "1632474474f277930f-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1632474474f277930f-0",
+        "1632474474f277930f-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "background-image-text",
+    "text-and-image",
+    "1632474474f277930f",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

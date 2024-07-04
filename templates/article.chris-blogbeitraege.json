@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "text_and_image_J6PcVF": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_09_Chris_Cosma_puremetics_GmbH.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris Cosma",
+        "title": "Über den Autor",
+        "text": "<p>Chris Cosma, geboren 1990 in Wolfenbüttel, ist der CEO und Mitbegründer von puremetics. Der passionierte Unternehmer hat seinen Wohnsitz in Hannover. Sein Studium konzentrierte sich auf Public Relations, was ihm die notwendigen Kenntnisse in Kommunikation und strategischem Denken verlieh.<br\/><br\/>Nach seinem Studium machte Chris Cosma seine Leidenschaften zum Beruf, indem er sich auf Kosmetik und Natur spezialisierte. Diese Entscheidung führte zur Gründung von puremetics, einem Unternehmen, das sich auf natürliche Kosmetikprodukte spezialisiert hat. Chris' Vision und Engagement tragen dazu bei, nachhaltige und umweltfreundliche Schönheitsprodukte zu schaffen, die gleichzeitig effektiv und ansprechend sind.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "cf007cf9-26f0-489c-8185-50bc419b06c7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18074176323850__cf007cf9-26f0-489c-8185-50bc419b06c7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Andere Leser:innen interessierten sich auch für..."
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176323850__cf007cf9-26f0-489c-8185-50bc419b06c7-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Clean beauty",
+        "blog": "beauty",
+        "post_limit": 9,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "84292416-5932-4c7a-8954-79e01982d531": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "clean food",
+        "blog": "rezepte",
+        "post_limit": 9,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "5d1b46fe-de25-4197-9bee-04394a636be5": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "clean living",
+        "blog": "umwelt-facts-news",
+        "post_limit": 9,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_and_image_J6PcVF",
+    "cf007cf9-26f0-489c-8185-50bc419b06c7",
+    "blog-posts",
+    "84292416-5932-4c7a-8954-79e01982d531",
+    "5d1b46fe-de25-4197-9bee-04394a636be5"
+  ]
+}

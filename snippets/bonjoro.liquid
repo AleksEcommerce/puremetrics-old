@@ -1,0 +1,12 @@
+{% assign app_id = "a:1hflu7fpn000006pbou62iq9raiknl2k" %}
+{% assign identity_secret = "0f230d65-28bd-41dc-bd3f-b0a60d091b4f" %}
+{% if customer.email != Nil %}
+  {% assign user_hash = customer.email | hmac_sha256: identity_secret %}
+  <script src="https://static.bonjoro.com/js/v1/bonjoro.js" defer></script>
+  <script>
+    (()=>{"use strict";(()=>{var o;const n=function(){n.q.push(arguments)};n.q=[],null!==(o=window.bonjoro)&&void 0!==o||(window.bonjoro=n)})()})();
+
+    bonjoro('create', '{{ app_id }}');
+    bonjoro('identify', '{{ customer.email }}', { userHash: '{{ user_hash }}' });
+  </script>
+{% endif %}

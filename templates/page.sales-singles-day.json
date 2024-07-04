@@ -1,0 +1,262 @@
+{
+  "sections": {
+    "1636533499949a17ef": {
+      "type": "slideshow",
+      "blocks": {
+        "1636533499949a17ef-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 52,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Puremetics_Fragezeichenbox-1-2.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1636533499949a17ef-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1636533582daa8ef9b": {
+      "type": "rich-text",
+      "blocks": {
+        "1636533582daa8ef9b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Lust auf ein Blind-Date? 😏"
+          }
+        },
+        "1636533582daa8ef9b-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Heute ist <strong>Singles' Day<\/strong>! Was ist da passender, als ein Date mit dir selbst? Schenk dir Me-Time und feiere dich!<strong>🥳<\/strong><\/p><p>Wir haben nur heute zwei <strong>Blind-Date-Überraschungssets<\/strong> für dich, bei denen du <strong>bis zu 30% sparen<\/strong> und vielleicht deine neuen Lieblingsprodukte entdecken kannst.<\/p><p>Damit das mit euch garantiert ein Match wird und du nicht ganz blind aufs Date gehst, verraten wir dir auch schon ein bisschen was zum Inhalt. 🤫<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636533582daa8ef9b-0",
+        "1636533582daa8ef9b-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16365575192b01c3ce": {
+      "type": "advanced-content",
+      "blocks": {
+        "16365575192b01c3ce-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"text-align: center\">\n<img src=\"http:\/\/i.countdownmail.com\/qobms.gif\" style=\"display:inline-block!important;width:90%!important;max-width:222px!important;\" border=\"0\" alt=\"countdownmail.com\"\/>\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16365575192b01c3ce-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1636578957de8ca28c": {
+      "type": "rich-text",
+      "blocks": {
+        "1636578957de8ca28c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>🚨Achtung: Die Sets sind nur heute verfügbar und streng limitiert. Schnell sein lohnt sich also!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636578957de8ca28c-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "163653358610607f16": {
+      "type": "featured-product",
+      "blocks": {
+        "163653358610607f16-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "163653358610607f16-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "704d7a60-abb4-4297-aecd-798e10ff79ac": {
+          "type": "text",
+          "settings": {
+            "text": "In diesem Set erwarten dich auf jeden Fall unser 3in1 Dusch-Fluff 'Mandelmilch' mit Zuckerpeeling und unsere Deko-Box 'Small'.  Bist du bereit für 3 weitere Überraschungen? 🥰"
+          }
+        },
+        "163653358610607f16-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "de99d5d7-24ed-485c-a3bd-f09027da3672": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "163653358610607f16-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "163653358610607f16-0",
+        "163653358610607f16-1",
+        "704d7a60-abb4-4297-aecd-798e10ff79ac",
+        "163653358610607f16-2",
+        "de99d5d7-24ed-485c-a3bd-f09027da3672",
+        "163653358610607f16-3"
+      ],
+      "settings": {
+        "featured_product": "uberraschungsset-kleines-blind-date",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1636533619973a78b4": {
+      "type": "featured-product",
+      "blocks": {
+        "fcdd16e5-2dc1-4f19-a04a-394ee3d805b9": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "1636533619973a78b4-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1636533619973a78b4-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1636533619973a78b4-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "cf6a8826-fba4-4ee1-802f-cd9480ad9b59": {
+          "type": "text",
+          "settings": {
+            "text": "In diesem Set erwarten dich auf jeden Fall die Peel-Off-Maske 'Anti-Aging: Mit Hyaluron' und unsere Deko-Box 'Large'. Freu dich auf sechs weitere Überraschungen...🤍"
+          }
+        },
+        "1636533619973a78b4-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "fcdd16e5-2dc1-4f19-a04a-394ee3d805b9",
+        "1636533619973a78b4-0",
+        "1636533619973a78b4-1",
+        "1636533619973a78b4-2",
+        "cf6a8826-fba4-4ee1-802f-cd9480ad9b59",
+        "1636533619973a78b4-3"
+      ],
+      "settings": {
+        "featured_product": "uberraschungsset-grosses-blind-date",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1636555355ddc159b6": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Keine Lust auf Blind-Dates?",
+        "title": "Hier gehts zu unseren Geschenksets",
+        "text": "",
+        "button_label": "Jetzt entdecken",
+        "button_link": "shopify:\/\/collections\/geschenk-ideen",
+        "image": "shopify:\/\/shop_images\/Duschfluff.jpg",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false
+      }
+    }
+  },
+  "order": [
+    "1636533499949a17ef",
+    "1636533582daa8ef9b",
+    "16365575192b01c3ce",
+    "1636578957de8ca28c",
+    "163653358610607f16",
+    "1636533619973a78b4",
+    "1636555355ddc159b6"
+  ]
+}

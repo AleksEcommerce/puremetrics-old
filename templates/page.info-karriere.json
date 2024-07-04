@@ -1,0 +1,105 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16339415529ac219f6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-draussen_-_Kopie_6dab31e9-984f-4853-9460-5b6377cf4a8f.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Du brauchst einen nachhaltigen Job mit sinn, der dich erfüllt?",
+        "title": "WERDE TEIL DES PUREMETICS-TEAMS!",
+        "text": "<p>Bei puremetics leben wir unsere Philosophie und sind immer auf der Suche nach motivierten Held:innen die unser Team erweitern. Du lebst Nachhaltigkeit und Beauty? Dann freuen wir uns auf deine Bewerbung, auch initiativ! <\/p>",
+        "button_label": "JETZT BEWERBEN",
+        "button_link": "mailto:info@puremetics.de",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1633941964ac1a9206": {
+      "type": "faq",
+      "blocks": {
+        "3f5bdec1-982a-456a-a636-95bd608e71df": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<p>Momentan sind leider keine Stellen zu besetzen. Dies kann sich aber jederzeit ändern. Schaue gerne regelmäßig hier vorbei oder bewirb dich initiativ.<\/p>",
+            "align_text": "center"
+          }
+        },
+        "3afd0cea-d9c3-43da-94dd-6bf72871226f": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Social-Media-, Content- und Community-Talent",
+            "text": "<p><strong>Wir suchen DICH zu Sofort <\/strong><\/p><p>Du brennst für Instagram, TikTok, Facebook und Co und liebst den Dialog mit der<br\/>Community? Du schaust über den Content unserer Kanäle @puremetics und dir fallen direkt neue, pfiffige Ideen ein? Du kennst bessere Worte als „pfiffig“, um tolle Dinge zu beschreiben? Dann haben wir ein Match!<\/p><p>Wir suchen dringend einen kreativen Kopf, der unsere sozialen Kanäle pflegt, mit<br\/>Inhalten füttert und in den Dialog mit unserer puremetics-Community tritt.<\/p><p><\/p><p><strong>Deine Aufgaben: <\/strong><\/p><p>- Du übernimmst unsere <strong>Social-Media-Kanäle<\/strong> (Instagram, Facebook, TikTok und Pinterest)<\/p><p>- Du bist verantwortlich für die <strong>redaktionellePlanung<\/strong>, <strong>Erstellung<\/strong> und <strong>Veröffentlichung<\/strong> von Content<\/p><p>- Du hast alle Social Media<br\/>relevanten <strong>KPIs<\/strong> im Überblick, setzt und verfolgst diesbezüglich deine Ziele<\/p><p>- Als Verantwortliche*r für das <strong>Communitymanagement<\/strong> betreust du unsere aktive Community, baust diese weiter aus und steuerst die damit verbundenen Aktivitäten<\/p><p><\/p><p><strong>Wir bieten dir:<\/strong><\/p><p>- <strong>Willkommensgeschenk:<\/strong> Damit du unsere Produkte ganz in Ruhe ausgiebig testen kannst. <\/p><p>- <strong>Platz für dein Privatleben: <\/strong>Ob Arzttermine, oder andere private Anliegen: Bei uns kommt es auf die Ergebnisse an. Klassisches 9to5 liegt dir nicht? Gestalte deinen Alltag wie er dir passt! Wir sind dabei völlig offen, was Remote und ortsunabhängiges Arbeiten sowie Teilzeitmodelle angeht. 🙂<\/p><p><strong>- Großzügige Team-Rabatte: <\/strong>Auf unser gesamtes Sortiment<\/p><p>- <strong>Kreative Entfaltung: <\/strong>Tob dich aus uns lasse deinen Ideen freien Lauf, wir sind offen für neue Konzepte.<\/p><p>- <strong>Weiterentwicklung:<\/strong> Wir unterstützen dich gerne bei deiner fachlichen und persönlichen Weiterentwicklung. <\/p><p>- <strong>Eine richtig gute Arbeitsatmosphäre: <\/strong>Ein wertschätzender Umgang in unserem Team sorgt für eine harmonische Atmosphäre, in der man sich wohlfühlt. Gerne kochen wir auch mal zusammen oder unternehmen gemeinsam etwas.<\/p><p>- <strong>Ein Job mit Sinn:<\/strong> puremetics steht für eine nachhaltige Lebensweise und kämpft für ein plastikfreies Bad der Zukunft. Mit deiner Arbeit kannst du maßgeblich dazu beitragen, die Probleme von heute gemeinsam mit uns zu lösen.<\/p><p><\/p><p><strong>Haben wirm ein Match!?<\/strong><\/p><p>Dann bewirb dich jetzt! Wir freuen uns, dich kennen zu lernen :)<\/p><p>Am liebsten per Mail an <a href=\"mailto:info@puremetics.de\">info@puremetics.de<\/a> mit einem kurzen, tabellarischen Lebenslauf, deinem frühsten Eintrittstermin sowie deiner Gehaltvorstellung. <\/p><p>Ob Motivationsschreiben oder Video: Bei der Wahl, wie du deinen ersten Eindruck<br\/>bei uns hinterlassen möchtest lassen wir dir freie Hand :)<\/p>"
+          }
+        },
+        "21961124-f299-46f4-810a-d3e582a57aa1": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Sales Manager:in| Beauty & Nachhaltigkeit | Remote möglich",
+            "text": "<p>Du bist tough, kreativ und blühst so richtig auf, wenn du eigenständig arbeiten darfst? Du brennst für die Beauty-Branche und suchst einen Job in dem du deiner Begeisterung freien Lauf lassen kannst? Vertrieb ist deine Leidenschaft und du bist ein Verkaufstalent? Dann bist du bei uns bestens aufgehoben.<br\/><\/p><p><strong>Planung, Durchführung, Kontrolle, Optimierung Repeat<\/strong><\/p><p>Du bist für unseren kompletten Vertrieb selbst verantwortlich: Von der Pflege und Betreuung der Bestandskund:innen, über das Aufbauen eines eigenen Vertriebsnetzwerkes, bis hin zur Erarbeitung neuer Vertriebsansätze legen wir unser Vertrauen in deine Fähigkeiten „Großes“ zu erreichen.<\/p><p>Ein ziemlich weites Aufgabengebiet mit Verantwortung, aber auch eine richtig gute Chance deinem Talent freien Lauf zu lassen, Ideen zwanglos umzusetzen und mit uns zu wachsen.<\/p><p><\/p><p><strong>Dein Aufgabenbereich kurz und knackig:<\/strong><\/p><p>- Du begeisterst Interessent:innen von unseren Produkten und gewinnst sie als neue Kund:innen<br\/>- Du erarbeitest und erschließt neue Vertriebsansätze<br\/>- Du baust eigenständig ein Vertriebsnetzwerk aus Concept Stores, Unverpackt-Läden, Kosmetikstudios, Friseursalons usw. aus<br\/>- Du pflegst bereits bestehende sowie neu dazugewonnene Kund:innenbeziehungen<br\/>- Du präsentierst die Produkte unseren Kund:innen<\/p><p><\/p><p><strong>Dein Profil…<\/strong><\/p><p>Damit das mit uns garantiert ein Match wird, haben wir einige Punkte skizziert, die uns bei dir wichtig sind:<\/p><p>- Abgeschlossene kaufmännische Ausbildung oder ein abgeschlossenes Studium sowie erste Praxiserfahrung in einem relevanten Bereich<br\/>- Sehr gute Deutsch- und Englischkenntnisse, weitere Fremdsprachen sind von Vorteil, aber kein K.O. Kriterium<br\/>- Leidenschaft für Beauty und Nachhaltigkeit<br\/>- Ausgeprägte Kund:innen- und Serviceorientierung<br\/>- Ergebnisorientiert, strukturiert und hohe Eigeninitiative<br\/><\/p><p><strong>…Und unser Profil<\/strong><\/p><p>Natürlich sollst auch du dich bei uns pudelwohl fühlen. Für den ersten Eindruck haben wir auch ein paar Worte zu uns für dich geschrieben:<\/p><p>Wir bieten dir eine Vollzeiteinstellung in unserem modernen Büro in Altwarmbüchen\/Isernhagen.<\/p><p>Unsere Räumlichkeiten sind großzügig bemessen, tageslichtdurchflutet und klimatisiert. In unserer Küche kannst du mittags auch deine kulinarischen Fähigkeiten ausleben wenn dir danach ist. Kalte Softdrinks, Schorlen, Kaffee, Tee und Wasser spendieren wir dir während der Arbeitszeit.<\/p><p>Eigentlich ist es bei uns wie zuhause. Als heranwachsendes Beauty-Imperium haben wir natürlich eine Kosmetik-Bar die du frei nutzen darfst und du erhascht Beauty-Neuheiten und Goodies immer als eine der Ersten!<\/p><p>Und wenn du mal verschlafen hast oder lieber zur Arbeit joggst, kannst du in unseren Kernsanierten Bädern sogar duschen.<\/p><p>Mindestens einmal im Monat, oder wenn etwas Tolles geschehen ist, gehen wir gemeinsam Cocktails trinken und Tapas naschen.<\/p><p>Zudem hast du bei uns die Chance deine Visionen direkt in die Tat umzusetzen, klassische Hierarchien zu umgehen, eigenständig zu arbeiten und mit einem Lächeln ins Office zu kommen. Wenn du magst begleitest du uns zu spannenden Events wie der Fashion Week oder Beauty-Happenings.<br\/><\/p><p><strong>Deine Bewerbung<\/strong><\/p><p>Wenn das alles spannend für dich klingt freuen wir uns schon dich kennenzulernen! Deine Bewerbung möchten wir gerne so erhalten:<\/p><p>· Kurzer tabellarischer Lebenslauf<\/p><p>· ein paar kurze, persönliche Worte zu dir<\/p><p>· Deinen frühestmöglichen Eintrittstermin sowie deine Gehaltsvorstellung<br\/><\/p><p>Du musst dabei nicht im klassischem Rahmen bleiben, sondern darfst gern auch ganz unkonventionell mit deiner Kreativität punkten. Gebe uns direkt einen genauen Eindruck von dir und deinen Skills. : )<\/p><p><br\/><strong>Wir freuen uns auf dich!<\/strong><\/p>"
+          }
+        },
+        "aa244379-82a5-415c-9e88-06c7cd50da40": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Bewirb dich initiativ!",
+            "text": "<p>Aktuell sind keine festen freien Stellen zu belegen. Aber wir lieben & leben unsere Philosophie und sind daher immer auf der Suche nach motivierten Held:innen die unser Team erweitern. Du lebst Nachhaltigkeit und Beauty? Dann freuen wir uns auf deine Initiativbewerbung. :-)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "3f5bdec1-982a-456a-a636-95bd608e71df",
+        "3afd0cea-d9c3-43da-94dd-6bf72871226f",
+        "21961124-f299-46f4-810a-d3e582a57aa1",
+        "aa244379-82a5-415c-9e88-06c7cd50da40"
+      ],
+      "settings": {
+        "title": "Aktuell suchen wir…"
+      }
+    },
+    "16339421189e6490b8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_produktion_2.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/puremetics_produktion_1.jpg",
+        "image2_mask": "none",
+        "subtitle": "plastikfrei, nachhaltig, vegan",
+        "title": "Über Uns",
+        "text": "<p>puremetics mischt die konventionelle Beauty-Industrie auf und sagt Plastik den Kampf an! Unser gesamtes Sortiment ist frei von Plastik, und das von den Inhaltsstoffen über die Verpackung bis hin zum Versand. Wir setzen wir auf recycelte, recycelbare und biologisch abbaubare Verpackungen und haben es uns zur Aufgabe gemacht, die Menschen zu einem nachhaltigeren Leben zu inspirieren, ohne dabei den Finger zu erheben. Nachhaltigkeit soll Spaß machen, Kosmetik muss einfach pure und plastikfrei sein. Bei uns muss sich niemand zwischen Beautyjunkie und Weltretter entscheiden.<\/p>",
+        "button_label": "Erfahre mehr über uns",
+        "button_link": "shopify:\/\/pages\/mission",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16339415529ac219f6",
+    "1633941964ac1a9206",
+    "16339421189e6490b8"
+  ]
+}

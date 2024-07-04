@@ -1,0 +1,410 @@
+{
+  "sections": {
+    "165847578320f00eea": {
+      "type": "promo-grid",
+      "blocks": {
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c": {
+          "type": "banner",
+          "settings": {
+            "heading": "🥥🍓🍊🍍 Streng limitiert und nur für kurze Zeit! 🍍🍊🍓🥥",
+            "text": "Sichere dir die spritzig-fruchtig und frischen Sommer Dusch-Fluffs in vier erfrischenden Sorten",
+            "link": "",
+            "label": "",
+            "color_tint": "#eacb4b",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_Y7w7AT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_UzGVqm": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_DF-LE-Sommer-24_Shop_Banner_B2B_ueberlappender_Button.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_DF-LE-Sommer-24_Shop_Banner_mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_UzGVqm"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_zgKYpF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dtrXfQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Bist du bereit für das ultimative Sommererlebnis unter der Dusche?"
+          }
+        },
+        "text_7N4V9R": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Sommer Limited Edition 3in1 Dusch-Fluffs sind genau das, was du brauchst, um die Sonnenstrahlen in dein Badezimmer zu holen. Mit erfrischenden Düften und einer leichten, luftigen Textur verwandeln sie deine Duschroutine in einen echten Verwöhnmoment. Sie sind ein echtes Multitalent: Reinigung, Peeling und Pflege - alles in einem Fluff! Perfekt für den schnellen Frischekick nach einem Tag am Strand oder beim Sonnenbaden im Garten. <\/p><p>🥥🍓🌞🍊🍍🌴💦🥝<\/p><p><strong>Unsere 3in1 Dusch-Fluffs sind vollgepackt mit hochwertigen Inhaltsstoffen, die deine Haut verwöhnen und pflegen. Wieso der 3in1 Dusch-Fluff ganz besonders im Sommer Einiges für deine Sommermärchenhaut tun kann, erklären wir dir weiter unten <\/strong>🥰<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dtrXfQ",
+        "text_7N4V9R"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "bbe5f063-0262-42c4-87e9-5869e91ae5f5": {
+      "type": "promo-grid",
+      "blocks": {
+        "fe105bf5-22da-4143-aee0-445a36d8c03c": {
+          "type": "banner",
+          "settings": {
+            "heading": "😎😍 ODER noch BESSER: DIREKT DAS SET MIT ALLEN FLAVOURS bestellen! 😍😎",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "#eacb4b",
+            "color_tint_opacity": 14,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "fe105bf5-22da-4143-aee0-445a36d8c03c"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 2,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "2fb3dab4-19a0-4fe0-b788-2e99108f88e2": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "aa84023b-fb60-444a-b795-61a0d2410674": {
+          "type": "text",
+          "settings": {
+            "text": "✔  Alle limitierten Flavours in einem Set!<br>✔ Duschen, Cremen und Peelen in einem Schritt!<br>✔  Flieder, Frühlingsgarten und Lindenblüte<br><br>Vereine die tägliche Körperreinigung mit einem sanften Peeling und einem olfaktorischen Erlebnis! Edles Kokosöl pflegt deine Haut schon während des Duschens und versorgt sie mit Feuchtigkeit, ohne zu fetten! So sparst du dir das Eincremen. Zuckerpartikel befreien deinen Körper von alten Hautzellen und sorgen für himmlische Geschmeidigkeit.<br><br>"
+          }
+        },
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "322c540f-63b7-4f04-afe2-bfdae13514c0": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "GRATIS VERSAND!"
+          }
+        },
+        "699709e1-6c28-4579-9033-cdc43a968a53": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-0",
+        "aa84023b-fb60-444a-b795-61a0d2410674",
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-3",
+        "322c540f-63b7-4f04-afe2-bfdae13514c0",
+        "699709e1-6c28-4579-9033-cdc43a968a53"
+      ],
+      "settings": {
+        "featured_product": "3in1-dusch-fluff-set-sommer-editionen",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_AqQ7nX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8fT494": {
+          "type": "heading",
+          "settings": {
+            "title": "5 gute Gründe warum der 3in1 Dusch-Fluff dein Sommermärchen wird"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8fT494"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_eXMdcA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Listacle_Dusch-Fluff_Konventionelles-vs-Dusch-Fluff_Vergleich.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 1",
+        "title": "Keine schwitzig-nasse und klebrige haut mehr!",
+        "text": "<p>Wer kennt es nicht? Nach dem Duschen fühlt sich die Haut schwer, schwitzig und klebrig an, und die Kleidung haftet unangenehm. Besonders im Sommer ist das nervig. Aber keine Sorge, es gibt eine Lösung: unsere 3in1 Dusch-Fluffs! Während du duschst, wird deine Haut bereits mit reichlich Feuchtigkeit versorgt und gepflegt – ohne fettigen Film. Kein Kleben, kein Schwitzen, einfach pure Erfrischung und Pflege. Sag \"Auf Wiedersehen\" zu klebriger Haut und \"Hallo\" zu einem erfrischenden Duscherlebnis. Mit unseren 3in1 Dusch-Fluffs wird deine Haut geschmeidig und strahlend – perfekt, um den Sommer zu genießen!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_bbV3cL": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Listacle_Dusch-Fluff_Braeune_vor-und-nach-DF.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 2",
+        "title": "Gleichmäßigere und intensivere Bräune",
+        "text": "<p>Im Sommer streben wir alle nach einem herrlichen, sonnengeküssten Teint, aber Sonnencreme und abgestorbene Hautzellen können den Bräunungsprozess stören. Hier kommt unser 3in1 Dusch-Fluff ins Spiel! Sein sanftes Peeling entfernt abgestorbene Hautzellen und befreit verstopfte Poren, sodass deine Haut frisch und bereit für eine gleichmäßige Bräune ist. Regelmäßiges Peeling reduziert Unreinheiten und minimiert Pickel. Genieße ein erfrischendes Duscherlebnis und eine strahlende, ebenmäßige Bräune mit unserem 3in1 Dusch-Fluff!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_ytCKjy": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Listacle_Dusch-Fluff_Talgbildung-Haut.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 3",
+        "title": "Unreinheiten durch Sonnencreme vorbeugen",
+        "text": "<p>Besonders im Sommer entstehen viele kleine Pickelchen und Unterlagerungen durch vermehrte Talgproduktion und verstopfte Poren, bedingt durch Sonnencreme, Schwitzen und Reibung der Kleidung. Der 3in1 Dusch-Fluff bietet hier eine wirksame Lösung. Sein sanftes Peeling entfernt abgestorbene Hautzellen und Schmutzpartikel gründlich, wodurch verstopfte Poren vermieden werden. Das hilft, Unreinheiten zu reduzieren. Mit dem 3in1 Dusch-Fluff reinigst und pflegst du deine Haut effektiv, für einen klareren und ebenmäßigeren Teint ohne lästige Unreinheiten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_eLDC8c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zeichenflaeche_5.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 4",
+        "title": "Verbesserte Hydration der Haut",
+        "text": "<p>Im Sommer ist der Feuchtigkeitsverlust der Haut besonders hoch, da die Hitze und verstärktes Schwitzen die Haut schneller austrocknen lassen. Zudem führen häufiges Baden und Duschen sowie die Nutzung von Klimaanlagen dazu, dass der natürlichen Feuchtigkeitsbarriere der Haut wichtige Lipide entzogen werden. Unser 3in1 Dusch-Fluff hilft, die Haut besser zu hydrieren, indem er während der Dusche gleichzeitig reinigt, peelt und mit reichhaltigen, feuchtigkeitsspendenden Inhaltsstoffen versorgt. So wird die Haut intensiv gepflegt und bleibt trotz der Sommerhitze geschmeidig und gut durchfeuchtet.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_8ipNGA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3in1_Dusch-Fluff_Sommer_24_Grund_5_UNTERSTUeTZT_DIE_NATUeRLICHE_HAUTBARRIERE.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 5",
+        "title": "Unterstützt die natürliche Hautbarriere",
+        "text": "<p>Häufiges Baden, Sonneneinstrahlung und Sonnencreme können die Hautbarriere schädigen. Baden und Duschen entfernen natürliche Öle, die die Hautfeuchtigkeit aufrechterhalten. Sonneneinstrahlung trocknet die Haut aus und baut Lipide ab, während Sonnencreme Rückstände hinterlässt, die Poren verstopfen. Unser 3in1 Dusch-Fluff kombiniert Duschgel, Peeling und Lotion, reinigt sanft und entfernt abgestorbene Hautzellen. Die feuchtigkeitsspendenden Inhaltsstoffe unterstützen die Regeneration der Hautbarriere und versorgen die Haut mit wichtigen Lipiden und Feuchtigkeit.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_f63037f0-cb8f-452a-8243-b4e9b7e1ad12.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Chris Cosma (CEO & Co-Founder)",
+        "title": "Diese Freuden waren meine Inspiration",
+        "text": "<p><em>Der Sommer ist eine wunderbare Jahreszeit, meine lieblings Zeit, in der wir uns in der Natur erfreuen und die frische Luft in vollen Zügen genießen können. Die Tage sind länger, wir sind mehr draußen und unter Freunden. Es schwingt ein ganz besonderer Vibe, der unsere Sinne erhellt. Alles scheint fröhlicher, Sorgen plötzlich unwichtiger.<\/em><\/p><p>Als Liebhaber des Sommers und seiner Aromen war es mir ein Anliegen, eine Kollektion zu kreieren, die die Leichtigkeit, die Frische und die pure Freude des Sommers einfängt.<br\/><br\/>Erdbeere, Pink Grapefruit und Coconut Cream waren in den vergangenen Jahren die absoluten Favoriten und ich kann verstehen, warum. Die süße Frische der Erdbeere, die prickelnde Fruchtigkeit der Pink Grapefruit und die cremige Exotik der Coconut Cream erinnern mich jedes Mal an warme Sonnentage und laue Sommerabende. Auf vielfachen Wunsch haben wir beschlossen, diese Düfte für die Sommer Edition 2024 erneut aufzulegen, um ihren unverwechselbaren Charme erneut zu erleben. <\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_VD3ACH": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Chris_etikettiert_Sommer_Dusch-Fluffs.gif",
+        "image2_mask": "rounded",
+        "subtitle": "Bewährte Lieblinge",
+        "title": "und ein neuzugang",
+        "text": "<p>Doch wir wollten auch etwas Neues hinzufügen, um die Kollektion zu bereichern. Daher haben wir uns entschieden, den brandneuen Duft \"Tropical\" zu kreieren. \"Tropical\" ist eine erfrischende Mischung aus sonnengereiften Sommerfrüchten, die an exotische Strände und türkisblaue Meere erinnern. Die süße Ananas, die saftige Mango und die spritzige Passionsfrucht verleihen diesem Duft eine unwiderstehliche Frische und eine lebendige Leichtigkeit, die perfekt zum Sommer passt.<br\/><br\/>Mit unserer Sommer Edition 2024 der 3in1 Dusch-Fluffs möchten wir dir ein Stück Sommerglück und eine Prise Tropenparadies direkt in dein Badezimmer bringen. Genieße jeden Moment und lassen dich sich von unseren erfrischenden Düften in die wunderbare Welt des Sommers entführen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Du liebst fruchtige und exotische Düfte? Dann haben wir noch viel mehr spannende Highlights für dich",
+        "home_featured_products": "fruchtige-und-exotische-dufte",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "165847578320f00eea",
+    "collection-header",
+    "slideshow_Y7w7AT",
+    "rich_text_zgKYpF",
+    "main-collection",
+    "bbe5f063-0262-42c4-87e9-5869e91ae5f5",
+    "2fb3dab4-19a0-4fe0-b788-2e99108f88e2",
+    "rich_text_AqQ7nX",
+    "text_and_image_eXMdcA",
+    "text_and_image_bbV3cL",
+    "text_and_image_ytCKjy",
+    "text_and_image_eLDC8c",
+    "text_and_image_8ipNGA",
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34",
+    "text_and_image_VD3ACH",
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba"
+  ]
+}

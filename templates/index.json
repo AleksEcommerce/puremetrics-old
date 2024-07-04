@@ -1,0 +1,736 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "f1dfd076-d7e8-4246-be5f-e7f76ee2928a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18166264037642__f1dfd076-d7e8-4246-be5f-e7f76ee2928a-image-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "Bereit für den Sommer?",
+            "title": "3in1 Dusch-Fluff",
+            "title_size": 73,
+            "subheading": "Für samtweiche Haut und einen strahlenden Teint",
+            "link": "https:\/\/puremetics.de\/collections\/bestseller\/products\/3in1-dusch-fluff-mandelmilch",
+            "link_text": "JETZT ENTDECKEN",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ff6d6d",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_Shop-Banner_Neutral_DF-Mandelmilch.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Shop-Banner_Neutral_Mandel_Mobile_743bd5cb-3416-4379-93fb-6ecab2a3c6f5.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "template--18166264037642__f1dfd076-d7e8-4246-be5f-e7f76ee2928a-image-2": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 68,
+            "subheading": "",
+            "link": "https:\/\/puremetics.de\/collections\/3in1-dusch-fluffs-limitierte-sommereditionen",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ff004e",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_DF-LE-Sommer-24_Shop_Banner_B2B_ueberlappender_Button_7849693d-64ba-4e04-9f6e-f54915d81558.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_DF-LE-Sommer-24_Shop_Banner_mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "ce5f2118-1c55-43d7-ad9f-82173816d917": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/duschies-landingpage",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e70067",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Duschies_Shop_Banner_Restock_desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Duschies_Shop_Banner_Restock_mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--18166264037642__f1dfd076-d7e8-4246-be5f-e7f76ee2928a-image-1",
+        "template--18166264037642__f1dfd076-d7e8-4246-be5f-e7f76ee2928a-image-2",
+        "ce5f2118-1c55-43d7-ad9f-82173816d917"
+      ],
+      "custom_css": [
+        ".slideshow__slide--template--18166264037642__f1dfd076-d7e8-4246-be5f-e7f76ee2928a-image-1 .btn {color: white !important;}"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "d7acd33f-1327-4017-83ec-32e0fa0c3694": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Presse_logos_Beige_03.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "d7acd33f-1327-4017-83ec-32e0fa0c3694"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "f4a55bd3-6349-4bc1-be2d-a1fd1c6caaac": {
+      "type": "discount-promotion",
+      "blocks": {
+        "template--18166264037642__f4a55bd3-6349-4bc1-be2d-a1fd1c6caaac-promotion-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/puremetics_Jubilaeum_2024_Shop_3fuer2_Erklaerung_01_5fb3fde8-b928-435b-b37b-54a04c23ff22.jpg",
+            "image_width": 400,
+            "text": "",
+            "text_color": "#ffffff",
+            "text_bg": "#cc3230"
+          }
+        },
+        "promotion_NM6akD": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/puremetics_Jubilaeum_2024_Shop_3fuer2_Erklaerung_02_97223aec-9669-4d1d-9176-75e5e0455c2c.jpg",
+            "image_width": 400,
+            "text": "",
+            "text_color": "#000000",
+            "text_bg": "#18d371"
+          }
+        },
+        "promotion_ezAFkn": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/puremetics_Jubilaeum_2024_Shop_3fuer2_Erklaerung_03.jpg",
+            "image_width": 400,
+            "text": "",
+            "text_color": "#000000",
+            "text_bg": "#18d371"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166264037642__f4a55bd3-6349-4bc1-be2d-a1fd1c6caaac-promotion-1",
+        "promotion_NM6akD",
+        "promotion_ezAFkn"
+      ],
+      "disabled": true,
+      "settings": {
+        "new_version": false,
+        "sub_heading": "",
+        "heading": "🥰 Herzlichen Dank für deine Treue und Unterstützung! 🙏",
+        "text": "<p>Vier unglaubliche Jahre sind vergangen, seit wir unsere Reise begonnen haben, um dir nachhaltige, umweltfreundliche und liebevoll hergestellte Pflegeprodukte anzubieten. Von Anfang an war es unser Ziel, einen positiven Unterschied in der Welt zu machen – für dich und unseren Planeten. Heute möchten wir innehalten und dir von Herzen danken. Dein Vertrauen, deine Unterstützung und die Liebe, die wir von dir erhalten, haben uns geholfen, zu wachsen und unsere Mission voranzutreiben.\n\nAls Zeichen unserer Wertschätzung und um unser 4-jähriges Bestehen gebührend zu feiern, haben wir etwas Besonderes vorbereitet: Eine fantastische \"3 für 2\"-Aktion! Kauf drei Artikel deiner Wahl, und der Preis des günstigsten fällt für dich weg. \n\nCode: KONFETTI<\/p>",
+        "btn_text": "",
+        "btn_url": "",
+        "heading_size": 43,
+        "text_size": 20
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Die Lieblingsprodukte unserer Community",
+        "home_featured_products": "bestseller",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Nachhaltige Kosmetik für Weltretter:innen und Beautyjunkies<\/strong><\/p>"
+          }
+        },
+        "d1eed423-9a7c-401b-bc17-65c86d739761": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir bieten dir 100% plastikfreie und vegane Kosmetik mit hochwertigen Inhaltsstoffen. <br\/>Verwöhne dich und deine Umwelt mit effektiven Beautyalternativen.<\/p><p>Denn wir entscheiden uns nicht zwischen Nachhaltigkeit und Qualität. Wir verbinden sie!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "d1eed423-9a7c-401b-bc17-65c86d739761"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "4d222403-195d-40dd-af53-6847ebae7407": {
+      "type": "rich-text",
+      "blocks": {
+        "5b275d23-800f-42a2-96b0-ac82bb712777": {
+          "type": "heading",
+          "settings": {
+            "title": "NEU BEI PUREMETICS? DANN HABEN WIR GENAU DAS RICHTIGE FÜR DICH!"
+          }
+        }
+      },
+      "block_order": [
+        "5b275d23-800f-42a2-96b0-ac82bb712777"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "73cf2976-e802-43eb-9cf2-f3cae3e81c57": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "66603ba8-4129-45bb-b5e2-fac4789cef9a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "heart",
+            "text": "Natürliche Pflege für samtweiche Haut ✨"
+          }
+        },
+        "16066421-fab9-4b37-8895-be536d4154e3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "Zero-Waste + 100% Plastikfrei 🌍"
+          }
+        },
+        "037aebd7-3dca-4c1a-bb6c-23afa611e5bd": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Dein perfekter Start in ein plastikfreies Bad  🛀"
+          }
+        },
+        "928a2b1f-c46a-4c9a-9831-50aed37e70bf": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "GRATIS VERSAND 📦"
+          }
+        },
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-description-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-price-1",
+        "66603ba8-4129-45bb-b5e2-fac4789cef9a",
+        "16066421-fab9-4b37-8895-be536d4154e3",
+        "037aebd7-3dca-4c1a-bb6c-23afa611e5bd",
+        "928a2b1f-c46a-4c9a-9831-50aed37e70bf",
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-description-1",
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-variant_picker-1",
+        "template--18074176553226__73cf2976-e802-43eb-9cf2-f3cae3e81c57-buy_buttons-1"
+      ],
+      "settings": {
+        "featured_product": "tester-set-von-kopf-bis-fuss",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "a1e9c89a-97a0-4875-b4dd-cf7329760ebb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/230711_PETA-VeganAward_Beauty_2023-SocialMediaTeaser_1200px.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "puremetics hat",
+        "title": "gewonnen!",
+        "text": "<p>Voller Freude können wir euch mitteilen, dass <strong>puremetics Gewinner beim PETA VEGAN AWARD 2023<\/strong> <strong>im Bereich Beauty<\/strong> ist! Wir haben eure liebste Kategorie, die 3in1 Dusch-Fluffs ins rennen geschickt und konnten damit ebenfalls die Jury überzeugen.<\/p>",
+        "button_label": "Mehr erfahren",
+        "button_link": "shopify:\/\/pages\/peta-award-beauty",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Shopify_Das-Versprechen_2023_b5fa97f8-a9b6-49ad-89fa-7dc9f74b2e15.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Shopify_Das-Versprechen_2023_mobil_5c5ee4bc-c0d0-42a3-9a13-81825f757832.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "e70166c4-fef2-4e37-a0cf-886ba518e89d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Spare mehr als 20% mit unseren Essential-Deals",
+        "home_featured_products": "spar-sets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "65076a3c-28de-440e-82af-8616857bace4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Header.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "#saveouroceans",
+        "title": "JEDE BESTELLUNG ZÄHLT!",
+        "text": "<p>Gemeinsam können wir so viel erreichen! <strong>Für deine Bestellung<\/strong> bergen wir zusammen mit Cleanhub <strong>ein ganzes Kilo Plastikmüll<\/strong> aus Küstenregionen, bevor dieser in unsere Meere gelangt. So konnten wir mit Hilfe unserer Community die Weltmeere schon vor tonnenweise Plastikmüll schützen!<\/p>",
+        "button_label": "Mehr erfahren",
+        "button_link": "https:\/\/puremetics.cleanhub.com\/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "blocks": {
+        "1d821e58-0310-4e0c-9233-9e93d3d40be5": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "20% Rabatt für dich und deine Liebsten",
+            "textarea": "Sammle ab sofort wertvolle purepoints und erhalte Rabatte und gratis Produkte",
+            "cta_text1": "Mehr erfahren",
+            "cta_link1": "shopify:\/\/pages\/reward",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Website_Grid-01.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#ffffff",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "0fb1ecd7-7035-47e2-99ff-cbc560f3399c": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "FEEL-GOOD GARANTIE",
+            "textarea": "Wir sind so sicher, dass Du Deine puremetics Produkte lieben wirst, dass wir dir den vollen Kaufpreis zurückerstatten, falls du nicht 100%ig zufrieden bist!",
+            "cta_text1": "Mehr erfahren",
+            "cta_link1": "https:\/\/puremetics.de\/pages\/100-zufriedenheitsgarantie",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_chris_und_chido.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 260,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#ffffff",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "1d821e58-0310-4e0c-9233-9e93d3d40be5",
+        "0fb1ecd7-7035-47e2-99ff-cbc560f3399c"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "f3956048-7474-42f4-83d0-ed50c7fbc8bf": {
+      "type": "promo-grid",
+      "blocks": {
+        "310273c8-cb43-4188-8352-ffb60a3b03b6": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "So viel Plastikmüll konnte   durch eure Bestellungen geborgen werden",
+            "heading": "105.449 KG",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Kein_Titel_600_x_150_px_200_x_2852_px_2852_x_200_px_2852_x_300_px.png",
+            "video_url": "",
+            "width": "100",
+            "height": 140,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "310273c8-cb43-4188-8352-ffb60a3b03b6"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "3b10b5bd-642b-45fa-b8e5-c7e24b779848": {
+      "type": "testimonials",
+      "blocks": {
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Absolut begeistert!<\/strong><\/p><p>Seitdem ich die Shampoo Pulver von puremetics versende sind meine Haare, griffiger, strahlender und schöner denn je. Der tolle und frische Duft  und die Inhaltsstoffe haben mich sofort begeistert und bieten eine tolle Pflege für Haar und Kopfhaut.<\/p>",
+            "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Isabel.jpg",
+            "author": "Isabel K.",
+            "author_info": "Shampoo-Pulver Macadamia Orange"
+          }
+        },
+        "cce30a99-b36b-4745-a35a-eb45e806760b": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Frisch und Gepflegt<br\/><\/strong>Das Rosenwasser kann was es verspricht. Ich nutze es gerne abends zur Gesichtsreinigung und fühle mich danach richtig frisch und gepflegt. <\/p>",
+            "image": "shopify:\/\/shop_images\/Kathi.jpg",
+            "author": "Kathi W.",
+            "author_info": "Beautyallrounder Rosenwasser"
+          }
+        },
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Einfach Klasse! Daumen hoch!<br\/><\/strong>Die Idee mit dem Duschgel in dieser Form beruhigt nicht nur mein<br\/>Gewissen, sondern ist eines der besten Pflegeprodukte, die ich je hatte. Absolute Weiterempfehlung! Finde es immer klasse wenn junge Menschen so tolle Ideen haben. Weiter so. Ich werde euch auf jeden Fall unterstützen :)<\/p>",
+            "image": "shopify:\/\/shop_images\/Dieter.jpg",
+            "author": "Dieter A.",
+            "author_info": "Duschgelpulver Stone"
+          }
+        },
+        "dac90fb4-45b9-473d-860e-35b9a236f6e8": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Geiler Geruch<\/strong><\/p><p>Überzeugt hat mich die plastikfreie Verpackung, die angenehme Anwendung und vor allem der geile Geruch. Das schönste ist, dass meine Haut gefühlt auch viel weicher geworden ist :)<\/p>",
+            "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Robin.jpg",
+            "author": "Robin T.J.",
+            "author_info": "3in1 Dusch-Fluff Vibrant Seasalt"
+          }
+        },
+        "e486244a-bd58-448f-86e4-bb8a77c8fe98": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Nicht nur für alte Haut<\/strong><\/p><p>Als Omi liebe ich es Zeit mit meiner Enkelin zu verbringen. Was bei uns jetzt ganz fest zum Ritual dazugehört ist die Hyaluronmaske. Die ist nicht nur für alte Haut ganz toll, sondern auch für junge. Es mildern jugendakne und wir haben einfach immer einer tolle Zeit zusammen.<\/p>",
+            "image": "shopify:\/\/shop_images\/Monika_und_Charlotte.jpg",
+            "author": "Charlotte & Oma Monika",
+            "author_info": "Peel-off Maske Hyaluron"
+          }
+        },
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Wirklich empfehlenswert für dunkle Haare<\/strong><\/p><p>Dies ist das erste Trockenshampoo für dunkle Haare, was keinen Schleier hinterlässt und trotzdem pflegt\/wirkt. Bin begeistert.<\/p>",
+            "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Nina.jpg",
+            "author": "Nina K.",
+            "author_info": "Trockenshampoo Kirschblüte"
+          }
+        },
+        "ead7228e-c58c-4258-bc1c-bda5c888b7e5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Super weiche Haut<br\/><\/strong>Die Gesichtspflegeseife Wildrose überzeugt schon direkt beim Auspacken, weil sie einfach so unglaublich toll riecht. Ich bin zwar immer noch bei dem Tester aus der Testerbox, obwohl ich schon eine neue Seife bestellt habe, das liegt aber nur daran, dass sie nicht nur gut riecht und so ergiebig ist, sondern auch total toll für die Haut ist. <\/p>",
+            "image": "shopify:\/\/shop_images\/Paula.jpg",
+            "author": "Paula M.",
+            "author_info": "Gesichtspflegeseife Wildrose"
+          }
+        },
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><strong>Wie Urlaub in Spanien<br\/><\/strong>Duschen ist für mich zu einem besonderen, nachhaltigen und duftenden Erlebnis geworden. Duschen mit dem Fluff ist wie Urlaub und Träumen zugleich. Ich fühle mich, als stehe ich auf einer Mandelbaumwiese in Spanien im Sonnenschein und rieche den Duft von süßlichen Mandeln. Der Fluff ist sanft, rau, weich, sinnlich, süß und schaumig cremig in Einem. Er pflegt die Haut und gibt ihr ein Wohlgefühl zurück. <\/p>",
+            "image": "shopify:\/\/shop_images\/Judith.jpg",
+            "author": "Judith S.",
+            "author_info": "3in1 Dusch-Fluff Mandelmilch"
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-1",
+        "cce30a99-b36b-4745-a35a-eb45e806760b",
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-3",
+        "dac90fb4-45b9-473d-860e-35b9a236f6e8",
+        "e486244a-bd58-448f-86e4-bb8a77c8fe98",
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-4",
+        "ead7228e-c58c-4258-bc1c-bda5c888b7e5",
+        "template--18074176553226__3b10b5bd-642b-45fa-b8e5-c7e24b779848-testimonial-2"
+      ],
+      "settings": {
+        "title": "DU BIST IN GUTER GESELLSCHAFT - ÜBER 70.000 zufriedene kund:innen",
+        "btn_text": "",
+        "btn_url": "",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#dbd1c5",
+        "color_text": "#191919"
+      }
+    },
+    "ae60c182-e593-4613-8306-721dcf1a04e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Das perfekte Geschenk für Weltretter:innen",
+        "home_featured_products": "geschenk-ideen",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "71097e42-fe75-4189-ab04-b1edcd371fe7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz_02.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "DAS SIND WIR",
+        "title": "So bunt wie unsere Produkte",
+        "text": "<p>Die Köpfe hinter puremetics: Wir lieben Nachhaltigkeit und Beauty. Mit Hingabe und Leidenschaft geben wir jeden Tag ALLES für deine Zufriedenheit und eine sauberere Zukunft. <\/p>",
+        "button_label": "Lerne uns noch besser kennen",
+        "button_link": "shopify:\/\/pages\/unser-team",
+        "button_style": "primary",
+        "align_text": "right",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Blog",
+        "blog": "beauty",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "275246555a48badb20": {
+      "type": "apps",
+      "blocks": {
+        "36ae2c56-3526-4095-93d0-1460554e0d4a": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.index.instagram\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "option_galleries_id": "1",
+            "option_galleries_layout": "1"
+          }
+        }
+      },
+      "block_order": [
+        "36ae2c56-3526-4095-93d0-1460554e0d4a"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "bundle_products_3Ur4Yb": {
+      "type": "bundle-products",
+      "blocks": {
+        "discount_amount_PWacLC": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "1",
+            "percent": 5
+          }
+        },
+        "discount_amount_AiYYqn": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "2",
+            "percent": 10
+          }
+        },
+        "discount_amount_ny6QJB": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "3",
+            "percent": 15
+          }
+        },
+        "discount_amount_F8Uwxf": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "4",
+            "percent": 20
+          }
+        }
+      },
+      "block_order": [
+        "discount_amount_PWacLC",
+        "discount_amount_AiYYqn",
+        "discount_amount_ny6QJB",
+        "discount_amount_F8Uwxf"
+      ],
+      "settings": {
+        "title": "Häufig zusammen gekauft",
+        "related_products": [
+          "badesalz-set-aromatische-entspannungsmomente",
+          "bundle-demo-only-for-development",
+          "organischer-schwefel-msm-pulver",
+          "deostick-zitrone"
+        ]
+      }
+    }
+  },
+  "order": [
+    "f1dfd076-d7e8-4246-be5f-e7f76ee2928a",
+    "promo-grid",
+    "f4a55bd3-6349-4bc1-be2d-a1fd1c6caaac",
+    "featured-collection",
+    "rich-text",
+    "4d222403-195d-40dd-af53-6847ebae7407",
+    "73cf2976-e802-43eb-9cf2-f3cae3e81c57",
+    "a1e9c89a-97a0-4875-b4dd-cf7329760ebb",
+    "slideshow",
+    "e70166c4-fef2-4e37-a0cf-886ba518e89d",
+    "65076a3c-28de-440e-82af-8616857bace4",
+    "promo-grid2",
+    "f3956048-7474-42f4-83d0-ed50c7fbc8bf",
+    "3b10b5bd-642b-45fa-b8e5-c7e24b779848",
+    "ae60c182-e593-4613-8306-721dcf1a04e6",
+    "71097e42-fe75-4189-ab04-b1edcd371fe7",
+    "blog-posts",
+    "275246555a48badb20",
+    "bundle_products_3Ur4Yb"
+  ]
+}

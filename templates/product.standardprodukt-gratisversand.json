@@ -1,0 +1,325 @@
+{
+  "sections": {
+    "6aca45c3-b5d2-402e-9ad5-4305c00c44c5": {
+      "type": "promo-grid",
+      "blocks": {
+        "cfa78ae3-c308-4b3c-823a-0ddf0df17bc6": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "🥳 wir feiern geburtstag:",
+            "text": "-20% auf alles! Mit dem Code: HAPPYPUR20",
+            "link": "",
+            "label": "",
+            "color_tint": "#99ce99",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "cfa78ae3-c308-4b3c-823a-0ddf0df17bc6"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "d5a9e9b7-c5e6-4e41-8042-7c35b4e269ef": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "c3c490e7-ca3e-4d9d-ade0-7d5cfe27346b": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "GRATIS-VERSAND!"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "a0daac25-b6ee-4566-bf26-e31ac23b8358": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "d5a9e9b7-c5e6-4e41-8042-7c35b4e269ef",
+        "price",
+        "variant_picker",
+        "c3c490e7-ca3e-4d9d-ade0-7d5cfe27346b",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "a0daac25-b6ee-4566-bf26-e31ac23b8358"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "text_with_icons_LFfU7Y": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_CLPQiP": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_XHppni": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_3x6Ewb": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_pQCxnV": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_CLPQiP",
+        "text_block_XHppni",
+        "text_block_3x6Ewb",
+        "text_block_pQCxnV"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_iY3NR7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "DAS BESTE FÜR DICH UND DIE UMWELT",
+        "text": "<p>Bei Puremetics sind wir stolz darauf, dass Nachhaltigkeit unser Antrieb und ein fester Bestandteil unserer Unternehmensphilosophie ist. Wir glauben fest daran, dass jeder von uns einen Beitrag zum Schutz unserer Umwelt leisten kann, und deshalb kreieren wir umweltfreundliche Alternativen in liebevoller Handarbeit mit höchster Qualität.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch deine Entscheidung, puremetics zu wählen, trägst du dazu bei, die Welt zu einem besseren Ort zu machen. Wir möchten uns bei dir herzlich bedanken, dass du dich für Produkte entscheidest, die das Beste für dich <em>und <\/em>für unseren Planeten sind. Deine Unterstützung bedeutet uns sehr viel, und wir sind dankbar, dass wir gemeinsam einen positiven Einfluss haben können.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_4gYiGh": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "dürfen wir dir unsere UNSER COMMUNITY BESTSELLER vorstellen?",
+        "home_featured_products": "alle-artikel",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "6aca45c3-b5d2-402e-9ad5-4305c00c44c5",
+    "main",
+    "text_with_icons_LFfU7Y",
+    "text_and_image_iY3NR7",
+    "featured_collection_4gYiGh",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

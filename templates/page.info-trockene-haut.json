@@ -1,0 +1,705 @@
+{
+  "sections": {
+    "164251454033c5b134": {
+      "type": "slideshow",
+      "blocks": {
+        "1642514539f130df11-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "100% frei von Plastik & Tierleid",
+            "title": "MACH SCHLUSS MIT TROCKENER HAUT",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Unbenannt-8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/trockene_Haut_mobil_f19f0df5-6fea-4505-825d-6e755d34e96f.jpg",
+            "overlay_opacity": 26
+          }
+        }
+      },
+      "block_order": [
+        "1642514539f130df11-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164251456896175f8f": {
+      "type": "rich-text",
+      "blocks": {
+        "164251456868431174-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Hautprobleme sind im Winter wahrscheinlicher als Schnee, oder? 🙄"
+          }
+        },
+        "164251456868431174-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Aber woran liegt das? Im Winter wechseln wir ständig zwischen der eisigen Luft draußen und der warmen, trockenen Heizungsluft drinnen. Das sorgt dafür, dass deine Haut weniger gut durchblutet und mit Nährstoffen versorgt wird. Die Folgen? Rissige, trockene und juckende Haut.<\/p><p>🆘 Schon gewusst? Im Normalfall schützt deine Haut sich selbst, indem sie Talg, also hauteigenes Fett, produziert. Sobald es kälter als 8 Grad wird, ist deine Haut jedoch nicht mehr in der Lage dazu und ist auf den Schutz durch pflegende Fette und Öle angewiesen.<\/p><p>Klingt kompliziert? Keine Sorge, wir haben genau das Richtige für dich. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164251456868431174-0",
+        "164251456868431174-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16425978686977127c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Unbenannt-9.jpg",
+        "image2": "shopify:\/\/shop_images\/dry-g5a8e5a0ba_6401.jpg",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Aber woran liegt das? <\/strong>Im Winter wechseln wir ständig zwischen der eisigen Luft draußen und der warmen, trockenen Heizungsluft drinnen. Das sorgt dafür, dass deine Haut weniger gut durchblutet und mit Nährstoffen versorgt wird. Die Folgen? Rissige, trockene und juckende Haut.<\/p><p>🆘 <strong>Schon gewusst?<\/strong> Im Normalfall schützt deine Haut sich selbst, indem sie Talg, also hauteigenes Fett, produziert. Sobald es kälter als 8 Grad wird, ist deine Haut jedoch nicht mehr in der Lage dazu und ist auf den Schutz durch pflegende Fette und Öle angewiesen.<\/p><p>Klingt kompliziert? Keine Sorge, wir haben genau das<br\/>Richtige für dich.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1642517819e5e826e3": {
+      "type": "rich-text",
+      "blocks": {
+        "1642517819173a3e62-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Deine Pflegeroutine von Kopf bis Fuß"
+          }
+        }
+      },
+      "block_order": [
+        "1642517819173a3e62-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16434992087fb480f0": {
+      "type": "featured-product",
+      "blocks": {
+        "1643499208b0d181dc-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "041010d8-6ab6-4472-947e-5f4ddb0616ec": {
+          "type": "text",
+          "settings": {
+            "text": "🆘 Unsere neue Geheimwaffe gegen raue Ellbogen, rissige Lippen, trockene Hautpartien oder eine empfindliche Schnupfennase. Unser SOS Balm verschafft dir direkte Linderung und pflegt deine Problemstellen intensiv mit reichhaltigen Ölen. Ätherisches Teebaumöl wirkt antibakteriell und Vitamin E fördert die Regeneration deiner Haut und schützt sie effektiv."
+          }
+        },
+        "1643499208b0d181dc-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1643499208b0d181dc-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1643499208b0d181dc-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1643499208b0d181dc-0",
+        "041010d8-6ab6-4472-947e-5f4ddb0616ec",
+        "1643499208b0d181dc-1",
+        "1643499208b0d181dc-2",
+        "1643499208b0d181dc-3"
+      ],
+      "settings": {
+        "featured_product": "sos-balm-vitamin-e",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16425178221fcdb859": {
+      "type": "featured-product",
+      "blocks": {
+        "1642517821aca17338-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1642517821aca17338-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9d3e7a56-f46c-408b-bbd4-1d5827b0f81a": {
+          "type": "text",
+          "settings": {
+            "text": "Deine Lippen können sich nicht selbst vor dem Austrocknen schützen, deshalb brauchen sie eine Extraportion Pflege von dir. Unsere Lippenpflege spendet dir durch feine Sheabutter, Jojoba- und Mandelöl Geschmeidigkeit und Schutz."
+          }
+        },
+        "1642517821aca17338-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1642517821aca17338-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1642517821aca17338-0",
+        "1642517821aca17338-1",
+        "9d3e7a56-f46c-408b-bbd4-1d5827b0f81a",
+        "1642517821aca17338-2",
+        "1642517821aca17338-3"
+      ],
+      "settings": {
+        "featured_product": "lippenpflegestift-natural",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1642518663e03220e8": {
+      "type": "featured-product",
+      "blocks": {
+        "1642518663e0beba53-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1642518663e0beba53-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "f88ac0cb-daa3-4efd-a802-df308b6a5e32": {
+          "type": "text",
+          "settings": {
+            "text": "Wenn du nicht gerade mit einer Sturmhaube rausgehst, ist dein Gesicht ist der Kälte meistens leider schutzlos ausgeliefert. Unser Gesichtspflegeöl enthält jede Menge Aprikosenkernöl, das sich besonders gut für sensible Haut eignet. Squalan ist ein nicht fettendes Öl, das deinem Gesicht Feuchtigkeit und Schutz spendet und ein himmlisch weiches Gefühl hinterlässt ."
+          }
+        },
+        "1642518663e0beba53-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1642518663e0beba53-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1642518663e0beba53-0",
+        "1642518663e0beba53-1",
+        "f88ac0cb-daa3-4efd-a802-df308b6a5e32",
+        "1642518663e0beba53-2",
+        "1642518663e0beba53-3"
+      ],
+      "settings": {
+        "featured_product": "gesichtspflegeol-sensibelchen",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16425195326e2945af": {
+      "type": "featured-product",
+      "blocks": {
+        "1642519532a917779d-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1642519532a917779d-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "40bfc9f3-cca4-47f7-86e1-3af36545f014": {
+          "type": "text",
+          "settings": {
+            "text": "Im Winter solltest du ab Besten nicht zu heiß und nur kurz duschen. Am besten eignen sich dafür rückfettende und milde Produkte, die deine Haut nicht austrocknen, sondern mit Feuchtigkeit versorgen. Und wer wäre da besser geeignet als unser Dusch-Fluff mit seiner Extraportion an reichhaltigem und pflegendem Kokosöl?"
+          }
+        },
+        "1642519532a917779d-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1642519532a917779d-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1642519532a917779d-0",
+        "1642519532a917779d-1",
+        "40bfc9f3-cca4-47f7-86e1-3af36545f014",
+        "1642519532a917779d-2",
+        "1642519532a917779d-3"
+      ],
+      "settings": {
+        "featured_product": "duschfluff-cotton",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1642519606e1e60963": {
+      "type": "featured-product",
+      "blocks": {
+        "1642519606e4110f1f-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1642519606e4110f1f-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "cf663b06-6d5a-4251-a1bf-ae669dd5ce13": {
+          "type": "text",
+          "settings": {
+            "text": "Sobald es kalt wird, solltest du auf eine reichhaltigere Feuchtigkeitspflege setzen als im Sommer. Unser Körperpflegeöl besteht zum Großteil aus Traubenkernöl. Das zieht super schnell ein, wirkt barrierefördernd, regenerierend, entzündungshemmend und schützt die Zellmembranen."
+          }
+        },
+        "1642519606e4110f1f-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1642519606e4110f1f-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1642519606e4110f1f-0",
+        "1642519606e4110f1f-1",
+        "cf663b06-6d5a-4251-a1bf-ae669dd5ce13",
+        "1642519606e4110f1f-2",
+        "1642519606e4110f1f-3"
+      ],
+      "settings": {
+        "featured_product": "korperpflegeol-lotos",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16425196977e6af94a": {
+      "type": "featured-product",
+      "blocks": {
+        "16425196972c0177ed-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16425196972c0177ed-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "81f3d65e-5a07-483c-962a-a28ca079029a": {
+          "type": "text",
+          "settings": {
+            "text": "Kein Fan von Körperölen? Kein Problem, dann ist unsere feste Bodybutter vielleicht das perfekte Match für dich. Ein Mix aus Oliven-, Jojoba- und Kokosöl zusammen mit Kakao- und Sheabutter pflegen deine Haut babyweich und bringen dich sicher durch die kalten Wintermonate. Vitamin E mildert Rötungen, Juckreiz und rissige Hautstellen und wirkt zudem antioxidativ und entzündungshemmend."
+          }
+        },
+        "16425196972c0177ed-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16425196972c0177ed-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "16425196972c0177ed-0",
+        "16425196972c0177ed-1",
+        "81f3d65e-5a07-483c-962a-a28ca079029a",
+        "16425196972c0177ed-2",
+        "16425196972c0177ed-3"
+      ],
+      "settings": {
+        "featured_product": "feste-bodybutter-vanille",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1642602095022e2108": {
+      "type": "featured-product",
+      "blocks": {
+        "16426020952335b917-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16426020952335b917-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "b30a4002-7b9b-4a4c-89ec-6e6bfe3fd7a9": {
+          "type": "text",
+          "settings": {
+            "text": "Die Haut an deinen Händen ist besonders anfällig für äußere Einflüsse wie Kälte, häufiges Händewaschen und Desinfektionsmittel. Trockene und rissige Hände sind die Folge. Unsere Handpflegeseife überzeugt mit einem extra Reichhaltigen Mix aus Sonneblumen-, Rüben-, Diestel- und Sojaöl sowie Ringelblumenextrakt und Vitamin E. So werden deine Hände bereits während der Reinigung intensiv gepflegt. "
+          }
+        },
+        "16426020952335b917-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16426020952335b917-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "16426020952335b917-0",
+        "16426020952335b917-1",
+        "b30a4002-7b9b-4a4c-89ec-6e6bfe3fd7a9",
+        "16426020952335b917-2",
+        "16426020952335b917-3"
+      ],
+      "settings": {
+        "featured_product": "handpflegeseife-natron-repair",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1642519789678092b0": {
+      "type": "rich-text",
+      "blocks": {
+        "16425197893864da9a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Schönes Haar trotz Kälte?"
+          }
+        },
+        "16425197893864da9a-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Heizungsluft und Kälte schaden leider nicht nur deiner Haut, sondern auch deinem Haar. Schnell entstehen trockene Spitzen, sprödes Haar und schuppige Kopfhaut. Unsere reichhaltigen Vanillekipferl-Produkte sind perfekt auf die Bedürfnisse deiner Haare im Winter abgestimmt und geben Spliss und trockenen Spitzen keine Chance. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16425197893864da9a-0",
+        "16425197893864da9a-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "164259204164685ebb": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "SCHÖNES HAAR TROTZ KÄLTE?",
+        "text": "<p>Heizungsluft und Kälte schaden leider nicht nur deiner Haut, sondern auch deinem Haar. Schnell entstehen trockene Spitzen, sprödes Haar und schuppige Kopfhaut. Unsere reichhaltigen Vanillekipferl-Produkte sind perfekt auf die Bedürfnisse deiner Haare im Winter abgestimmt und geben Spliss und trockenen Spitzen keine Chance.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Unbenannt-10.jpg",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "1642581176b2bad9ef": {
+      "type": "featured-product",
+      "blocks": {
+        "16425811768642dff8-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16425811768642dff8-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "f854960f-3782-46d0-a649-51c4b36c85e9": {
+          "type": "text",
+          "settings": {
+            "text": "Unser Repair-Shampoo ersetzt ganze 3 herkömmliche Shampooflaschen aus Plastik.  Das enthaltene Jojobaöl und Vitamin E spendem deinem Haar noch während des Shampoonierens Pflege und Feuchtigkeit und sorgen für schönes Haar und ein angenehmes Kopfhautgefühl ohne das Haar zu beschweren."
+          }
+        },
+        "16425811768642dff8-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16425811768642dff8-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "16425811768642dff8-0",
+        "16425811768642dff8-1",
+        "f854960f-3782-46d0-a649-51c4b36c85e9",
+        "16425811768642dff8-2",
+        "16425811768642dff8-3"
+      ],
+      "settings": {
+        "featured_product": "festes-shampoo-vanillekipferl",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "164251981071b1850b": {
+      "type": "featured-product",
+      "blocks": {
+        "16425198109d5f5f54-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "4f63ed6e-11ba-407d-b22c-b95725bd546e": {
+          "type": "text",
+          "settings": {
+            "text": "Bye Bye trockene Spitzen! Ein hochwertiger Ölmix bringt versorgt dein Haar mit jeder Menge Feuchtigkeit und Glanz, während Beerenwachs spröde Stellen ausgleicht und auf natürliche Weise glättet. Vitamin E macht dein Haar widerstandsfähiger und fördert die Gesundheit deiner Kopfhaut. Die enthaltenen Antioxidantien können sich positiv auf deine Haarwurzeln auswirken und somit Haarausfall entgegenwirken."
+          }
+        },
+        "16425198109d5f5f54-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "16425198109d5f5f54-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16425198109d5f5f54-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "16425198109d5f5f54-0",
+        "4f63ed6e-11ba-407d-b22c-b95725bd546e",
+        "16425198109d5f5f54-1",
+        "16425198109d5f5f54-2",
+        "16425198109d5f5f54-3"
+      ],
+      "settings": {
+        "featured_product": "fester-conditioner-vanillekipferl",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1642581944f950a95c": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Keine Lust mehr auf Plastikmüll?",
+        "text": "<p>Unsere Mission ist es, Plastik für deine Beauty-Routine von Kopf bis Fuß komplett unnötig zu machen. Deshalb entwickeln wir jeden Tag <strong>100% plastikfreie und vegane Produkte<\/strong>, die ganz ohne schädliche Füll- und Inhaltsstoffe auskommen. <\/p>",
+        "button_label": "Jetzt alle Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/all",
+        "image": "shopify:\/\/shop_images\/Mullbild.jpg",
+        "layout": "right",
+        "height": 550,
+        "framed": false,
+        "parallax": false
+      }
+    }
+  },
+  "order": [
+    "164251454033c5b134",
+    "164251456896175f8f",
+    "16425978686977127c",
+    "1642517819e5e826e3",
+    "16434992087fb480f0",
+    "16425178221fcdb859",
+    "1642518663e03220e8",
+    "16425195326e2945af",
+    "1642519606e1e60963",
+    "16425196977e6af94a",
+    "1642602095022e2108",
+    "1642519789678092b0",
+    "164259204164685ebb",
+    "1642581176b2bad9ef",
+    "164251981071b1850b",
+    "1642581944f950a95c"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "164378774733c2cea3": {
+      "type": "promo-grid",
+      "blocks": {
+        "61ce0c10-29ef-4d4b-824a-78e5ec9a77eb": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "<b>14% Rabatt + gratis Lip Balm <\/b>💋 zu deiner Bestellung!  | Code: <b>LOVE<\/b>",
+            "link": "",
+            "label": "",
+            "color_tint": "#f53830",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "61ce0c10-29ef-4d4b-824a-78e5ec9a77eb"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 5,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "1645457041bc513e15": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Entdecke das gesamte sortiment",
+        "home_featured_products": "alle-artikel",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "164378774733c2cea3",
+    "main-collection",
+    "1645457041bc513e15"
+  ]
+}

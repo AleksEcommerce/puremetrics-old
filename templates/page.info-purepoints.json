@@ -1,0 +1,139 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1632492591163624f4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Purepoints_04.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "purepoints",
+        "title": "Deine Treue wird bei uns belohnt!",
+        "text": "<p><strong>Erhalte spannende Vorteile, Rabatte, Goodies und Geschenke in unserem Treueprogramm für Bestandskund:innen<\/strong><\/p><p><\/p><p>Du erhältst für jeden Einkauf bei uns, sowie für bestimmte Aktivitäten, automatisch purepoints, sofern du ein Kundenkonto bei uns hast. Diese kannst du sammeln und gegen tolle Wunsch-Prämien bei uns eintauschen!<\/p><p><strong>Und so funktioniert´s<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "1632492831e1276a07": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purepoints_website_1.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/purepoints_website_2.jpg",
+        "image2_mask": "none",
+        "subtitle": "Step 1",
+        "title": "Für purepoints registrieren",
+        "text": "<p>Du bist automatisch im purepoints Programm, wenn du ein Kundenkonto bei uns hast. Du kannst ein Kundenkonto jederzeit kostenlos anlegen. Dafür gibt es bereits deine ersten Punkte als Dankeschön! <\/p><p>In deinem Kundenkonto kannst du jederzeit deinen aktuellen purepoints Stand sowie alle Vorteile einsehen. Sammele purepoints, um sie für deine Wunschprämien einzutauschen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16324929879c270bbc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purepoints_website_3.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/purepoints_website_4_5352490d-d92e-4c1d-b616-cd7fcfc12fd5.jpg",
+        "image2_mask": "none",
+        "subtitle": "Step 2",
+        "title": "purepoints erhalten",
+        "text": "<p>purepoints erhältst du auf zwei Arten. Zum einen ganz automatisch für jeden Einkauf bei uns. Die Anzahl deiner purepoints richtet sich hierbei immer nach deinem Wareneinkaufswert (1 ausgegebener Euro = 5 purepoints). <br\/><br\/>Zum anderen schenken wir dir für bestimmte Aktivitäten ebenfalls purepoints. Beispielsweise wenn du uns auf auf Instagram folgst oder uns weiter empfiehlst. Eine genaue Übersicht findest du im Menüpunkt \"Erhalte purepoints\".<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16324930176183ba2c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purepoints_website_5.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/purepoints_website_6.jpg",
+        "image2_mask": "none",
+        "subtitle": "Step 3",
+        "title": "Freue dich über Geschenke und Vorteile",
+        "text": "<p>Du kannst deine purepoints für tolle Goodies, Bestell-Rabatte, kostenlosen Versand, Geschenke oder Gratiszugaben bei uns eintauschen. <\/p><p><strong>Außerdem gibt es verschiedene purelevel, die dauerhafte Vorteile für dich haben. <\/strong>Du erreichst diese purelevel mit der Gesamtanzahl an purepoints die du bisher bei uns gesammelt hast. <br\/><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1632493019b9a5c179": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Purepoints_02.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "purelevel erreichen",
+        "title": "ein ganz besonderes dankeschön für deine Treue",
+        "text": "<p>Je mehr Punkte du bei uns gesammelt hast, desto höher ist dein purelevel. <\/p><p>Mit deinem purelevel erhältst du einmalig tolle Präsente von uns und außerdem auch dauerhaft mehr purepoints. <\/p><p>Auf diesem Weg möchten wir uns bei dir für die besondere Treue zu puremetics bedanken und dir eine Freude machen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5b91b8d1-b94e-467e-b936-b62ede6e02a8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Entdecke alle Beauty-Highlights und erhalte purepoints",
+        "home_featured_products": "alle-artikel",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1632492591163624f4",
+    "1632492831e1276a07",
+    "16324929879c270bbc",
+    "16324930176183ba2c",
+    "1632493019b9a5c179",
+    "5b91b8d1-b94e-467e-b936-b62ede6e02a8"
+  ]
+}

@@ -1,0 +1,94 @@
+{%- liquid
+    assign default_text = 'products.product.add_to_cart' | t
+    assign button_text = 'products.product.add_to_cart' | t
+    if template == 'product.preorder'
+      assign default_text = 'products.product.preorder' | t
+      assign button_text = 'products.product.preorder' | t
+    endif
+    unless current_variant.available
+      assign button_text = 'products.product.sold_out' | t
+    endunless
+-%}
+
+<style>
+.product-section .product-quantity-sticky-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 10px 0;
+  z-index: 998;
+  background-color: #fff;
+  width: 100%;
+}
+
+.product-section .product-quantity-sticky-bar .product-quantity-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.product-section .product-quantity-sticky-bar .product-quantity-flex .qty-button {
+  width: 25%;
+  min-width: 180px;
+}
+</style>
+
+<div class="product-quantity-sticky-bar">
+	{% comment %}<div class="product-quantity-flex">{% endcomment %}
+  		{% comment %}<div class="qty-control">{% endcomment %}
+          {% comment %}{% assign qty_id = section_id | append: product.id %}{% endcomment %}
+          {% comment %}{%- render 'quantity-input-sticky', form_id: form_id, id: qty_id, qty: 1, min: 1, isStickyBarInput: true -%}{% endcomment %}
+    	{% comment %}</div>{% endcomment %}
+    	{% comment %}<div class="qty-button">{% endcomment %}
+              {% comment %}<button{% endcomment %}
+              {% comment %}{% if product.empty? %}type="button"{% else %}type="submit"{% endif %}{% endcomment %}
+              {% comment %}form="{{ form_id }}"{% endcomment %}
+              {% comment %}class="btn btn--full add-to-cart {% if enable_dynamic_buttons and product.selling_plan_groups == empty %} btn--secondary{% endif %}"{% endcomment %}
+              {% comment %}{% unless current_variant.available %} disabled="disabled"{% endunless %}>{% endcomment %}
+              {% comment %}<span data-add-to-cart-text data-default-text="{{ default_text }}">{% endcomment %}
+                {% comment %}{{ button_text }}{% endcomment %}
+              {% comment %}</span>{% endcomment %}
+            {% comment %}</button>{% endcomment %}
+        {% comment %}</div>{% endcomment %}
+ 	{% comment %}</div>{% endcomment %}
+</div>
+
+<script type="text/javascript">
+
+
+  (function() {
+
+      if (!"IntersectionObserver" in window) {
+    	return;
+    }
+
+  	var addToCartBtn = document.querySelector(".page-content--product .add-to-cart");
+    if (!addToCartBtn) {
+      	return;
+    }
+
+    var bottomBar = document.querySelector(".page-content--product .product-quantity-sticky-bar");
+    if (!bottomBar) {
+    	return;
+    }
+
+    var observer = new IntersectionObserver(function(entries) {
+    	var entry = entries[0];
+      	if (entry.isIntersecting) {
+			bottomBar.style.display = "none";
+            document.querySelector('.product-single__form').classList.remove('hooora');
+      	} else if (entry.boundingClientRect.top < 0) {
+          bottomBar.style.display = "flex";
+            document.querySelector('.product-single__form').classList.add('hooora');
+      	}
+    }, { threshold: 1.0 });
+
+    observer.observe(addToCartBtn);
+  })();
+</script>

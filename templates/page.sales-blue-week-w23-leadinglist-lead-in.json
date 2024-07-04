@@ -1,0 +1,402 @@
+{
+  "sections": {
+    "58372c13-dbcf-4e09-b7f3-a69e844af524": {
+      "type": "hero-video",
+      "settings": {
+        "title": "der größte und nachhaltigste sale des jahres!",
+        "title_size": 90,
+        "subheading": "Superstarke Rabatte, aufregende Geschenke, spannende Specials und Artenschutz in unserer  bisher größten Blue-Week",
+        "link_text": "",
+        "link": "",
+        "color_accent": "#fd0d66",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9fca1eef3f6b4a2386b4a0f82f7e5f48.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "jetzt aber schnell! Die Anmeldung ist nur noch möglich, bis der countdown abgelaufen ist ⏰",
+            "heading_size": "h2",
+            "text": "<p><strong>Registriere dich unbedingt für deinen VIP-Zugang<\/strong>, und sichere dir exklusiv alle Vorteile und Specials. <strong>Denn unser Shop bleibt für alle anderen am Sonntag geschlossen!<\/strong><\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "11",
+            "day": "18",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": "<p>Leider zu spät! Die Anmeldung zum VIP Zugang unserer bisher größten Blue-Week ist nicht mehr möglich. Du kannst aber dennoch an der Blue-Week über den regulären Zugang ab Montag den 20.11.2023 teilnehmen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#fd0d66",
+        "overlay_color": "#f91111",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "⏰ Die Nachfrage ist oft größer, als unser Produktkontingent. Sichere dir daher jetzt unverbindlich deinen kostenlosen und exklusiven Early-Access Zugang ⏰",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "1699613018be63b7dd": {
+      "type": "apps",
+      "blocks": {
+        "fb892762-74e3-4976-8d10-7db38c0d40dd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "TqsPyP"
+          }
+        }
+      },
+      "block_order": [
+        "fb892762-74e3-4976-8d10-7db38c0d40dd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "2c5c8251-ee5b-4597-ba4b-253804c30e40": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18281700524298__2c5c8251-ee5b-4597-ba4b-253804c30e40-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Diese highlights versüßen dir das wochenende!"
+          }
+        }
+      },
+      "block_order": [
+        "template--18281700524298__2c5c8251-ee5b-4597-ba4b-253804c30e40-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "a396dd39-5d6d-4ff3-b7e7-0221b7f621a0": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18281700524298__a396dd39-5d6d-4ff3-b7e7-0221b7f621a0-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Exklusiv",
+            "heading": "VIP Zugang",
+            "textarea": "Die Nachfrage ist größer als unser Kontingent. Deshalb ist unser Shop am Blue-Week Start nur für VIP Gäste zugänglich und öffnet für alle anderen erst wieder am Montag.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_VIP_Zugang.png",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--18281700524298__a396dd39-5d6d-4ff3-b7e7-0221b7f621a0-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "für dich",
+            "heading": "geschenke",
+            "textarea": "JEDE Bestellung enthält eine tolle Überraschung für dich. Dafür ist kein Code notwendig. Wir legen dir dein Geschenk automatisch deiner Lieferung bei und senden dir Extrafreude.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Geschenk_73b3053f-25f0-411d-a738-64c55d1ad526.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "60907e46-276a-477b-991a-639490c07eea": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "echt stark",
+            "heading": "super Rabatte",
+            "textarea": "In unserer bisher größten Blue-Week werden wir unser gesamtes Sortiment für dich stark rabattieren. Freue dich auf bis zu 30% Preisvorteil auf deine Lieblingsprodukte!",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Sale.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "784ca0ee-7f0d-4567-9416-28a2983ff6a6": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "limitiert",
+            "heading": "3in1 Dusch-Fluff",
+            "textarea": "Jede zehnte Bestellung erhält unseren limitierten 3in1 Dusch-Fluff \"Blueweek-Berry\". Diese herrliche Sonderedition steht nur während der Blueweek zum Verkauf und ist stark begrenzt.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_blueweekberry.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "c80cacc3-21e3-42d0-b924-a5c7d249397c": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "überraschung",
+            "heading": "weitere specials",
+            "textarea": "Was wäre das Leben ohne freudige und positive Überraschungen ab und an. Wir machen es für dich spannend und haben noch ein paar liebliche Specials für dich auf Lager.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/chris_cosma_puremetics_ueberrascht_f04664b6-ba58-41f9-ba37-244be63f3f2e.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "522851c6-77cd-4a92-a53c-d928149b22ae": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "schildkröten retten",
+            "heading": "artenschutz",
+            "textarea": "Wir möchten dich und unsere Umwelt verwöhnen! Deshalb spenden wir für jede Bestellung einen Betrag, der die bedrohte Meeresschildkröte beschützt. Während unserer Blue-Week erfährst du mehr.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Schildkroete.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18281700524298__a396dd39-5d6d-4ff3-b7e7-0221b7f621a0-advanced-1",
+        "template--18281700524298__a396dd39-5d6d-4ff3-b7e7-0221b7f621a0-advanced-2",
+        "60907e46-276a-477b-991a-639490c07eea",
+        "784ca0ee-7f0d-4567-9416-28a2983ff6a6",
+        "c80cacc3-21e3-42d0-b924-a5c7d249397c",
+        "522851c6-77cd-4a92-a53c-d928149b22ae"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Portrait_Chido_04e79a3a-7137-45d2-a35c-c12382669e12.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chido (CEO und CO-FOUNDER)",
+        "title": "Darum der VIP Zugang",
+        "text": "<p>Wir halten so viele tolle Specials in unserer Blue-Week bereit, dass die Nachfrage meist sehr viel höher ist als unser Kontingent. Deshalb haben wir uns dazu entschlossen unserer besonders treuen Community für den Start am Sonntag einen exklusiven Zugang zu gewähren. Für alle anderen bleibt puremetics geschlossen und öffnet erst am Montag wieder. <\/p><p><strong>Auf diesem Weg wollen wir uns für eure Treue bedanken und euch eine Freude bereiten  <\/strong>💙<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "616e8ef5-2b46-4a36-8a8b-b15c64e02dbe": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--18281700524298__616e8ef5-2b46-4a36-8a8b-b15c64e02dbe-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "calendar",
+            "title": "Step 1: VIP Zugang anmelden",
+            "text": "<p>Trage dich zum kostenlosen und unverbindlichen VIP Zugang ein.<\/p>"
+          }
+        },
+        "template--18281700524298__616e8ef5-2b46-4a36-8a8b-b15c64e02dbe-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "envelope",
+            "title": "Step 2: Passwort erhalten",
+            "text": "<p>Wir senden dir ein geheimes Passwort per E-Mail zu, mit dem du unseren Shop betreten kannst.<\/p>"
+          }
+        },
+        "template--18281700524298__616e8ef5-2b46-4a36-8a8b-b15c64e02dbe-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Step 3: Freuen und Leben Retten",
+            "text": "<p>Sichere dir die besten Specials, Rabatte und rette dabei automatisch Schildkrötenbabys.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18281700524298__616e8ef5-2b46-4a36-8a8b-b15c64e02dbe-text_block-1",
+        "template--18281700524298__616e8ef5-2b46-4a36-8a8b-b15c64e02dbe-text_block-3",
+        "template--18281700524298__616e8ef5-2b46-4a36-8a8b-b15c64e02dbe-text_block-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO & CO-Founder)",
+        "title": "Das ist unsere Blue-Week",
+        "text": "<p>Die Blue Week ist unser nachhaltiges Pendant zur Black Week. Neben Rabatten und Specials steht der nachhaltige Einfluss über Allem. In den vergangenen Jahren konnten wir gemeinsam einen großen Beitrag für verschiedene Umwelt-, Artenschutz- und soziale Projekte leisten.<\/p><p>Auch in diesem Jahr steht alles unter dem Stern des Artenschutzes. In Kooperation mit der AGA retten wir für jede Bestellung ein Schildkrötenei aus Gefährdungsgebieten. Unser Ziel ist es, 15 Nester zu beschützen, bis die ca. 1.800 Schildkrötenbabys sicher geschlüpft sind und ihren Weg ins Meer gefunden haben.<\/p><p><strong>Bisher konnten wir so bereits über 3.000 bedrohte Meeresschildkröten zusammen mit euch retten! Vielen Dank <\/strong>💙 <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "17d95311-1131-410d-bfa6-7e250c7d69f1": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "beeindruckend!",
+        "title": "ein neues leben beginnt",
+        "text": "<p>In Kooperation mit der Aktionsgemeinschaft Artenschutz beschützen wir die Nester der Meeresschildkröten, bis die Babys sicher ins Meer gelangen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/2e4f998e20fd461998a1def3ccaea635.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "9e1aeab3-a7be-454c-a838-e59c8b0775e9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BraunBirgitAGA.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/AGA-Logo.jpg",
+        "image2_mask": "landscape",
+        "subtitle": "Birgit (CEO AGA)",
+        "title": "DANKE FÜR EURE UNTERSTÜTZUNG!",
+        "text": "<p>Meeresschildkröten stehen vor vielen Gefahren. Die meisten sind Menschen gemacht. Danke, dass ihr auch auf diesem Weg einen Beitrag zum Schutz dieser wunderbaren Tiere leistet.<\/p><p><em>DieAktionsgemeinschaft Artenschutz(AGA) e.V. setzt sich seit 30 Jahren für den Erhalt von bedrohten Tier- und Pflanzenarten und deren Lebensräume ein.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "53b10a80-d3f5-4ef1-8acd-20d28ffd280c": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Endlich im Wasser",
+        "title": "geschafft!",
+        "text": "<p>Mit eurer Unterstützung konnten wir bisher über 3.000 bedrohte Meeresschildkröten retten!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0e36c6b8b8a84137a6087bbbbb610a28.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 550
+      }
+    }
+  },
+  "order": [
+    "58372c13-dbcf-4e09-b7f3-a69e844af524",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "1699613018be63b7dd",
+    "2c5c8251-ee5b-4597-ba4b-253804c30e40",
+    "a396dd39-5d6d-4ff3-b7e7-0221b7f621a0",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f",
+    "616e8ef5-2b46-4a36-8a8b-b15c64e02dbe",
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3",
+    "17d95311-1131-410d-bfa6-7e250c7d69f1",
+    "9e1aeab3-a7be-454c-a838-e59c8b0775e9",
+    "53b10a80-d3f5-4ef1-8acd-20d28ffd280c"
+  ]
+}

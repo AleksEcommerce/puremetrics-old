@@ -1,0 +1,558 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9a6edb7c-5056-47ff-af07-af19887a2815": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213": {
+          "type": "text",
+          "settings": {
+            "text": "\"mit dieser Seife macht Händewaschen beim Kleinkind Spaß, schöne Farbe, toller Duft, gute Pflegeeigenschaften, benutzbar für alles am Körper beim Kleinkind\" - Regina via Bewertungen"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "af11656a-5bba-4794-9f06-16522ca199cf": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9a6edb7c-5056-47ff-af07-af19887a2815",
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213",
+        "variant_picker",
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4",
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "af11656a-5bba-4794-9f06-16522ca199cf"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Seife_mit_Schaum.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Zarte Reinigung und Pflege für die Kleinsten",
+        "title": "Unsere Kinderseife",
+        "text": "<p>Unsere Kinderseife ist mit größter Sorgfalt und Rücksicht auf die speziellen Bedürfnisse der empfindlichen Kinderhaut entwickelt worden. Wir verstehen, dass die Haut unserer Kleinsten besondere Aufmerksamkeit verdient, und haben daher eine sanfte, liebevolle Formel geschaffen, die speziell auf diese Bedürfnisse abgestimmt ist.<\/p><p>Diese Kinderseife bietet nicht nur eine gründliche Reinigung, sondern auch eine milde Pflege, um die zarte Haut vor dem Austrocknen zu schützen. Frei von reizenden Inhaltsstoffen und mit einer speziellen Auswahl an hautfreundlichen Komponenten, ist unsere Kinderseife die ideale Wahl, um die natürliche Gesundheit der Kinderhaut zu bewahren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Von Kopf bis Fuss"
+          }
+        },
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Kinderseife ist der ideale Begleiter für ein rundum fröhliches Pflegeerlebnis. Entwickelt, um den Bedürfnissen von Kindern gerecht zu werden, ist diese Seife perfekt für verschiedenste Anwendungen ausgelegt. Ob <strong>Händewaschen <\/strong>nach wilden Abenteuern, entspanntes <strong>Baden<\/strong>, erfrischendes <strong>Duschen<\/strong>, sanftes <strong>Haarewaschen <\/strong>oder die zarte <strong>Gesichtsreinigung <\/strong>– unsere Kinderseife steht bereit, um die Haut der kleinen Entdecker von Kopf bis Fuß zu verwöhnen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1",
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_image_text_jyn67R": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "ein fruchtig frisches Abenteuer",
+        "title": "Mit kinderfreundlichen düften und farben",
+        "text": "<p>Gönne deinen Kindern eine Seife, die nicht nur reinigt, sondern auch Spaß macht. Unsere Kinderseife ist vielseitig und darauf ausgerichtet, die Kinderpflege zu einem fröhlichen Ritual zu machen. Mach die tägliche Pflege zu einem Moment des Vergnügens und der Liebe für die zarte Haut deinen kleinen Lieblinge.<\/p><p>Die milden und hautfreundlichen Inhaltsstoffe unserer Kinderseife wurden sorgfältig ausgewählt, um die zarte Kinderhaut liebevoll zu reinigen und zu pflegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/puremetics_Seifen_Moodbild_Kinderseife_in-Hand_Studio.jpg",
+        "layout": "left",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Feuchtigkeitsregulierung"
+          }
+        },
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In unserer speziell entwickelten Kinderseife steckt die reinste Form der Pflege für die zarte Haut der Kleinen. Wir setzen auf die wertvollen Eigenschaften von Bio-Kokosöl und Bio-Sheabutter, um eine liebevolle und hautfreundliche Reinigung zu gewährleisten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1",
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_image_text_pemxDG": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Nachhaltig und Hautschonend",
+        "title": "Bio ÖLe und Natürliche Fettsäuren",
+        "text": "<p>Unsere Seifen sind handgesiedet und bestehen im Gegensatz zu konventionellen Reinigungsmitteln nicht aus Tensiden, sondern aus natürlichen Fettsäuren.<\/p><p>Das Bio-Kokosöl in unserer Kinderseife sorgt für einen sanften Schaum und hilft dabei, die Haut zu pflegen und geschmeidig zu halten. Die Bio-Sheabutter schützt die empfindliche Kinderhaut vor dem Austrocknen und bildet einen sanften Schutzfilm.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Kinderseife_Tropical.jpg",
+        "layout": "right",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_Aaz37G": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_d4jWFF": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_nGet4t": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_bT8Jze": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_a6Hjmq": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_d4jWFF",
+        "text_block_nGet4t",
+        "text_block_bT8Jze",
+        "text_block_a6Hjmq"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Portrait_Chido_04e79a3a-7137-45d2-a35c-c12382669e12.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chido (CEO und CO-Founder)",
+        "title": "Feste Seifen sind nachhaltig und praktisch",
+        "text": "<p>Als Familienvater liegt mir das Wohlergehen meiner Kinder besonders am Herzen. Es ist an der Zeit, auch einen Blick auf die Welt zu werfen, die wir unseren Kindern hinterlassen wollen. Unsere Entscheidungen haben Auswirkungen auf die Welt, die unsere Kinder erben werden. <\/p><p><strong>Der Verzicht auf Duschgel und Shampoo in Plastikflaschen zugunsten nachhaltiger, fester Produkte ohne Plastikabfall ist ein Schritt in die richtige Richtung.<\/strong><\/p><p>Indem wir bewusst auf Produkte setzen, die unsere Umwelt respektieren, leisten wir einen Beitrag zu einer blühenden Zukunft für unsere Kinder. Feste, plastikfreie Produkte sind eine umweltfreundliche Wahl und auch ein gutes Beispiel dafür, wie wir als Eltern aktiv zu einer nachhaltigen Lebensweise beitragen können.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fb8142dc-b1e5-4454-8614-11d05c3f37a2": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Pro-Tipp:",
+        "title": "Extra Schaum, Massage und Peeling",
+        "text": "<p>Mit unserem Seifensäckchen aus Naturjute werden deine Lieben sicherlich noch mehr Freude an der Kinderseife haben. Durch die Reibung entsteht noch mehr Schaum und du kannst die Seife fester halten. Massiere direkt mit dem Seifenschaumsäckchen deine Nasse Körperhaut und entferne Hautschüppchen für extra-glatte Haut! Nach der Nutzung kannst du deine Seife zum Trocknen im Säckchen direkt aufhängen.<\/p>",
+        "button_label": "Will ich haben 😍",
+        "button_link": "shopify:\/\/products\/seifensaeckchen",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/bcd64742b1da4e1d98329e2e38ef5ce7.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Perfekte ergänzungen zu unseren naturseifen",
+        "home_featured_products": "seifenaccessoires",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Jede Seife ist",
+        "title": "Mit Liebe von Hand gemacht",
+        "text": "<p>Jede Seife wird von sorgfältigen Händen und aufmerksamen Augen mit Liebe hergestellt. Unsere Naturseifen unterscheiden sich von der Massenproduktion der Großkonzerne in ihren hochwertigen Rohstoffen und den ausgiebigen Reifezeiten.<\/p><p><strong>Das Beste für dich und unsere Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4a3e0b840f3346eba0e9dac21934bc0c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "c67229b4-d31e-41fc-886a-e06785c48e99": {
+      "type": "faq",
+      "blocks": {
+        "967af684-ba7f-49b7-a53c-54736e20bc98": {
+          "type": "question",
+          "settings": {
+            "title": "Was macht die Kinderseife besonders?",
+            "text": "<p>Unsere Kinderseife wurde speziell für empfindliche Kinderhaut entwickelt. Die milde Formel reinigt sanft, ohne die Haut auszutrocknen.<\/p>"
+          }
+        },
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Enthält die Kinderseife irgendwelche reizenden Inhaltsstoffe?",
+            "text": "<p>Nein, unsere Kinderseife ist frei von reizenden Inhaltsstoffen und wurde sorgfältig ausgewählt, um die Haut zu beruhigen und zu schützen.<\/p>"
+          }
+        },
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Kinderseife auch für das Gesicht verwendet werden?",
+            "text": "<p>Ja, unsere Kinderseife eignet sich perfekt für das Gesicht und den ganzen Körper. Sie ist vielseitig einsetzbar. Achte nur darauf, dass die Seife nicht in die Augen gelangt.<\/p>"
+          }
+        },
+        "6360b5d0-f652-4e6a-b443-204b9e5981b0": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Kinderseife auch für die Haarwäsche verwendet werden?",
+            "text": "<p>Ja, die Kinderseife kann auch für die Haarwäsche verwendet werden und sorgt für eine sanfte Reinigung.<\/p>"
+          }
+        },
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die Seife für alle Hauttypen geeignet?",
+            "text": "<p>Ja, die milde Formel ist für alle Hauttypen, einschließlich empfindlicher Haut, geeignet.<\/p>"
+          }
+        },
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lagere ich feste natürliche Seifen am besten?",
+            "text": "<p>Am besten an einem trockenen Ort, vorzugsweise auf einem unserer Seifensteine mit ausreichender Belüftung, um eine längere Haltbarkeit zu gewährleisten.<\/p>"
+          }
+        },
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Seife auch von Erwachsenen verwendet werden?",
+            "text": "<p>Ja, die Kinderseife ist so sanft und vielseitig, dass sie auch von Erwachsenen verwendet werden kann.<\/p>"
+          }
+        },
+        "b90a661c-25c8-4306-adb6-3a6980405709": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Seife von mehreren Menschen in meinem Haushalt benutzt werden?",
+            "text": "<p>Ja. Auf dem Seifenstück befinden sich zwar Keime, aber sie überleben in dem für sie ungünstigen Milieu nicht lange, sodass eine anständige Hygiene gegeben ist. <\/p><p>Hierzu gibt es auch eine <a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/3402545\/\" target=\"_blank\" title=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/3402545\/\">interessante Studie<\/a> die belegt, dass durch feste Seifenstücke keine Keimbelastung ausgeht.<\/p>"
+          }
+        },
+        "f9daaeff-e8de-49c5-8375-6f9fe344f6a0": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Kinderseife in der Badewanne verwendet werden?",
+            "text": "<p>Absolut! Die Kinderseife eignet sich perfekt für ein entspannendes Bad und hinterlässt die Haut zart duftend.<\/p>"
+          }
+        },
+        "61346c0f-7606-4bb5-a2a2-e805cb154aea": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die Kinderseife für Kleinkinder geeignet?",
+            "text": "<p>Die Seife ist für Kinder ab 3 Jahren getestet und empfohlen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "967af684-ba7f-49b7-a53c-54736e20bc98",
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1",
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2",
+        "6360b5d0-f652-4e6a-b443-204b9e5981b0",
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8",
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb",
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3",
+        "b90a661c-25c8-4306-adb6-3a6980405709",
+        "f9daaeff-e8de-49c5-8375-6f9fe344f6a0",
+        "61346c0f-7606-4bb5-a2a2-e805cb154aea"
+      ],
+      "settings": {
+        "title": "Diese Fragen erhalten wir häufig zum Thema \"Kinderseife\". Hier sind die antworten 💚"
+      }
+    },
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Kennst du schon unsere Duftstofffreien Pflege-highlights?",
+        "home_featured_products": "sensibelchen",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f",
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112",
+    "background_image_text_jyn67R",
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7",
+    "background_image_text_pemxDG",
+    "text_with_icons_Aaz37G",
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797",
+    "fb8142dc-b1e5-4454-8614-11d05c3f37a2",
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1",
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b",
+    "c67229b4-d31e-41fc-886a-e06785c48e99",
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

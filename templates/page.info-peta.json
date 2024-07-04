@@ -1,0 +1,230 @@
+{
+  "sections": {
+    "247eabef-f61e-4019-911e-5022b60fabde": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18166264791306__247eabef-f61e-4019-911e-5022b60fabde-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/230711_PETA-VeganAward_Beauty_2023-SocialMediaTeaser_1024x512px.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--18166264791306__247eabef-f61e-4019-911e-5022b60fabde-image-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "250px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "22be6f92-0ca6-4f1a-a490-2f9052adf457": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Shop_Logo_PetaApproved.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "100% veganes unternehmen",
+        "title": "ohne Tierleid",
+        "text": "<p>puremetics ist auf PETAs offizieller Liste, tierversuchsfreier Kosmetik, Pflegeprodukte, Haushaltsmittel und mehr.<\/p><p>Mit unserem 3in1 Dusch-Fluff haben wir 2023 sogar den PETA Beauty Award in der Kategorie \"Beauty bestes Körperpeeling\" gewonnen. Eine Auszeichnung mit besonders großem Wert für uns.<\/p><p><strong>puremetics war, ist und wird immer vegan bleiben<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c783a59b-274e-4ce1-8e35-48dc4f20f6ee": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Harald Ullmann, Mitgründer und 2. Vorsitzender von PETA Deutschland.",
+        "title": "Puremetics zeigt mit dem 3in1 Dusch-Fluff vorbildlich, dass tierische Inhaltsstoffe und Tierversuche der Vergangenheit angehören.",
+        "text": "<p>Vegane und moderne Produktkreationen sind gut für Tiere, Menschen und die Umwelt. Wir hoffen, dass viele weitere Unternehmen der Beauty-Branche diesem Beispiel folgen werden und gratulieren herzlich zum Gewinn des PETA VEGAN AWARD 2023 in der Kategorie „Bestes veganes Peeling“.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/09c92e5046f14205b281bdcece5bd831.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "556275b6-31af-4168-9b14-c8b6a1b66469": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16154992214282__556275b6-31af-4168-9b14-c8b6a1b66469-16667077464577145f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Was ist „PETA Approved“ bzw. „Beauty without Bunnies“?"
+          }
+        },
+        "template--16154992214282__556275b6-31af-4168-9b14-c8b6a1b66469-16667077464577145f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>„PETA Approved“ ist das deutsche Äquivalent zum Programm „Beauty without Bunnies“ von PETA USA. Wir sammeln und teilen Informationen über tierversuchsfreie Unternehmen, Marken und Produkte, um Konsument:innen beim tierfreundlichen Einkauf zu unterstützen.<\/p>"
+          }
+        },
+        "dfcfbe3c-03f9-4a56-ba2e-a553e062fef8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Die nachfolgenden FAQs wurden von PETA beantwortet, nicht von uns.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16154992214282__556275b6-31af-4168-9b14-c8b6a1b66469-16667077464577145f-0",
+        "template--16154992214282__556275b6-31af-4168-9b14-c8b6a1b66469-16667077464577145f-1",
+        "dfcfbe3c-03f9-4a56-ba2e-a553e062fef8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "6055ed44-862e-403a-ba14-8c7a7b6957e4": {
+      "type": "faq",
+      "blocks": {
+        "template--16154992214282__6055ed44-862e-403a-ba14-8c7a7b6957e4-16667077332feb9862-0": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Kriterien müssen die Firmen erfüllen, um in PETAs Liste aufgenommen zu werden?",
+            "text": "<p>PETA nimmt ausschließlich Tiernahrungshersteller mit klaren Richtlinien gegen Tierversuche in die Positivliste auf. Hierbei handelt es sich um Unternehmen, deren Firmenpolitik eindeutig Stellung gegen Tierversuche bezieht und die so dabei helfen, Tierleid zu vermeiden und in Zukunft vollständig abzuschaffen. Dies sichern sie PETA analog zu unserer Kosmetik-Liste schriftlich zu – nur dann werden sie in die Positivliste aufgenommen. Viele Unternehmen thematisieren die Frage nach Tierversuchen mittlerweile auf ihrer Website oder auf Anfragen von Verbrauchern. Ihre Antworten müssen oft sehr genau gelesen werden, um zu verstehen, was wirklich dahinter steckt. Daher finden Sie bei uns ausschließlich Firmen, die eine sogenannte Selbstverpflichtungserklärung unterzeichnet haben. Wenn Sie Produkte dieser Unternehmen kaufen, wird das auch weitere Tiernahrungshersteller davon überzeugen, von Tierversuchen abzusehen und auf moderne und zuverlässige Testverfahren umzusteigen.<\/p>"
+          }
+        },
+        "template--16154992214282__6055ed44-862e-403a-ba14-8c7a7b6957e4-16667077332feb9862-1": {
+          "type": "question",
+          "settings": {
+            "title": "Tierversuchsfrei – unerlaubte Werbung?",
+            "text": "<p>Tierversuchsfrei – wir dürfen Produkte so benennen, Firmen jedoch nicht. Klingt unlogisch? Ist es auch. Was es damit auf sich hat, möchten wir Ihnen hier so einfach wie möglich erklären.<\/p><p>Das zugrundeliegende Problem sind rechtliche Vorgaben, genau genommen zwei sich widersprechende EU-Verordnungen: einerseits die Kosmetikverordnung, andererseits die Chemikalienverordnung REACH. Erstere besagt, dass Daten zum Sicherheitsnachweis von Kosmetika und ihren Inhaltsstoffen <em>nicht<\/em> aus Tierversuchen stammen dürfen. Das wird der Einfachheit halber oft als „Verbot von Tierversuchen für Kosmetik und ihre Inhaltsstoffe“ formuliert. An sich eine tolle Sache! Das Problem: Auf Grundlage der Chemikalienverordnung REACH verlangen EU-Behörden für viele Inhaltsstoffe <em>dennoch<\/em> Tierversuche – die Kosmetikverordnung wird also praktisch untergraben. Dass Tierversuche für den Menschen kaum aussagekräftig sind und tierversuchsfreie Testmethoden besser geeignet wären, wird dabei außer Acht gelassen. Das bedeutet im Klartext: Auch in der EU werden noch immer Tierversuche für Kosmetika durchgeführt.<\/p><p>Doch nicht alle Firmen akzeptieren das – denn einige stellen ihre Produkte aus Überzeugung <em>tatsächlich und vollständig<\/em> ohne neue Tierversuche her, trotz rechtlicher Hürden. Wir von PETA Deutschland sind davon überzeugt, dass es sehr wichtig ist, das Engagement dieser Unternehmen zu würdigen. Außerdem sollten Verbraucher die Produkte dieser tierfreundlichen Firmen ohne großen Aufwand erkennen können. Genau das ermöglichen wir mit unserem globalen Zertifizierungsprogramm und der Verleihung des „PETA Approved Global Animal Test Policy“-Siegels. Hierbei übertreffen die von uns zertifizierten Marken und Unternehmen bestehende rechtliche Vorgaben, denn sie dulden keinerlei Tierversuche – auch solche nicht, die im Rahmen des REACH-Programms gefordert werden. Wir können daher mit voller Überzeugung sagen: Die auf unserer Liste genannten Unternehmen und Marken führen keine Tierversuche durch, geben keine Tierversuche in Auftrag und nehmen keine Tierversuche in Kauf – sind also nach unserer Definition tierversuchsfrei. (In der Vergangenheit durchgeführte und nicht mehr rückgängig zu machende Tierversuche sind hier nicht einbezogen, dazu im folgenden Abschnitt mehr.)<\/p><p>Unternehmen, die ihre Produkte mit Begriffen wie „tierversuchsfrei“ oder „ohne Tierversuche“ bewerben, müssen allerdings mit rechtlichen Konsequenzen rechnen. Die Begründung der Behörden: Das sei Werbung mit Selbstverständlichkeiten – schließlich seien Tierversuche für Kosmetik und ihre Inhaltsstoffe doch verboten! Wie oben erläutert, ist dies jedoch so nicht wahr. Leider interessiert das die zuständigen Behörden nicht, da die Rechtslage aufgrund der REACH-Vorgaben, die Tierversuche weiterhin vorschreiben, so verworren ist. Hinzu kommt, dass nahezu jeder gängige Inhaltsstoff in der Vergangenheit an Tieren getestet wurde – oft schon vor Jahrzehnten und ohne Einfluss der Hersteller, die diese Substanzen heute verwenden. Das lässt sich leider nicht mehr rückgängig machen – doch heutzutage stehen Testmethoden zur Verfügung, die für den Menschen aussagekräftige Ergebnisse liefern und für die kein einziges Tier leiden muss.<\/p><p>Zusammen mit der steigenden Zahl an Unternehmen und Marken, die in die „PETA Approved“-Liste aufgenommen werden, setzen wir uns dafür ein, dass keine neuen Tierversuche durchgeführt werden – weder im Rahmen des REACH-Programms noch in Ländern wie China, die für importierte Produkte in vielen Fällen Tierversuche vorschreiben. Mit unserer Liste und dem Logo „PETA Approved Global Animal Test Policy“ sind Sie also auf der sicheren Seite. Die frühere Logo-Bezeichnung „cruelty-free“ wurde im Jahr 2019 aufgrund der genannten Problematik in „PETA Approved Global Animal Test Policy“ umbenannt.<\/p><p>Mit unserer Zertifizierung möchten wir Unternehmen und Marken größtmögliche Rechtssicherheit bieten. Auch wenn sie ihre Produkte rechtlich nicht als „tierversuchsfrei“ bezeichnen dürfen, ist eine „Zertifizierung nach PETA-Standards“ unproblematisch. Und diese Zertifizierung verlangt, dass die entsprechenden Unternehmen und Marken weltweit keine Tierversuche mehr durchführen, beauftragen oder in Kauf nehmen – gleiches gilt für deren Hersteller und Lieferanten. Sie sind also nach PETA-Anforderungen tierversuchsfrei.<\/p>"
+          }
+        },
+        "298379ad-aac9-4821-9782-d09ce4114104": {
+          "type": "question",
+          "settings": {
+            "title": "Woher weiß ich, dass diese Firmen wirklich keine Tierversuche durchführen?",
+            "text": "<p>Wenn ein Unternehmen seiner Kundschaft gegenüber etwas zusagt, steht seine Integrität auf dem Spiel. Wer ankündigt, Tierversuche abzuschaffen und schriftlich zusichert, keine solchen Versuche durchzuführen, wäre mit einem PR-Desaster konfrontiert, würden diese Aussagen als Lügen enttarnt.<\/p>"
+          }
+        },
+        "58eaf2a1-2579-475c-ae8c-594bf15ac598": {
+          "type": "question",
+          "settings": {
+            "title": "Was muss ein Unternehmen tun, um in die Liste „PETA-Approved“ aufgenommen zu werden?",
+            "text": "<p>Wenn ein Unternehmen daran interessiert ist, in unsere Liste „PETA-Approved“ aufgenommen zu werden, muss es einen umfangreichen Fragebogen ausfüllen. Außerdem muss es eine Zusicherungserklärung unterschreiben, die besagt, dass das Unternehmen weder selbst Tierversuche durchführt noch sie in Auftrag gibt oder dafür bezahlt. Und das betrifft nicht nur Versuche für das fertige Produkt, sondern auch für Inhaltsstoffe und Rezepturen. Das Unternehmen bestätigt mit dieser Erklärung außerdem, dass dies auch für die Zukunft gilt. Sind diese Voraussetzungen erfüllt, nimmt PETA das Unternehmen in die Liste auf.<\/p>"
+          }
+        },
+        "9300d114-91f3-4f7b-b5f5-d86cf6baef4b": {
+          "type": "question",
+          "settings": {
+            "title": "Wie häufig werden PETAs Produktlisten aktualisiert?",
+            "text": "<p>PETAs online veröffentlichte Unternehmenslisten zum Thema Tierversuche werden regelmäßig aktualisiert. Neue Unternehmen werden hinzugefügt oder gelöscht, wenn wir z. B. von einer entsprechenden Firmenpolitik erfahren. Oder auch, wenn ein Unternehmen seinen Betrieb einstellt. Ebenso werden die jeweiligen Kontaktdaten aktualisiert.<\/p>"
+          }
+        },
+        "24719e31-338a-437a-8085-0f6b3d323841": {
+          "type": "question",
+          "settings": {
+            "title": "Enthält PETAs Positiv-Liste auch einzelne tierversuchsfreie Marken?",
+            "text": "<p>Wir möchten den Menschen stets aktuelle und korrekte Informationen über tierversuchsfreie Produkte zur Verfügung stellen. Deshalb haben wir unsere Liste ab Oktober 2018 um einzelne tierversuchsfreie Marken erweitert – bis dahin waren nur Unternehmen aufgelistet, deren tierversuchsfreie Firmenpolitik auf alle eigenen Marken zutraf. Das bedeutete jedoch, dass Konsumenten nicht in der Lage waren, tierversuchsfreie Marken zu identifizieren, die von Unternehmen hergestellt werden, die noch nicht vollständig tierversuchsfrei sind.<\/p><p>Diese Veränderung veranschaulicht, wie weit wir gekommen sind, seit PETA im Jahr 1987 die erste solche Liste veröffentlichte! In den meisten Teilen der Welt werden Kosmetika nicht mehr an Tieren getestet. In einigen Ländern ist es sogar illegal. Und wir werden auch weiterhin unermüdlich daran arbeiten, den grausamen Vergiftungsversuchen in China, Russland und einigen anderen Ländern ein Ende zu setzen.<\/p>"
+          }
+        },
+        "17c4f2e9-1a34-4442-8f2e-638921a448be": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Arten von Firmen und Herstellern stehen auf PETAs Liste „PETA-Approved“?",
+            "text": "<p>Auf dieser Liste finden sich Firmen, die Kosmetika, Pflegeprodukte, Reinigungsmittel oder andere Haushaltsprodukte herstellen. Auch Produkte für unsere tierischen Mitbewohner, wie Tiernahrung oder Hundeshampoo, sind hier zu finden. Laut der EU-Kosmetikverordnung sind Tierversuche für Kosmetikprodukte eigentlich nicht zulässig – eigentlich. Denn es gibt Ausnahmen, wie Tests für die europäische Chemikalienverordnung REACH oder den Export nach China. In China sind Tierversuche für Kosmetika und andere Produkte häufig vorgeschrieben. Unternehmen, die sich auf unserer Liste „PETA-Approved“ befinden, umgehen solche Tierversuche: Sie haben sich bewusst dafür entschieden, Produkte herzustellen, ohne dass Tiere dafür in Experimenten leiden müssen. Produkte von Unternehmen, die nicht auf dieser Liste stehen, sollten nicht gekauft werden, bis eine Firmenpolitik eingeführt wird, die Tierversuche eindeutig untersagt.<\/p><p>Nicht in der Liste enthalten sind Unternehmen, die ausschließlich Produkte herstellen, für die Tierversuche gesetzlich vorgeschrieben sind (z. B. Pharmazeutika oder Pestizide). Wenngleich PETA selbstverständlich gegen alle Tierversuche ist, setzen wir uns in diesem Fall für eine Änderung der Gesetzgebung ein, statt den Fokus auf einzelne Unternehmen zu setzen. Dennoch ist es unerlässlich, Unternehmen immer wieder darauf hinzuweisen, dass auch sie eine Verantwortung tragen: Sie müssen die entsprechenden Behörden davon überzeugen, dass es bessere Mittel und Wege gibt, die Sicherheit eines Produktes festzustellen.<\/p><p>Alle Unternehmen, die auf unserer Liste „PETA-Approved“ stehen, haben eine Zusicherungserklärung unterschrieben und schriftlich zugesichert, dass weder das Unternehmen selbst noch seine Zulieferunternehmen Tierversuche durchführen, in Auftrag geben oder dafür bezahlen. Das bezieht sich sowohl auf das fertige Produkt als auch auf Inhaltsstoffe und Rezepturen.<\/p>"
+          }
+        },
+        "d89b022f-31aa-43f1-90ba-c450b5fc5c73": {
+          "type": "question",
+          "settings": {
+            "title": "Was findet man als User auf der PETA Approved Seite?",
+            "text": "<p>Unsere Seite „PETA Approved“ macht es Ihnen leicht, ein Zeichen gegen Tierversuche zu setzen: Hier finden Sie eine Liste von Unternehmen und Marken, die komplett tierversuchsfrei sind. Angefangen bei Kosmetik und Pflegeprodukten bis hin zu Tiernahrung und Haushaltsmitteln – alles ohne Tierversuche! Zudem gibt es viele Hintergrundinformationen zu den verschiedenen Kategorien: Gibt es überhaupt noch Tierversuche für Kosmetik? Wieso leiden Tiere für Tiernahrung in Laboren? „PETA Approved“ gibt Antworten zu diesen Fragen und hilft Ihnen dabei, Tierversuche bei Ihrem Einkauf zu vermeiden.<\/p>"
+          }
+        },
+        "abfa05a7-0a00-4c50-8b1d-3a9b377a052e": {
+          "type": "question",
+          "settings": {
+            "title": "Was hat die Liste zu bedeuten?",
+            "text": "<p>Unternehmen und Marken auf der Liste „PETA Approved“ haben uns über einen Fragebogen und eine Zusicherungserklärung bestätigt, dass sie komplett tierversuchsfrei sind – das bedeutet, dass sie Tierversuche weder durchführen noch in Auftrag geben oder in Kauf nehmen. Damit gehen unsere Kriterien über die lückenhafte Gesetzeslage hinaus und decken auch Schlupflöcher wie Tierversuche im Rahmen der REACH-Verordnung und des Exports nach China ab. <\/p>"
+          }
+        },
+        "f287dfdc-36ad-4241-8ca5-d38b2dcecdb0": {
+          "type": "question",
+          "settings": {
+            "title": "Was bedeutet das PETA-Logo „PETA Approved Global Animal Test Policy“?",
+            "text": "<p>Unternehmen und Marken auf der Liste „PETA Approved“ haben optional die Möglichkeit, das PETA-Logo „PETA Approved Global Animal Test Policy“ bzw. „PETA Approved Vegan Global Animal Test Policy“ auf ihren Produkten zu verwenden. So erkennen Konsument:innen auf den ersten Blick tierversuchsfreie und gegebenenfalls vegane Produkte.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16154992214282__6055ed44-862e-403a-ba14-8c7a7b6957e4-16667077332feb9862-0",
+        "template--16154992214282__6055ed44-862e-403a-ba14-8c7a7b6957e4-16667077332feb9862-1",
+        "298379ad-aac9-4821-9782-d09ce4114104",
+        "58eaf2a1-2579-475c-ae8c-594bf15ac598",
+        "9300d114-91f3-4f7b-b5f5-d86cf6baef4b",
+        "24719e31-338a-437a-8085-0f6b3d323841",
+        "17c4f2e9-1a34-4442-8f2e-638921a448be",
+        "d89b022f-31aa-43f1-90ba-c450b5fc5c73",
+        "abfa05a7-0a00-4c50-8b1d-3a9b377a052e",
+        "f287dfdc-36ad-4241-8ca5-d38b2dcecdb0"
+      ],
+      "settings": {
+        "title": "Häufig gestellte Fragen zu PETA Approved"
+      }
+    },
+    "c12ef789-730c-48db-a4be-f9ce3ff5747b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "VEGANE und nachhaltige Besteller",
+        "home_featured_products": "bestseller",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "166015036078a332ec": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "247eabef-f61e-4019-911e-5022b60fabde",
+    "22be6f92-0ca6-4f1a-a490-2f9052adf457",
+    "c783a59b-274e-4ce1-8e35-48dc4f20f6ee",
+    "556275b6-31af-4168-9b14-c8b6a1b66469",
+    "6055ed44-862e-403a-ba14-8c7a7b6957e4",
+    "c12ef789-730c-48db-a4be-f9ce3ff5747b",
+    "166015036078a332ec"
+  ]
+}

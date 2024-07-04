@@ -1,0 +1,224 @@
+{
+  "sections": {
+    "58372c13-dbcf-4e09-b7f3-a69e844af524": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bist du bereit für die pflegenste, sommerliche Erfrischung des Jahres?",
+        "title_size": 81,
+        "subheading": "Unsere limitierten Sommer Editionen der beliebten 3in1 Dusch-Fluffs starten bald in vier aufregenden Düften",
+        "link_text": "",
+        "link": "",
+        "color_accent": "#fd0d66",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b97f4ca77fbf46c082d4d39b7548054c.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "🌴 sichere dir deinen vip zugang!",
+            "heading_size": "h2",
+            "text": "<p><strong>Registriere dich unverbindlich zu unserem VIP Verkauf und sichere dir einen früheren Zugang zum Start der limitierten Sommer-Editionen <\/strong>🤩<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "06",
+            "day": "9",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Leider zu spät! Die Anmeldung zum exklusiven Vorverkaufszugang ist nicht mehr möglich. Du kannst aber dennoch  über den regulären Zugang ab Sonntag den 09.06.2024 10:00 Uhr zu unseren Sommer Editionen gelangen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#fdce0d",
+        "overlay_color": "#f91111",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "⏰ Die Nachfrage ist oft größer, als unser Produktkontingent. Sichere dir daher jetzt deinen Early-Access Zugang ⏰",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "1699613018be63b7dd": {
+      "type": "apps",
+      "blocks": {
+        "fb892762-74e3-4976-8d10-7db38c0d40dd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "U9J2qe"
+          }
+        }
+      },
+      "block_order": [
+        "fb892762-74e3-4976-8d10-7db38c0d40dd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "rich_text_qcTh6U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QKhmfn": {
+          "type": "heading",
+          "settings": {
+            "title": "🍓🍊🍍🥥"
+          }
+        },
+        "heading_zt8je7": {
+          "type": "heading",
+          "settings": {
+            "title": "Darum sind unsere 3in1 Dusch-Fluffs dein sommer-must-have 2024"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QKhmfn",
+        "heading_zt8je7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_Dusch-Fluff_Vorteile.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "ENDLICH SCHLUSS MIT KLEBRIGEN CREME-SITUATIONEN IM SOMMER!",
+        "title": "INTENSIVE FEUCHTIGKEIT OHNE KLEBEN UND SCHWITZEN",
+        "text": "<p>Wer kennt es nicht? Man möchte sich nach dem Duschen eincremen, aber dann fühlt sich die Haut plötzlich schwer, schwitzig und klebrig an, und die Kleidung haftet regelrecht an einem. Total unangenehm, ganz besonders im Sommer oder?<br\/><br\/><strong>Aber halt! Es gibt eine Lösung: Unsere 3in1 Dusch-Fluffs!<\/strong>Mit ihnen wird das Eincremen zum Kinderspiel. Während du duscht, wird deine Haut bereits mit reichlich Feuchtigkeit versorgt und gepflegt - ohne diesen lästigen, fettigen Film, den herkömmliche Cremes oft hinterlassen. Kein Kleben, kein Schwitzen, einfach reine Erfrischung und Pflege.<br\/><br\/>Also sag \"Auf Wiedersehen\" zu klebriger Haut und \"Hallo\" zu einem erfrischenden Duscherlebnis, das deine Haut verwöhnt und pflegt, ganz ohne lästiges Eincremen danach. Mit unseren 3in1 Dusch-Fluffs wird deine Haut im Handumdrehen geschmeidig und strahlend - und du kannst den Sommer in vollen Zügen genießen, ohne dich von klebrigen Creme-Resten aufhalten zu lassen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_3in1_Dusch-Fluff.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "SANFTES ZUCKERPEELING",
+        "title": "FÜR EINEN SONNENGEKÜSSTEN TEINT",
+        "text": "<p>Im Sommer streben wir alle nach diesem herrlichen, sonnengeküssten Teint, aber manchmal kann es schwierig sein, eine gleichmäßige Bräune zu erzielen. Besonders, wenn wir viel Sonnencreme verwenden, können verstopfte Poren und abgestorbene Hautzellen den Bräunungsprozess beeinträchtigen.<br\/><br\/><strong>Genau hier kommt unser 3in1 Dusch-Fluff ins Spiel!<\/strong>Sein sanftes Peeling reinigt die Haut gründlich und entfernt abgestorbene Hautzellen, sodass deine Haut frisch und bereit für eine gleichmäßige Bräune ist. Durch regelmäßiges Peeling werden verstopfte Poren befreit und Unreinheiten reduziert, was das Auftreten von Pickeln und Hautirritationen minimiert. Generell bräunt deine Haut besser, intensiver und gleichmäßiger, wenn sie von abgestorbenen Hautzellen befreit ist.<br\/><br\/>Mit unserem 3in1 Dusch-Fluff kannst du also ein erfrischendes Duscherlebnis genießen und gleichzeitig sicherstellen, dass deine Haut optimal auf das Sonnenbad vorbereitet ist. Freue dich auf eine strahlende und ebenmäßige Bräune, ohne Sorgen über verstopfte Poren oder Unreinheiten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_BTyGz8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_Dusch-Fluff_Inhaltsstoffe.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "BEUGE UNREINHEITEN VOR",
+        "title": "EINE ZARTE UND REINE KÖRPERHAUT AUCH IM SOMMER",
+        "text": "<p>Die meisten von euch kennen es. Besonders im Sommer entstehen viele kleine Unterlagerungen und Pickelchen, die sich immer weiter entzünden und größer werden.<\/p><p>Im Sommer neigt die Haut oft zu vermehrter Talgproduktion und verstopften Poren, insbesondere wenn wir Sonnencreme verwenden, vermehrt schwitzen und Kleidung am Körper reibt. Ganz schön nervig und schmerzhaft!<\/p><p><strong>Der 3in1 Dusch-Fluff bietet hier eine wirksame Lösung.<\/strong> Durch sein sanftes Peeling werden abgestorbene Hautzellen und Schmutzpartikel gründlich entfernt, wodurch verstopfte Poren vermieden werden. Dies hilft, das Auftreten von Unreinheiten wie Pickeln und Mitessern zu reduzieren. Mit dem 3in1 Dusch-Fluff kannst du deine Haut daher effektiv reinigen und pflegen, was zu einem klareren und ebenmäßigeren Hautbild führt. Freue dich auf einen sommerfrischen Teint ohne lästige Hautunreinheiten!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_H6BRdh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zJYjCJ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Darum sind unsere 3in1 Dusch-Fluffs",
+            "title": "besser als konventionelle Duschgele",
+            "title_size": 40,
+            "subheading": "Körperreinigung trocknet die Haut aus. Daher muss sie eingecremt werden. Feuchtigkeitspflege kann aber nur richtig wirken, wenn sie in die Haut eindringen kann. Abgestorbene Hautzellen blockieren diese Aufnahme. Der 3in1 Dusch-Fluff löst alle diese Probleme und entfaltet damit sein volles Potential! Noch während der Reinigung entfernen feine Zuckerpartikel Hautschuppen, sodass die integrierte Pflegephase optimal von der Haut aufgenommen werden kann.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Countdown_Bilder_Sommer_LE_24.png",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Mobile_Header_Sommer_LE.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 42
+          }
+        }
+      },
+      "block_order": [
+        "image_zJYjCJ"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "58372c13-dbcf-4e09-b7f3-a69e844af524",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "1699613018be63b7dd",
+    "rich_text_qcTh6U",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f",
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3",
+    "text_and_image_BTyGz8",
+    "slideshow_H6BRdh"
+  ]
+}

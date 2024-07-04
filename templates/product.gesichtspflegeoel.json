@@ -1,0 +1,546 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "darum ist unser Öl",
+        "title": "eine ausgezeichnete Option für die Gesichtspflege",
+        "text": "<p>Unser Gesichtspflegeöl ist eine ausgezeichnete Option, um die Haut mit intensiver Feuchtigkeit zu versorgen und sie gesund und strahlend aussehen zu lassen. Es dringt tief in die Haut ein und spenden ihr Feuchtigkeit, wodurch Trockenheit und Dehydrierung bekämpft werden. Die natürlichen Inhaltsstoffe wie Pflanzenölen und -Extrakte, sind reich an Vitaminen, Antioxidantien und essentiellen Fettsäuren und fördern die Hautgesundheit. Diese Öle können auch als Schutzbarriere dienen, um die Haut vor schädlichen Umwelteinflüssen zu schützen und vorzeitiger Hautalterung vorzubeugen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4884a26d03a149efa6df65b9b3adc0e0.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Aprikosenkernoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Antioxidativ & beruhigend",
+        "title": "Aprikosenkernöl",
+        "text": "<p>Es ist reich an Nährstoffen wie Fettsäuren und Vitaminen, die dazu beitragen, die Haut optimal zu pflegen. Einer der Hauptvorteile von Aprikosenkernöl ist seine intensive Feuchtigkeitsspende. Die reichhaltige Zusammensetzung hydratisiert die Haut tiefgehend, was zu einem weicheren und geschmeidigeren Hautgefühl führt.<br\/><br\/>Darüber hinaus wirkt Aprikosenkernöl entzündungshemmend und kann dazu beitragen, Hautreizungen und Entzündungen zu reduzieren. Dies macht es besonders nützlich bei Hautproblemen wie Akne oder Ekzemen. Dank seiner antioxidativen Eigenschaften, insbesondere des enthaltenen Vitamin E, kann das Öl auch helfen, die Haut vor schädlichen freien Radikalen zu schützen, was wiederum dazu beiträgt, den Alterungsprozess der Haut zu verlangsamen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Sonnenblume.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Reich an Vitamin E",
+        "title": "Sonnenblumenöl",
+        "text": "<p>Sonnenblumenöl ist reich an Vitamin E, einem starken Antioxidans, das die Haut vor schädlichen freien Radikalen schützt. Dies hilft, vorzeitige Hautalterung zu verhindern und die Haut gesund und strahlend zu erhalten. Die enthaltenen Fettsäuren und Nährstoffe unterstützen die natürliche Regeneration der Hautzellen und tragen dazu bei, die Hautstruktur zu verbessern. Dadurch wirkt die Haut frischer, straffer und jugendlicher. Sonnenblumenöl kann dazu beitragen, das Erscheinungsbild von Hautunreinheiten, Akne und Pigmentflecken zu reduzieren. Es fördert einen ebenmäßigen Teint und verleiht der Haut ein gesundes, strahlendes Aussehen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yMJLDA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_squalane.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "ein hautidentisches fett",
+        "title": "Squalane",
+        "text": "<p>Squalane ist eine natürliche Verbindung, die in der Haut vorkommt und als Feuchtigkeitsbarriere dient. Es bietet es eine intensive Feuchtigkeitsversorgung bis tief in die Haut. Dadurch wird die Haut weicher, glatter und geschmeidiger. Darüber hinaus bildet Squalane eine schützende Barriere, die hilft, Feuchtigkeit einzuschließen und die Haut vor Umweltschadstoffen sowie vor dem Verlust von Feuchtigkeit zu schützen. Dies ist besonders vorteilhaft für trockene und empfindliche Haut.<br\/><br\/>Squalane besitzt auch antioxidative Eigenschaften, die dazu beitragen, die Haut vor schädlichen freien Radikalen zu schützen, die durch UV-Strahlung und Umweltverschmutzung verursacht werden. Dies kann dazu beitragen, den Alterungsprozess der Haut zu verlangsamen und feine Linien und Falten zu reduzieren.  <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_bWgigF": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_vitamin_e.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "ein wichtiger Nährstoff für die Gesundheit der Haut",
+        "title": "vitamin e",
+        "text": "<p>Vitamin E unterstützt die Regeneration der Hautzellen und fördert die Bildung von Kollagen, einem wichtigen Protein für die Hautstruktur. Als starkes Antioxidans spielt Vitamin E eine entscheidende Rolle im Schutz der Haut vor den schädlichen Auswirkungen freier Radikale, die durch Umweltverschmutzung, UV-Strahlen und andere äußere Einflüsse entstehen können. Durch diesen Schutz kann Vitamin E dazu beitragen, vorzeitige Hautalterung zu verhindern und das Auftreten von feinen Linien, Falten und dunklen Flecken zu reduzieren. Vitamin E hat entzündungshemmende Eigenschaften. Dies macht es besonders nützlich bei der Behandlung von Akne und anderen entzündlichen Hauterkrankungen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_Uq78JD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Komedogenitaetsgrad.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "was ist bedeutet eigentlich",
+        "title": "Komedogenitätsgrad?",
+        "text": "<p>Der Komedogenitätsgrad ist ein Maß dafür, wie wahrscheinlich es ist, dass ein Hautpflegeprodukt die Poren verstopft und somit Mitesser oder Akne verursacht. Er wird oft auf einer Skala von 0 bis 5 bewertet, wobei 0 bedeutet, dass das Produkt nicht komedogen ist und die geringste Wahrscheinlichkeit besteht, dass es zu Hautunreinheiten führt, während 5 bedeutet, dass das Produkt sehr komedogen ist und die Poren stark verstopfen kann. <\/p><p><strong>Produkte mit einem niedrigen Komedogenitätsgrad sind tendenziell sicherer für diejenigen mit zu Akne neigender oder empfindlicher Haut, während solche mit einem höheren Grad bei diesen Hauttypen vermieden werden sollten.<\/strong><br\/><br\/>Es ist jedoch wichtig zu beachten, dass die Komedogenität eines Produkts von verschiedenen Faktoren abhängt, darunter die individuelle Hautreaktion, die Menge des Produkts, die aufgetragen wird, und die anderen Inhaltsstoffe in der Formel. <\/p><p><strong>Unsere Gesichtspflegeöle sind mit einem Grad von 2 gering komedogen.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_LGCFwm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_fette_oele_trockene_oele_koerperoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "was ist bedeutet eigentlich",
+        "title": "Trockene und fette Öle?",
+        "text": "<p>Trockene und fette Öle sind zwei Kategorien von Ölen, die basierend auf ihrer Zusammensetzung und ihren Eigenschaften unterschieden werden können:<br\/><br\/><strong>Trockene Öle werden schnell von der Haut aufgenommen und hinterlassen keinen fettigen Rückstand. <\/strong>Sie haben eine leichte Konsistenz und fühlen sich eher dünnflüssig an. Sie eignen sich gut für die Pflege von fettiger oder zu Unreinheiten neigender Haut, da sie nicht zusätzlich zur Hautfettung beitragen.<br\/><br\/><strong>Fette Öle haben eine reichhaltige Textur und hinterlassen auf der Haut einen spürbaren Fettfilm.<\/strong> Diese Öle sind besonders nährend und feuchtigkeitsspendend und eignen sich gut für trockene oder reife Hauttypen.<br\/><br\/><strong>Unsere Gesichtspflegeöle sind tendenziell trockene Öle mit einer leichten Textur.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist der Unterschied zwischen einem Gesichtspflegeöl und einer Gesichtscreme?",
+            "text": "<p>Gesichtspflegeöle enthalten eine Vielzahl von pflanzlichen Ölen, die tief in die Haut eindringen und sie intensiv pflegen können, während Gesichtscremes eine Mischung aus Ölen und Wasser enthalten, um Feuchtigkeit zu spenden und die Haut zu schützen.<\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Sind Gesichtspflegeöle für alle Hauttypen geeignet?",
+            "text": "<p>Ja, Gesichtspflegeöle können für alle Hauttypen geeignet sein, aber die Auswahl des richtigen Öls hängt oft vom individuellen Hauttyp und den Bedürfnissen ab.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Wie trage ich Gesichtspflegeöl richtig auf?",
+            "text": "<p>Trage einige Tropfen des Gesichtspflegeöls auf die saubere und trockene Haut auf und massiere es sanft ein, bis es vollständig eingezogen ist.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Gesichtspflegeöl auch unter meiner Tages- oder Nachtcreme verwenden?",
+            "text": "<p>Ja, Gesichtspflegeöle können als zusätzlicher Schritt vor der Tages- oder Nachtcreme verwendet werden, um die Haut mit zusätzlicher Feuchtigkeit zu versorgen und zu pflegen.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Vorteile bieten Gesichtspflegeöle gegenüber anderen Hautpflegeprodukten?",
+            "text": "<p>Gesichtspflegeöle können die Haut intensiv mit Feuchtigkeit versorgen, sie nähren, beruhigen und reparieren sowie einen natürlichen Glanz verleihen.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Können Gesichtspflegeöle bei fettiger Haut verwendet werden?",
+            "text": "<p>Ja, bestimmte leichte und nicht-komedogene Öle können auch bei fettiger Haut verwendet werden, um die Haut mit Feuchtigkeit zu versorgen und auszugleichen, ohne die Poren zu verstopfen.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich Gesichtspflegeöl verwenden?",
+            "text": "<p>Die Häufigkeit der Anwendung hängt von dem individuellen Hauttyp und den Bedürfnissen deiner Haut ab. Einige Menschen verwenden Gesichtspflegeöle täglich, während andere sie nur bei Bedarf verwenden.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Gesichtspflegeöl auch für empfindliche Haut verwenden?",
+            "text": "<p>Ja, unsere Gesichtspflegeöle enthalten natürliche Inhaltsstoffe, die auch für empfindliche Haut geeignet sind.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Enthalten Gesichtspflegeöle Duftstoffe?",
+            "text": "<p>Nein, unsere Gesichtsöle parfümieren wir nicht. <\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist die Haltbarkeit von Gesichtspflegeölen und wie sollte ich sie am besten aufbewahren?",
+            "text": "<p>Die Haltbarkeit von Gesichtspflegeölen kann je nach den enthaltenen Inhaltsstoffen variieren. In der Regel haben sie jedoch eine Haltbarkeit von 6 bis 12 Monaten. Lagere sie am besten an einem kühlen, trockenen Ort, vor direkter Sonneneinstrahlung geschützt und gut verschlossen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_p4Kcxj",
+        "question_wMaDab"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"Gesichtspflegeöle\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "das beste für deine haut und deine Umwelt",
+        "text": "<p>Gesichtspflegeöle sind für viele Menschen ein absolutes Must-Have in der Pflegeroutine und das aus gutem Grund. Leider sehe ich noch viel zu häufig Öle, die in Einwegplastik verpackt sind, obwohl das überhaupt nicht sein muss.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unser Gesichtspflegeöl kommt in einer Glasflasche mit einem Naturkorken daher. Die Verwendung von Glas statt Kunststoff reduziert die Umweltbelastung durch Plastik und ermöglicht das Recycling und die Wiederverwendung der Flasche. Glas ist zudem eine umweltfreundliche Verpackungsalternative, da es weder Schadstoffe abgibt noch die Qualität des Inhalts beeinträchtigt. Der Naturkorken, der die Flasche verschließt, ist ebenfalls eine nachhaltige Wahl. Kork wird aus der Rinde der Korkeiche gewonnen, ohne den Baum zu schädigen, da die Rinde nachwächst. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Öle wirken übrigens besser, wenn die haut gepeelt ist. unsere peel-off masken passen optimal dazu!",
+        "home_featured_products": "peel-off-masken",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_G8efbn",
+    "text_and_image_aQ6RB3",
+    "text_and_image_yMJLDA",
+    "text_and_image_bWgigF",
+    "text_with_icons_MK3AR6",
+    "text_and_image_Uq78JD",
+    "text_and_image_LGCFwm",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

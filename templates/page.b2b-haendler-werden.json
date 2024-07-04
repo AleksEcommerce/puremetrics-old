@@ -1,0 +1,274 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "2df40c03-0da9-4200-9110-a7dbf8aad6f3": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18166614655242__2df40c03-0da9-4200-9110-a7dbf8aad6f3-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "unser online-shop speziell für unsere businesskund:innen",
+            "heading": "direkt bei uns bestellen",
+            "textarea": "KONTAKTIERE UNS FÜR DEINEN B2B ZUGANG",
+            "cta_text1": "",
+            "cta_link1": "mailto:annika@puremetics.de",
+            "cta_text2": "",
+            "cta_link2": "shopify:\/\/pages\/kontakt",
+            "image": "shopify:\/\/shop_images\/puremetics_Banner_0bd64abb-0d08-4b1e-a490-cb006de98d1c.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18166614655242__2df40c03-0da9-4200-9110-a7dbf8aad6f3-advanced-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "170507367574b61331": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_KchM3C": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "UDcjx7"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_KchM3C"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "abd45520-6cca-4d92-9b7a-43a8d2fa640b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166614655242__abd45520-6cca-4d92-9b7a-43a8d2fa640b-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Du bist auf der Suche nach einem unschlagbar sympathischen Lieferanten mit tollen, nachhaltigen Produkten?<\/strong><\/p>"
+          }
+        },
+        "c8b81162-e1ee-463d-9bf2-81a5930ed83e": {
+          "type": "heading",
+          "settings": {
+            "title": "Dann haben wir ein Match! :)"
+          }
+        },
+        "150f1dcd-0575-4192-b1b0-d42258e1aabe": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir sind immer auf der Suche nach neuen Händler:innen, die puremetics stationär anbieten und die Welt mit unseren nachhaltigen Lösungen besser machen möchten. Hierzu bieten wir dir spezielle Business-Konditionen, Aktionen, Staffelrabatte, einen separaten Download-Bereich für Stammdaten und Produktbilder und individuelle Beratung durch unsere Success-Manager:innen.<\/p>"
+          }
+        },
+        "1ed0ae2e-5c9b-401d-a21f-f4c45ba7f603": {
+          "type": "heading",
+          "settings": {
+            "title": "du hast drei möglichkeiten bei uns einzukaufen"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166614655242__abd45520-6cca-4d92-9b7a-43a8d2fa640b-text-1",
+        "c8b81162-e1ee-463d-9bf2-81a5930ed83e",
+        "150f1dcd-0575-4192-b1b0-d42258e1aabe",
+        "1ed0ae2e-5c9b-401d-a21f-f4c45ba7f603"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "7c7a5296-5650-45f6-9f98-006ce7c1f241": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18166614655242__7c7a5296-5650-45f6-9f98-006ce7c1f241-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Beste Wahl",
+            "heading": "Direkt bei uns",
+            "textarea": "Hier können wir dir den besten und schnellsten Service bieten. Du erhältst alles direkt von uns und musst nichts über Dritte klären. Du erhältst Zugang zu exklusiven Staffelrabatten, Aktionen und allen Artikeln.",
+            "cta_text1": "",
+            "cta_link1": "mailto:annika@puremetics.de",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz_02.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--18166614655242__7c7a5296-5650-45f6-9f98-006ce7c1f241-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "marktplatz",
+            "heading": "ankorstore",
+            "textarea": "Marktplätze bieten einige Vorteile. Du kannst Bestellungen bündeln, und Zahlungspausen einlegen. Beachte bitte, dass der Service und die Buchhaltung sowie die Abrechnung mit dem Marktplatz erfolgt, nicht durch uns!",
+            "cta_text1": "Zu Ankorstore",
+            "cta_link1": "https:\/\/www.ankorstore.com\/lift\/puremetics-9569",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Puremetics_AlleFotos_1311_Web.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "6b45d532-26a4-4bbd-a481-7839d8b41457": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "marktplatz",
+            "heading": "faire",
+            "textarea": "Marktplätze bieten einige Vorteile. Du kannst Bestellungen bündeln, und Zahlungspausen einlegen. Beachte bitte, dass der Service und die Buchhaltung sowie die Abrechnung mit dem Marktplatz erfolgt, nicht durch uns!",
+            "cta_text1": "Zu Faire",
+            "cta_link1": "https:\/\/puremeticsbusiness.faire.com",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Fussbad_blau.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18166614655242__7c7a5296-5650-45f6-9f98-006ce7c1f241-advanced-1",
+        "template--18166614655242__7c7a5296-5650-45f6-9f98-006ce7c1f241-advanced-2",
+        "6b45d532-26a4-4bbd-a481-7839d8b41457"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "f7f3f1f5-2e44-4738-b8d6-d24852e80054": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mitarbeiterfotos_Freisteller_Hintergrund_Beige_Hauptbild_Annika.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Annika (Success Managerin)",
+        "title": "Den besten Service direkt bei uns",
+        "text": "<p>Ich bin Annika und sorge gemeinsam mit dir, dass puremetics auch in deinem Geschäft ein Hit wird! Den besten Service kann ich dir bieten, wenn du direkt bei uns einkaufst. Außerdem profitierst du von unserer kostenlosen Mediathek, Zugang zu Downloads und Stammdaten, direkten Versand von uns zu dir und einer besseren Beratung, da unsere Systeme auf Erfolg programmiert sind und viele Tools enthalten, die uns Marktplätze nicht bieten.  Spannende Neuzugänge, unsere Newsletter mit Angeboten und Aktionen und Beigabeartikel kannst du nur bei uns erhalten.<\/p><p>Gerne berate ich dich persönlich und erstelle dir einen kostenlosen Zugang zu unseren separaten Business-Online Store. <\/p><p>annika@puremetics.de<\/p><p>+49 (0) 1578 - 30 34 95 4<\/p>",
+        "button_label": "",
+        "button_link": "mailto:annika@puremetics.de",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c67341e6-4d7e-4933-8772-09e8fc8c24e6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166614655242__c67341e6-4d7e-4933-8772-09e8fc8c24e6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Das benötige ich von dir für deinen Business-Zugang"
+          }
+        },
+        "template--18166614655242__c67341e6-4d7e-4933-8772-09e8fc8c24e6-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Deine Zeit ist wertvoll, das weiß ich. Daher sende mir gerne folgende Daten und Dokumente, damit ich deinen Zugang umgehend einrichten kann.<\/p>"
+          }
+        },
+        "06d0eefc-3b76-4022-8cc2-2273fad32d28": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<ul><li>Unternehmensname<\/li><li>Vor- und Nachnamen<\/li><li>E-Mail Adresse<\/li><li>Telefonnummer<\/li><li>Rechnungsanschrift<\/li><li>Lieferanschrift<\/li><li>Gewerbenachweis<\/li><\/ul>"
+          }
+        },
+        "bc219a36-2b9f-4011-a21a-2e3a9e86db26": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Anschließend erhältst du eine E-Mail, in der du dein Kundenkonto bestätigen und ein persönliches Passwort vergeben musst. Somit ist dein Kund:innen-Konto eingerichtet und du kannst fröhlich losshoppen.<\/p>"
+          }
+        },
+        "f6715f3c-7915-4fde-a5b5-d99800ea620f": {
+          "type": "heading",
+          "settings": {
+            "title": "Informationen zum Business-online-shop"
+          }
+        },
+        "867d77a1-699d-4984-ba74-f973d2b69680": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Um zu unseren Businesskonditionen einkaufen zu können, benötigst du einen Zugang für<br\/>unseren Business-Online-Shop. Nachdem ich deinen Zugang eingerichtet habe, findest du hier auch alle Informationen zu: <\/p><ul><li>Produkten <\/li><li>EK, UVP, Staffelrabatte<\/li><li>Inhaltsstoffe<\/li><li>Anwendungs-Briefings<\/li><li>Bestseller<\/li><li>Zahlungs- und Versandbedingungen<\/li><li>News und Informationen  <\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166614655242__c67341e6-4d7e-4933-8772-09e8fc8c24e6-heading-1",
+        "template--18166614655242__c67341e6-4d7e-4933-8772-09e8fc8c24e6-text-1",
+        "06d0eefc-3b76-4022-8cc2-2273fad32d28",
+        "bc219a36-2b9f-4011-a21a-2e3a9e86db26",
+        "f6715f3c-7915-4fde-a5b5-d99800ea620f",
+        "867d77a1-699d-4984-ba74-f973d2b69680"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2df40c03-0da9-4200-9110-a7dbf8aad6f3",
+    "170507367574b61331",
+    "abd45520-6cca-4d92-9b7a-43a8d2fa640b",
+    "7c7a5296-5650-45f6-9f98-006ce7c1f241",
+    "f7f3f1f5-2e44-4738-b8d6-d24852e80054",
+    "c67341e6-4d7e-4933-8772-09e8fc8c24e6"
+  ]
+}

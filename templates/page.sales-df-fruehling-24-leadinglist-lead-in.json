@@ -1,0 +1,247 @@
+{
+  "sections": {
+    "slideshow_fqfCWe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XiQfnw": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special_DF-Fruehling_Shop_Banner_Landingpage_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special_DF-Fruehling_Shop_Banner_Landingpage_Mobile_ba7e6627-d705-4169-b471-acdd15e827f5.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_XiQfnw"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "countdown_YACPUy": {
+      "type": "countdown",
+      "blocks": {
+        "content_GxMPGb": {
+          "type": "content",
+          "settings": {
+            "heading": "Lass den frühling bei dir einziehen!",
+            "heading_size": "h2",
+            "text": "<p>Sichere dir jetzt deinen exklusiven Zugang! Registriere dich und du kannst dir eine Stunde vor allen anderen die limitierte Dusch-Fluff Frühlings Edition sichern. Verpasse nicht diese Chance!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_knjA4t": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "03",
+            "day": "16",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": "<p>Leider zu spät! Die Anmeldung ist nicht mehr möglich. Du kannst dir aber dennoch unsere neue Dusch-Fluff Frühlings Edition ab Sonntag den 17.03.2024 um 10:00 Uhr sichern.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_GxMPGb",
+        "timer_knjA4t"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#18c386",
+        "overlay_color": "#18c386",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "17098747951765a514": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_8Q3cjC": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Tkwrw4"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_8Q3cjC"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "03a16069-1d4d-4031-9614-cd3c141ae26f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18220441731338__03a16069-1d4d-4031-9614-cd3c141ae26f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Sehnst du dich auch nach dem erfrischenden Hauch des Frühlings?"
+          }
+        },
+        "text_fPfFQ8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Frühlingssorten sind eine Hommage an diese wundervolle Jahreszeit und bringen die erfrischende Lebendigkeit und den Duft des Frühlings direkt zu dir nach Hause.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18220441731338__03a16069-1d4d-4031-9614-cd3c141ae26f-heading-1",
+        "text_fPfFQ8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_nALkm7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_09_Chris_Cosma_puremetics_GmbH.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO & Co-Founder)",
+        "title": "Diese Freude war meine Inspiration",
+        "text": "<p>Stell dir vor, wie die ersten Knospen sprießen, die Blumen blühen und die Natur in einem bunten Farbenmeer erstrahlt. Unsere Frühlingssorten sind eine Hommage an diese wundervolle Jahreszeit und bringen die erfrischende Lebendigkeit und den Duft des Frühlings direkt zu dir nach Hause.<\/p><p>Die Inspiration für diese Kollektion schöpfte ich aus der Sehnsucht nach Frische und Erneuerung, die der Frühling mit sich bringt. Nach der Dunkelheit des Winters war ich von dem Verlangen erfüllt, die ersten zarten Anzeichen des Frühlings zu erfassen und in meinen Produkten widerzuspiegeln. Die lebendigen Farben, die erfrischende Luft und die erwachende Natur dienten als Quelle der Inspiration für die Auswahl der Düfte. Jede Note wurde sorgfältig ausgewählt, um die Atmosphäre und den Zauber des Frühlings einzufangen und den Kunden ein unvergleichliches Dufterlebnis zu bieten.<\/p><p><strong>Mit unserer Frühlingsedition, die die zarten Aromen von Flieder, dem lebendigen Garten im Frühling, der lieblichen Lindenblüte und dem frisch gemähten Rasen einfängt, kannst du den Frühling direkt in dein Badezimmer bringen.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b1132a56-31da-45c9-80c1-dec3485d3ab2": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "leicht & elegant",
+        "title": "Flieder",
+        "text": "<p>Der Duft von Flieder ist eine Symphonie aus zarten, blumigen Noten, die die Sinne umhüllen und eine Atmosphäre der Leichtigkeit und Eleganz schaffen. Die süßen und leicht pudrigen Aromen des Flieders erinnern an einen warmen Frühlingsnachmittag, wenn die zarten lila Blüten in voller Pracht erblühen. Es ist ein Duft, der Erinnerungen weckt und die Vorfreude auf die warme Jahreszeit hervorruft. Flieder verströmt eine sanfte Frische und eine subtile Süße, die einen Hauch von Romantik und Frühling in die Luft zaubert.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/51de7cf9eac84745844aa73d521bbebd.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "4b6e780e-9137-4875-ab37-7513dd32635f": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "süß & zart",
+        "title": "Lindenblüte",
+        "text": "<p>Der Duft von Lindenblüte ist eine wundervolle Mischung aus süßen, blumigen und honigartigen Noten, die eine sanfte und beruhigende Atmosphäre schaffen. Die Lindenblüte verströmt einen zarten, lieblichen Duft, der an warme Frühlings- und Sommertage erinnert, wenn die Luft von dem betörenden Aroma der blühenden Lindenbäume erfüllt ist. Die süßen, honigähnlichen Nuancen verleihen dem Duft eine beruhigende und einladende Qualität, während die blumigen Noten eine leichte Frische und Leichtigkeit hinzufügen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ec2915251e634104aaf5e84590e44532.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "7f662e18-e5bf-4a89-989f-0a51b840ffba": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "lebendig & frisch",
+        "title": "frühlingsgarten",
+        "text": "<p>Der Duft von Frühlingsgarten ist eine lebendige und frische Komposition, die die Vorfreude auf die warme Jahreszeit einfängt. Es ist, als würde man durch einen blühenden Garten spazieren, umgeben von einer Vielzahl von blumigen Aromen und frischen Grünnoten. Frühlingsgarten verströmt einen Hauch von Frische, der an den Tau auf den Blättern und die aufsteigende Sonne erinnert. Die blumigen Noten bringen die lebhafte Energie und Schönheit des Frühlings zum Ausdruck, während die grünen Akkorde eine natürliche Vitalität und Reinheit verleihen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5d480588c8524814bcf050af60bb79f5.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "6531e3f0-1472-4846-aa84-109adcd53bfa": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "belebend & rein",
+        "title": "frisch gemähter rasen",
+        "text": "<p>Der Duft von frisch gemähtem Rasen ist ein belebender und erfrischender Duft, der die Frische und Reinheit der Natur einfängt. Es ist, als würde man durch einen grünen Garten spazieren, während der Rasen gerade frisch gemäht wurde. Der Duft ist von einer klaren, grünen Frische geprägt, die an die saftigen Blätter und Halme erinnert. Es mischen sich zarte, erdige Noten mit einem Hauch von Zitrusfrische, die eine belebende und lebendige Atmosphäre schaffen. Der Duft von frisch gemähtem Rasen weckt Erinnerungen an warme Frühlingstage im Freien und lädt dazu ein, die belebende Energie der Natur zu genießen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f5dad8c81afb43ecba8a3ecee658d099.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "e3445833-0a77-48b3-8f70-c22531b80aba": {
+      "type": "text-with-icons",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz_02.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Darum sind unsere",
+        "title": "vorverkaufslisten so wichtig",
+        "text": "<p>Sie helfen uns enorm in der Planung unserer Produktionsabläufe und damit, auch eben diese Abläufe nachhaltiger zu gestalten. Viele Unternehmen entsorgen jährlich Tonnenweise Saisonartikel, was wir natürlich umgehen wollen.<\/p><p><strong>Gemeinsam können wir es besser machen. Für uns und unsere Umwelt!<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_fqfCWe",
+    "countdown_YACPUy",
+    "17098747951765a514",
+    "03a16069-1d4d-4031-9614-cd3c141ae26f",
+    "text_and_image_nALkm7",
+    "b1132a56-31da-45c9-80c1-dec3485d3ab2",
+    "4b6e780e-9137-4875-ab37-7513dd32635f",
+    "7f662e18-e5bf-4a89-989f-0a51b840ffba",
+    "6531e3f0-1472-4846-aa84-109adcd53bfa",
+    "e3445833-0a77-48b3-8f70-c22531b80aba",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f"
+  ]
+}

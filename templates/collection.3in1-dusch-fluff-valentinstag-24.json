@@ -1,0 +1,175 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "ee0777cc-cb23-44c5-b3ed-38c45cf564c0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18166263152906__ee0777cc-cb23-44c5-b3ed-38c45cf564c0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "bald ist valentinstag!",
+            "heading_size": "h1",
+            "text": "<p>Feiere die Liebe mit unseren verführerischen Pärchen der 3in1 Dusch-Fluffs<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--18166263152906__ee0777cc-cb23-44c5-b3ed-38c45cf564c0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "02",
+            "day": "13",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": false,
+            "text": "<p><strong>Denk dran: Heute ist Valentinstag!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263152906__ee0777cc-cb23-44c5-b3ed-38c45cf564c0-content-1",
+        "template--18166263152906__ee0777cc-cb23-44c5-b3ed-38c45cf564c0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffbaa7",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "58dddccc-c0ca-4d6d-b6bb-e050c4ab3977": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166263152906__58dddccc-c0ca-4d6d-b6bb-e050c4ab3977-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "nur für kurze zeit und nur so lange der vorrat reicht!"
+          }
+        },
+        "49050246-abcd-41c6-90ba-f424950a6ea3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Diese Valentinstagsedition ist streng limitiert und exklusiv für kurze Zeit erhältlich. Sichere dir das perfekte Geschenk für dich und deine Liebsten, solange der Vorrat reicht.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263152906__58dddccc-c0ca-4d6d-b6bb-e050c4ab3977-heading-1",
+        "49050246-abcd-41c6-90ba-f424950a6ea3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 3,
+            "rows_per_page": 3,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "text_columns_ccaafa": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_KmXAUK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_bWNfRM": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Osterei1.png",
+            "image_mask": "none",
+            "image_width": 230,
+            "title": "Ei EI Ei was seh ich da..",
+            "text": "<p>Klicke auf das Bild und schaue in deinem Warenkorb nach, welcher Rabatt in dein Osternest gehüpft ist.<\/p>",
+            "button_label": "",
+            "button_link": "https:\/\/puremetics.de\/discount\/K%25C3%25BCken10"
+          }
+        },
+        "text_block_GxMd3g": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_KmXAUK",
+        "text_block_bWNfRM",
+        "text_block_GxMd3g"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "0fa853fc-f28d-4acd-9c52-a751b5a04038": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "entdecke noch mehr nachhaltige highlights mit amore",
+        "home_featured_products": "valentinstag",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "ee0777cc-cb23-44c5-b3ed-38c45cf564c0",
+    "58dddccc-c0ca-4d6d-b6bb-e050c4ab3977",
+    "main-collection",
+    "text_columns_ccaafa",
+    "0fa853fc-f28d-4acd-9c52-a751b5a04038"
+  ]
+}

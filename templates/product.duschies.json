@@ -1,0 +1,550 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich hatte das Glück, die Duschies vor ihrer offiziellen Markteinführung ausprobieren zu dürfen, und ich bin absolut begeistert! Das Duschgel ist so cremig und verwandelt sich sofort in einen reichhaltigen Schaum, der meine Haut herrlich weich und gepflegt hinterlässt. Ich kann die Duschies nur wärmstens empfehlen und freue mich schon darauf, sie weiterhin zu verwenden!\" - Lena S. via Fragebogen"
+          }
+        },
+        "0045d8a6-4ca2-4bc6-9212-588979dafc80": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "c6dcc857-c4a1-44b8-9dda-fb807f8eac24": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "9bdfef20-88f6-47b2-b0da-78c3d846a25c": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "eb97c311-91b7-4447-8618-37153f5ca129": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "b78e6c45-f315-4408-9f96-112e07fed2f7": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum produkt?",
+            "phone": false
+          }
+        },
+        "3619d036-15ca-4c11-bfed-2fca7504d357": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "0045d8a6-4ca2-4bc6-9212-588979dafc80",
+        "variant_picker",
+        "c6dcc857-c4a1-44b8-9dda-fb807f8eac24",
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "9bdfef20-88f6-47b2-b0da-78c3d846a25c",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8",
+        "eb97c311-91b7-4447-8618-37153f5ca129",
+        "b78e6c45-f315-4408-9f96-112e07fed2f7",
+        "3619d036-15ca-4c11-bfed-2fca7504d357"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_TGQJTG": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Dein neuer Favorit für die SchaumDusche!",
+        "title": "Nährendes Hydroduschgel für kuschelzarte Haut",
+        "text": "<p>Mit Duschies machst du die richtige Wahl für deine tägliche Duschroutine. Die nachhaltigen Duschhighlights der neuen Generation sind praktisch platzsparend, auslaufsicher, umweltfreundlich und gut zu deiner Haut. Durch ihre innovative Formel, frei von Silikonen, Sulfate und Plastik bieten sie eine schonende Reinigung und intensive Pflege zugleich. <\/p><p>Duschies ersetzen bis zu zwei herkömmliche Duschgelflaschen und bestehen zu über 95% aus natürlichen Inhaltsstoffen und einer intensiven Pflegephase.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1591fd9779074d47bb7414036a7bd3dc.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "rich_text_6BhhTG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YncgVA": {
+          "type": "heading",
+          "settings": {
+            "title": "Nährend und feuchtigkeitsspendend"
+          }
+        },
+        "text_RzwLjB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Duschies sind nährend für die Haut, da sie aus hochwertigen natürlichen Inhaltsstoffen wie Rosenhydrolat und Mandelöl hergestellt sind. Diese Inhaltsstoffe wirken feuchtigkeitsspendend und beruhigend auf die Haut, sodass sie nach der Reinigung weich und geschmeidig bleibt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YncgVA",
+        "text_RzwLjB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_video_text_R4MwKE": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Manufaktur Unikate",
+        "title": "Mit Liebe von Hand gefertigt",
+        "text": "<p>Unsere Duschies werden mit Liebe von Hand im schonenden Kaltverfahren hergestellt und gepresst. Diese handgefertigten Produkte sind daher im Vergleich zur industriellen Massenproduktion in Form und Farbe etwas unterschiedlich und nicht makellos glatt. <\/p><p>Doch genau diese individuelle Note macht jedes Duscherlebnis einzigartig und verleiht jedem Duschie seinen eigenen Charme. Jedes Stück ist ein handgefertigtes Unikat, das mit Sorgfalt und Hingabe hergestellt wird, um dir ein besonderes Duscherlebnis zu bieten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/21d4b0f312c649158c07c865b97b065d.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "7e6bbe89-c5af-4af8-bb1a-d93364fecfd9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_mandeloel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "eine ausgezeichnete Wahl für die Hautpflege",
+        "title": "Mandelöl",
+        "text": "<p>Mandelöl, ein Hauptbestandteil unserer Duschies, ist eine reichhaltige Quelle für Nährstoffe wie Vitamin E, A und D sowie für essentielle Fettsäuren wie Omega-3 und Omega-6. Diese Inhaltsstoffe spielen eine entscheidende Rolle für die Gesundheit und das Aussehen der Haut. Vitamin E beispielsweise wirkt als Antioxidans, das die Haut vor schädlichen freien Radikalen schützt und somit dazu beiträgt, vorzeitiger Hautalterung vorzubeugen.<br\/><br\/>Die Ölsäure in Mandelöl hilft dabei, Feuchtigkeit in der Haut zu speichern, indem sie die natürliche Lipidschicht der Haut unterstützt. Dies hilft, die Haut vor dem Austrocknen zu bewahren und sie weich und geschmeidig zu halten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634213101991484f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Rosenbluetenhydrolat.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "sanfte und dennoch wirksame Hautpflege",
+        "title": "Rosenblütenhydrolat",
+        "text": "<p>Im Gegensatz zu reinem Wasser, das häufig bei festen Pflegen verwendet wird, bietet Rosenblütenhydrolat eine Vielzahl von Vorteilen für die Haut, die über die reine Feuchtigkeitsversorgung hinausgehen. Es verfügt über hautberuhigende und entzündungshemmende Eigenschaften und kann dazu beitragen, die Haut wieder ins Gleichgewicht zu bringen.<br\/><\/p><p>Seine feuchtigkeitsspendende Wirkung hilft dabei, die Haut mit Feuchtigkeit zu versorgen und sie weich und geschmeidig zu halten. Dies ist besonders wichtig beim Duschen, da heißes Wasser, aber auch die Reingung selbst, die Haut austrocknen kann. Daher setzen wir mit unseren Duschies darauf, die Haut schon während der Dusche mit reichhaltigen Inhaltsstoffen zu schützen und zu pflegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634209607c9015f08": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Glycerin_Rosa.png",
+        "image_mask": "rounded",
+        "image2_mask": "rounded",
+        "subtitle": "FEUCHTIGKEITSBINDUNG FÜR LANG ANHALTENDE FRISCHE",
+        "title": "PFLANZLICHES GLYCERIN",
+        "text": "<p>Glycerin ist der unsichtbare Held, wenn es um die Bewahrung von Feuchtigkeit geht. Es bildet einen schützenden Film auf der Haut, der die Feuchtigkeit einschließt und so einen lang anhaltenden Effekt bietet. Glycerin trägt dazu bei, die Haut vor dem Austrocknen zu bewahren und schenkt ihr ein angenehmes, geschmeidiges Gefühl. In Kombination mit Mandelöl und Rosenblütenhydrolat wird deine Haut schon während der Reinigung, mit einer Extraportion Feuchtigkeit versorgt.<\/p><p>Studien legen nahe, dass Glycerin die Hautfeuchtigkeit erhöhen und den transepidermalen Wasserverlust verringern kann, was zu einer insgesamt hydratisierten und geschmeidigen Haut führt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_QTA8tk": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_GWrgBx": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_VA83JM": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_hRTe6X": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_3hQCbP": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfktioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_GWrgBx",
+        "text_block_VA83JM",
+        "text_block_hRTe6X",
+        "text_block_3hQCbP"
+      ],
+      "settings": {
+        "title": "Das puremetics versprechen",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "870b4035-d2e0-4e11-82c3-c70e112a7970": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Duschies_Schaum_Rosa.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "PH-Hautneutrale pflege und seifenfreie Reinigung",
+        "title": "darum sind die duschies keine seifen",
+        "text": "<p><strong>Feste Seifen <\/strong>und unsere Duschies haben einige Unterschiede, insbesondere in Bezug auf ihre Formulierung und Anwendung. Feste Seifen bestehen oft aus einer Mischung von Ölen und Natronlauge, die im Laugungsprozess zu festen Stücken geformt werden. <\/p><p><strong>Unsere Duschies<\/strong> hingegen werden nicht verseift, sondern vermischt und gepresst. Sie sind speziell als Hydro-Duschgel konzipiert und enthalten milde Tenside aus Kokosnuss, die für eine sanfte Reinigung sorgen. Sie sind in ihrer Anwendung ähnlich wie feste Seifen, da sie ebenfalls direkt auf die feuchte Haut aufgetragen und aufgeschäumt werden können. <br\/><br\/><strong>Ein wichtiger Unterschied<\/strong> ist der hautneutrale pH-Wert unserer Duschies, der darauf abzielt, den natürlichen pH-Wert der Haut um 5,5 zu respektieren und so Hautirritationen vorzubeugen. Feste Seifen hingegen können je nach Zusammensetzung einen höheren pH-Wert haben, was für manche Menschen mit empfindlicher Haut problematisch sein kann. Unsere Duschies sind daher besonders geeignet für Personen mit sensibler Haut, da sie eine schonende Reinigung ohne Austrocknen oder Irritationen bieten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_ikTDNY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO und Co-Founder)",
+        "title": "die nachhaltige Alternative zu herkömmlichen Duschgels",
+        "text": "<p>Bei puremetics vereinen wir Nachhaltigkeit mit Qualität. Dabei möchten wir ebenso Produkte anbieten, die Freude bereiten, begeistern und einfach Spaß machen. Wir haben für alle Bedürfnisse eine passende, umweltfreundliche Alternative zu herkömmlichen Duschgelen. Denn zum Duschen wird nun wirklich kein Plastik mehr benötigt.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere Duschies sind eine umweltfreundliche Wahl, da sie Verpackungsmüll und aufgrund ihres leichten Gewichts CO2 im Vergleich zu konventionellen Duschgelen reduzieren. Sie bestehen zu einem Großteil aus natürlichen, biologisch abbaubaren Inhaltsstoffen und sind frei von Silikonen, Sulfaten und Plastik, was ihre Umweltverträglichkeit weiter erhöht. Sie werden nur in recyclebaren Papier eingeschlagen. Durch ihre feste Form sind sie zudem ergiebiger als flüssige Duschgels und können mehrere herkömmliche Duschgelflaschen ersetzen, was ebenfalls zu weniger Verpackungsmüll führt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "163420357348263aa0": {
+      "type": "faq",
+      "blocks": {
+        "163420357348263aa0-0": {
+          "type": "question",
+          "settings": {
+            "title": "Sind die Duschies für alle Hauttypen geeignet?",
+            "text": "<p>Ja, unsere Duschies sind für alle Hauttypen geeignet,<br\/>einschließlich empfindlicher Haut, da sie frei von Silikonen, Sulfaten und<br\/>Plastik sind und einen hautneutralen pH-Wert haben.<\/p>"
+          }
+        },
+        "163420357348263aa0-1": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Duschies auch für die Haare verwenden?",
+            "text": "<p>Nein, wir empfehlen dies nur in Ausnahmefällen für einen kurzen Zeitraum zu machen und vorher zu testen, wie der Duschie hier reagiert. Unsere Duschies wurden für die Körperpflege kreiert, nicht für die Haarwäsche. <\/p>"
+          }
+        },
+        "2601e901-2d7a-4ce6-9e31-93ac57a6516f": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Duschies auch für die Gesichtsreinigung verwenden?",
+            "text": "<p>Nein, wir empfehlen dies nur in Ausnahmefällen für einen kurzen Zeitraum zu machen und vorher zu testen, wie der Duschie hier reagiert. Unsere Duschies wurden für die Körperpflege kreiert, nicht für die Gesichtsreinigung. <\/p>"
+          }
+        },
+        "a4419ea2-ac08-4692-b973-386221e16992": {
+          "type": "question",
+          "settings": {
+            "title": "Können die Duschies auf Reisen mitgenommen werden?",
+            "text": "<p>Ja, die Duschies eignen sich ideal für Reisen, da sie<br\/>kompakt und leicht sind und keine Flüssigkeiten enthalten.<\/p>"
+          }
+        },
+        "2319f256-8c0e-4182-b516-5a0887214cfd": {
+          "type": "question",
+          "settings": {
+            "title": "Wie werden die Duschies hergestellt?",
+            "text": "<p>Unsere Duschies werden unter Verwendung hochwertiger<br\/>natürlicher Inhaltsstoffe in einem schonenden Herstellungsverfahren in unserer Manufaktur in Hannover mit Liebe von Hand produziert. Dabei werden sie keinerlei Hitze ausgesetzt, sodass das Maximum der Pflegestoffe enthalten bleibt.<\/p>"
+          }
+        },
+        "ed2882af-cb6a-4746-aa31-93e2aa7c5078": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält ein Duschie?",
+            "text": "<p>Die Haltbarkeit eines Duschies hängt von der Häufigkeit und<br\/>Intensität der Nutzung ab. Bei regelmäßiger Anwendung kann ein Duschie etwa 30 bis 40 Duschgänge<\/p>"
+          }
+        },
+        "4d7e1c8a-bfa6-4c08-bbb4-b4de7036ab60": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Duschies verwenden, wenn ich schwanger bin oder stille?",
+            "text": "<p>Ja, wir empfehlen in der Schwangerschaft und Stillzeit unsere Sensibelchenserie, die frei von Duftstoffen und Allergenen ist.<\/p>"
+          }
+        },
+        "question_PRhWXC": {
+          "type": "question",
+          "settings": {
+            "title": "Eignen sich die Duschies auch für Kinderhaut?",
+            "text": "<p>Ja, unsere Duschies sind besonders sanft und schonend<br\/>formuliert und daher auch für Kinder ab 3 Jahre geeignet.<\/p>"
+          }
+        },
+        "question_Pe7bUd": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Duschies auch bei Neurodermitis und Akne verwenden?",
+            "text": "<p>Ja, unsere Duschies sind für die Anwendung bei Neurodermitis und Akne geeignet, da sie frei von reizenden Inhaltsstoffen wie Silikonen, Sulfaten und Parfümen sind. Ihre milde Formulierung und der hautneutrale pH-Wert machen sie schonend für empfindliche und zu Akne neigende Haut. <\/p><p>Dennoch empfehlen wir bei spezifischen Hautproblemen immer, vor der Verwendung eines neuen Produkts einen Hautarzt zu konsultieren.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163420357348263aa0-0",
+        "163420357348263aa0-1",
+        "2601e901-2d7a-4ce6-9e31-93ac57a6516f",
+        "a4419ea2-ac08-4692-b973-386221e16992",
+        "2319f256-8c0e-4182-b516-5a0887214cfd",
+        "ed2882af-cb6a-4746-aa31-93e2aa7c5078",
+        "4d7e1c8a-bfa6-4c08-bbb4-b4de7036ab60",
+        "question_PRhWXC",
+        "question_Pe7bUd"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGer ZUM THEMA \"3in1 dusch-konfekten\". HIER SIND DIE ANTWORTEN dazu 💚"
+      }
+    },
+    "23d907bf-716c-4711-9507-8bed60a93e5e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "😍 Du möchtest deine Dusche nachhaltig gestalten? Wir haben auch die passende Haarpflege für dich 😍",
+        "home_featured_products": "shampoos-conditioner-kuren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_T4LEp3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "💚 Die perfekte ergänzung zu deinen duschies - Unsere praktischen accessoires 💚",
+        "home_featured_products": "accessoires",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_TGQJTG",
+    "rich_text_6BhhTG",
+    "background_video_text_R4MwKE",
+    "7e6bbe89-c5af-4af8-bb1a-d93364fecfd9",
+    "1634213101991484f1",
+    "1634209607c9015f08",
+    "text_with_icons_QTA8tk",
+    "870b4035-d2e0-4e11-82c3-c70e112a7970",
+    "text_and_image_ikTDNY",
+    "163420357348263aa0",
+    "23d907bf-716c-4711-9507-8bed60a93e5e",
+    "featured_collection_T4LEp3",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

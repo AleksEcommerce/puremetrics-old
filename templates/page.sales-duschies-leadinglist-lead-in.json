@@ -1,0 +1,228 @@
+{
+  "sections": {
+    "58372c13-dbcf-4e09-b7f3-a69e844af524": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bist du bereit für ein ganz besonderes und schaumiges Duschvergnügen?",
+        "title_size": 81,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "#fd0d66",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1591fd9779074d47bb7414036a7bd3dc.mp4",
+        "overlay_opacity": 26,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "Erlebe Eine neue Generation der Festen Duschpflege",
+            "heading_size": "h2",
+            "text": "<p><strong>Registriere dich unverbindlich zu unserem Vorverkauf, sichere dir deine Lieblings-Duschies und erhalte ein besonderes und exklusives Geschenk zum Start <\/strong>🤩<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "05",
+            "day": "26",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Leider zu spät! Die Anmeldung zum exklusiven Vorverkaufszugang ist nicht mehr möglich. Du kannst aber dennoch  über den regulären Zugang ab Sonntag den 26.05.2024 10:00 Uhr zu unseren Duschies gelangen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#fdae0d",
+        "overlay_color": "#f91111",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "⏰ Die Nachfrage ist oft größer, als unser Produktkontingent. Sichere dir daher jetzt deinen Early-Access Zugang ⏰",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "1699613018be63b7dd": {
+      "type": "apps",
+      "blocks": {
+        "fb892762-74e3-4976-8d10-7db38c0d40dd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "TEvssu"
+          }
+        }
+      },
+      "block_order": [
+        "fb892762-74e3-4976-8d10-7db38c0d40dd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01_puremetics_Dooshie_Set.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Mit Mandelöl und Rosenblütenhydrolat",
+        "title": "Nährendes, festes Hydro-Duschgel",
+        "text": "<p>Unsere Duschies geben deiner Haut und der Umwelt die liebevolle Pflege, die sie verdienen! Das feste, nährende Hydroduschgel reinigt und verwöhnt deine Haut mit einem seidig-cremigen Pflegeschaum und beschützt sie mit nährendem Mandelöl. <\/p><p>Hergestellt aus einer sanften Mischung natürlicher Inhaltsstoffe wie <strong>Kokosnusstensiden, Rosenblütenwasser, Mandelöl und Glycerin, <\/strong>kombinieren unsere \"Duschies\" Reinigung und intensive Pflege für gesunde und kuschelzarte Haut in einem Produkt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_RxGPe4": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_Jt6hxC": {
+          "type": "text_block",
+          "settings": {
+            "icon": "ribbon",
+            "title": "Einzigartige Formulierung",
+            "text": "<p>Im Gegensatz zu konventionellen Duschgelen, die meist aus über 80% Wasser bestehen, enthalten Duschies nur 5% Wasser – das bedeutet mehr Pflege und weniger Füllstoff.<\/p>"
+          }
+        },
+        "text_block_aABUVG": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "Pflegend",
+            "text": "<p>Die Kombination aus Rosenhydrolat und Mandelöl sorgt für eine intensive Feuchtigkeitsversorgung und schützt die Haut vor dem Austrocknen.<\/p>"
+          }
+        },
+        "text_block_Gq4N3i": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "Umweltfreundlich",
+            "text": "<p>Duschies sind nachhaltig in recyclebaren Papier eingeschlagen. Sie ersetzen zwei bis drei herkömmliche Duschgelflaschen und reduzieren so Plastikmüll.<\/p>"
+          }
+        },
+        "text_block_imkNw3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "trophy",
+            "title": "HautSchutzbarriere",
+            "text": "<p>Duschies bestehen zu über 95% aus natürlichen Inhaltsstoffen und sind frei von Silikonen, Sulfaten und Plastik. Dank des hautneutralen pH-Werts respektieren sie die natürliche Schutzbarriere Deiner Haut. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Jt6hxC",
+        "text_block_aABUVG",
+        "text_block_Gq4N3i",
+        "text_block_imkNw3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#fdae0d",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/07_puremetics_Dooshie_Sensiblechen_Vergleich.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "NÄHRT UND VERSORGT DEINE HAUT MIT FEUCHTIGKEIT",
+        "title": "EIN SEIDENZARTES DUSCHERLEBNIS",
+        "text": "<p>Duschies respektieren die Hautschutzbarriere, weil sie aus milden, natürlichen Inhaltsstoffen hergestellt werden, die die Haut nicht austrocknen oder reizen. Sie enthalten kein aggressives Sulfate oder Silikone, die die natürliche Schutzschicht der Haut angreifen könnten. Stattdessen pflegen sie mit sanften Tensiden aus Kokosnuss, feuchtigkeitsspendendem Glycerin und nährenden Ölen wie Mandelöl. Ihr hautneutraler pH-Wert sorgt dafür, dass die Haut in ihrem natürlichen Gleichgewicht bleibt, was besonders wichtig ist, um die Hautschutzbarriere zu erhalten und zu stärken.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_H6BRdh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zJYjCJ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Darum sind unsere Duschies",
+            "title": "besser als konventionelle Duschgele",
+            "title_size": 69,
+            "subheading": "Unsere Duschies bieten gegenüber konventionellen Duschgelen mehrere Vorteile. Sie bestehen zu 95% aus pflegenden, natürlichen Inhaltsstoffen und nur zu 5% aus Wasser. Im Vergleich dazu enthalten herkömmliche Duschgele oft über 80% Wasser. Das bedeutet, dass unsere Duschies viel konzentrierter sind und deine Haut mit wertvollen, natürlichen Pflegestoffen versorgen, anstatt sie mit unnötigen Füllstoffen zu belasten. So erhältst du eine reichhaltigere und intensivere Pflege, die gleichzeitig umweltfreundlicher ist.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/01puremetics_Duschies-Moodbild-Schaumparty.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/01puremetics_Duschies-Moodbild-Schaumparty_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 42
+          }
+        }
+      },
+      "block_order": [
+        "image_zJYjCJ"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "58372c13-dbcf-4e09-b7f3-a69e844af524",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "1699613018be63b7dd",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f",
+    "text_with_icons_RxGPe4",
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3",
+    "slideshow_H6BRdh"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "8239c160-6997-4a40-9f2f-fcc932453e9a": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17885933830410__8239c160-6997-4a40-9f2f-fcc932453e9a-1685952745f33032b1-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Bald geht es los!",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Blue_Week_Sommer_2023_Shop_Banner_Dunkelblau_ohne_Button.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 520,
+            "text_size": 200,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17885933830410__8239c160-6997-4a40-9f2f-fcc932453e9a-1685952745f33032b1-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "e9c97673-d10a-4f7b-a842-801dc18d9ea4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17885933830410__e9c97673-d10a-4f7b-a842-801dc18d9ea4-16859718462bffe151-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Du bist auf der Liste! 🥰"
+          }
+        },
+        "template--17885933830410__e9c97673-d10a-4f7b-a842-801dc18d9ea4-16859718462bffe151-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Deine Anmeldung war erfolgreich! Du gehörst zu den ersten Personen, die über wichtige Informationen und Updates unserer <strong>Summer Blue Week <\/strong>informiert werden. <\/p><p><\/p><p>Halte deine E-Mails im Auge und freue dich auf spannende Infos!<\/p><p><\/p><p>Dein puremetics Team 💚<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17885933830410__e9c97673-d10a-4f7b-a842-801dc18d9ea4-16859718462bffe151-0",
+        "template--17885933830410__e9c97673-d10a-4f7b-a842-801dc18d9ea4-16859718462bffe151-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "8239c160-6997-4a40-9f2f-fcc932453e9a",
+    "e9c97673-d10a-4f7b-a842-801dc18d9ea4"
+  ]
+}

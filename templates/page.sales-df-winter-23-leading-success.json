@@ -1,0 +1,116 @@
+{
+  "sections": {
+    "ad796ca8-af13-4bb1-8913-6644db6bf882": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18184301314314__ad796ca8-af13-4bb1-8913-6644db6bf882-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "herzlichen Glückwunsch!",
+            "title": "Deine Registrierung war erfolgreich",
+            "title_size": 80,
+            "subheading": "Wir werden dich informieren, sobald der Vorverkauf startet",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0227\/5013\/4336\/files\/puremetics_Winterediton_3in1_Dusch-Fluffs_Start.ics?v=1698416888",
+            "link_text": "im kalender speichern",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special-DF-Winter_23_Fluff-Apricose-vor-Baum.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__ad796ca8-af13-4bb1-8913-6644db6bf882-image-1"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "🎁 Die ersten 100 Kund:innen erhalten ein Überraschungs-Geschenk!",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "Sonntag den 05. November 09:00 Uhr",
+            "heading_size": "h2",
+            "text": "<p>Du bist beim exklusiven Kollektionsstart dabei und sicherst dir über unsere Start-Mail Express-Zugang.<\/p>",
+            "content_alignment": "center"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "11",
+            "day": "5",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Der Kollektions-Start hat bereits am 05.11.2023 um 09:00 Uhr begonnen. Jetzt aber schnell!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#000",
+        "background_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz_02.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Du bist der Wahnsinn!",
+        "title": "vielen dank 💚",
+        "text": "<p>Dass du dich in diese Liste eingetragen hast bedeutet uns sehr viel. Zum einen zeigt es uns, dass wir bei unserer Mission für das nachhaltige Badezimmer der Zukunft genau auf dem richtigen Weg sind. Zum anderen hilft es uns ungemein in der Planung unserer Produktionsabläufe und damit, auch eben diese Abläufe nachhaltiger zu gestalten.<\/p><p><strong>Wir wünschen dir viel Freude mit unserer diesjährigen Winterkollektion in der wieder viel Liebe steckt und hoffen, dass auch du sie wundervoll finden wirst.<\/strong><\/p>",
+        "button_label": "zurück zum shop",
+        "button_link": "https:\/\/www.puremetics.de",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "ad796ca8-af13-4bb1-8913-6644db6bf882",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "sections": {
+    "16606523838ffb1412": {
+      "type": "promo-grid",
+      "blocks": {
+        "ed66c740-7fd6-48ac-ad08-b7b44e51f623": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Streng Limitiert",
+            "heading": "Jetzt schnell Vorverkauf sichern!",
+            "textarea": "UND 26% RABATT ERHALTEN",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Kalender-von-vorne.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 600,
+            "text_size": 120,
+            "text_align": "vertical-bottom horizontal-left",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "e3506f9f-9aa2-49dc-9709-c755c2be7201": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "Die Anmeldung zum exklusiven Presale ist unverbindlich und verpflichtet nicht zum Kauf",
+            "link": "",
+            "label": "",
+            "color_tint": "#ff6d6d",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "ed66c740-7fd6-48ac-ad08-b7b44e51f623",
+        "e3506f9f-9aa2-49dc-9709-c755c2be7201"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "16606528577f5f82c4": {
+      "type": "advanced-content",
+      "blocks": {
+        "1660652857b92e2c97-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"klaviyo-form-RLEDTa\"><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1660652857b92e2c97-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16606524569fdec2db": {
+      "type": "rich-text",
+      "blocks": {
+        "166065245667afb775-0": {
+          "type": "heading",
+          "settings": {
+            "title": "ZERO-Waste-Kalender für Beautijunkies & Weltretter:innen"
+          }
+        },
+        "166065245667afb775-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Weihnachten kommt bekanntlich immer schneller als man denkt, oder? Deshalb geht unser Adventskalender schon ganz bald  in den Vorverkauf. <\/p><p><strong>DEINE VORVERKAUFSVORTEILE<\/strong><br\/><br\/>🎁 <strong>30€ geschenkt:<\/strong> Im Vorverkauf sparst du ganze 26 % auf deinen Kalender <\/p><p>🤩 <strong>Der Kalender ist streng limitiert<\/strong> und nur in einer kleinen Auflage verfügbar. Du kannst ihn dir im Vorverkauf schon vor allen anderen im Exklusiven Presale-Bereich sichern.<\/p><p>✨ <strong>24 Special-Editions<\/strong> unserer beliebten 3in1 Dusch-Fluffs als Minis.<\/p><p>🥳 <strong>Die Möglichkeit, deinen Favoriten in unser Standardsortiment zu wählen<\/strong> und damit dauerhaft verfügbar zu machen.<\/p><p><strong>Verliere deshalb keine Zeit<\/strong> und melde dich schon jetzt unverbindlich zu unserem Vorverkauf an.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166065245667afb775-0",
+        "166065245667afb775-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1660653151505dc0c6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_24-Mini-DF.jpg",
+        "subtitle": "schon Neugierig?",
+        "title": "das erwartet dich",
+        "text": "<p>🎄 100% plastikfreie & vegane Kosmetik<br\/>🎄 Clean Beauty ohne bedenkliche Inhaltsstoffe<br\/>🎄 24 Sondereditionen 3in1 Mini Dusch-Fluffs<br\/>🎄 Abstimmungszugang für deine Lieblingssorte<br\/>🎄 30€ Ersparnis im exklusiven Vorverkauf<br\/>🎄 Bepflanzbares Inlay zur Pflanzenanzucht<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "16606523838ffb1412",
+    "16606528577f5f82c4",
+    "16606524569fdec2db",
+    "1660653151505dc0c6"
+  ]
+}

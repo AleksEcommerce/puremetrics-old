@@ -1,0 +1,36 @@
+<script defer="defer">
+  if(typeof(Spurit) === 'undefined'){
+    var Spurit = {};
+  }
+  if(!Spurit.CountdownTimer){
+    Spurit.CountdownTimer = {};
+  }
+  if(!Spurit.CountdownTimer.snippet){
+    Spurit.CountdownTimer.snippet = {};
+  }
+  Spurit.CountdownTimer.snippet.shopHash = '817f3732edac42414246a72fabc41e23';
+  Spurit.CountdownTimer.snippet.signature = '1ae054a6dd57f15fb7a1663b484113c8';
+  Spurit.CountdownTimer.snippet.userId = '396819';
+  Spurit.CountdownTimer.snippet.cacheTimestamp = 1677593717;
+
+  {% assign page = template | split: '.' | first %}
+  {% if page == 'product' and product and product.id %}
+    Spurit.CountdownTimer.snippet.productId = {{ product.id }};
+
+    var variantStock = {};
+    {% for variant in product.variants %}
+        variantStock[{{- variant.id -}}] = {
+          id: {{ variant.id }},
+          inventory_quantity: {{ variant.inventory_quantity }},
+        };
+    {% endfor %}
+    Spurit.CountdownTimer.snippet.variants = Object.values(variantStock);
+
+  {% endif %}
+  {% if page == 'collection' and collection and collection.id %}
+  Spurit.CountdownTimer.snippet.collectionId = {{ collection.id }};
+  {% endif %}
+</script>
+
+    <script data-src="https://amaicdn.com/timer-app/common.js"></script>
+    <link href="https://amaicdn.com/timer-app/common.css" rel="stylesheet" type="text/css" media="all">

@@ -1,0 +1,849 @@
+{
+  "sections": {
+    "510d1217-c8d8-4c7d-9c23-c4175508e930": {
+      "type": "promo-grid",
+      "blocks": {
+        "9930d342-b62f-43c4-9d63-c4f43d2bce68": {
+          "type": "banner",
+          "settings": {
+            "heading": "❄ streng limitiert ❄",
+            "text": "Eine Reise durch die Vergangenheit und in die Zukunft mit 24 Sondererditionen",
+            "link": "",
+            "label": "",
+            "color_tint": "#3880e6",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "9930d342-b62f-43c4-9d63-c4f43d2bce68"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "8ef3e8ed-8347-4183-b27a-82f19dab9e82": {
+          "type": "text",
+          "settings": {
+            "text": "🔴 <b>Aus logistischen Gründen ist der Adventskalender nur allein bestellbar. Dein Warenkorb ist nicht mit anderen Artikel kombinierbar. Möchtest du weitere Produkte kaufen, so sind zwei Bestellungen notwendig.<\/b>"
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich hatte euren Kalender schon letztes Jahr und bin absolut begeistert gewesen! Dieses Jahr also auf jeden Fall nochmal! 💙\" - Alice via Instagram"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "60faa416-9140-4572-af2a-1336e12b9304": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "4c418923-dc70-44e6-bc48-32ce8bf38368": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100 % plastikfrei und vegan"
+          }
+        },
+        "dcc6385a-dc61-43ab-ba57-145851cc4df0": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Die beliebtesten Special Dusch-Fluffs als Minis"
+          }
+        },
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "text": "Streng limitiert, schnell sein lohnt sich"
+          }
+        },
+        "a54adf5f-6051-4fe5-85dd-ae6eacc402b4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "<b>VORVERKAUF: Versand erfolgt ab 01.11.2023<\/b>"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_55f9905d-513b-4cf5-941f-4fe885f67ab3.jpg"
+          }
+        },
+        "803a085e-2580-4e3e-956a-34ad4178efe1": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3d854db6-f5a8-416b-a308-2f56ee700063": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "67f0e65c-2e67-4f0c-80e2-fc834765bea3": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "df328069-cf74-4bb2-bb95-f6b63f2c797d": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "8ef3e8ed-8347-4183-b27a-82f19dab9e82",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "variant_picker",
+        "60faa416-9140-4572-af2a-1336e12b9304",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "4c418923-dc70-44e6-bc48-32ce8bf38368",
+        "dcc6385a-dc61-43ab-ba57-145851cc4df0",
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16",
+        "a54adf5f-6051-4fe5-85dd-ae6eacc402b4",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "803a085e-2580-4e3e-956a-34ad4178efe1",
+        "3d854db6-f5a8-416b-a308-2f56ee700063",
+        "67f0e65c-2e67-4f0c-80e2-fc834765bea3",
+        "df328069-cf74-4bb2-bb95-f6b63f2c797d"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "a16e13b2-addb-4c64-9cb4-0a5602b8b153": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_100_-Vegan_Flocken.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Nachhaltig",
+        "title": "ohne bedenkliche Inhaltsstoffe",
+        "text": "<p>Unser Dusch-Fluff ist vom Produkt bis zur Verpackung 100% plastikfrei und verzichtet auf bedenkliche Inhaltsstoffe, die dir oder unserer Umwelt schaden könnten. <\/p><p><br\/><em>,,Ich war auf der Suche nach einem Körperpeeling welches sowohl in der Kosmetik als auch bei der Verpackung ohne Plastik auskommt und bin hier auf den Dusch-Fluff gestoßen. Der Duft ist der Hammer und die Haut ist wirklich weich.<br\/>Kann mir den Dusch-Fluff gar nicht mehr wegdenken!\" - Johanna<\/em><br\/><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4f42905a-d627-46b6-b09a-4a1cedd1a671": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_03_Kalender.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "plastikfrei",
+        "title": "Unsere Dusch-Fluff Becher",
+        "text": "<p>Diese haben wir eigens für unsere Dusch-Fluffs entwickelt. Sie werden in Deutschland produziert und kommen dabei ganz ohne Plastik oder Bioplastikbeschichtung aus und halten deinen Dusch-Fluff dennoch frisch. Jedoch: Papier bleibt nun mal Papier. Bitte nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "aaa6553b-159d-4b9b-9289-e1f8861241f0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_01_Kalender.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "duschgel + peeling + lotion",
+        "title": "3in1 Allrounder",
+        "text": "<p>Das Coole am Dusch-Fluff? Du sparst nicht nur eine Menge Plastikmüll, sondern auch noch 3 übliche Produkte. Du hast also einen richtigen Allrounder im Bad und vereinst deine tägliche Pflege auch noch mit einem Peeling, das deine Haut schön weich hält.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "422fd901-0c33-411c-8dc4-77926b1755d9": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17926167888138__422fd901-0c33-411c-8dc4-77926b1755d9-16893414878ed3b252-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "klein aber (h)oho",
+            "heading": "eine winterliche Reise durch die Vergangenheit bis in die zukunft",
+            "textarea": "24 kleine Wunder erwarten dich und versüßen die Zeit bis zu den Feiertagen",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_Papacks_M_2023_Hintergrund-Banner-06-06-06_heller.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 420,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17926167888138__422fd901-0c33-411c-8dc4-77926b1755d9-16893414878ed3b252-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "9d47902a-2e89-4156-8cc4-7b8a4464b9f6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Chris_und_Hanna.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Hanna (Design) und Chris (CEO)",
+        "title": "Das war unsere Inspiration",
+        "text": "<p>Mit diesem Adventskalender wollten wir einen Grundsatzpfeiler unserer Werte vermitteln: <strong>„Klein aber Oho! Gemeinsam können wir Alles erreichen“!<\/strong> Die 3in1 Dusch-Fluff Minis ergeben zusammen einen besonderen Adventskalender und zusammen ergeben wir eine besondere Bewegung, die gemeinsam aktiv für eine bessere Zukunft einsteht. Viele unserer Werte haben wir in kleinen Icons weihnachtlich visualisiert. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d6e60cc8-f79d-41c8-ae31-fee80b2440f6": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Hochwertige Öle statt Füllstoffe! Unsere Rezepturen sind für eine optimale Pflege ausgelegt und verwöhnen deine Haut.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_65000.png",
+            "author": "WEICHE HAUT",
+            "author_info": "Hochwertige Pflege"
+          }
+        },
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wir sind nicht nur nachhaltig und Umweltfreundlich, sondern verlieren unseren Kernpunkt, die Skincare nicht aus den Augen.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_95000_28e1ceef-e860-43f6-bde7-e2a864645e6f.png",
+            "author": "SKINCARE",
+            "author_info": "Qualitätskosmetik"
+          }
+        },
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Viele Kreationen vereinen der Umwelt zuliebe mehrere Produkte in einem. Der Dusch-Fluff verbindet Reinigung, Peeling und Bodylotion.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_115000.png",
+            "author": "ALL IN ONE",
+            "author_info": "Spart Geld und Müll"
+          }
+        },
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Zeit für dich! Unsere Texturen, Düfte und Designs sollen aus der täglichen Hygiene eine ganz besondere Selbstachtungszeit machen.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_205000.png",
+            "author": "SELFCARE",
+            "author_info": "Zeit für dich"
+          }
+        }
+      },
+      "block_order": [
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-0",
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-1",
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-2",
+        "template--17926167888138__d6e60cc8-f79d-41c8-ae31-fee80b2440f6-16897679852c902e72-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "ab35ab74-5966-4c23-b82b-f178a0588b77": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Lager_1x1_RUND_e7b9e686-9675-4758-bca1-7a78e36b15ec.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Produkt und Verpackung",
+        "title": "100% PLASTIKFREI",
+        "text": "<p>Wir haben uns der Entwicklung alternativer Texturen, Verpackungen und Versandmaterialien verschrieben. Du kennst sicherlich das Sprichwort \"Eine gute Seele lebt in einem guten Tempel\"? Dasselbe gilt für unsere Produkte! Unsere hochwertige, umweltfreundliche Kosmetik gehört in Verpackungen mit denselben hohen Ansprüchen an unsere Nachhaltigkeitskriterien.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "cecb40e0-7927-4d38-827b-42a8c0b1c579": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_100_-Vegan_Flocken_9b54fdcd-11db-4f5b-b146-fadc1c85bbee.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "0% tierische Inhaltsstoffe",
+        "title": "100% VEGAN",
+        "text": "<p>Kein Tier sollte jemals für unsere Schönheit leiden müssen! Daher versichern wir dir, dass du bei uns ausschließlich 100% vegane Produkte findest wirst. Einen Anspruch, der auch für die Zukunft fest in unseren Werten verankert ist.<\/p><p>Du kannst also getrost in unserem gesamten Sortiment stöbern und wirst niemals tierische Inhaltsstoffe finden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "66e458ee-655a-4bb0-b44d-d15b0b4c9f74": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Petra-approved_rund.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Ohne Tierleid",
+        "title": "PETA APPROVED",
+        "text": "<p>puremetics ist auf PETAS offizielle Liste, tierversuchsfreier Kosmetik, Pflegeprodukte, Haushaltsmittel und mehr.<\/p><p>„PETA Approved“ ist das deutsche Äquivalent zum Programm „Beauty without Bunnies“ von PETA USA. Wir sammeln und teilen Informationen über tierversuchsfreie Unternehmen, Marken und Produkte, um Konsument:innen beim tierfreundlichen Einkauf zu unterstützen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b0abc041-e657-437d-8c8b-78d05d71fbe9": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Unsere Soli-Seife ist gut für deine Haut und deine Mitmenschen. Gemeinsam unterstützen wir deine Herzensprojekte. <\/p>",
+            "image": "shopify:\/\/shop_images\/Element_45000.png",
+            "author": "SOLI-SEIFEN",
+            "author_info": "Projekte unterstützen"
+          }
+        },
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Nur zusammen sind wir stark! Daher verstehen wir uns nicht als Unternehmen und euch als Kund:innen, sondern als Community.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_145000.png",
+            "author": "GEMEINSCHAFT",
+            "author_info": "Zusammen sind wir stark"
+          }
+        },
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>In unserer Manufaktur in Isernhagen bei Hannover produzieren wir mit viel Liebe wundervolle Kosmetik für dich und die Umwelt.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_175000.png",
+            "author": "HANDARBEIT",
+            "author_info": "Mit Liebe gemacht"
+          }
+        },
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Alle unsere Verpackungen sind recyclebar und auch hinter den Kulissen recyclen wir z.B. alte Kartons zu Füllmaterial.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_195000.png",
+            "author": "RECYCLEBAR",
+            "author_info": "Wertstoffkette nutzen"
+          }
+        }
+      },
+      "block_order": [
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-0",
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-1",
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-2",
+        "template--17926167888138__b0abc041-e657-437d-8c8b-78d05d71fbe9-16897679852c902e72-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "a7d1e9da-7fc0-47a4-9b27-5823b632be52": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Inlay_1x1_RUND.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Bepflanzbares Inlay",
+        "title": "UPCYCLING",
+        "text": "<p>Wir sind immer auf der Suche nach cleveren Kombi-Lösungen, um so wenig Müll wie nötig anfallen zu lassen. Daher kannst du viele unserer Verpackungen upcyclen. Das Inlay unseres Adventskalenders kannst du zum Beispiel im Frühjahr als Anzuchttöpfchen verwenden und später einpflanzen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d1e4ed97-9700-4956-9c79-caa344ca8c39": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Cleanhub.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Projekte unterstützen",
+        "title": "UMWELT",
+        "text": "<p>Wir unterstützen mit jeder Bestellung den Schutz der Meere! Ganz egal welcher Warenwert: Für jede Bestellung bergen wir ein ganzes Kilo Plastikmüll aus Küstenregionen und konnten die Meere bereits vor über 50 Tonnen Müll beschützen!<\/p><p>Wir gehen aber auch regelmäßig gemeinsam \"aufräumen\" und kooperieren mit verschiedenen Veranstaltern, um die Umwelt aktiv von Altlasten zu befreien.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "8836c535-1e3b-4655-9a0f-c716c36a7778": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Lenemsraum.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Projekte unterstützen",
+        "title": "LEBENSRAUM",
+        "text": "<p>Wir unterstützen auch weitere Projekte. So konnten wir mit der AGA Artenschutz beispielsweise über 5.000 Schildkrötenbabys retten oder verschiedene Tierheime und Gnadenhöfe mit unserer Soli-Seife unterstützen.<\/p><p>In Kooperation mit \"Tierärzte Ohne Grenzen\" können wir zudem Projekte auf der ganzen Welt fördern und Tieren medizinische Zuwendung zukommen lassen, die bisher aufgrund der Menschen ein sehr schweres Schicksal hatten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "19e8e778-35d7-415d-aae2-c2189fda1c4c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Aga_Rund_Flocken.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Schildkrötenbabys retten",
+        "title": "Artenschutz",
+        "text": "<p><strong>Birgit von der AGA erzählt: <\/strong>„Seit mehr als 200 Millionen Jahren durchqueren Meeresschildkröten die Weltmeere, doch heute sind alle sieben Meeresschildkrötenarten akut vom Aussterben bedroht. Der Schutz der Meeresschildkröten beginnt schon direkt am Niststrand, denn bereits die Kinderstuben dieser faszinierenden Meeresreptilien sind gefährdet. Dank der Unterstützung von puremetics konnten wir bereits mehr als 1.500 Schildkrötenbabys schützen, so dass sie nach dem Schlupf sicher das Meer erreicht haben. Ein sehr hoffnungsvoller Beitrag und wir freuen uns, dass puremetics diese wichtige Arbeit zum Schutz der Meeresschildkröten weiter unterstützt.“<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "171fda42-5e3b-4c18-9830-345b2947656d": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Viele Geschenke bestehen aus haufenweise Müll, um aus wenig Inhalt mit Folie und Co viel herzumachen. Mit puremetics schenkst du sinnvoll und nachhaltig, spannende und umweltfreundliche Produkte mit Spaßfaktor.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_55000.png",
+            "author": "SCHENKEN",
+            "author_info": "Nachhaltig und sinnvoll"
+          }
+        },
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wenn es doch nur diese eine Lösung für das Klimaproblem gäbe... Wir sind uns bewusst, dass wir unser Verhalten in vielen verschiedenen Bereich anpassen müssen und setzen bei puremetics genau dort an.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_125000.png",
+            "author": "KLIMA",
+            "author_info": "Aktiv gegen den Wandel"
+          }
+        },
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Neben unserer Mission sehen wir uns aber auch in der Pflicht, den Schaden rücksichtsloser Menschen zu begrenzen. Wir unterstützen mit Tatkraft, Reichweite und Goodies Umweltprojekte und gehen aktiv für eine bessere Welt auf die Straße.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_105000.png",
+            "author": "CLEAN UP",
+            "author_info": "Wir räumen auf"
+          }
+        },
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wir haben bisher 16,06 Tonnen CO2<br\/>mit GoGreen Produkte und Services durch weltweite, registrierte Klimaschutzprojekte aus. ausgeglichen. Ein Wert, mit dem mehr mehr als einmal mit einem Benziner um die Welt fahren könnte.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_155000.png",
+            "author": "GOGREEN",
+            "author_info": "Klimaneutraler Versand"
+          }
+        }
+      },
+      "block_order": [
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-0",
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-1",
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-2",
+        "template--17926167888138__171fda42-5e3b-4c18-9830-345b2947656d-16897679852c902e72-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "1633431800d646df46": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Teamfoto_Kalender.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "frohe festtage",
+        "title": "Mit 💙 Handgemacht",
+        "text": "<p>Mit viel Liebe zum Detail haben wir tatsächlich das ganze Jahr lang an diesem Schmuckstück gearbeitet und daher ist es uns eine <strong>Herzensangelegenheit<\/strong>, dass du<br\/>ihn ebenso lieben wirst wie wir.<\/p><p>Das gesamte puremetics Team wünscht dir viel Freude mit deinem Kalender und eine schöne Adventszeit. ✨<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1663575737c1afaab8": {
+      "type": "testimonials",
+      "blocks": {
+        "16635757379fc57604-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich liebe eure Fluffs, am Kalender hat mich jedoch besonders die Vielfalt der verschiedenen Produkte begeistert. Und die speziellen Düfte.<\/p>",
+            "author": "Cosima",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Mir hat einfach alles am Kalender gefallen! Ich habe mich jeden Tag total aufs Aufmachen gefreut! (Obwohl ich vorher schon gespoilert hatte was drin ist :-))<\/p>",
+            "author": "Anja",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Die vielen verschiedenen hochwertigen Produkte waren den Preis des Kalenders wirklich wert. Man hat gemerkt, dass viel Herzblut reingesteckt wurde in die Entwicklung und das Design des Kalenders und ich habe die Zero Waste Option für nach der Weihnachtszeit sehr geliebt.<\/p>",
+            "author": "Josephine",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p> Ich finde es super, dass die Nachhaltigkeit im Fokus stand. Das dezente Design sorgt dafür, dass er sich auch als Geschenk für Mann und Frau mit verschiedensten Geschmäckern eignet.<\/p>",
+            "author": "Petra",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ihr habt es geschafft meine Vorfreude wieder herauszuholen. Ich fühlte mich jeden Morgen wieder wie ein kleines Kind, das es kaum erwarten konnte das nächste Türchen zu öffnen. <\/p>",
+            "author": "Kerstin",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "16635757379fc57604-0",
+        "16635757379fc57604-1",
+        "16635757379fc57604-2",
+        "16635757379fc57604-3",
+        "16635757379fc57604-4"
+      ],
+      "settings": {
+        "title": "🌟 SO SCHÖN WARS IM LETZTEN JAHR 🌟",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#164573"
+      }
+    },
+    "16334319871db119f1": {
+      "type": "faq",
+      "blocks": {
+        "16334319871db119f1-0": {
+          "type": "question",
+          "settings": {
+            "title": "Diese Produkte sind im Kalender enthalten",
+            "text": "<p>Türchen 1: MINI: 3in1 Dusch-Fluff 'Bratapfel' mit Zuckerpeeling<br\/><br\/>Türchen 2: MINI: 3in1 Dusch-Fluff ‘Vanillekipferl’<br\/><br\/>Türchen 3: MINI: 3in1 Dusch-Fluff ‘Creme’<br\/><br\/>Türchen 4: MINI: 3in1 Dusch-Fluff ‘Rosengarten’<br\/><br\/>Türchen 5: MINI: 3in1 Dusch-Fluff ‘Zitrone Vanille’<br\/><br\/>Türchen 6: MINI: 3in1 Dusch-Fluff ‘Schokolade’<br\/><br\/>Türchen 7: MINI: 3in1 Dusch-Fluff ‘Frisch gemähter Rasen’<br\/><br\/>Türchen 8: MINI: 3in1 Dusch-Fluff ‘Pumpkin Pie Spice’<\/p><p>Türchen 9: MINI: 3in1 Dusch-Fluff ‘Coconut Cream’<br\/><br\/>Türchen 10: MINI: 3in1 Dusch-Fluff ‘Apfelblüte’<br\/><br\/>Türchen 11: MINI: 3in1 Dusch-Fluff ‘Mango Pfirisch’<br\/><br\/>Türchen 12: MINI: 3in1 Dusch-Fluff ‘Sunmilk’<br\/><br\/>Türchen 13: MINI: 3in1 Dusch-Fluff ‘Gurke Minze’<br\/><br\/>Türchen 14: MINI: 3in1 Dusch-Fluff ‘Orange Zimt’<br\/><br\/>Türchen 15: MINI: 3in1 Dusch-Fluff ‘Aprikose Vanille’<br\/><br\/>Türchen 16: MINI: 3in1 Dusch-Fluff ‘Flieder’<br\/><br\/>Türchen 17: MINI: 3in1 Dusch-Fluff ‘Pink Grapefruit’<br\/><br\/>Türchen 18: MINI: 3in1 Dusch-Fluff ‘Lindenblüte’<br\/><br\/>Türchen 19: MINI: 3in1 Dusch-Fluff ‘Stone’<br\/><br\/>Türchen 20: MINI: 3in1 Dusch-Fluff ‘Erdbeere’<br\/><br\/>Türchen 21: MINI: 3in1 Dusch-Fluff ‘Frühlingsgarten’<br\/><br\/>Türchen 22: MINI: 3in1 Dusch-Fluff ‘Wassermelone’<br\/><br\/>Türchen 23: MINI: 3in1 Dusch-Fluff ‘Rhababer Spritz’<br\/><br\/>Türchen 24: MINI: 3in1 Dusch-Fluff ‘Macadamiamilch’<\/p><p> <\/p>"
+          }
+        },
+        "e0f1f699-c29b-4d02-89d1-6bacb4eb2035": {
+          "type": "question",
+          "settings": {
+            "title": "Diese Inhaltsstoffe sind im Kalender enthalten",
+            "text": "<p><strong>Türchen 1:<\/strong> <strong>MINI: 3in1 Dusch-Fluff 'Bratapfel' mit Zuckerpeeling<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, EUGENOL, LIMONENE.<br\/><br\/><strong>Türchen 2: MINI: 3in1 Dusch-Fluff ‘Vanillekipferl’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE.<br\/><br\/><strong>Türchen 3: MINI: 3in1 Dusch-Fluff ‘Creme’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE.<br\/><br\/><strong>Türchen 4: MINI: 3in1 Dusch-Fluff ‘Rosengarten’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, DAUCUS CAROTA SATIVA JUICE, BETA VULGARIS ROOT JUICE, CITRIC ACID.<br\/><br\/><strong>Türchen 5: MINI: 3in1 Dusch-Fluff ‘Zitrone Vanille’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, CITRUS LIMON FRUIT OIL, LIMONENE, AROMA, VANILLIN.<br\/><br\/><strong>Türchen 6: MINI: 3in1 Dusch-Fluff ‘Schokolade’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, THEOBROMA CACAO SEED EXTRACT, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, BENZYL BENZOATE.<br\/><br\/><strong>Türchen 7: MINI: 3in1 Dusch-Fluff ‘Frisch gemähter Rasen’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, CITRONELLOL, LIMONENE, COUMARIN, LINALOOL, GERANIOL, CITRAL, HEXYL CINAMAL, CITRONELLOL, KONZENTRAT (MALTODEXTRIN, SACCHAROSESIRUP, SAFLOR, SPIRULINA, ZITRONENSÄURE).<br\/><br\/><strong>Türchen 8: MINI: 3in1 Dusch-Fluff ‘Pumpkin Pie Spice’<\/strong><br\/>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE.<\/p><p><br\/><strong>Türchen 9: MINI: 3in1 Dusch-Fluff ‘Coconut Cream’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, BENZYL BENZOATE, COUMARIN.<br\/><br\/><strong>Türchen 10: MINI: 3in1 Dusch-Fluff ‘Apfelblüte’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE.<br\/><br\/><strong>Türchen 11: MINI: 3in1 Dusch-Fluff ‘Mango Pfirisch’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE.<br\/><br\/><strong>Türchen 12: MINI: 3in1 Dusch-Fluff ‘Sunmilk’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, BENZYL ALCOHOL.<br\/><br\/><strong>Türchen 13: MINI: 3in1 Dusch-Fluff ‘Gurke Minze’<\/strong><\/p><p>MARIS SAL, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, MALTODEXTRIN, CARTHAMUS TINCTORIUS CALLUS EXTRACT, SPIRULINA PLATENSIS POWDER, CITRIC ACID, MENTHOL.<br\/><br\/><strong>Türchen 14: MINI: 3in1 Dusch-Fluff ‘Orange Zimt’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, LIMONENE, EUGENOL.<br\/><br\/><strong>Türchen 15: MINI: 3in1 Dusch-Fluff ‘Aprikose Vanille’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, BENZYL ALCOHOL.<br\/><br\/><strong>Türchen 16: MINI: 3in1 Dusch-Fluff ‘Flieder’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, KONZENTRAT (MALTODEXTRIN, HIBISKUS, KAROTTE, ZITRONENSÄURE).<br\/><br\/><strong>Türchen 17: MINI: 3in1 Dusch-Fluff ‘Pink Grapefruit’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, LIMONENE, KONZENTRAT (MALTODEXTRIN, ROTE BEETE, KAROTTE, CITRONENSÄURE, ASCORBINSÄURE).<br\/><br\/><strong>Türchen 18: MINI: 3in1 Dusch-Fluff ‘Lindenblüte’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, LINALOOL, KONZENTRAT (MALTODEXTRIN, SAFLOR, ZITRONE, ZITRONENSÄURE).<br\/><br\/><strong>Türchen 19: MINI: 3in1 Dusch-Fluff ‘Stone’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE.<br\/><br\/><strong>Türchen 20: MINI: 3in1 Dusch-Fluff ‘Erdbeere’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, BENZYL ALCOHOL, KONZENTRAT (MALTODEXTRIN, ROTE BEETE, KAROTTE, CITRONENSÄURE, ASCORBINSÄURE).<br\/><br\/><strong>Türchen 21: MINI: 3in1 Dusch-Fluff ‘Frühlingsgarten’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, CITRONELLOL, KONZENTRAT (MALTODEXTRIN, SACCHAROSESIRUP, SAFLOR, SPIRULINA, ZITRONENSÄURE).<br\/><br\/><strong>Türchen 22: MINI: 3in1 Dusch-Fluff ‘Wassermelone’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, BENZYL ALCOHOL, KONZENTRAT (MALTODEXTRIN, ROTE BEETE, KAROTTE, CITRONENSÄURE, ASCORBINSÄURE).<br\/><br\/><strong>Türchen 23: MINI: 3in1 Dusch-Fluff ‘Rhababer Spritz’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, KONZENTRAT (MALTODEXTRIN, ROTE BEETE, KAROTTE, SAFLOR, ZITRONE, CITRONENSÄURE, ASCORBINSÄURE).<br\/><br\/><strong>Türchen 24: MINI: 3in1 Dusch-Fluff ‘Macadamiamilch’<\/strong><\/p><p>SUCROSE, GLYCERIN, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, COCOS NUCIFERA OIL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM CHLORIDE, LEVULINIC ACID, POTASSIUM SORBATE, PARFUM, BENZYL BENZOATE.<\/p><p> <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16334319871db119f1-0",
+        "e0f1f699-c29b-4d02-89d1-6bacb4eb2035"
+      ],
+      "settings": {
+        "title": "🚨 SPOILER ALARM 🚨"
+      }
+    },
+    "166384194442e14cf5": {
+      "type": "rich-text",
+      "blocks": {
+        "16638419449b219b7d-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>*Kostenloser Versand in Deutschland und Österreich <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">(Andere Versandzonen)<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16638419449b219b7d-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "510d1217-c8d8-4c7d-9c23-c4175508e930",
+    "main",
+    "a16e13b2-addb-4c64-9cb4-0a5602b8b153",
+    "4f42905a-d627-46b6-b09a-4a1cedd1a671",
+    "aaa6553b-159d-4b9b-9289-e1f8861241f0",
+    "422fd901-0c33-411c-8dc4-77926b1755d9",
+    "9d47902a-2e89-4156-8cc4-7b8a4464b9f6",
+    "d6e60cc8-f79d-41c8-ae31-fee80b2440f6",
+    "ab35ab74-5966-4c23-b82b-f178a0588b77",
+    "cecb40e0-7927-4d38-827b-42a8c0b1c579",
+    "66e458ee-655a-4bb0-b44d-d15b0b4c9f74",
+    "b0abc041-e657-437d-8c8b-78d05d71fbe9",
+    "a7d1e9da-7fc0-47a4-9b27-5823b632be52",
+    "d1e4ed97-9700-4956-9c79-caa344ca8c39",
+    "8836c535-1e3b-4655-9a0f-c716c36a7778",
+    "19e8e778-35d7-415d-aae2-c2189fda1c4c",
+    "171fda42-5e3b-4c18-9830-345b2947656d",
+    "1633431800d646df46",
+    "1663575737c1afaab8",
+    "16334319871db119f1",
+    "166384194442e14cf5",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

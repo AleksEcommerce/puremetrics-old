@@ -1,0 +1,590 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürliche Frische",
+        "title": "Die Wirksamkeit unserer Deo-Sticks",
+        "text": "<p>Unsere Deo-Sticks wirken auf natürliche Weise, dank einer kraftvollen Kombination aus hochwertigen Inhaltsstoffen. Das Bio-Babassuöl und die Bio-Sheabutter pflegen und beruhigen deine Haut, während Natron und Kieselerde unerwünschte Gerüche neutralisieren und für langanhaltende Frische sorgen. Der Zusatz von Magnolienrindenextrakt verleiht unserem Deo-Stick eine zusätzliche antibakterielle Wirkung und unterstützt effektiv den Schutz vor Geruchsbildung. Zusammen schaffen diese Inhaltsstoffe ein zuverlässiges Deodorant, das deine Achseln pflegt und den ganzen Tag lang Frische bietet.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b078a7e44e184f3da346b41479020c46.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_APkTMP": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Babassuoel_6ed8b0e4-8dac-4957-87e4-0cd914d38843.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "pflege & Geschmeidigkeit",
+        "title": "Bio-Babassuöl",
+        "text": "<p>Bio-Babassuöl ist ein wertvolles Bestandteil unseres Deo-Sticks, bekannt für seine feuchtigkeitsspendenden Eigenschaften und seine Fähigkeit, die Haut geschmeidig zu halten. Dieses natürliche Öl dringt leicht in die Haut ein und spendet Feuchtigkeit, ohne einen fettigen Rückstand zu hinterlassen. Es hilft dabei, die Haut unter den Achseln zu beruhigen und zu pflegen, insbesondere nach der Rasur oder bei empfindlicher Haut.  Seine leichte Textur macht es ideal für die Verwendung in Deodorants, da es ein angenehmes Gefühl hinterlässt und gleichzeitig schnell einzieht.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_sheabutter.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "feuchtigkeitsspendend & beschützend",
+        "title": "bio-Sheabutter",
+        "text": "<p>Bio-Sheabutter ist eine weitere wichtige Zutat in unserem Deo-Stick, die für ihre pflegenden und schützenden Eigenschaften bekannt ist. Sheabutter enthält natürliche Fette und Vitamine, die dabei helfen, die Haut zu beruhigen, zu hydratisieren und zu regenerieren. Ihre reichhaltige Textur bildet einen schützenden Film auf der Haut, der Feuchtigkeitsverlust verhindert und gleichzeitig eine natürliche Barriere gegen äußere Einflüsse bildet. Darüber hinaus hat Sheabutter entzündungshemmende Eigenschaften, die helfen können, Hautirritationen zu lindern und die Hautgesundheit zu verbessern. Die Kombination von Bio-Sheabutter mit anderen natürlichen Inhaltsstoffen macht unseren Deo-Stick zu einer wirksamen und gleichzeitig pflegenden Lösung für die tägliche Deodorant-Anwendung.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yMJLDA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Magnolienrindenextrakt.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "antibakteriellen & geruchshemmend",
+        "title": "Bio-Magnolienrindenextrakt",
+        "text": "<p>Bio-Magnolienrindenextrakt ist eine weitere wertvolle Zutat in unserem Deo-Stick, die für ihre antibakteriellen und geruchshemmenden Eigenschaften bekannt ist. Dieser Extrakt wird aus der Rinde der Magnolienbaumgewächse gewonnen und enthält bioaktive Verbindungen, die das Wachstum von geruchsbildenden Bakterien hemmen können. Durch die natürliche Hemmung von Bakterienwachstum hilft der Magnolienrindenextrakt, unangenehme Gerüche zu reduzieren und ein langanhaltendes Frischegefühl zu verleihen. Darüber hinaus wirkt Magnolienrindenextrakt auch beruhigend auf die Haut und kann dazu beitragen, Hautreizungen zu lindern, was besonders nach der Rasur oder bei empfindlicher Haut von Vorteil ist. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Natron_2.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "neutralisierend & geruchshemmend",
+        "title": "Natron & Kieselerde",
+        "text": "<p>Natron und auch Kieselerde sind für ihre geruchshemmenden Eigenschaften bekannt und helfen, unangenehme Gerüche zu neutralisieren. Natron gleicht die sauren Bedingungen unter den Achseln aus und hemmt somit das Wachstum geruchsbildender Bakterien. Durch seine natürliche pH-neutralisierende Wirkung trägt Natron dazu bei, das Milieu unter den Achseln weniger attraktiv für Bakterien zu machen, was zu einer langanhaltenden Frische führt.  In Kombination mit unseren anderen pflegenden Inhaltsstoffen macht das Natron unseren Deo-Stick zu einer wirksamen Lösung für zuverlässigen Schutz und Frische den ganzen Tag über.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_Uq78JD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_sonnenblumenwachs.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "heimisch & nachhaltig",
+        "title": "sonnenblumenwachs",
+        "text": "<p>Sonnenblumenwachs ist eine wertvolle Zutat in unserem Deo-Stick, die dazu beiträgt, die Textur des Produkts zu verbessern und seine Konsistenz zu stabilisieren. Es handelt sich um ein pflanzliches Wachs, dass eine ausgezeichnete Alternative zu Bienenwachs darstellt, weil es unserem Deo-Stick eine angenehme Textur verleiht und für ein geschmeidiges Auftragen sorgt. Die Verwendung von Sonnenblumenwachs macht unser Produkt vegan und umweltfreundlich, da es eine nachhaltige Alternative zu tierischen Wachsen bietet und heimisch ist.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_c7abGe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_deo_vs._anti_transpirant.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "wirkungsweisen",
+        "title": "deodorant vs. anti-transpirant",
+        "text": "<p><strong>Ein Deodorant <\/strong>zielt darauf ab, unangenehme Gerüche zu bekämpfen, die durch Bakterien verursacht werden, die sich auf der Haut vermehren. Es enthält desodorierende Inhaltsstoffe, die diese Bakterien bekämpfen und so Gerüche reduzieren oder verhindern. Sie enthalten normalerweise keine Inhaltsstoffe, die das Schwitzen selbst stark reduzieren. Stattdessen maskieren sie Gerüche oder bekämpfen die Ursache der Geruchsbildung.<br\/><br\/><strong>Ein Anti-Transpirant <\/strong>zielt darauf ab, übermäßiges Schwitzen zu reduzieren, indem es die Schweißdrüsen vorübergehend blockiert oder verengt. Dies geschieht in der Regel durch die Verwendung von Aluminiumverbindungen wie Aluminiumchlorid oder Aluminiumzirkoniumtetrachlorohydrex Glycinat.<br\/><\/p><p><strong>Während ein Deodorant nur Gerüche bekämpft, wirkt ein Anti-Transpirant direkt auf die Schweißproduktion, um das Schwitzen zu reduzieren oder zu verhindern.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_mfbPLc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_alaun_deo_kristall.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "keine gute alternative",
+        "title": "bedenklich: deo-kristalle",
+        "text": "<p>Wir werden häufig nach natürlichen Deo-Kristallen gefragt bzw. nach Alaun-Deos. Sie werden oft als natürliche Alternative zu herkömmlichen Deodorants beworben bestehen aber hauptsächlich aus Kaliumaluminiumsulfat. Obwohl Alaun-Deo-Kristalle kein Aluminiumchlorid oder Aluminiumzirkonium enthalten, wie es in vielen herkömmlichen Antitranspirantien zu finden ist, enthalten sie immer noch sehr viel Aluminium, ca. 30%, in Form von Kaliumaluminiumsulfat. Es gibt Bedenken hinsichtlich möglicher Gesundheitsrisiken im Zusammenhang mit der Verwendung von Aluminiumverbindungen, einschließlich potenzieller Auswirkungen auf das Hormonsystem und das Krebsrisiko. Die wissenschaftliche Forschung zu diesem Thema ist jedoch widersprüchlich, und die genauen Risiken sind noch nicht vollständig verstanden. <\/p><p><strong>Daher setzten wir zum aktuellen Zeitpunkt nicht auf Alaun, sondern auf bewährte und sichere Inhaltsstoffe für uns und die Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_XeHGzc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_achseln_02.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "natürliche bio inhaltsstoffe",
+        "title": "darum besser ein deo benutzen",
+        "text": "<p>Anti-Transpirante enthalten oft Aluminiumverbindungen wie Aluminiumchlorid, die die Schweißdrüsen vorübergehend verschließen können, um die Schweißproduktion zu reduzieren. Diese Aluminiumverbindungen können jedoch bedenklich sein, da sie in den Körper gelangen und mit dem hormonellen Gleichgewicht stören können. <\/p><p>Da sich wichtige Haupt-Lymphknoten in den Achselhöhlen befinden, ist es unserer Meinung nach besonders dort wichtig, die Verwendung von schädlichen Inhaltsstoffen zu vermeiden, die durch die Haut in den Körper gelangen und von dort aus transportiert werden. <\/p><p><strong>Unsere Deo-Sticks enthalten im Vergleich zu vielen konventionellen Antitranspiranten keine schädlichen Inhaltsstoffe, insbesondere solche, die die Haut reizen oder die Poren blockieren können, sondern sind naturbelassen und pflegen mit Bio-Ölen.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wirkt unser Deo-Stick?",
+            "text": "<p>Unsere Formel neutralisiert effektiv unangenehme Gerüche, während sie gleichzeitig die Haut pflegt und beruhigt.<\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Ist der Deo-Stick für alle Hauttypen geeignet?",
+            "text": "<p>Ja, unser Deo-Stick eignet sich für alle Hauttypen, auch für empfindliche Haut.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Was sind die Hauptbestandteile unseres Deo-Sticks?",
+            "text": "<p>Unser Deo-Stick besteht aus einer einzigartigen Mischung aus Bio-Babassuöl, Bio-Sheabutter, Natron, Kieselerde und Magnolienrindenextrakt.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Enthält der Deo-Stick Aluminium?",
+            "text": "<p>Nein, unser Deo-Stick ist aluminiumfrei und basiert stattdessen auf natürlichen Inhaltsstoffen.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält die Wirkung des Deo-Sticks an?",
+            "text": "<p>Die Wirkung unseres Deo-Sticks hält den ganzen Tag über an und bietet langanhaltende Frische.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Ist der Deo-Stick vegan?",
+            "text": "<p>Ja, unser Deo-Stick ist zu 100 % vegan und frei von tierischen Inhaltsstoffen.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der Deo-Stick auch nach der Rasur verwendet werden?v",
+            "text": "<p>Ja, unser Deo-Stick kann problemlos nach der Rasur verwendet werden und beruhigt die Haut.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Ist der Duft unseres Deo-Sticks für Männer und Frauen gleichermaßen geeignet?",
+            "text": "<p>Ja, unser neutraler Duft ist für alle Geschlechter geeignet und hinterlässt einen frischen, sauberen Duft.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der Deo-Stick bei starkem Schwitzen verwendet werden?",
+            "text": "<p>Ja, unser Deo-Stick bietet auch bei starkem Schwitzen einen zuverlässigen Schutz vor unangenehmen Gerüchen. Beachte bitte, dass es sich hierbei aber um ein Deodorant handelt und nicht um ein Anti-Transpirant.<\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist der Unterschied zwischen einem Deodorant und einem Anti-Transpirant?",
+            "text": "<p>Ein Deodorant zielt darauf ab, unangenehme Gerüche zu bekämpfen, die durch Bakterien verursacht werden, die sich auf der Haut vermehren. Es enthält desodorierende Inhaltsstoffe, die diese Bakterien bekämpfen und so Gerüche reduzieren oder verhindern. Deodorants enthalten normalerweise keine Inhaltsstoffe, die das Schwitzen selbst reduzieren. Stattdessen maskieren sie Gerüche oder bekämpfen die Ursache der Geruchsbildung. Ein Anti-Transpirant hingegen zielt darauf ab, übermäßiges Schwitzen zu reduzieren, indem es die Schweißdrüsen vorübergehend blockiert oder verengt. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_p4Kcxj",
+        "question_wMaDab"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"deo-sticks\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "zuverlässiger schutz für dich und die umwelt",
+        "text": "<p>Deos sind für die meisten Menschen selbstverständlich und nicht mehr wegzudenken. Auch mir geht es so. Leider sind die meisten Deos immer noch in umweltbelastendem Material verpackt oder noch schlimmer: Hinter Papierkaschierungen versteckt um umweltfreundlich auszusehen, obwohl sie es nicht sind.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere Deo-Sticks in der Papierhülse sind nachhaltig, weil sie eine umweltfreundliche Alternative zu herkömmlichen Plastikverpackungen darstellen. Die Papierhülse besteht zu 100% aus nachhaltigen, recycelbaren Materialien, die weniger Ressourcen verbrauchen und weniger Abfall erzeugen. Durch die Verwendung von Bio-Ölen anstelle von synthetischen Inhaltsstoffen tragen wir dazu bei, die Belastung für die Umwelt zu reduzieren und die natürlichen Ressourcen zu schonen ohne dabei, auf ein wirksames Deo verzichten zu müssen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "auch wenn unsere deos wirksam gegen gerüche sind, die dusche ersetzen sie nicht. dürfen wir dir unsere nachhaltigen dusch-highlights vorstellen?",
+        "home_featured_products": "duschen-baden",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_APkTMP",
+    "text_and_image_G8efbn",
+    "text_and_image_yMJLDA",
+    "text_and_image_aQ6RB3",
+    "text_with_icons_MK3AR6",
+    "text_and_image_Uq78JD",
+    "text_and_image_c7abGe",
+    "text_and_image_mfbPLc",
+    "text_and_image_XeHGzc",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

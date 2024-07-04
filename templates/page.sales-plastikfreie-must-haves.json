@@ -1,0 +1,641 @@
+{
+  "sections": {
+    "1655368031a22be7dd": {
+      "type": "promo-grid",
+      "blocks": {
+        "f7f59df9-0019-4eb8-9bd1-a66fb54eaf86": {
+          "type": "banner",
+          "settings": {
+            "heading": "7 plastikfreie Must-Haves für den Sommer ☀️",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "#00edf9",
+            "color_tint_opacity": 10,
+            "framed": false
+          }
+        },
+        "cd242d5e-e367-4222-9c8f-d565f20e1ec9": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/anton-mishin-o2YhIPvpA2g-unsplash.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "f7f59df9-0019-4eb8-9bd1-a66fb54eaf86",
+        "cd242d5e-e367-4222-9c8f-d565f20e1ec9"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "1655368064071d0793": {
+      "type": "rich-text",
+      "blocks": {
+        "165536806403e0e706-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Sommer, Sonne, ...Plastik?!"
+          }
+        },
+        "165536806403e0e706-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gefühlte Wahrheit: Mit den Temperaturen steigt leider auch unser Plastikkonsum. <br\/>Mini-Shampoos im Hotel, die kleinen Kosmetik-Reisegrößen im Handgepäck, kühlende Tuchmasken und Augenpads...<br\/>Vor allem bei der Urlaubsplanung greifen wir schnell auf Produkte in Plastikverpackungen zurück. <br\/>Keine Sorge, das muss nicht sein: <br\/>Wir zeigen dir unsere Top 7 Produkte für deinen Zero-Waste-Sommer! 🏝️<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165536806403e0e706-0",
+        "165536806403e0e706-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1655373386235a3d42": {
+      "type": "rich-text",
+      "blocks": {
+        "1655373386a74893a2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "1.  Dein Schutz vor unangenehmen Gerüchen"
+          }
+        }
+      },
+      "block_order": [
+        "1655373386a74893a2-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "165536806695261a93": {
+      "type": "featured-product",
+      "blocks": {
+        "280043ab-744c-4387-8ba6-177014a2ade2": {
+          "type": "text",
+          "settings": {
+            "text": "Das Nummer 1 Must-Have im Sommer? Natürlich Deo! Die wertvollen Inhaltsstoffe des Deo-Sticks schützen dich nicht nur vor unangenehmen Momenten (...Straßenbahn...Stehplatz...Haltegriff oben...du weißt schon...), sondern pflegt deine Achseln auch fein mit Sheabutter und Ölen in Bio-Qualität. Anders als ein Anti-Transpirant verstopft es nicht die Poren, sondern maskiert unangenehme Gerüche. 🍋✨"
+          }
+        },
+        "1655368066a57d3043-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1655368066a57d3043-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1655368066a57d3043-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1655368066a57d3043-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "280043ab-744c-4387-8ba6-177014a2ade2",
+        "1655368066a57d3043-0",
+        "1655368066a57d3043-1",
+        "1655368066a57d3043-2",
+        "1655368066a57d3043-3"
+      ],
+      "settings": {
+        "featured_product": "deostick-zitrone",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16553735019205455f": {
+      "type": "rich-text",
+      "blocks": {
+        "165537350104a93dd7-0": {
+          "type": "heading",
+          "settings": {
+            "title": "2. It's so fluffy!"
+          }
+        }
+      },
+      "block_order": [
+        "165537350104a93dd7-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16553682858d21d2ba": {
+      "type": "featured-product",
+      "blocks": {
+        "3056ec99-fdcf-40a3-8c27-0ba144ef5537": {
+          "type": "text",
+          "settings": {
+            "text": "Eincremen im Sommer wird schnell zu einer glitschigen Angelegenheit. 🥵 Unser 3in1 Dusch-Fluff vereint die tägliche Körperreinigung mit einem sanften Peeling und einem sommerlichen Dufterlebnis! Edles Kokosöl pflegt deine Haut schon während des Duschens und versorgt sie mit Feuchtigkeit, ohne zu fetten! So sparst du dir das Eincremen. Salzpartikel befreien deinen Körper von alten Hautzellen und sorgen für himmlische Geschmeidigkeit."
+          }
+        },
+        "1655368285cbd4c4de-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1655368285cbd4c4de-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1655368285cbd4c4de-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1655368285cbd4c4de-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "3056ec99-fdcf-40a3-8c27-0ba144ef5537",
+        "1655368285cbd4c4de-0",
+        "1655368285cbd4c4de-1",
+        "1655368285cbd4c4de-2",
+        "1655368285cbd4c4de-3"
+      ],
+      "settings": {
+        "featured_product": "3in1-dusch-fluff-limette",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16553735983585e67c": {
+      "type": "rich-text",
+      "blocks": {
+        "165537359890a1eb16-0": {
+          "type": "heading",
+          "settings": {
+            "title": "3. Deine Extraportion Glanz und Pflege"
+          }
+        }
+      },
+      "block_order": [
+        "165537359890a1eb16-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "165536811602b6d8d6": {
+      "type": "featured-product",
+      "blocks": {
+        "659af45e-6298-4955-9e47-caa0e84a0827": {
+          "type": "text",
+          "settings": {
+            "text": "Nichts ist nerviger als ausgelaufene Kosmetik im Handgepäck, oder? 🙄🧳 Das kann dir hier nicht passieren! Unser festes Shampoo ist seifenfrei, funktioniert und wirkt wie dein gewohntes Flüssigshampoo. Mit dem feinen Unterschied, dass du ab sofort nie wieder Plastikmüll durchs Haare waschen verursachst. Dazu hält es ca. 3x länger als ein herkömmliches Shampoo!"
+          }
+        },
+        "16553681162871226e-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16553681162871226e-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "16553681162871226e-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16553681162871226e-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "659af45e-6298-4955-9e47-caa0e84a0827",
+        "16553681162871226e-0",
+        "16553681162871226e-1",
+        "16553681162871226e-2",
+        "16553681162871226e-3"
+      ],
+      "settings": {
+        "featured_product": "festes-volumen-shampoo-reisblute",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1655373669928b150f": {
+      "type": "rich-text",
+      "blocks": {
+        "165537366951d35529-0": {
+          "type": "heading",
+          "settings": {
+            "title": "4. DEINE ZERO-WASTE SCHAUMPARTY"
+          }
+        }
+      },
+      "block_order": [
+        "165537366951d35529-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16553682103d21843b": {
+      "type": "featured-product",
+      "blocks": {
+        "9ff5a548-1005-4640-85ee-f7fb4fc59e51": {
+          "type": "text",
+          "settings": {
+            "text": "Unsere feste Pflege-Dusche ist die perfekte Ergänzung zu unserem festen Shampoo! So geht plastikfrei Duschen ganz einfach. Das Waschstück ist dabei auf eine Extraportion Schaum ausgerichtet und verbindet Duschvergnügen und Pflege in einem Dufterlebnis. Dabei wird deine Haut nicht nur gereinigt, sondern dank Pflegeölen auch gleichzeitig zart verwöhnt und vor äußeren Einflüssen beschützt. 🧡"
+          }
+        },
+        "1655368210408d46ce-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1655368210408d46ce-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1655368210408d46ce-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1655368210408d46ce-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "9ff5a548-1005-4640-85ee-f7fb4fc59e51",
+        "1655368210408d46ce-0",
+        "1655368210408d46ce-1",
+        "1655368210408d46ce-2",
+        "1655368210408d46ce-3"
+      ],
+      "settings": {
+        "featured_product": "feste-pflege-dusche-orange",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "165537370579b0ee99": {
+      "type": "rich-text",
+      "blocks": {
+        "165537370570d16a66-0": {
+          "type": "heading",
+          "settings": {
+            "title": "5. MATTIERENDE REINIGUNG OHNE AUSTROCKNEN"
+          }
+        }
+      },
+      "block_order": [
+        "165537370570d16a66-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16553683343242e4b7": {
+      "type": "featured-product",
+      "blocks": {
+        "edfaad31-6411-43f2-add8-f745a049f61e": {
+          "type": "text",
+          "settings": {
+            "text": "Du ahnst es schon, alle guten sind drei! Auch bei der Gesichtspflege kannst du ordentlich Plastik und Platz im Handgepäck sparen und Unreinheiten den Kampf ansagen! 💪 Weiße Tonerde sorgt während der Gesichtsreinigung für einen porenverfeinernden und mattierenden Effekt. Zusammen mit dem Meersalz unterstützt bei der Vorbeugung und Bekämpfung von Unreinheiten. Nährendes Kokosöl und Sheabutter versorgen die Haut dabei mit Feuchtigkeit um sie wieder in Balance zu bringen und vor äußeren Einflüssen zu schützen."
+          }
+        },
+        "1655368334696e6cdc-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1655368334696e6cdc-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1655368334696e6cdc-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1655368334696e6cdc-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "edfaad31-6411-43f2-add8-f745a049f61e",
+        "1655368334696e6cdc-0",
+        "1655368334696e6cdc-1",
+        "1655368334696e6cdc-2",
+        "1655368334696e6cdc-3"
+      ],
+      "settings": {
+        "featured_product": "gesichtspflegeseife-coconut-cream-seasalt",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "165537377742aa03cc": {
+      "type": "rich-text",
+      "blocks": {
+        "165537377710a61c3c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "6. Unser Anti-Aging Geheimnis"
+          }
+        }
+      },
+      "block_order": [
+        "165537377710a61c3c-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1655368378ad8b38e8": {
+      "type": "featured-product",
+      "blocks": {
+        "031ca59b-c794-433f-9090-d8620816f6da": {
+          "type": "text",
+          "settings": {
+            "text": "Deine kühlender Frische-Kick fürs Gesicht! 💦 Hyaluron ist wie eine Wasserbombe fürs Gesicht und sorgt für Feuchtigkeit. Selbst nach einem verdammt langen Tag oder einem harten Wochenende werden dich die Leute sicher nach deinem Beauty-Geheimnis fragen. Die Maske besitzt außerdem die wunderbare Eigenschaft zu kühlen. Das macht müde Haut wieder munter und hinterlässt ein herrlich frisches Gefühl. "
+          }
+        },
+        "16553683782c3b1821-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16553683782c3b1821-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "16553683782c3b1821-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16553683782c3b1821-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "031ca59b-c794-433f-9090-d8620816f6da",
+        "16553683782c3b1821-0",
+        "16553683782c3b1821-1",
+        "16553683782c3b1821-2",
+        "16553683782c3b1821-3"
+      ],
+      "settings": {
+        "featured_product": "peel-off-maske-hyaluron",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1655373914bba4fe8c": {
+      "type": "rich-text",
+      "blocks": {
+        "1655373914e2b96797-0": {
+          "type": "heading",
+          "settings": {
+            "title": "7. Bye Bye Seifenmatsch"
+          }
+        }
+      },
+      "block_order": [
+        "1655373914e2b96797-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1655368414c3cc794d": {
+      "type": "featured-product",
+      "blocks": {
+        "ac958ba3-dd98-4eb3-b2c6-2b0c1768f8a8": {
+          "type": "text",
+          "settings": {
+            "text": "Last but not least: Unsere super leichte Seifenablage aus Luffagurke. 🥒 Die Seifenablage ist ein simples, aber geniales Tool für feste Seifen. Sie verhindert Seifenmatsch und Rumgeflutsche, wie man es von Seifenschalen so kennt. Da die Ablage nur aus Luffa besteht kann nichts wegrutschen oder zerkratzen. Das Format ist optimal auf deine puremetics Naturseifen abgestimmt und verlängert ihre Lebensdauer durch optimale Trocknung. Sie wiegt nur wenige Gramm und ist super dünn, so kannst du sie perfekt mit in den Urlaub nehmen. um deine Seife zu schützen."
+          }
+        },
+        "1655368414c5e0def2-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1655368414c5e0def2-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "1655368414c5e0def2-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1655368414c5e0def2-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "ac958ba3-dd98-4eb3-b2c6-2b0c1768f8a8",
+        "1655368414c5e0def2-0",
+        "1655368414c5e0def2-1",
+        "1655368414c5e0def2-2",
+        "1655368414c5e0def2-3"
+      ],
+      "settings": {
+        "featured_product": "seifenablage-luffa",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "1655368031a22be7dd",
+    "1655368064071d0793",
+    "1655373386235a3d42",
+    "165536806695261a93",
+    "16553735019205455f",
+    "16553682858d21d2ba",
+    "16553735983585e67c",
+    "165536811602b6d8d6",
+    "1655373669928b150f",
+    "16553682103d21843b",
+    "165537370579b0ee99",
+    "16553683343242e4b7",
+    "165537377742aa03cc",
+    "1655368378ad8b38e8",
+    "1655373914bba4fe8c",
+    "1655368414c3cc794d"
+  ]
+}

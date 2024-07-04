@@ -1,0 +1,62 @@
+{
+  "sections": {
+    "1648638298c9fd2c22": {
+      "type": "rich-text",
+      "blocks": {
+        "1648638298dad344cc-0": {
+          "type": "heading",
+          "settings": {
+            "title": "puremetics in deiner Nähe"
+          }
+        },
+        "d880fb03-5fe8-490a-a539-794faa85bc27": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Du möchtest unsere Produkte ganz easy lokal in deiner Nähe kaufen? Kein Problem! 😊<br\/>Schaue gerne in unserem <a href=\"https:\/\/puremetics.de\/apps\/store-locator\" target=\"_blank\" title=\"https:\/\/puremetics.de\/apps\/store-locator\"><strong>Store Finder<\/strong><\/a>, ob wir schon in deiner Nähe vertreten sind. <br\/>Falls nicht, schreib uns einfach deinen Wunsch-Shop<strong> <\/strong>in das untenstehende Formular und wir geben alles, damit dein Wunsch wahr wird.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1648638298dad344cc-0",
+        "d880fb03-5fe8-490a-a539-794faa85bc27"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1648638478c1b6ed6a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Okka.jpg",
+        "image2": "shopify:\/\/shop_images\/puremetics_Store.jpg",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Noch besser: <\/strong>Du kannst auch selbst ein gutes Wort für uns in deinem Lieblingsgeschäft einlegen.<strong> <\/strong>Als kleines Startup freuen wir uns riesig über deine Unterstützung, denn nur so können wir weiter wachsen und immer mehr Menschen den Zugang zu plastikfreien Produkten ermöglichen. Um dir das so einfach wie möglich zu machen, haben wir einen Wunschzettel für dich angelegt, den du ausdrucken und einfach vor Ort abgeben oder per Mail verschicken kannst. <\/p><p>👉 <a href=\"https:\/\/www.dropbox.com\/s\/yvnq4nvss591af7\/Kundenempfehlung_Wunschzettel_PDF_02.pdf?dl=0\" target=\"_blank\" title=\"https:\/\/www.dropbox.com\/s\/yvnq4nvss591af7\/Kundenempfehlung_Wunschzettel_PDF_02.pdf?dl=0\"><strong>Hier downloaden <\/strong><\/a>👈<\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "164863829957c18ddb": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Ich wünsche mir puremetics bei...",
+        "text": "<p>Trage hier einfach deinen gewünschten Shop ein.<br\/>Keine Sorge, deinen Namen und deine Mail brauchen wir nur, um dich zu benachrichtigen, sobald alles geklappt hat. 💌<\/p>",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "1648638298c9fd2c22",
+    "1648638478c1b6ed6a",
+    "164863829957c18ddb"
+  ]
+}

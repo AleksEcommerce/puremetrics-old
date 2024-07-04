@@ -1,0 +1,446 @@
+{
+  "sections": {
+    "af8fce06-17f9-425a-8545-5a4afa998731": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18166263382282__af8fce06-17f9-425a-8545-5a4afa998731-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "3in1 Dusch Fluff limitierte Wintereditionen",
+            "title": "endlich! \nschnell zugreifen!",
+            "title_size": 80,
+            "subheading": "Sichere dir die heißbegehrten Sonderedition in vier Traumhaften Winter-Düften",
+            "link": "https:\/\/puremetics.de\/products\/winter-fluffy-set-limitierte-flavours",
+            "link_text": "Spar-Set mit allen Düften",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#21a6ff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special-DF-Winter_23_Fluffs-auf-Brett_Wolken_naeher_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 4
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263382282__af8fce06-17f9-425a-8545-5a4afa998731-image-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "252de40b-46fa-405b-b5bc-2c7ed4973bab": {
+      "type": "scrolling-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "text": "❄ NUR FÜR KURZE ZEIT UND STRENG LIMITIERT ❄",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 5,
+            "rows_per_page": 7,
+            "mobile_flush_grid": true
+          }
+        }
+      },
+      "block_order": [
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "6e39a0c4-0819-4dae-94a9-ef849a8aed59": {
+      "type": "promo-grid",
+      "blocks": {
+        "359bcce7-bd84-49e4-a9cd-70ee2b10d911": {
+          "type": "banner",
+          "settings": {
+            "heading": "10% SPAREN  + kostenloser versand",
+            "text": "Sichere dir alle vier Düfte in unserem weihnachtlichen Superdeal!",
+            "link": "",
+            "label": "",
+            "color_tint": "#99ce99",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "359bcce7-bd84-49e4-a9cd-70ee2b10d911"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "2fb3dab4-19a0-4fe0-b788-2e99108f88e2": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "aa84023b-fb60-444a-b795-61a0d2410674": {
+          "type": "text",
+          "settings": {
+            "text": "✔  Alle limitierten Flavours in einem Set!<br>✔ Duschen, Cremen und Peelen in einem Schritt!<br>✔  Flieder, Frühlingsgarten und Lindenblüte<br><br>Vereine die tägliche Körperreinigung mit einem sanften Peeling und einem olfaktorischen Erlebnis! Edles Kokosöl pflegt deine Haut schon während des Duschens und versorgt sie mit Feuchtigkeit, ohne zu fetten! So sparst du dir das Eincremen. Zuckerpartikel befreien deinen Körper von alten Hautzellen und sorgen für himmlische Geschmeidigkeit.<br><br>"
+          }
+        },
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "322c540f-63b7-4f04-afe2-bfdae13514c0": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "GRATIS VERSAND!"
+          }
+        },
+        "699709e1-6c28-4579-9033-cdc43a968a53": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-0",
+        "aa84023b-fb60-444a-b795-61a0d2410674",
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-3",
+        "322c540f-63b7-4f04-afe2-bfdae13514c0",
+        "699709e1-6c28-4579-9033-cdc43a968a53"
+      ],
+      "settings": {
+        "featured_product": "winter-fluffy-set-limitierte-flavours",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Chris_Cosma_Weihnachten.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "CEO & Produktfee Chris",
+        "title": "Diese Freude war meine Inspiration",
+        "text": "<p><em>Weihnachten ist für mich immer eine ganz besondere Zeit im Jahr. Obwohl ich ein Sonnenkind bin und vom Meer, Strand und lange Sommerabende gar nicht genug bekommen kann, verbinde ich die Winterzeit immer mit einer ganz besonderen Magie. Für mich ist diese Jahreszeit verbunden mit Gemütlichkeit, zur Ruhe kommen, Gedanken ordnen und das Beisammensein mit Familie und Freunden. Noch heute begeistert mich der Winterzauber wie damals als Kind, wenn ich die bunten Lichter glühen sehe und es drinnen kuschelig gemütlich wird.<\/em><\/p><p><em>Da sich das Leben nun mehr nach Hause verlagert mache ich mein Nest so bequem wie möglich und hole mir die warme Lebensenergie ins Haus. Unweigerlich ist dieser Winterzauber auch mit ganz bestimmten Düften verbunden. Als ich damals von der Schule heimkam habe ich mich so wohl gefühlt, wenn die Luft voller Mandarinenduft, Aprikosen und Vanille lag. Ganz zu schweigen vom leckeren warmen Schokoladenkuchen und der Kekse, die meine Mutter fast täglich gebacken hat.<\/em><\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b4ca5a5a-f91a-446e-9de0-cccf8bd3cb86": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Das ist für mich der Duft des Winters!",
+        "text": "<p><em>Und meine Inspiration für die diesjährige limitierte Winterkollektion. Ich hoffe, dass wir auch dir damit den Winterzauber nach Hause bringen können und du diese wundervolle Zeit voller Magie in vollen Zügen genießen kannst.<\/em><\/p><p><em><strong>Mein Team und ich wünschen dir frohe Festtage und wenn Weihnachten für dich keine Rolle spielt, dann doch eine besinnliche und wunderschöne Winterzeit voller glücklicher Momente.<\/strong><\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/99aafd796bca460cb93e8f67aba50e54.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "6d957016-3745-41b3-9030-a102c4592c53": {
+      "type": "countdown",
+      "blocks": {
+        "template--18166263382282__6d957016-3745-41b3-9030-a102c4592c53-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "Bis weihnachten ist es nicht mehr weit!",
+            "heading_size": "h2",
+            "text": "",
+            "content_alignment": "left"
+          }
+        },
+        "template--18166263382282__6d957016-3745-41b3-9030-a102c4592c53-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "12",
+            "day": "23",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": ""
+          }
+        },
+        "template--18166263382282__6d957016-3745-41b3-9030-a102c4592c53-button-1": {
+          "type": "button",
+          "settings": {
+            "button_link": "https:\/\/puremetics.de\/products\/winter-fluffy-set-limitierte-flavours",
+            "button": "Weihnachts-set sichern",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263382282__6d957016-3745-41b3-9030-a102c4592c53-content-1",
+        "template--18166263382282__6d957016-3745-41b3-9030-a102c4592c53-timer-1",
+        "template--18166263382282__6d957016-3745-41b3-9030-a102c4592c53-button-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "540e2e7b-0e75-424e-9206-e763d3ef1de3": {
+      "type": "promo-grid",
+      "blocks": {
+        "140f269b-0b36-4c5a-ab3a-fc34e300f391": {
+          "type": "banner",
+          "settings": {
+            "heading": "du kennst unsere 3in1 dusch-fluffs noch nicht?",
+            "text": "Dann wird es jetzt Zeit für ein Match! Tausende Kund:innen sind bereits begeistert und wollen nicht mehr mit etwas anderem duschen 😍",
+            "link": "",
+            "label": "",
+            "color_tint": "#99ce99",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "140f269b-0b36-4c5a-ab3a-fc34e300f391"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "8484b4ec-c1d7-4b6a-be20-e70a38b4eb54": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--18166263382282__8484b4ec-c1d7-4b6a-be20-e70a38b4eb54-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Nie mehr Eincremen nach dem Duschen",
+            "text": ""
+          }
+        },
+        "template--18166263382282__8484b4ec-c1d7-4b6a-be20-e70a38b4eb54-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "ribbon",
+            "title": "Himmlisch zarte und  kuschelweiche Haut",
+            "text": ""
+          }
+        },
+        "template--18166263382282__8484b4ec-c1d7-4b6a-be20-e70a38b4eb54-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "stopwatch",
+            "title": "Reinigung, Peeling und Lotion in einem Step",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263382282__8484b4ec-c1d7-4b6a-be20-e70a38b4eb54-text_block-1",
+        "template--18166263382282__8484b4ec-c1d7-4b6a-be20-e70a38b4eb54-text_block-2",
+        "template--18166263382282__8484b4ec-c1d7-4b6a-be20-e70a38b4eb54-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "5d4639bb-92fc-4aa4-a6a7-af4f3f50f268": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_01.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/OhneBedenklicheI_02.jpg",
+        "image2_mask": "none",
+        "subtitle": "Nachhaltig",
+        "title": "ohne bedenkliche Inhaltsstoffe",
+        "text": "<p>Unser Dusch-Fluff ist vom Produkt bis zur Verpackung 100% plastikfrei und verzichtet auf bedenkliche Inhaltsstoffe, die dir oder unserer Umwelt schaden könnten. <\/p><p><br\/><em>,,Ich war auf der Suche nach einem Körperpeeling welches sowohl in der Kosmetik als auch bei der Verpackung ohne Plastik auskommt und bin hier auf den Dusch-Fluff gestoßen. Der Duft ist der Hammer und die Haut ist wirklich weich.<br\/>Kann mir den Dusch-Fluff gar nicht mehr wegdenken!\" - Johanna<\/em><br\/><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f97be1d6-5842-4b99-a53c-204b6ce5a1ec": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_03.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/OhneBedenklicheI_04.jpg",
+        "image2_mask": "none",
+        "subtitle": "100% Plastikfrei",
+        "title": "Unsere Dusch-Fluff Becher",
+        "text": "<p>Diese haben wir eigens für unsere Dusch-Fluffs entwickelt. Sie werden in Deutschland produziert und kommen dabei ganz ohne Plastik oder Bioplastikbeschichtung aus und halten deinen Dusch-Fluff dennoch frisch. Jedoch: Papier bleibt nun mal Papier. Bitte nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3a18f764-d610-480a-92a1-062874725997": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DuschFluff_Erdbeere_HandIcons.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/OhneBedenklicheI_06.jpg",
+        "image2_mask": "none",
+        "subtitle": "Reinigung, Peeling und Lotion",
+        "title": "3in1 Allrounder",
+        "text": "<p>Das Coole am Dusch-Fluff? Du sparst nicht nur eine Menge Plastikmüll, sondern auch noch 3 übliche Produkte. Du hast also einen richtigen Allrounder im Bad und vereinst deine tägliche Pflege auch noch mit einem Peeling, das deine Haut schön weich hält.<\/p><p><br\/><em>,,Die Fluffs fühlen sich mega toll an auf der Haut, duften traumhaft gut, und pflegen unendlich gut die Haut! Ich hab empfindliche Haut und reagiere schnell auf alles mögliche... Aber meine Haut liebt die Fluffs! Meine Haut hat sich tatsächlich auch verbessert, seit ich darauf umgestiegen bin. Sie ist nur noch sehr selten trocken und immer schön weich!!\"- Anke<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "54470d8d-075d-4585-bdbd-52a1eb8d1c19": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremertics_Winter_Strand.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/puremertics_Schildkroete_34.jpg",
+        "image2_mask": "none",
+        "subtitle": "ohne mikroplastik",
+        "title": "Wusstest du, …?",
+        "text": "<p>… dass Peelingkörner früher meist kleine Plastikpartikel waren? Heute sind in vielen Peelings zum Glück keine peelenden Plastikpartikel mehr enthalten. Sie werden offiziell als „frei von Mikroplastik“ bezeichnet und dürfen entsprechende Siegel tragen. Mikroplastik ist in vielen Peelings aber leider trotzdem in Form von flüssigem Kunststoff enthalten. <br\/>Dieser kann in Flüssen und Meeren nicht abgebaut werden und schadet unserer Umwelt. <br\/>Wir machen bei Plastik keine halben Sachen, unser Dusch-Fluff ist zu 100% plastikfrei, versprochen! 🙏🌿<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Dusch-Fluff Basics",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    }
+  },
+  "order": [
+    "af8fce06-17f9-425a-8545-5a4afa998731",
+    "252de40b-46fa-405b-b5bc-2c7ed4973bab",
+    "main-collection",
+    "6e39a0c4-0819-4dae-94a9-ef849a8aed59",
+    "2fb3dab4-19a0-4fe0-b788-2e99108f88e2",
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34",
+    "b4ca5a5a-f91a-446e-9de0-cccf8bd3cb86",
+    "6d957016-3745-41b3-9030-a102c4592c53",
+    "540e2e7b-0e75-424e-9206-e763d3ef1de3",
+    "8484b4ec-c1d7-4b6a-be20-e70a38b4eb54",
+    "5d4639bb-92fc-4aa4-a6a7-af4f3f50f268",
+    "f97be1d6-5842-4b99-a53c-204b6ce5a1ec",
+    "3a18f764-d610-480a-92a1-062874725997",
+    "54470d8d-075d-4585-bdbd-52a1eb8d1c19",
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba",
+    "collection-header"
+  ]
+}

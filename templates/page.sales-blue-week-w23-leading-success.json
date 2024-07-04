@@ -1,0 +1,176 @@
+{
+  "sections": {
+    "ad796ca8-af13-4bb1-8913-6644db6bf882": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18184301314314__ad796ca8-af13-4bb1-8913-6644db6bf882-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Deine Registrierung war erfolgreich",
+            "title": "herzlichen Glückwunsch!",
+            "title_size": 80,
+            "subheading": "Du hast dich für den exklusiven Zugang zur bisher größten Blue-Week qualifiziert",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0227\/5013\/4336\/files\/puremetics_Blue_Week_Event_40f99ede-3f70-4a8e-8a31-64ea5a6a173b.ics?v=1699623301",
+            "link_text": "im kalender speichern",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/turtle_puremetics.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__ad796ca8-af13-4bb1-8913-6644db6bf882-image-1"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "💌 Dein VIP-Passwort senden wir dir am Sonntag zum Start der Blue-Week per E-Mail 💌",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "Sonntag den 19. November 10:00 Uhr",
+            "heading_size": "h2",
+            "text": "<p>Du bist dabei und kannst dich auf superstarke Rabatte und Specials freuen, während du gleichzeitig etwas Gutes für die Umwelt tust. <\/p>",
+            "content_alignment": "center"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "11",
+            "day": "19",
+            "hour": "10",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Die Blue-Week hat bereits am 19.11.2023 um 10:00 Uhr begonnen. Jetzt aber schnell!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#fd0d66",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Portrait_Chido_04e79a3a-7137-45d2-a35c-c12382669e12.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chido (CEO und CO-FOUNDER)",
+        "title": "💙 Das erwartet dich in unserer Blue-Week",
+        "text": "<p>Wir halten für dich viele spannende und tolle Special in unserer bisher größte Blue-Week bereit:<\/p><ul><li>Jede Bestellung ein <strong>Geschenk<\/strong>.<\/li><li>Jede 10te Bestellung erhält den limitierten <strong>Blue-Week-Berry <\/strong>3in1 Dusch-Fluff.<\/li><li>Du erhältst bis zu <strong>30% Rabatt.<\/strong><\/li><li><strong>Alle Artikel <\/strong>sind im größten SALE rabattiert.<\/li><li>Du erhältst <strong>exklusiven VIP Zugang!<\/strong> Denn unser Shop bleibt am Starttag für alle anderen geschlossen!<\/li><li>Weitere Specials als <strong>Überraschung<\/strong>.<\/li><\/ul><p><\/p><p><strong>Wir senden dir dein geheimes Zugangspasswort am Sonntag per E-Mail und wünschen dir ganz viel Freude mit unserer Winter Blue-Week.<\/strong><\/p>",
+        "button_label": "zurück zum shop",
+        "button_link": "https:\/\/www.puremetics.de",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO & CO-Founder)",
+        "title": "💙 Das ist unsere Blue-Week",
+        "text": "<p>Die Blue Week ist unser nachhaltiges Pendant zur Black Week. Neben Rabatten und Specials steht der nachhaltige Einfluss über Allem. In den vergangenen Jahren konnten wir gemeinsam einen großen Beitrag für verschiedene Umwelt-, Artenschutz- und soziale Projekte leisten.<\/p><p>Auch in diesem Jahr steht alles unter dem Stern des Artenschutzes. In Kooperation mit der AGA retten wir für jede Bestellung ein Schildkrötenei aus Gefährdungsgebieten. Unser Ziel ist es, 15 Nester zu beschützen, bis die ca. 1.800 Schildkrötenbabys sicher geschlüpft sind und ihren Weg ins Meer gefunden haben.<\/p><p><strong>Bisher konnten wir so bereits über 3.000 bedrohte Meeresschildkröten zusammen mit euch retten! Vielen Dank.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "17d95311-1131-410d-bfa6-7e250c7d69f1": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "beeindruckend!",
+        "title": "ein neues leben beginnt",
+        "text": "<p>In Kooperation mit der Aktionsgemeinschaft Artenschutz beschützen wir die Nester der Meeresschildkröten, bis die Babys sicher ins Meer gelangen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/2e4f998e20fd461998a1def3ccaea635.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "9e1aeab3-a7be-454c-a838-e59c8b0775e9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BraunBirgitAGA.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/AGA-Logo.jpg",
+        "image2_mask": "landscape",
+        "subtitle": "Birgit (CEO AGA)",
+        "title": "DANKE FÜR EURE UNTERSTÜTZUNG!",
+        "text": "<p>Meeresschildkröten stehen vor vielen Gefahren. Die meisten sind Menschen gemacht. Danke, dass ihr auch auf diesem Weg einen Beitrag zum Schutz dieser wunderbaren Tiere leistet.<\/p><p><em>DieAktionsgemeinschaft Artenschutz(AGA) e.V. setzt sich seit 30 Jahren für den Erhalt von bedrohten Tier- und Pflanzenarten und deren Lebensräume ein.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "ad796ca8-af13-4bb1-8913-6644db6bf882",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f",
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3",
+    "17d95311-1131-410d-bfa6-7e250c7d69f1",
+    "9e1aeab3-a7be-454c-a838-e59c8b0775e9"
+  ]
+}

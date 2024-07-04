@@ -1,0 +1,320 @@
+{
+  "sections": {
+    "16347348377c6d4fc9": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Banner_Gesichtspflegeseife_Launch_Kopie.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "163473486036602ddd": {
+      "type": "rich-text",
+      "blocks": {
+        "163473486036602ddd-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Die Geheimwaffe gegen unreine und trockene Haut 🌿"
+          }
+        },
+        "163473486036602ddd-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schon gewusst? Unsere Gesichtshaut ist wesentlich dünner und empfindlicher als die übrige Haut am Körper. Sie ist unbedeckt und daher ständig dem Einfluss von Sonne, Kälte, Trockenheit und Schmutz ausgesetzt. Nicht zuletzt hinterlassen auch innere Reize wie Trauer, Schlafmangel und Stress ihre Spuren in unserem Gesicht. Die richtige Pflege ist daher umso wichtiger, um sie im Regenerationskampf zu unterstützen.<br\/>Dürfen wir daher vorstellen: Unsere ganz neuen Gesichtspflegeseifen ‚Hanf‘ und ‘Coconut Cream Seasalt‘.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163473486036602ddd-0",
+        "163473486036602ddd-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1634734934349a6fbc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mullbild.jpg",
+        "subtitle": "",
+        "title": "Gemeinsam sind wir stark",
+        "text": "<p>Unsere Seifen unterstützen die Haut nicht nur bei der Pflege, sondern helfen auch beim Schutz unseres Planeten.🌍<br\/>Denn wir verzichten zu 100% auf (Mikro-)Plastik!  <br\/>Würde beispielsweise jede zweite Person in Deutschland auf Gesichtsreiniger in Plastikflaschen verzichten, dann könnten dadurch <strong>200 Millionen Plastikflaschen eingespart<\/strong> werden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1634734864118d8a92": {
+      "type": "featured-product",
+      "blocks": {
+        "1634734864118d8a92-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1634734864118d8a92-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4bd2e68b-b9b5-4a40-8edc-a36631455c3d": {
+          "type": "text",
+          "settings": {
+            "text": "Weiße Tonerde sorgtwährend der Gesichtsreinigung für einen porenverfeinernden und mattierendenEffekt. Zusammen mit dem Meersalz unterstützt bei der Vorbeugung und Bekämpfungvon Unreinheiten. Nährendes Kokosöl und Sheabutter versorgen die Haut dabei mitFeuchtigkeit um sie wieder in Balance zu bringen und vor äußeren Einflüssen zuschützen."
+          }
+        },
+        "1634734864118d8a92-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1634734864118d8a92-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1634734864118d8a92-0",
+        "1634734864118d8a92-1",
+        "4bd2e68b-b9b5-4a40-8edc-a36631455c3d",
+        "1634734864118d8a92-2",
+        "1634734864118d8a92-3"
+      ],
+      "settings": {
+        "featured_product": "gesichtspflegeseife-coconut-cream-seasalt",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "163473490310fed3b6": {
+      "type": "text-columns",
+      "blocks": {
+        "163473490310fed3b6-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Inhaltsstoffe_Gesichtsseifen_hanf.png",
+            "image_width": 250,
+            "title": "Hanföl",
+            "text": "<p>Gestresste Haut hat mit Erschöpfung und vorzeitiger Hautalterung zu kämpfen. Sie wirkt trocken und empfindlich. Hanföl wirkt diesen Faktoren entgegen und hilft der Haut, sich zu erholen.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163473490310fed3b6-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Inhaltsstoffe_Gesichtsseifen_sussholz.png",
+            "image_width": 250,
+            "title": "Süßholzwurzel",
+            "text": "<p>Schon gewusst, nicht nur in Lakritze,<br\/>auch zur Hautpflege ist die Süßholzwurzel eine tolle Zutat. Es wirkt antioxidativ, beruhigt, normalisiert und stärkt die Haut.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163473490310fed3b6-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Inhaltsstoffe_Gesichtsseifen_avocado.png",
+            "image_width": 250,
+            "title": "Avocadoöl",
+            "text": "<p>Hat eine entzündungshemmende Wirkung und verhilft zu einem klareren Hautbild und Spannkraft.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163473490310fed3b6-0",
+        "163473490310fed3b6-1",
+        "163473490310fed3b6-2"
+      ],
+      "settings": {
+        "title": "Das macht mich besonders",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1634734871b26f34ec": {
+      "type": "featured-product",
+      "blocks": {
+        "1634734871b26f34ec-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1634734871b26f34ec-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "2fb5a73d-0ef3-4457-8948-96fe215f1444": {
+          "type": "text",
+          "settings": {
+            "text": "Trockene und sensible Haut hat ganz besondere Ansprüche. Daher spendet diese Seife noch während der milden Reinigung Trost und Feuchtigkeit. Hanföl und Haferextrakte wirken beruhigend und lindern während Süßholzwurzel antimikrobiell wirkt und für extra Pflege und Glätte sorgt. Ein Mix aus Avocado-, Kokos-, und Olivenöl rundet die Pflege ab und schützt vor äußeren Einflüssen."
+          }
+        },
+        "1634734871b26f34ec-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1634734871b26f34ec-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "1634734871b26f34ec-0",
+        "1634734871b26f34ec-1",
+        "2fb5a73d-0ef3-4457-8948-96fe215f1444",
+        "1634734871b26f34ec-2",
+        "1634734871b26f34ec-3"
+      ],
+      "settings": {
+        "featured_product": "gesichtspflegeseife-hanf",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "163473586850e0e40b": {
+      "type": "text-columns",
+      "blocks": {
+        "163473586850e0e40b-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Inhaltsstoffe_Gesichtsseifen_weisseTonerde.png",
+            "image_width": 250,
+            "title": "Weiße Tonerde",
+            "text": "<p>Weiße Tonerde ist besonders bei<br\/>anspruchsvoller Haut zu empfehlen, weil sie extra sanft zur Haut ist. Das<br\/>natürliche Kaolin befreit die Haut von Schadstoffpartikeln, löst trockene Stellen ab und beruhigt sie.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163473586850e0e40b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Inhaltsstoffe_Gesichtsseifen_seasalt.png",
+            "image_width": 250,
+            "title": "Meersalz",
+            "text": "<p>Schon gewusst? Meersalz wirkt<br\/>desinfizierend und antibakteriell. Insbesondere bei entzündeten Pickeln ist Meersalz ein wahres Wundermittel.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163473586850e0e40b-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Inhaltsstoffe_Gesichtsseifen_Sheabutter.png",
+            "image_width": 250,
+            "title": "Sheabutter",
+            "text": "<p>Sheabutter ist ausgesprochen reichhaltig und spendet der Haut intensive Feuchtigkeit. Da sie hautberuhigend wirkt und sehr gut verträglich ist, lassen sich auch Hauterkrankungen damit behandeln. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163473586850e0e40b-0",
+        "163473586850e0e40b-1",
+        "163473586850e0e40b-2"
+      ],
+      "settings": {
+        "title": "Das macht mich besonders",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1634734919843874ee": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "15% Rabatt: Sichere dir direkt das passende Set für deine Haut",
+        "home_featured_products": "geheimwaffe-haut-sets",
+        "per_row": 2,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "163489283299d8f17f": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Du kannst nicht genug von uns kriegen?",
+        "title": "Entdecke das ganze plastikfreie Sortiment",
+        "text": "",
+        "button_label": "jetzt entdecken",
+        "button_link": "shopify:\/\/collections\/alle-artikel",
+        "image": "shopify:\/\/shop_images\/Banner_BG_FIX2.jpg",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false
+      }
+    }
+  },
+  "order": [
+    "16347348377c6d4fc9",
+    "163473486036602ddd",
+    "1634734934349a6fbc",
+    "1634734864118d8a92",
+    "163473490310fed3b6",
+    "1634734871b26f34ec",
+    "163473586850e0e40b",
+    "1634734919843874ee",
+    "163489283299d8f17f"
+  ]
+}

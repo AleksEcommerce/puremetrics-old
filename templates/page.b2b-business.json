@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "16517509041c46ca29": {
+      "type": "rich-text",
+      "blocks": {
+        "b4d33a89-1549-4b66-8663-68c58e211761": {
+          "type": "heading",
+          "settings": {
+            "title": "Du bist geschäftlich unterwegs? Dann bieten wir dir gerne die passenden Services :)"
+          }
+        }
+      },
+      "block_order": [
+        "b4d33a89-1549-4b66-8663-68c58e211761"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16517508788cf5f751": {
+      "type": "promo-grid",
+      "blocks": {
+        "16517508783c6ba9c5-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Für Wiederverkäufer",
+            "heading": "Händler:in Werden",
+            "textarea": "Stationär und Online",
+            "cta_text1": "Mehr Infos",
+            "cta_link1": "shopify:\/\/pages\/business",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Pur_Werbung_PopUpStore0.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "16517508783c6ba9c5-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Hochwertig und Nachhaltig",
+            "heading": "Mitarbeitergeschenke",
+            "textarea": "Individualisierbar ab kleiner Auflage",
+            "cta_text1": "Mehr infos",
+            "cta_link1": "shopify:\/\/pages\/mitarbeitergeschenke",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/3.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "45786819-26ca-4e32-bdea-2447eeb51396": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Kleinkeiten und großigkeiten",
+            "heading": "Werbemittel, Private- und Whitelabel",
+            "textarea": "Individualisierbar ab kleiner Auflage",
+            "cta_text1": "Mehr infos",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_kaltsieden_2.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "cfe1df19-4c49-40f3-a6aa-225b83f98ecb": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "nachhaltige berichterstattung",
+            "heading": "Presse",
+            "textarea": "Von Pressemitteilungen bis Bilder alles bereit",
+            "cta_text1": "Mehr infos",
+            "cta_link1": "shopify:\/\/pages\/presse",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Banner2.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "16517508783c6ba9c5-0",
+        "16517508783c6ba9c5-1",
+        "45786819-26ca-4e32-bdea-2447eeb51396",
+        "cfe1df19-4c49-40f3-a6aa-225b83f98ecb"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    }
+  },
+  "order": [
+    "16517509041c46ca29",
+    "16517508788cf5f751"
+  ]
+}

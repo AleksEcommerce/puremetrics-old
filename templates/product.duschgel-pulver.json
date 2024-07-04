@@ -1,0 +1,494 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "d336060b-b2ce-4849-be1b-20bdc0093467": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "25d1441d-3b7f-471c-b8f9-2894b36ae8cc": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ein Traum 🥰 Bin schockverliebt !!! Habe es das erst mal ausprobiert und ich bin sehr begeistert , der Duft einfach himmlisch , die Konsistenz ( wurde bei mir eher eine Duschcreme ) was ich Klasse finde weil es nicht zu flüssig ist und von daher auch ergiebig ist . Wird nicht meine letzte Bestellung sein 😀 Vielen Dank dafür\" - Gabi B. via Bewertungen."
+          }
+        },
+        "098009d7-5f14-4ad2-a8ea-c23151324280": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "cddb3196-833e-4674-8da2-2f89d6ad55f8": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "96567aba-70e4-4d26-8258-ff3d09f1dc0e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "62b803fc-f774-4515-b863-82f47b721bc3": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "d336060b-b2ce-4849-be1b-20bdc0093467",
+        "25d1441d-3b7f-471c-b8f9-2894b36ae8cc",
+        "098009d7-5f14-4ad2-a8ea-c23151324280",
+        "variant_picker",
+        "cddb3196-833e-4674-8da2-2f89d6ad55f8",
+        "buy_buttons",
+        "96567aba-70e4-4d26-8258-ff3d09f1dc0e",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "62b803fc-f774-4515-b863-82f47b721bc3"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_Hhkjx9": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "nur das beste",
+        "title": "für deine haut und deine umwelt",
+        "text": "<p>Mit deinem Duschgel-Pulver machst du die tägliche Körpereinigung zu einem echten Verwöhnerlebnis für deine Haut. Mit seiner innovativen Formel bietet es eine sanfte Reinigung, die deine Haut verwöhnt und sie intensiv pflegt. Die milde Wirkung der Tenside reinigt deine Haut schonend, während die großzügige Pflegephase mit Sheabutter, Kokosöl und Mandelöl sie mit Feuchtigkeit versorgt und herrlich zart macht. Jeder Duschmoment wird zu einem Ritual der Selbstpflege, bei dem du dich rundum verwöhnt und gepflegt fühlst. Gönn dir diese kleine Auszeit und spüre, wie dein Körper von Kopf bis Fuß von Liebe und Pflege umhüllt wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d6a110937d36458093493afba7b5fb5d.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "1635249104cf1c23f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_sheabutter.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "ein wahrer Schatz für die Haut",
+        "title": "sheabutter",
+        "text": "<p>Sheabutter ist außerordentlich feuchtigkeitsspendend. Die natürlichen Fette dringen tief in die Haut ein und versorgen sie intensiv mit Feuchtigkeit, was besonders wichtig für trockene und strapazierte Haut ist. Sie wirkt beruhigend auf die Haut. Die entzündungshemmenden Eigenschaften lindern Hautirritationen, Rötungen und Juckreiz. Zudem bietet sie einen effektiven Hautschutz. Sheabutter bildet einen schützenden Film auf der Haut, der vor äußeren Einflüssen wie Wind, Kälte und UV-Strahlung schützt und gleichzeitig die Feuchtigkeit in der Haut einschließt. Die enthaltenen Vitamine A und E fördern die Zellerneuerung und helfen, die Haut gesund und geschmeidig zu halten, wodurch sie sich glatter und straffer anfühlt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5844f454-f983-4d5b-b9ea-fb77c74a78ac": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_kokosoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Feuchtigkeitsspendend & glättend",
+        "title": "kokosöl",
+        "text": "<p>Kokosöl ist eine äußerst wertvolle Zutat in unserem Duschgel-Pulver und bietet eine Vielzahl von Vorteilen für die Haut. Es ist stark feuchtigkeitsspendend und dringt tief in die Haut ein, um sie mit Feuchtigkeit zu versorgen und trockene Haut zu glätten. Darüber hinaus wirkt es entzündungshemmend und beruhigend, was Irritationen, Rötungen und Reizungen lindern kann, insbesondere bei empfindlicher Haut. Mit seinen natürlichen Antioxidantien schützt Kokosöl die Haut vor schädlichen freien Radikalen und kann dazu beitragen, vorzeitiger Hautalterung vorzubeugen. Zudem besitzt es antimikrobielle Eigenschaften, die helfen können, Bakterien, Pilze und Viren auf der Haut zu bekämpfen und das Risiko von Hautinfektionen zu reduzieren. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c62416ef-6574-4a57-a4b7-7f395493879e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Mandeloel.png",
+        "image_mask": "rounded",
+        "image2_mask": "rounded",
+        "subtitle": "nährend & schützend",
+        "title": "mandelöl",
+        "text": "<p>Mandelöl ist reich an Vitaminen, Mineralien und essentiellen Fettsäuren, die dazu beitragen, die Haut zu pflegen, zu schützen und zu verbessern. Mandelöl wirkt feuchtigkeitsspendend und hilft dabei, die Feuchtigkeit in der Haut zu bewahren, was besonders für trockene und strapazierte Haut wichtig ist. Darüber hinaus besitzt es entzündungshemmende Eigenschaften, die dabei helfen können, Hautirritationen zu lindern und die Haut zu beruhigen. Mandelöl ist auch bekannt für seine hautberuhigenden Eigenschaften und kann bei Hautproblemen wie Rötungen, Juckreiz und Ekzemen helfen. Dank seiner leichten Textur zieht Mandelöl schnell in die Haut ein, ohne einen fettigen Film zu hinterlassen, und hinterlässt stattdessen eine weiche, geschmeidige Haut. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fa454681-b469-4828-a88f-cef0c82fa866": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_schaum.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Milde Reinigung",
+        "title": "Sodium Cocoyl Isethionate",
+        "text": "<p>SCI ist ein mildes Tensid, das aus Kokosnussöl gewonnen wird. Es dient als Tensid, also  als waschaktive Substanz bzw. Reinigungsmittel, das dabei hilft, Schmutz, überschüssiges Öl und Verunreinigungen von der Haut zu entfernen. Sodium Cocoyl Isethionate bildet zudem einen reichhaltigen und cremigen Schaum, der das Duscherlebnis angenehmer macht. In unserem Duschgelpulver verwenden wir Sodium Cocoyl Isethionate, um eine sanfte und effektive Reinigung zu gewährleisten. SCI ist unserer Auffassung nach die mildeste Form der Tenside und in Kombination mit unserer großzügigen Pflegephase die sanfteste Form der Reinigung mit waschaktiven Substanzen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_dW8ryq": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_6AaMD3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_hwampb": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_GtQV3U": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_NjFf9z": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_6AaMD3",
+        "text_block_hwampb",
+        "text_block_GtQV3U",
+        "text_block_NjFf9z"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_PVHT8L": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "NACHHALTIGKEIT, DIE SICH VON KONVENTIONELLEN DUSCHPRODUKTEN ABHEBT",
+        "text": "<p>Konventionelle Duschgele enthalten meist um die 80-90% Wasser. Ein Rohstoff, den wir alle zuhause haben. Wieso also schicken wir es quer durch ganze Land, wenn es auch umweltfreundlicher geht. Denn das Gewicht und Volumen der Produkte erzeugen massenhaft CO2.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere Duschgel-Pulver enthalten kein Wasser! Du rührst sie in Sekundenschnelle zuhause einfach mit Wasser an. Das ist nicht nur gut für dich, sondern auch für die Umwelt. Unsere Duschgel-Pulver sind die nachhaltigere Alternative zu konventionellen Duschprodukten und ermöglichen es, einen Beitrag zum Umweltschutz zu leisten, ohne auf hochwertige Pflege verzichten zu müssen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1635246736941330fe": {
+      "type": "faq",
+      "blocks": {
+        "fdea6c83-816c-4004-8cdb-884a51df39f6": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist ein Duschgel-Pulver?",
+            "text": "<p>Das Pulver wird zuhause mit Wasser angerührt und je nach zugegebener Menge wie ein gewohntes Duschgel, oder als Duschmousse verwendet. Ganz ohne Umstellung und Umgewöhnungprozess.<\/p>"
+          }
+        },
+        "4c5342f3-0e14-4ae3-8b27-e65732a66577": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Pulver auch ohne Wasser anwenden?",
+            "text": "<p>Ja das geht und ist sogar recht praktisch für Unterwegs, da nichts auslaufen kann. Schäume eine Haselnussgroße Menge in deinen nassen Händen auf und massiere den Schaum auf die nasse Haut ein.<\/p>"
+          }
+        },
+        "60978745-2eac-420f-8ce9-7123e09802b3": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist das Duschgel-Pulver haltbar?",
+            "text": "<p>Sobald es mit Wasser angerührt wurde ist dein Duschgel 4 Wochen lang haltbar. <\/p>"
+          }
+        },
+        "207f04a2-7719-466a-9e0a-20445f7d3fcf": {
+          "type": "question",
+          "settings": {
+            "title": "Wie ist das Duschgel-Pulver aufzubewahren?",
+            "text": "<p>Du kannst es angerührt aufbewahren, wie jedes andere Duschgel auch. Die Haltbarkeit kann durch eine Lagerung im Kühlschrank etwas verlängert werden.<\/p>"
+          }
+        },
+        "1635246736941330fe-1": {
+          "type": "question",
+          "settings": {
+            "title": "In welchem Gefäß sollte das Pulver am besten angerührt werden?",
+            "text": "<p>Wir empfehlen, das Duschgel-Pulver in einem hohen Gießgefäß mit einem Schneebesen anzurühren und anschließend schnell umzufüllen, solange es noch flüssig ist.<\/p><p>Du kannst dafür jedes Gefäß nutzen, dass dir gefällt. Zum beispiel eine alte Duschgel-Flasche, einen Seifenspender oder ein Aufbewahrungsdöschen. Hauptsache ist, dass es wasserfest ist.<\/p>"
+          }
+        },
+        "bc70ee5a-ec72-4d42-9b65-d6acca2972aa": {
+          "type": "question",
+          "settings": {
+            "title": "Mein Duschgel ist nach dem Anrühren sehr noch flüssig oder zu fest geworden. Was kann ich tun?",
+            "text": "<p>Je nach Wasserhärte und Kalkbeschaffenheit, was von Ort zu Ort variiert, kann das Duschgel leider etwas flüssiger oder fester werden. <\/p><p><strong>Generell empfiehlt es sich: <\/strong>Vor dem gebrauch das Duschgel noch mal kräftig zu schütteln, da wir bewusst auf Emulgatoren verzichten.<\/p><p><strong>Zu Fest:<\/strong> Am besten noch einen Schluck Wasser dazugeben und dann nochmal kräftig durchrühren, bis es die für dich richtige Konsistenz erhält.<\/p><p><strong>Zu flüssig: <\/strong>Möglicherweise wurde das Pulver nicht richtig aufgelöst beim Einrühren. Bitte prüfe, ob sich am Boden noch absätze befinden und rühre es noch mal kräftig durch.<\/p>"
+          }
+        },
+        "075e01e6-db59-4621-a235-3bde7399b939": {
+          "type": "question",
+          "settings": {
+            "title": "Was sind die Unterschiede bei den Duschgel-Pulvern?",
+            "text": "<p>Ausschließlich die Düfte. Alle Duschgel-Pulver sind in ihrer Basis gleich.<\/p>"
+          }
+        },
+        "0a5ea2e7-69f7-4afa-82ad-ea8aaa942c67": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Duschgel-Pulver auch für empfindliche Haut verwenden?",
+            "text": "<p>Ja, das Duschgel-Pulver ist für alle Hauttypen geeignet, auch für empfindliche Haut.<\/p>"
+          }
+        },
+        "question_qazLWb": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Duschgel-Pulver auch auf Reisen mitnehmen?",
+            "text": "<p>Ja, das Duschgel-Pulver ist aufgrund seiner pulverförmigen Form und des geringen Gewichts ideal für Reisen.<\/p>"
+          }
+        },
+        "question_xx8Dqf": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Duschgel-Pulver auch bei hartem Wasser verwenden?",
+            "text": "<p>Ja, das Duschgel-Pulver ist auch bei hartem Wasser effektiv und bildet einen angenehmen Schaum.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "fdea6c83-816c-4004-8cdb-884a51df39f6",
+        "4c5342f3-0e14-4ae3-8b27-e65732a66577",
+        "60978745-2eac-420f-8ce9-7123e09802b3",
+        "207f04a2-7719-466a-9e0a-20445f7d3fcf",
+        "1635246736941330fe-1",
+        "bc70ee5a-ec72-4d42-9b65-d6acca2972aa",
+        "075e01e6-db59-4621-a235-3bde7399b939",
+        "0a5ea2e7-69f7-4afa-82ad-ea8aaa942c67",
+        "question_qazLWb",
+        "question_xx8Dqf"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"Duschgel-pulver\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "677ec4f6-62a7-43f7-bc8c-1a5b76722c60": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Wenn dich unsere duschgel-pulver interessieren, sind unsere shampoo-pulver sicherlich auch spannend für dich",
+        "home_featured_products": "shampoo-pulver",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 4,
+        "products_per_row": 4
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_Hhkjx9",
+    "1635249104cf1c23f1",
+    "5844f454-f983-4d5b-b9ea-fb77c74a78ac",
+    "c62416ef-6574-4a57-a4b7-7f395493879e",
+    "fa454681-b469-4828-a88f-cef0c82fa866",
+    "text_with_icons_dW8ryq",
+    "text_and_image_PVHT8L",
+    "1635246736941330fe",
+    "677ec4f6-62a7-43f7-bc8c-1a5b76722c60",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

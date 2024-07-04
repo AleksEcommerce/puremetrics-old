@@ -1,0 +1,459 @@
+{
+  "sections": {
+    "promo_grid_Wqa3Yq": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner_t3tYid": {
+          "type": "banner",
+          "settings": {
+            "heading": "💐 Am 12. Mai ist Muttertag 💐",
+            "text": "Überrasche deine Mama mit diesem liebevoll zusammengestellten Geschenkset und zeige ihr, wie sehr du sie schätzt!",
+            "link": "",
+            "label": "",
+            "color_tint": "#ff004e",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "banner_t3tYid"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 10,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "sales_point_m6DVTt": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Versandkostenfreie Lieferung"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "sales_point_m6DVTt",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_J8D9Ta": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Rosengarten",
+        "title": "Ein Duft voller Liebe zum Muttertag",
+        "text": "<p>Der Duft von \"Rosengarten\" entführt dich in einen malerischen Blumengarten voller zarter Rosenblüten, die in der Frühlingsbrise sanft schaukeln. Dieses aromatische Erlebnis erinnert an die unendliche Liebe und Wertschätzung, die du für deine Mutter empfindest. Es ist eine Hommage an ihre Schönheit und die unermüdliche Fürsorge, die sie dir jeden Tag schenkt. Der zarte Duft ist ein Zusammenspiel aus süßen, blumigen Noten, die die Luft mit Eleganz erfüllen. Es ist ein Hauch von Nostalgie, eine Erinnerung an vergangene Zeiten, als die Liebe noch in handgeschriebenen Briefen verborgen lag.  <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6c06f0aab6bf41218ad5e8aa5e525a76.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "rich_text_HTVBje": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_F7xic9": {
+          "type": "heading",
+          "settings": {
+            "title": "diese produktspecials erwarten dich!"
+          }
+        },
+        "text_LUAtFw": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Diese liebevoll kuratierte Geschenkbox birgt speziell für den Muttertag kreierte einzigartige Produkte mit dem liebevollen Duft des Rosengartens. Geschenkfertig und dekorativ verpackt!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_F7xic9",
+        "text_LUAtFw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_7HwwKg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_dusch_konfekt_rosengarten_13f89efe-81bf-4ed7-9559-dd59847c4ddf.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "blumiger duschpflege-Zauber",
+        "title": "3in1 Dusch-Konfekt \"Rosengarten\"",
+        "text": "<p>Dieses einzigartige Pflegeprodukt vereint die besten Eigenschaften von Duschgel, Peeling und Lotion in einem handlichen Konfekt. Mit einem sanften Duft nach Rosenblüten verwöhnt es deine Sinne und hinterlässt deine Haut seidig glatt und geschmeidig. Reichhaltige Sheabutter und Mandelöl spenden Feuchtigkeit und pflegen deine Haut intensiv, während das Zuckerschaumpeeling abgestorbene Hautzellen sanft entfernt. Erlebe pure Pflege und Genuss für deine Haut bei jeder Dusche.<\/p><p><strong>Unsere 3in1 Dusch-Konfekte sind für 10 Anwendungen ausgelegt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_FGGbUV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_peel-off_maske_Rosengarten.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "rosige Schönheit",
+        "title": "Peel-Off Maske \"Rosengarten\"",
+        "text": "<p>Diese einzigartige Formel wurde speziell für die Bedürfnisse trockener und reifer Haut entwickelt. Mit fein gemahlenen Rosenblüten, Algen und Mineralton versorgt sie deine Haut mit Feuchtigkeit und revitalisiert sie gleichzeitig. Genieße den zarten Duft der Rose und erlebe, wie deine Haut erstrahlt und sich belebt fühlt. Gönn dir und deiner Haut diesen luxuriösen Verwöhnmoment und entdecke die Kraft der Natur für ein strahlendes Hautbild.<\/p><p><strong>Unsere Peel-Off Maske ist für 7 Anwendungen ausgelegt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_3KtfBd": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_seife_rosengarten.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "blumenzarten reinigung",
+        "title": "Gesichtspflegeseife \"Rosengarten\"",
+        "text": "<p>Diese luxuriöse Seife wurde speziell für trockene und reife Haut entwickelt und bietet eine sanfte Reinigung und reichhaltige Pflege. Sie verwöhnt die Haut mit hochwertigen Inhaltsstoffen wie Bio-Babassuöl und Bio-Jojobaöl. Der betörende Duft von Rosenblüten entführt dich in einen blumigen Garten und schenkt dir ein Gefühl von Frische und Entspannung. Genieße die natürliche Pflege und den zauberhaften Duft unserer Gesichtspflegeseife \"Rosengarten\" für eine strahlend schöne Haut.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_MtLVfz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YwWxcd": {
+          "type": "heading",
+          "settings": {
+            "title": "abgerundet mit feinen badaccessoires"
+          }
+        },
+        "text_ymnp9j": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Badaccessoires aus Naturmaterialien runden die Geschenkbox ab, verleihen ein wunderschönes Flaire im Bad und sorgen für eine bessere Aufbewahrung und längere Haltbarkeit.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YwWxcd",
+        "text_ymnp9j"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_Jbt8X8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Seifensaeckchen_mit_Seife_Rosengarten.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "hochwertiges Naturmaterial",
+        "title": "Seifensäckchen \"Sisal\"",
+        "text": "<p>Hergestellt aus nachhaltigem Jute, bietet diese Säckchen eine umweltfreundliche Möglichkeit, deine Seifen aufzubewahren und zu verwenden. Das feine Gewebe sorgt für einen sanften Peelingeffekt und eine angenehme Massage während der Anwendung, während gleichzeitig überschüssiger Schaum abgetragen wird. Dank des praktischen Kordelzugs kannst du deine Seifen einfach aufhängen und trocknen lassen, was ihre Lebensdauer verlängert und die Bildung von Seifenresten verhindert. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_tPUGxw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Accessoires_Seifenstein_03_rosa.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "stilvoll und praktisch",
+        "title": "Seifenablage aus \"Travertingestein\"",
+        "text": "<p>Hergestellt aus hochwertigem Travertingestein, verleiht diese Ablage deinem Badezimmer einen Hauch von Natürlichkeit und Eleganz. Die natürlichen Korkfüßchen schützen deine Oberflächen vor Kratzern und sorgen gleichzeitig für eine gute Luftzirkulation, um deine Seifen trocken zu halten und ihre Haltbarkeit zu erhöhen. Das elegante Design und die robuste Bauweise machen diese Seifenablage zu einem zeitlosen Accessoire für jedes Badezimmer. Genieße die Organisation und Ordnung in deinem Badezimmer.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_8dT6m8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Accessoire_DekoBox_Small_Rosa.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "wir haben an alles gedacht",
+        "title": "geschenkfertig verpackt",
+        "text": "<p>All diese wundervollen Aufmerksamkeiten sind in unserer hochwertigen Geschenkbox verpackt. Keine Sorge, wir legen keine Rechnung bei. So kannst du die Geschenkbox auch direkt an deine Mama senden. <\/p><p><strong>Außerdem liegt der Muttertagsbox eine süße Geschenkkarte bei. Die Rückseite haben wir ganz bewusst leer gelassen, um Platz für deine eigenen Worte zu lassen, wenn du magst.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "🌺 Diese Produkte lieben unsere Mütter ebenfalls 🌺",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "promo_grid_Wqa3Yq",
+    "main",
+    "background_video_text_J8D9Ta",
+    "rich_text_HTVBje",
+    "text_and_image_7HwwKg",
+    "text_and_image_FGGbUV",
+    "text_and_image_3KtfBd",
+    "rich_text_MtLVfz",
+    "text_and_image_Jbt8X8",
+    "text_and_image_tPUGxw",
+    "text_and_image_8dT6m8",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

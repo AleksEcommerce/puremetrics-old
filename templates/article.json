@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "cf007cf9-26f0-489c-8185-50bc419b06c7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18074176323850__cf007cf9-26f0-489c-8185-50bc419b06c7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Andere Leser:innen interessierten sich auch für..."
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176323850__cf007cf9-26f0-489c-8185-50bc419b06c7-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Clean beauty",
+        "blog": "beauty",
+        "post_limit": 9,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "84292416-5932-4c7a-8954-79e01982d531": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "clean food",
+        "blog": "rezepte",
+        "post_limit": 9,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "5d1b46fe-de25-4197-9bee-04394a636be5": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "clean living",
+        "blog": "umwelt-facts-news",
+        "post_limit": 9,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cf007cf9-26f0-489c-8185-50bc419b06c7",
+    "blog-posts",
+    "84292416-5932-4c7a-8954-79e01982d531",
+    "5d1b46fe-de25-4197-9bee-04394a636be5"
+  ]
+}

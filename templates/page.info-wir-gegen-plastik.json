@@ -1,0 +1,254 @@
+{
+  "sections": {
+    "16351619027bdf251a": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Unbenannt_c315260a-1831-47e7-aeda-4d272317b6bb.jpg",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "16351622682057b049": {
+      "type": "rich-text",
+      "blocks": {
+        "16351622682057b049-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Dein Kampf gegen Plastik muss nicht so aussehen, ..."
+          }
+        }
+      },
+      "block_order": [
+        "16351622682057b049-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1635162253f352e98a": {
+      "type": "logo-list",
+      "blocks": {
+        "1635162253f352e98a-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boxen.jpg",
+            "link": ""
+          }
+        },
+        "1635162253f352e98a-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schreien.jpg",
+            "link": ""
+          }
+        },
+        "1635162253f352e98a-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Plastik_fischen.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635162253f352e98a-0",
+        "1635162253f352e98a-1",
+        "1635162253f352e98a-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
+    "1635165903e614fa4e": {
+      "type": "testimonials",
+      "blocks": {
+        "1635165903e614fa4e-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Ich bin rundum zufrieden mit diesem Trockenshampoo und kaufe es mir immer wieder! Der Preis ist top, es funktioniert einwandfrei und im Punkt Nachhaltigkeit ist das Produkt nicht zu toppen. Danke!<br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/image01633_89d1759c-9cea-4e08-bf2c-fb2d416f9c14.jpg",
+            "author": "",
+            "author_info": ""
+          }
+        },
+        "1635165903e614fa4e-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Tolle Produkte,<br\/>nachhaltig und komplett plastikfrei verpackt und versendet.<br\/>Ich bestelle gerne wieder 😊<br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/LagerFotos_06_421ba76a-2fcc-44c4-9586-7fc3a1ba25e3.jpg",
+            "author": "",
+            "author_info": ""
+          }
+        },
+        "1635165903e614fa4e-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Ich war zu Beginn sehr skeptisch, weil ich bisher eher schlechte Erfahrung mit Masken gemacht habe, aber die hier ist wirklich perfekt für meine Haut. Ich benutze sie jetzt seit 3 Monaten und meine Haut war nie besser. Und das beste ist, dass sie super nachhaltig ist. Sonst gibt es ja echt keine plastikfreien Masken in der Drogerie. Der Versand geht auch super flott, danke an Manuel fürs liebevolle Verpacken meiner letzten Bestellung. :)<br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/foto02.jpg",
+            "author": "",
+            "author_info": ""
+          }
+        },
+        "1635165903e614fa4e-3": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "1635165903e614fa4e-4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "1635165903e614fa4e-1",
+        "1635165903e614fa4e-0",
+        "1635165903e614fa4e-2",
+        "1635165903e614fa4e-3",
+        "1635165903e614fa4e-4"
+      ],
+      "settings": {
+        "title": "... SONDERN KANN ENTSPANNT SO AUSSEHEN",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "16351650157add830b": {
+      "type": "logo-list",
+      "blocks": {
+        "16351650157add830b-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image01633_89d1759c-9cea-4e08-bf2c-fb2d416f9c14.jpg",
+            "link": ""
+          }
+        },
+        "16351650157add830b-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LagerFotos_06_421ba76a-2fcc-44c4-9586-7fc3a1ba25e3.jpg",
+            "link": ""
+          }
+        },
+        "16351650157add830b-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/foto02.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16351650157add830b-0",
+        "16351650157add830b-2",
+        "16351650157add830b-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
+    "16351638668dbe0f39": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Plastik_fischen.jpg",
+        "image2": "shopify:\/\/shop_images\/schreien.jpg",
+        "subtitle": "",
+        "title": "DEIN KAMPF GEGEN PLASTIK MUSS NICHT SO AUSSEHEN, ...",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1635162748b890f812": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/foto02.jpg",
+        "image2": "shopify:\/\/shop_images\/image01633_89d1759c-9cea-4e08-bf2c-fb2d416f9c14.jpg",
+        "subtitle": "",
+        "title": "... sondern kann entspannt so aussehen",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "163516552917a2e196": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "100% PLASTIKFREI & VEGAN",
+        "title": "DAS IST PUREMETICS",
+        "text": "<p>Wir lieben Nachhaltigkeit und geben jeden Tag Vollgas, dass die Kosmetikbranche und unsere Umwelt cleaner werden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Team-2.png",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "16351642769a21ef66": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Entdecke jetzt unsere Bestseller",
+        "home_featured_products": "bestseller",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "16351619027bdf251a",
+    "16351622682057b049",
+    "1635162253f352e98a",
+    "1635165903e614fa4e",
+    "16351650157add830b",
+    "16351638668dbe0f39",
+    "1635162748b890f812",
+    "163516552917a2e196",
+    "16351642769a21ef66"
+  ]
+}

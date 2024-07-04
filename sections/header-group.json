@@ -1,0 +1,78 @@
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "GRATISVERSAND DEUTSCHLANDWEIT AB 39€",
+            "link_text": "klimaneutral und plastikfrei",
+            "link": "shopify:\/\/policies\/shipping-policy"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "100% ZUFRIEDENHEITSGARANTIE",
+            "link_text": "einfach, schnell und sicher",
+            "link": "shopify:\/\/pages\/100-zufriedenheitsgarantie"
+          }
+        },
+        "902f4806-7b03-4fe1-92d0-622763aba87b": {
+          "type": "announcement",
+          "settings": {
+            "text": "Plastikfrei • Vegan • Wirksam",
+            "link_text": "vom Produkt bis zur Verpackung",
+            "link": "shopify:\/\/pages\/unsere-mission"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0",
+        "announcement-1",
+        "902f4806-7b03-4fe1-92d0-622763aba87b"
+      ],
+      "settings": {
+        "announcement_compact": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "header-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/puremetics_Wortmarke_Schwarz_770a0619-0918-4a32-9d37-60ccbf1769fd.png",
+            "logo-inverted": "shopify:\/\/shop_images\/puremetics_Wortmarke_weiss_Trademark_400px.png",
+            "desktop_logo_width": 150,
+            "mobile_logo_width": 110
+          }
+        }
+      },
+      "block_order": [
+        "header-0"
+      ],
+      "settings": {
+        "main_menu_link_list": "hauptmen-impulse",
+        "hover_menu": true,
+        "mega_menu_images": true,
+        "main_menu_alignment": "center-left",
+        "header_style": "sticky",
+        "sticky_index": false,
+        "sticky_collection": false,
+        "toolbar_menu": "",
+        "toolbar_social": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_currency_flags": true
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}

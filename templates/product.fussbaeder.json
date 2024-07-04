@@ -1,0 +1,432 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "97c212ef-e341-4579-9727-771d4e628867": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich bin rundum zufrieden mit diesem Trockenshampoo und kaufe es mir immer wieder! Der Preis ist top, es funktioniert einwandfrei und im Punkt Nachhaltigkeit ist das Produkt nicht zu toppen. Danke!\" - Sabrina H. via Trusted Shops"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "905ba814-2813-411f-9bd2-4a96d3433a67": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "1ebe75a5-f32f-46ff-a9a8-7d1d62bdbf54": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "b71c63b9-e0b0-4dd4-b076-07eb5ec787fb": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "c7c3c5e0-65ee-49a1-9d33-5fa03332f662": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "97c212ef-e341-4579-9727-771d4e628867",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "variant_picker",
+        "905ba814-2813-411f-9bd2-4a96d3433a67",
+        "1ebe75a5-f32f-46ff-a9a8-7d1d62bdbf54",
+        "buy_buttons",
+        "b71c63b9-e0b0-4dd4-b076-07eb5ec787fb",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "c7c3c5e0-65ee-49a1-9d33-5fa03332f662"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_VFGiXL": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "natürliches basenbad",
+        "title": "überschüssige Säuren neutralisieren",
+        "text": "<p>Ein basisches Fußbad ist ein Bad, das mit basischen Zusätzen wie Natron oder basischen Mineralien angereichert ist. Diese Zusätze erhöhen den pH-Wert des Wassers und machen es alkalisch bzw. basisch. Ein basisches Fußbad kann dazu beitragen, überschüssige Säuren im Körper zu neutralisieren, den Säure-Basen-Haushalt auszugleichen und Entzündungen zu reduzieren. Es wird oft zur Entgiftung, Entspannung und zur Förderung der Gesundheit und des Wohlbefindens verwendet. Darüber hinaus kann ein Basenbad eine entspannende und erfrischende Wirkung haben, die müde und schmerzende Füße belebt und revitalisiert.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1056683b3d0441ca95a4cd4c73b8266f.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_hdBqUg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Natron.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "regulierend & beruhigend",
+        "title": "natron",
+        "text": "<p>Natron ist in unserem Basenbad enthalten, da es eine basische Eigenschaft besitzt und dazu beiträgt, den pH-Wert des Wassers zu erhöhen. Dadurch wird das Badewasser basisch, was beim Ausgleich des Säure-Basen-Haushalts im Körper helfen kann. Natron kann zudem beruhigend auf die Haut wirken und dabei helfen, sie zu reinigen und zu pflegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jgy8K3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_natron_fussbad.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "reinigend & beruhigend",
+        "title": "weiße tonerde",
+        "text": "<p>Weiße Tonerde ist in unserem Basenbad enthalten, da sie bekannt dafür ist, die Haut sanft zu reinigen und zu beruhigen. Sie hilft dabei, überschüssiges Fett und Schmutz von der Haut zu entfernen, ohne sie dabei auszutrocknen. Die Tonpartikel absorbieren Unreinheiten und hinterlassen ein Gefühl von Reinheit und Frische auf der Haut. Zudem unterstützt die weiße Tonerde die natürliche Regeneration der Haut und kann sie geschmeidig und weich machen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_B8h8Rw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_aetherische_oele_fussbad.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "anregend & erfrischend",
+        "title": "Ätherische Öle und Bio-Blüten",
+        "text": "<p>Ätherische Öle sind in unserem Basenbad enthalten, um ein angenehmes Dufterlebnis zu bieten und die Sinne zu beleben. Darüber hinaus können ätherische Öle auch verschiedene positive Eigenschaften für die Haut haben. Zum Beispiel kann ätherisches Orangenöl erfrischend und revitalisierend wirken, während Ringelblumenöl beruhigende und pflegende Eigenschaften hat. Die Kombination dieser ätherischen Öle trägt dazu bei, das Basenbad zu einem entspannenden und wohltuenden Erlebnis für Körper und Geist zu machen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_khgrMH": {
+      "type": "text-with-icons",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "1634205304d71c6dc6": {
+      "type": "faq",
+      "blocks": {
+        "question_CytxQk": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist ein Basenfußbad?",
+            "text": "<p>Ein Basenfußbad ist eine Wellnessanwendung, bei der die Füße in einem basischen Bad eingeweicht werden, das den pH-Wert der Haut ausgleicht und sie reinigt.<\/p>"
+          }
+        },
+        "question_j4dagV": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist der pH-Wert eines Basenfußbades?",
+            "text": "<p>Der pH-Wert eines Basenfußbades liegt in der Regel zwischen 8 und 9, was ihn alkalisch macht und dazu beiträgt, Säuren im Körper zu neutralisieren.<\/p>"
+          }
+        },
+        "question_JqcLwi": {
+          "type": "question",
+          "settings": {
+            "title": "Welchen Nutzen hat ein Basenfußbad für die Gesundheit?",
+            "text": "<p>Basenfußbäder können dabei helfen, den Körper zu entsäuern, Stress abzubauen, die Durchblutung zu fördern, die Haut zu pflegen und die Entgiftung zu unterstützen.<\/p>"
+          }
+        },
+        "question_tcA9VM": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange sollte ich meine Füße im Basenfußbad einweichen?",
+            "text": "<p>Die empfohlene Einweichzeit beträgt normalerweise etwa 20 bis 30 Minuten, um die optimalen gesundheitlichen Vorteile zu erzielen.<\/p>"
+          }
+        },
+        "1634205304d71c6dc6-1": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich ein Basenfußbad täglich machen?",
+            "text": "<p>Ja, es ist möglich, ein Basenfußbad täglich zu machen, jedoch ist eine zu häufige Anwendung möglicherweise nicht erforderlich und sollte mit Bedacht durchgeführt werden.<\/p>"
+          }
+        },
+        "5bed6e4f-982d-4f6f-ac54-b87b46dfa84a": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist der ideale Zeitpunkt für ein Basenfußbad?",
+            "text": "<p>Ein Basenfußbad kann zu jeder Tageszeit durchgeführt werden, je nach den individuellen Vorlieben und dem Bedarf an Entspannung und Erholung.<\/p>"
+          }
+        },
+        "question_pGXHeq": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich das Basenfußbad auch mit anderen Produkten kombinieren?",
+            "text": "<p>Ja, das Basenfußbad kann mit anderen Wellness-Anwendungen wie Fußmassagen oder Peeling-Produkten kombiniert werden, um die Entspannung und Pflege zu intensivieren.<\/p>"
+          }
+        },
+        "question_AAGXwK": {
+          "type": "question",
+          "settings": {
+            "title": "Für wen ist ein Basenfußbad besonders geeignet?",
+            "text": "<p>Ein Basenfußbad ist für alle Menschen geeignet, insbesondere für diejenigen, die unter müden und strapazierten Füßen leiden oder ihre allgemeine Gesundheit und Entspannung fördern möchten.<\/p>"
+          }
+        },
+        "1634205304d71c6dc6-0": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich ein Basenfußbad auch bei Hautproblemen wie trockener Haut oder Schuppenbildung verwenden?",
+            "text": "<p>Ja, ein Basenfußbad kann dazu beitragen, die Haut zu beruhigen und zu hydratisieren, was besonders bei Hautproblemen wie Trockenheit oder Schuppenbildung von Vorteil sein kann.<\/p>"
+          }
+        },
+        "question_8BUkrx": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich ein Basenfußbad auch zur Vorbeugung von Fußpilz oder anderen Infektionen verwenden?",
+            "text": "<p>Ja, die antibakteriellen und antimykotischen Eigenschaften einiger Inhaltsstoffe im Basenfußbad können dazu beitragen, das Risiko von Fußpilz und anderen Infektionen zu verringern, besonders wenn sie regelmäßig angewendet werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_CytxQk",
+        "question_j4dagV",
+        "question_JqcLwi",
+        "question_tcA9VM",
+        "1634205304d71c6dc6-1",
+        "5bed6e4f-982d-4f6f-ac54-b87b46dfa84a",
+        "question_pGXHeq",
+        "question_AAGXwK",
+        "1634205304d71c6dc6-0",
+        "question_8BUkrx"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGer ZUM THEMA \"Fussbäder\". HIER SIND DIE ANTWORTEN dazu 💚"
+      }
+    },
+    "text_and_image_rWRKCR": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "pflegt deine füße und die umwelt",
+        "text": "<p>Dass auch unsere Füsse Liebe und Aufmerksamkeit brauchen ist klar. Fußbäder gehören in jede gut Pflegeroutine und haben neben entspannenden Wirkungen auch einen entscheidenen Vorteil: Sie tragen dazu bei, unsere Füße lang gesund und vital zu halten. Allerdings: Neben teilweise kritischen Inhaltsstoffen für den Körper, und die Umwelt fällt hierbei leider auch viel vermeidbarer, umweltbelastender Abfall an. <\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere Fussbäder in der Papiertüte sind die nachhaltige Alternative zu konventionell verpackten Produkten und ermöglichen es, einen Beitrag zum Umweltschutz zu leisten, ohne auf hochwertige Pflege verzichten zu müssen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "163646546932a4d446": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "diese highlights runden deine nachhaltige hand- und fusspflege perfekt ab",
+        "home_featured_products": "hande-fusse",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 5,
+        "products_per_row": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_VFGiXL",
+    "text_and_image_hdBqUg",
+    "text_and_image_jgy8K3",
+    "text_and_image_B8h8Rw",
+    "text_with_icons_khgrMH",
+    "1634205304d71c6dc6",
+    "text_and_image_rWRKCR",
+    "163646546932a4d446",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Popular picks",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "9e7921ff-8060-42d1-8d33-e4631fcb44e2": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18074176291082__9e7921ff-8060-42d1-8d33-e4631fcb44e2-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "🙈 Hupsi-pupsi: die von dir angeforderte seite existiert gar nicht mehr 🙈",
+            "heading": "Fehler 404 - aber Unsere Kosmetik ist frischer als dieser link",
+            "textarea": "VERSPROCHEN!",
+            "cta_text1": "ZUR sTARTSEITE",
+            "cta_link1": "https:\/\/www.puremetics.de",
+            "cta_text2": "ZU DEN PRODUKTEN",
+            "cta_link2": "shopify:\/\/collections\/all",
+            "image": "shopify:\/\/shop_images\/puremetics_Cart_Header_8df8edc7-78a8-469f-a188-32e74366fb0a.png",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176291082__9e7921ff-8060-42d1-8d33-e4631fcb44e2-advanced-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "d800cc3d-7f87-4420-99b2-0d947266b36f": {
+      "type": "faq",
+      "blocks": {
+        "template--18074176291082__d800cc3d-7f87-4420-99b2-0d947266b36f-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Wieso erscheint eine 404 Seite?",
+            "text": "<p>Solch eine Fehlerseite erscheint immer dann, wenn du einen Link öffnest, dessen Website nicht mehr existiert. Beispielsweise dann, wenn der Link geändert, das Seitenverzeichnis umstrukturiert oder die Seite gelöscht wurde.<\/p><p>Aber auch externe Links können dies hervorrufen. Beispielsweise dann, wenn sich jemand vertippt hat :)<\/p>"
+          }
+        },
+        "b93b8587-66ad-4802-8737-96003be73203": {
+          "type": "question",
+          "settings": {
+            "title": "Wieso heißt diese Fehlermeldung eigentlich \"404\"?",
+            "text": "<p>Der Fehlercode „<strong>404<\/strong>“ soll dadurch entstanden sein, dass in der Anfangszeit des Internets der Server, der diesen Fehler durch fehlende Dateien hervorrief, im Raum <strong>404<\/strong> im CERN stand, wo der Ursprung des World Wide Webs zu finden ist.<\/p>"
+          }
+        },
+        "0773f92d-4cea-46f5-b7ba-1535d9b4162a": {
+          "type": "question",
+          "settings": {
+            "title": "Und wieso gelange ich dann auf diese Seite?",
+            "text": "<p>Zum einen wollen wir dich gerne informieren, dass der Inhalt, den du eigentlich öffnen wolltest, nicht mehr existiert. Nun hast du die Möglichkeit uns zu kontaktieren und wir können entweder ein übersehenen Linkfehler korrigieren (lassen) oder dir mit neuen Inhalten persönlich weiterhelfen :)<\/p><p>Zum anderen ist eine 404 Seite für Google wichtig und, damit du nicht im \"Leeren\" landest.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176291082__d800cc3d-7f87-4420-99b2-0d947266b36f-question-1",
+        "b93b8587-66ad-4802-8737-96003be73203",
+        "0773f92d-4cea-46f5-b7ba-1535d9b4162a"
+      ],
+      "settings": {
+        "title": "was ist eigentlich dieses 404?!"
+      }
+    },
+    "57c11090-a33c-4f97-867e-e20ddc677864": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Portrait_Chris.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Portrait_Chido.jpg",
+        "image2_mask": "none",
+        "subtitle": "Die Gründer: Chris & Chido",
+        "title": "MÖCHTEST DU UNS GERNE ETWAS MITTEILLEN?",
+        "text": "<p>Falls du nun enttäuscht bist, nicht gefunden zu haben wonach du suchst, oder so lieb bist, uns auf einen Fehler hinzuweisen, freuen wir uns auf deine Nachricht und sind gern persönlich für dich erreichbar.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2b12f738-f69f-49bc-a3ec-0923e66b934f": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured-collection",
+    "9e7921ff-8060-42d1-8d33-e4631fcb44e2",
+    "d800cc3d-7f87-4420-99b2-0d947266b36f",
+    "57c11090-a33c-4f97-867e-e20ddc677864",
+    "2b12f738-f69f-49bc-a3ec-0923e66b934f"
+  ]
+}

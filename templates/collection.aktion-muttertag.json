@@ -1,0 +1,228 @@
+{
+  "sections": {
+    "165847578320f00eea": {
+      "type": "promo-grid",
+      "blocks": {
+        "61cfc3d3-1b9e-4b61-9de6-d348ceb5aa9d": {
+          "type": "banner",
+          "settings": {
+            "heading": "🌹 AM 14.05. IST MUTTERTAG 🌹",
+            "text": "Entdecke unsere spannenden neuen Produkte und exklusive Geschenkboxen",
+            "link": "",
+            "label": "",
+            "color_tint": "#e40091",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "61cfc3d3-1b9e-4b61-9de6-d348ceb5aa9d"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "7405c1f9-7638-41d1-8715-85f19bfd4d41": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "🌸 NEU BEI UNS - Mamas lieblinge 🌸",
+        "home_featured_products": "muttertag",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "f940f6f6-c7df-4190-b4d4-417a494d19a8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_chris_cosma_muttertag.png",
+        "subtitle": "das war meine inspiration",
+        "title": "blumen nachhaltig verschenken",
+        "text": "<p>Ich kenne nur wenige Menschen, die sich nicht über einen Strauß prächtige Blumen erfreuen können. Die wunderschönen Farben und Duftnoten<br\/>erhellen immer meine Sinne und machen mir direkt gute Laune. Ich wollte diesen Moment der Freude, der ganz unterbewusst geschieht, einfangen und als nachhaltige Alternative zum klassischen Strauß verwandeln. <\/p><p>Unsere Serie ‘Rosengarten‘ entführt dich auf eine Reise voller schöner Erinnerungen. Meine Inspiration: Der Mix aus ganz zarten und intensiveren Rosennoten soll auch deine Sinne zuhause erhellen und lieben Menschen eine besondere Freude bereiten. Als 3in1 Dusch-Fluff mit pflegendem Peeling-Effekt oder mit unserer liebevoll per Hand hergestellten Badebombe, die<br\/>schon fast zu schade ist, um sie im Wasser aufzulösen. Für die Duftmagie und Pflege lohnt es sich aber unbedingt.<\/p><p>Ich und das Team puremetics wünschen dir und deinen lieben Menschen einen schönen Muttertag.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "f4fea96b-eab3-47c4-9764-e5e10a69c488": {
+      "type": "promo-grid",
+      "blocks": {
+        "286e9c9b-b654-497b-806c-de2b1abbf9d9": {
+          "type": "banner",
+          "settings": {
+            "heading": "🥰 VERSCHENKE ZEIT 🥰",
+            "text": "Wie wäre es mit einem tollen Beauty-Abend gemeinsam mit dir?",
+            "link": "",
+            "label": "",
+            "color_tint": "#e40091",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "286e9c9b-b654-497b-806c-de2b1abbf9d9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "0f825415-80e5-4bc3-abd2-62970fe57c47": {
+      "type": "featured-product",
+      "blocks": {
+        "5b8ee462-6dd8-452c-b2e3-479b75c91226": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "01a979ad-1247-4b0e-a206-ec7f14e601f9": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "KOSTENLOSER VERSAND!"
+          }
+        },
+        "83243c1b-dc98-4b23-901b-8d51041df108": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "GESCHENKFERTIG VERPACKT"
+          }
+        },
+        "b0cfc075-2c86-4026-bb52-efb6f7ff329d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "INKL. GRUSSKARTE"
+          }
+        },
+        "b40b11fa-8c3b-4cc3-96a1-d1e33f8b6d70": {
+          "type": "text",
+          "settings": {
+            "text": "In dieser Geschenkbox ist alles dabei, was du für einen tollen Beauty-Abend mit deiner Mutter brauchst. Verschenke nachhaltige und tolle Kosmetik zusammen mit einem gemeinsamen Erlebnis."
+          }
+        },
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "5b8ee462-6dd8-452c-b2e3-479b75c91226",
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-0",
+        "01a979ad-1247-4b0e-a206-ec7f14e601f9",
+        "83243c1b-dc98-4b23-901b-8d51041df108",
+        "b0cfc075-2c86-4026-bb52-efb6f7ff329d",
+        "b40b11fa-8c3b-4cc3-96a1-d1e33f8b6d70",
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-1",
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-2",
+        "template--17390908047626__0f825415-80e5-4bc3-abd2-62970fe57c47-16824190228cc2fb21-3"
+      ],
+      "settings": {
+        "featured_product": "grosse-geschenkbox-mama-ist-die-beste",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "250c8ae5-57a0-49d9-b465-240d23e6e2c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "🥰 WEITERE LIEBLINGE UNSERER MÜTTER 🥰",
+        "home_featured_products": "reife-haut",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 5,
+            "rows_per_page": 3,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "165847578320f00eea",
+    "collection-header",
+    "7405c1f9-7638-41d1-8715-85f19bfd4d41",
+    "f940f6f6-c7df-4190-b4d4-417a494d19a8",
+    "f4fea96b-eab3-47c4-9764-e5e10a69c488",
+    "0f825415-80e5-4bc3-abd2-62970fe57c47",
+    "250c8ae5-57a0-49d9-b465-240d23e6e2c4",
+    "main-collection"
+  ]
+}

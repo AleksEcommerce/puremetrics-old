@@ -1,0 +1,583 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9a6edb7c-5056-47ff-af07-af19887a2815": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213": {
+          "type": "text",
+          "settings": {
+            "text": "\"Begeistert! Endlich einen festen Make-up Entferner gefunden. Angenehmer Duft und sehr cremiger Schaum. Wimperntusche ohne Probleme entfernen können. Am besten erst Gesicht mit Schwämmchen einseifen und dann die geschlossen Augen abreiben und mit Wasser abspülen, dann brennt's auch nicht.\" - Daniela via Bewertungen"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "af11656a-5bba-4794-9f06-16522ca199cf": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9a6edb7c-5056-47ff-af07-af19887a2815",
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213",
+        "variant_picker",
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4",
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "af11656a-5bba-4794-9f06-16522ca199cf"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_abschminken_seife_rosa.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Ein strahlender Teint",
+        "title": "nachhaltige und effektive Make-up-Entfernung",
+        "text": "<p>Unsere Make-Up Entferner Seife ist speziell darauf konzipiert, die feine Gesichtshaut durch eine effektive Porenreinigung zu klären und gleichzeitig einen strahlenden Teint zu fördern. <\/p><p>Sie effektiv Make-up, Mascara, aber auch gleichzeitig Unreinheiten und überschüssiges Öl aus den Poren. Der Hochwertige Bio-Öl Mix und das enthaltene Reisprotein tragen dazu bei, die Haut geschmeidig zu halten und gleichzeitig ihre natürliche Feuchtigkeitsbalance zu bewahren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Was kann unsere Make-up Entferner Seife für dich tun?"
+          }
+        },
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Seifen können extrem vielfältig sein und nicht jede Seife eignet sich für den Einsatz jeder Körperpartie. Unsere Make-up Entferner Seife wurde speziell für die Anwendung im Gesicht zum Abschminken ausgerichtet und geprüft. Es ist also sehr wichtig, dass du für die Gesichtsreinigung eine spezielle Gesichtsseife benutzt, die die Bedürfnisse deiner Haut versteht. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1",
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "29c8f23d-a5ac-49fd-8976-d6ddac1bdad4": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürlich, mild, handgesiedet",
+        "title": "Abschminken und Gesichtsreinigung in einem Step",
+        "text": "<p>Die feste Formel entfernt nicht nur mühelos Make-up, sondern auch hartnäckige Rückstände. Ob wasserfestes Mascara oder langanhaltender Lippenstift, unser fester Make-up Entferner meistert jede Herausforderung.<\/p><p>Durch die regelmäßige Anwendung kann das Hautbild verbessert und sogar Hautunreinheiten wie Akne, Mitessern und Pickeln vorgebeugt werden, indem das Wachstum von Bakterien reduziert wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/bb725eff1ac84b58aa472e2b51f5366c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Feuchtigkeitsregulierung"
+          }
+        },
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Gesichtsseifen enthalten feuchtigkeitsspendende Inhaltsstoffe, die helfen, die Haut mit Feuchtigkeit zu versorgen. Dies ist besonders vorteilhaft, um ein ausgewogenes Feuchtigkeitsniveau aufrechtzuerhalten, ohne die Haut zu stark zu entfetten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1",
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "7f5fde89-906e-4f8b-a64c-b576451318b0": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Nachhaltig und Hautschonend",
+        "title": "Natürliche Fettsäuren",
+        "text": "<p>Unsere Make-up Entferner Seifen sind handgesiedet und bestehen im Gegensatz zu konventionellen Abschminkmitteln nicht aus Tensiden, sondern aus natürlichen Fettsäuren.<\/p><p>Natürliche Fettsäuren reinigen die Haut auf eine sanfte Weise, lösen Schmutz und Make-up auf, ohne die Haut zu stark zu entfetten oder zu reizen.<\/p><p>Unsere festen Make-up Entferner sind also eine natürliche, milde, effektive und nachhaltige Möglichkeit der Abschmink- und Gesichtsreinigungsroutine.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e8d40aa9df9d4f90a9e5a476928f7a36.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "3ba50d63-7bf2-46af-877b-8801b1f45635": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18390601990410__3ba50d63-7bf2-46af-877b-8801b1f45635-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Vielseitig einsetzbar"
+          }
+        },
+        "template--18390601990410__3ba50d63-7bf2-46af-877b-8801b1f45635-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unser fester Make-up Entferner eignet sich nicht nur für Gesicht, Augen und Lippen, sondern kann auch für Reisen als All-in-One-Reinigungslösung genutzt werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18390601990410__3ba50d63-7bf2-46af-877b-8801b1f45635-heading-1",
+        "template--18390601990410__3ba50d63-7bf2-46af-877b-8801b1f45635-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "df570454-9b69-418f-a603-1b2429f1789e": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Mit wertvollem Reisprotein",
+        "title": "softe pflege und weitere vorteile",
+        "text": "<p><strong>Hautfreundlich: <\/strong>Angereichert mit pflegenden Inhaltsstoffen ist unser fester Make-up Entferner besonders sanft zur Haut.<br\/><br\/><strong>Reisefreundlich: <\/strong>Die kompakte Größe und die Unempfindlichkeit gegenüber Flüssigkeitsvorschriften machen unseren festen Make-up Entferner zum perfekten Begleiter auf Reisen.<br\/><br\/><strong>Langanhaltend: <\/strong>Im Vergleich zu flüssigen Make-up Entfernern reicht eine kleine Menge unseres festen Produkts für eine effektive Reinigung aus. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/puremetics_reis.png",
+        "layout": "left",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_W3kkkg": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_qARfkU": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_gNQzti": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_eJkGrW": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_QtV8zn": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_qARfkU",
+        "text_block_gNQzti",
+        "text_block_eJkGrW",
+        "text_block_QtV8zn"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Marta.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Marta (Social Media team)",
+        "title": "Feste Make-up Entferner sind nachhaltig und praktisch",
+        "text": "<p>Durch die Verwendung unseres festen Make-up Entferners trägst du aktiv zur Reduzierung von Verpackungsmüll bei. Unsere plastikfreie Lösung minimiert den ökologischen Fußabdruck und ist somit umweltfreundlich.<\/p><p><strong>Deine Entscheidung zu einer festen Alternative ist also vollkommen richtig und wichtig. Danke <\/strong>💚<\/p><p>Mache den Schritt zu einer nachhaltigen und effektiven Make-up-Entfernung mit unserem festen Produkt. Erfahre die Vorteile einer umweltfreundlichen Pflegeroutine und gönne deiner Haut die natürliche Frische, die sie verdient.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Perfekte ergänzungen zu unseren naturseifen",
+        "home_featured_products": "seifenaccessoires",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Jede Seife ist",
+        "title": "Mit Liebe von Hand gemacht",
+        "text": "<p>Jede Seife wird von sorgfältigen Händen und aufmerksamen Augen mit Liebe hergestellt. Unsere Naturseifen unterscheiden sich von der Massenproduktion der Großkonzerne in ihren hochwertigen Rohstoffen und den ausgiebigen Reifezeiten.<\/p><p><strong>Das Beste für dich und unsere Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4a3e0b840f3346eba0e9dac21934bc0c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "c67229b4-d31e-41fc-886a-e06785c48e99": {
+      "type": "faq",
+      "blocks": {
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist das Besondere an unserer festen Make-up Entferner Seife?",
+            "text": "<p>Unsere feste Make-up Entferner Seife bietet eine nachhaltige und effektive Alternative zu flüssigen Make-up Entfernern. Sie ist plastikfrei und enthält hochwertige Inhaltsstoffe für eine schonende Reinigung.<\/p>"
+          }
+        },
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die feste Make-up Entferner Seife für alle Hauttypen geeignet?",
+            "text": "<p>Ja, unsere Seife ist für alle Hauttypen geeignet, auch für empfindliche Haut. Die natürlichen Inhaltsstoffe sorgen für eine schonende Reinigung ohne Irritationen.<\/p>"
+          }
+        },
+        "967af684-ba7f-49b7-a53c-54736e20bc98": {
+          "type": "question",
+          "settings": {
+            "title": "Kann die Seife auch für wasserfestes Make-up verwendet werden?",
+            "text": "<p>Ja, unsere Seife wurde entwickelt, um auch wasserfestes Make-up effektiv zu entfernen. Massiere die Seife sanft ein, um hartnäckige Rückstände zu lösen.<\/p>"
+          }
+        },
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält eine feste Make-up Entferner Seife?",
+            "text": "<p>Die Haltbarkeit hängt von der Häufigkeit der Anwendung ab. In der Regel sollte eine Seife mehrere Monate halten.<\/p>"
+          }
+        },
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die feste Make-up Entferner Seife reisetauglich?",
+            "text": "<p>Absolut! Die kompakte Größe und die Festigkeit machen sie zum idealen Begleiter auf Reisen. Kein Auslaufen und keine Sorgen um Flüssigkeitsvorschriften.<\/p>"
+          }
+        },
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Seife auch für die tägliche Gesichtsreinigung verwenden?",
+            "text": "<p>Ja, unsere feste Make-up Entferner Seife eignet sich auch hervorragend für die tägliche Gesichtsreinigung. Sie entfernt Make-up und reinigt die Haut gründlich.<\/p>"
+          }
+        },
+        "b90a661c-25c8-4306-adb6-3a6980405709": {
+          "type": "question",
+          "settings": {
+            "title": "Verursacht die Seife Irritationen in den Augen?",
+            "text": "<p>Die Seife wurde entwickelt, um sanft zu sein, aber sie sollte dennoch nicht direkt in die Augen gelangen. Falls dies geschieht, gründlich mit klarem Wasser ausspülen.<\/p>"
+          }
+        },
+        "03f0876b-0d49-4277-a847-bc55eac163a8": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die feste Make-up Entferner Seife auch für Lippenprodukte verwenden?",
+            "text": "<p>Ja, unsere Seife ist vielseitig einsetzbar und kann sicher für die Entfernung von Lippenprodukten verwendet werden.<\/p>"
+          }
+        },
+        "394bcc93-737b-46a7-a2d0-127b31c4eb82": {
+          "type": "question",
+          "settings": {
+            "title": "Wie unterscheidet sich die feste Make-up Entferner Seife von flüssigen Make-up Entfernern?",
+            "text": "<p>Unsere Seife bietet eine umweltfreundliche Option und  eine effektive Reinigung ohne den Einsatz von chemischen Konservierungsstoffen. Sie basiert auf einer Bio-Öl-Basis, welche auch wasserfeste Schminke löst und sanft entfernt.<\/p>"
+          }
+        },
+        "68d2f59e-6080-44e5-94c2-3143ba1b5e6a": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die feste Seife auch für die Reinigung von Make-up Pinseln verwenden?",
+            "text": "<p>Ja, unsere feste Make-up Entferner Seife eignet sich auch hervorragend für die Reinigung von Make-up Pinseln. Befeuchte die Seife und arbeite sie sanft in die Pinsel ein, spüle sie dann gründlich aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1",
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2",
+        "967af684-ba7f-49b7-a53c-54736e20bc98",
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8",
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb",
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3",
+        "b90a661c-25c8-4306-adb6-3a6980405709",
+        "03f0876b-0d49-4277-a847-bc55eac163a8",
+        "394bcc93-737b-46a7-a2d0-127b31c4eb82",
+        "68d2f59e-6080-44e5-94c2-3143ba1b5e6a"
+      ],
+      "settings": {
+        "title": "Diese Fragen erhalten wir häufig zum Thema \"feste Make-up Entferner Seife\". Hier sind die antworten 💕"
+      }
+    },
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Auch spannend: Toner und Seren für eine strahlende Pflege nach der Reinigung",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f",
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112",
+    "29c8f23d-a5ac-49fd-8976-d6ddac1bdad4",
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7",
+    "7f5fde89-906e-4f8b-a64c-b576451318b0",
+    "3ba50d63-7bf2-46af-877b-8801b1f45635",
+    "df570454-9b69-418f-a603-1b2429f1789e",
+    "text_with_icons_W3kkkg",
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797",
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1",
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b",
+    "c67229b4-d31e-41fc-886a-e06785c48e99",
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

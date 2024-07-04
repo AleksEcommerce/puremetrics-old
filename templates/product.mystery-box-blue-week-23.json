@@ -1,0 +1,286 @@
+{
+  "sections": {
+    "c135377c-eca8-4382-86a7-f187e291c5db": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "💙GRÖSSTE BLUE-WEEK ERSPARNIS! 💙 STRENG LIMITIERT 💙",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "79b50bab-c082-4421-8faa-ee589dc10019": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "super-special!",
+        "title": "schnapp dir den Schatz bevor es wer anderes tut!",
+        "text": "<p>Diese limitierte Auflage ist mehr als nur Kosmetik - sie ist eine Einladung, die Magie natürlicher Pflege zu entdecken und sich gleichzeitig um unsere Erde zu kümmern. Gönn dir selbst das Geheimnis der Schönheit oder überrasche einen lieben Menschen mit einem einzigartigen Geschenk voller nachhaltiger Pflegefreuden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e8e3352a51cd4653afc2fcaf1492fc61.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "bc09f2ba-96fa-4d56-82c2-59ac8a705ed6": {
+      "type": "promo-grid",
+      "blocks": {
+        "ea230e6e-ebfb-4207-a734-2a7756bc0aff": {
+          "type": "banner",
+          "settings": {
+            "heading": "auf 3 Stück streng limitiert und nur während unserer blue-week erhältlich!",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "#c20000",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "ea230e6e-ebfb-4207-a734-2a7756bc0aff"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "e54ba676-ac03-463c-8376-53de068e5132": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Aufregend! Erhalte",
+        "title": "eine box voller wunder",
+        "text": "<p>Mit unserer Mystery-Box wollen wir dich überraschen und du kannst uns glauben wenn wir sagen, dass wir uns hier wirklich nicht lumpen lassen. Sei gespannt und freue dich über eine riesige Box voller Wunder.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e524cee5450a4624bb66c2ba67722989.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 550
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "c135377c-eca8-4382-86a7-f187e291c5db",
+    "main",
+    "79b50bab-c082-4421-8faa-ee589dc10019",
+    "bc09f2ba-96fa-4d56-82c2-59ac8a705ed6",
+    "e54ba676-ac03-463c-8376-53de068e5132",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

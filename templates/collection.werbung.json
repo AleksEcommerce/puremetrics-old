@@ -1,0 +1,109 @@
+{
+  "sections": {
+    "164378774733c2cea3": {
+      "type": "promo-grid",
+      "blocks": {
+        "8885ba2f-3f1d-4488-811d-2bbaa8356969": {
+          "type": "banner",
+          "settings": {
+            "heading": "ALLE GUTEN DINGE SIND DREI",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "rgba(0,0,0,0)",
+            "color_tint_opacity": 0,
+            "framed": false
+          }
+        },
+        "61ce0c10-29ef-4d4b-824a-78e5ec9a77eb": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "🤍 3 feste Shampoos kaufen und nur 2 zahlen | Code: <b>DREI 🤍<\/b>",
+            "link": "",
+            "label": "",
+            "color_tint": "#008602",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "8885ba2f-3f1d-4488-811d-2bbaa8356969",
+        "61ce0c10-29ef-4d4b-824a-78e5ec9a77eb"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 2,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "1644926428f29caf07": {
+      "type": "rich-text",
+      "blocks": {
+        "16449264286593d08f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Deine Vorteile"
+          }
+        },
+        "16449264286593d08f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>🧴🧴🧴 Sie <strong>halten ca. 3x länger <\/strong>als dein herkömmliches Flüssigshampoo<\/p><p>⏳ Anders als bei Haarseifen benötigst du <strong>keine Umgewöhnungszeit<\/strong><\/p><p>🧼❌ Sie sind beide <strong>seifenfrei<\/strong>, funktionieren und wirken also wie ein gewohntes Flüssigshampoo<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16449264286593d08f-0",
+        "16449264286593d08f-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "164378774733c2cea3",
+    "collection-header",
+    "main-collection",
+    "1644926428f29caf07"
+  ]
+}

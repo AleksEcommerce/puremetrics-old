@@ -1,0 +1,159 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1632482747948d1a18": {
+      "type": "promo-grid",
+      "blocks": {
+        "1632482747948d1a18-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "das beste für dich, deine Mitarbeiter:innen und die umwelt",
+            "heading": "Mitarbeitergeschenke",
+            "textarea": "Du bist auf der Suche nach sinnvollen Geschenken für deine Mitarbeiter:innen über die sie sich auch wirklich freuen?",
+            "cta_text1": "Anfrage per E-Mail senden",
+            "cta_link1": "mailto:info@puremetics.de",
+            "cta_text2": "Kontaktformular nutzen",
+            "cta_link2": "shopify:\/\/pages\/kontakt",
+            "image": "shopify:\/\/shop_images\/puremetics_Banner.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 480,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#008602",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "1632482747948d1a18-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "163248276540d011ee": {
+      "type": "rich-text",
+      "blocks": {
+        "3531db85-973c-4ec9-b976-13e27e15cb8f": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir machen alles möglich"
+          }
+        },
+        "163248276540d011ee-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Mit unseren hochwertigen Beautyalternativen schenkst du nicht nur Freude, sondern auch Nachhaltigkeit. <\/p><p>Gerne produzieren wir auch nach Wunsch im eigenen Design bereits bei kleinen Auflagen ab 100 Stück. Wir stehend mit unserer Kompetenz beratend zur Seite wenn es um die richtige Auswahl der Geschenke geht und stellen von Einzelprodukten bis Geschenfertigen Boxen alles bereit. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "3531db85-973c-4ec9-b976-13e27e15cb8f",
+        "163248276540d011ee-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1635167692b9f71bf3": {
+      "type": "testimonials",
+      "blocks": {
+        "1635167692b9f71bf3-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_KeinMindestbestellwert.png",
+            "author": "Nicht noch ein lustiges Mousepad",
+            "author_info": "Mit puremetics verschenkst du nichts von der Stange, sondern qualitativ hochwertige Aufmerksamkeiten."
+          }
+        },
+        "1635167692b9f71bf3-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_FaireMargen.png",
+            "author": "Individualität",
+            "author_info": "Wir individualisieren für dich alles Hausintern vom Produkt bis zum Etikett und freuen uns auf kreative Kooperationen"
+          }
+        },
+        "1635167692b9f71bf3-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_EarlyAccess.png",
+            "author": "Schnelle Produktion",
+            "author_info": "Alle Arbeitsbereiche sind bei uns intern besetzt, sodass wir schnell alle leistungen aus einer Hand bieten können."
+          }
+        },
+        "1635167692b9f71bf3-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_SchnelleLieferung.png",
+            "author": "Schnelle, plastikfreie Lieferung!",
+            "author_info": "Auch der Versand erfolgt bei uns komplett plastikfrei und Umweltfreundlich. Zudem sehr schnell, da wir direkt ab Lager versenden."
+          }
+        },
+        "60ca191e-5fa2-467d-a0f0-aec305b3aa2b": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_InformativeBriefings.png",
+            "author": "Kreativität",
+            "author_info": "Du hast konkrete Vorstellungen? Gut. Wenn nicht, auch gut :) Wir helfen gerne weiter und finden gemeinsam das passende Geschenk."
+          }
+        },
+        "c5f8fc8a-6853-49a7-890d-92e35504d4d8": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_Qualitat.png",
+            "author": "puremetics Qualitätsversprechen",
+            "author_info": "Bei uns erhältst du handgemachte Kosmetik aus Deutschland in höchster Qualität. Die Beschenkten, werden es zu schätzen wissen."
+          }
+        }
+      },
+      "block_order": [
+        "1635167692b9f71bf3-0",
+        "1635167692b9f71bf3-1",
+        "1635167692b9f71bf3-2",
+        "1635167692b9f71bf3-4",
+        "60ca191e-5fa2-467d-a0f0-aec305b3aa2b",
+        "c5f8fc8a-6853-49a7-890d-92e35504d4d8"
+      ],
+      "settings": {
+        "title": "Vorteile und Leistungen",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1632482747948d1a18",
+    "163248276540d011ee",
+    "1635167692b9f71bf3"
+  ]
+}

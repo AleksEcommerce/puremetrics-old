@@ -1,0 +1,597 @@
+{
+  "sections": {
+    "8c976443-9c96-4f9c-89e6-17591abc0d98": {
+      "type": "promo-grid",
+      "blocks": {
+        "1b3784e3-787b-4fae-a61f-6f4fdfed5b6e": {
+          "type": "banner",
+          "settings": {
+            "heading": "❄ STRENG LIMITIERTE WINTEREDITION ❄",
+            "text": "Lass dich auf eine magische Winterzauberreise entführen und sichere dir unsere zauberhaften Sondereditionen",
+            "link": "",
+            "label": "",
+            "color_tint": "#1a86cf",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "1b3784e3-787b-4fae-a61f-6f4fdfed5b6e"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "03c10c81-9a3c-4734-8986-945f517ba39c": {
+          "type": "text",
+          "settings": {
+            "text": "🏆 <b>PETA BEAUTY AWARD GEWINNER!<\/b>"
+          }
+        },
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9045de7c-39da-4a1a-84d7-f003421bb974": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "ba7402b8-ab91-4e9c-8a1a-b093d9666d7b": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "🟢 Aktuell hohes Aufkommen! Lieferzeit ca. 6 Werktage"
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Die Fluffs fühlen sich mega toll an auf der Haut, duften traumhaft gut, und pflegen unendlich gut die Haut! Ich hab empfindliche Haut und reagiere schnell auf alles mögliche... Aber meine Haut liebt die Fluffs! Meine Haut hat sich tatsächlich auch verbessert, seit ich darauf umgestiegen bin [...] ein absolutes must have!!\" - Anke J. via Bewertung"
+          }
+        },
+        "f82e1572-4021-4a9f-bbf8-8c94328d9d62": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "c6dcc857-c4a1-44b8-9dda-fb807f8eac24": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "eb97c311-91b7-4447-8618-37153f5ca129": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "b78e6c45-f315-4408-9f96-112e07fed2f7": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum produkt?",
+            "phone": false
+          }
+        },
+        "3619d036-15ca-4c11-bfed-2fca7504d357": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "03c10c81-9a3c-4734-8986-945f517ba39c",
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9045de7c-39da-4a1a-84d7-f003421bb974",
+        "ba7402b8-ab91-4e9c-8a1a-b093d9666d7b",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "f82e1572-4021-4a9f-bbf8-8c94328d9d62",
+        "variant_picker",
+        "c6dcc857-c4a1-44b8-9dda-fb807f8eac24",
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8",
+        "eb97c311-91b7-4447-8618-37153f5ca129",
+        "b78e6c45-f315-4408-9f96-112e07fed2f7",
+        "3619d036-15ca-4c11-bfed-2fca7504d357"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "e279ce73-16fc-4491-9ffe-2ba8a9ec4d38": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17946786693386__e279ce73-16fc-4491-9ffe-2ba8a9ec4d38-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsere limitierten winterdüfte"
+          }
+        }
+      },
+      "block_order": [
+        "template--17946786693386__e279ce73-16fc-4491-9ffe-2ba8a9ec4d38-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "4fcf18a3-77e4-4cf8-8f25-58739d502ad9": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17946786693386__4fcf18a3-77e4-4cf8-8f25-58739d502ad9-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "frisch und fruchtig",
+            "heading": "mandarine",
+            "textarea": "Die aromatische Verbindung von frischen Duftnoten und warmer Süße entführt dich in unbeschwerte Kindheitstage voller Freudiger Erwartungen und der Magie der Weihnachtszeit.",
+            "cta_text1": "zum produkt",
+            "cta_link1": "shopify:\/\/products\/3in1-dusch-fluff-mandarine-mit-zuckerpeeling-limitierte-winteredition",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremertics_Winter_Edition_Mandarine.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--17946786693386__4fcf18a3-77e4-4cf8-8f25-58739d502ad9-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "UNWIEDERSTEHLICH WARM",
+            "heading": "Aprikose-Vanille",
+            "textarea": "Die Duftsymbiose von Aprikose und Vanille' ist ein wahres Wunder. Du wirst von einem süßen Aroma überwältigt, das einen an einen gold-sonnigen Frühherbsttag erinnert. Es ist ein süßer, aber nicht zu überwältigender Duft.",
+            "cta_text1": "Zum Produkt",
+            "cta_link1": "shopify:\/\/products\/3in1-dusch-fluff-aprikose-vanille",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremertics_Winter_Edition_Aprikose_Vanille.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "2f59bbc5-9e14-4d23-8a56-5b3ee16f5743": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "MOMENTE VOLLER FREUDE ",
+            "heading": "Schokolade",
+            "textarea": "Der Duft von Schokolade ist unverwechselbar und berührt die meisten Menschen auf einer emotionalen Ebene, die uns einfach in den Arm nimmt. Der warme, süße und aufregende Duft erinnert uns an Momente voller Freude und Glück.",
+            "cta_text1": "Zum Produkt",
+            "cta_link1": "shopify:\/\/products\/3in1-dusch-fluff-schokolade",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremertics_Winter_Edition_Schokolade.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "28512cd5-5da7-405d-8a4e-68de1d223ef5": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "SÜSS-CREMIGE AUGENBLICKE",
+            "heading": "Macadamiamilch",
+            "textarea": "Ein wunderbares Aroma, das einen zum Träumen einlädt. In Kombination mit feinen Honignoten entsteht eine faszinierende Mischung aus nussigen, süßen und cremigen Noten.",
+            "cta_text1": "Zum Produkt",
+            "cta_link1": "shopify:\/\/products\/3in1-dusch-fluff-macadamiamilch",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremertics_Winter_Edition_Macadamiamilch.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17946786693386__4fcf18a3-77e4-4cf8-8f25-58739d502ad9-advanced-1",
+        "template--17946786693386__4fcf18a3-77e4-4cf8-8f25-58739d502ad9-advanced-2",
+        "2f59bbc5-9e14-4d23-8a56-5b3ee16f5743",
+        "28512cd5-5da7-405d-8a4e-68de1d223ef5"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "aa988bcd-fa01-4310-a259-94970d95c303": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17946786693386__aa988bcd-fa01-4310-a259-94970d95c303-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "❄ schnapp dir alle vier düfte im set und spare 10%! ❄"
+          }
+        }
+      },
+      "block_order": [
+        "template--17946786693386__aa988bcd-fa01-4310-a259-94970d95c303-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "7e23f75a-3396-40a6-aa51-8306e82361d2": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-description-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-price-1",
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-description-1",
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-variant_picker-1",
+        "template--17946786693386__7e23f75a-3396-40a6-aa51-8306e82361d2-buy_buttons-1"
+      ],
+      "settings": {
+        "featured_product": "winter-fluffy-set-limitierte-flavours",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "0% Plastik 100% Papier",
+        "title": "Unsere Dusch-Fluff Becher",
+        "text": "<p>Diese haben wir eigens für unsere Dusch-Fluffs entwickelt. Sie kommen dabei <strong>ganz ohne Plastik oder Bioplastikbeschichtung<\/strong> aus und halten deinen Dusch-Fluff dennoch frisch. Jedoch: Papier bleibt nun mal Papier. Bitte nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/puremetics_DuschFluff_CoconutCream_11_497752b2-85ab-465d-87a6-256728b137a9.jpg",
+        "layout": "left",
+        "height": 450,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "163421302793b873f5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_01.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/OhneBedenklicheI_02.jpg",
+        "image2_mask": "none",
+        "subtitle": "Nachhaltig",
+        "title": "ohne bedenkliche Inhaltsstoffe",
+        "text": "<p>Unser Dusch-Fluff ist vom Produkt bis zur Verpackung 100% plastikfrei und verzichtet auf bedenkliche Inhaltsstoffe, die dir oder unserer Umwelt schaden könnten. <\/p><p><br\/><em>,,Ich war auf der Suche nach einem Körperpeeling welches sowohl in der Kosmetik als auch bei der Verpackung ohne Plastik auskommt und bin hier auf den Dusch-Fluff gestoßen. Der Duft ist der Hammer und die Haut ist wirklich weich.<br\/>Kann mir den Dusch-Fluff gar nicht mehr wegdenken!\" - Johanna<\/em><br\/><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d7a093de-79c2-4ee4-a9bc-5f8f989032c4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/230711_PETA-VeganAward_Beauty_2023-SocialMediaTeaser_1200px.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Harald Ullmann, Mitgründer",
+        "title": "2. Vorsitzender von PETA Deutschland",
+        "text": "<p>„Puremetics zeigt mit 3in1 Dusch-Fluff vorbildlich, dass tierische<br\/>Inhaltsstoffe und Tierversuche der Vergangenheit angehören. Vegane und moderne<br\/>Produktkreationen sind gut für Tiere, Menschen und die Umwelt. Wir hoffen, dass<br\/>viele weitere Unternehmen der Beauty-Branche diesem Beispiel folgen werden und<br\/>gratulieren herzlich zum Gewinn des PETA VEGAN AWARD 2023 in der Kategorie<br\/>„Bestes veganes Peeling“.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634213101991484f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_03.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/OhneBedenklicheI_04.jpg",
+        "image2_mask": "none",
+        "subtitle": "100% Plastikfrei",
+        "title": "Unsere Dusch-Fluff Becher",
+        "text": "<p>Diese haben wir eigens für unsere Dusch-Fluffs entwickelt. Sie werden in Deutschland produziert und kommen dabei ganz ohne Plastik oder Bioplastikbeschichtung aus und halten deinen Dusch-Fluff dennoch frisch. Jedoch: Papier bleibt nun mal Papier. Bitte nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634209607c9015f08": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TripleFluff2.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/OhneBedenklicheI_06.jpg",
+        "image2_mask": "none",
+        "subtitle": "Reinigung, Peeling und Lotion",
+        "title": "3in1 Allrounder",
+        "text": "<p>Das Coole am Dusch-Fluff? Du sparst nicht nur eine Menge Plastikmüll, sondern auch noch 3 übliche Produkte. Du hast also einen richtigen Allrounder im Bad und vereinst deine tägliche Pflege auch noch mit einem Peeling, das deine Haut schön weich hält.<\/p><p><br\/><em>,,Die Fluffs fühlen sich mega toll an auf der Haut, duften traumhaft gut, und pflegen unendlich gut die Haut! Ich hab empfindliche Haut und reagiere schnell auf alles mögliche... Aber meine Haut liebt die Fluffs! Meine Haut hat sich tatsächlich auch verbessert, seit ich darauf umgestiegen bin. Sie ist nur noch sehr selten trocken und immer schön weich!!\"- Anke<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634199263eeef3dc3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schildkrote.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Clownfisch.jpg",
+        "image2_mask": "none",
+        "subtitle": "ohne mikroplastik",
+        "title": "Wusstest du, …?",
+        "text": "<p>… dass Peelingkörner früher meist kleine Plastikpartikel waren? Heute sind in vielen Peelings zum Glück keine peelenden Plastikpartikel mehr enthalten. Sie werden offiziell als „frei von Mikroplastik“ bezeichnet und dürfen entsprechende Siegel tragen. Mikroplastik ist in vielen Peelings aber leider trotzdem in Form von flüssigem Kunststoff enthalten. <br\/>Dieser kann in Flüssen und Meeren nicht abgebaut werden und schadet unserer Umwelt. <br\/>Wir machen bei Plastik keine halben Sachen, unser Dusch-Fluff ist zu 100% plastikfrei, versprochen! 🙏🌿<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "23d907bf-716c-4711-9507-8bed60a93e5e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "😍 Entdecke noch mehr Fluffy-Flavours 😍",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "8c976443-9c96-4f9c-89e6-17591abc0d98",
+    "main",
+    "e279ce73-16fc-4491-9ffe-2ba8a9ec4d38",
+    "4fcf18a3-77e4-4cf8-8f25-58739d502ad9",
+    "aa988bcd-fa01-4310-a259-94970d95c303",
+    "7e23f75a-3396-40a6-aa51-8306e82361d2",
+    "background-image-text",
+    "163421302793b873f5",
+    "d7a093de-79c2-4ee4-a9bc-5f8f989032c4",
+    "1634213101991484f1",
+    "1634209607c9015f08",
+    "1634199263eeef3dc3",
+    "23d907bf-716c-4711-9507-8bed60a93e5e",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

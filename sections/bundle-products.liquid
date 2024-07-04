@@ -1,0 +1,173 @@
+<section class="bundle-products">
+    <div class="page-width">
+      {% if section.settings.title %}
+        <h2 class="bundle-products__title">{{ section.settings.title }}</h2>
+      {% endif %}
+      <form id="bundle-form--{{ section.id }}" class="bundle-products__form">
+        <div class="bundle-products__list">
+          {% if section.settings.related_products != blank %}
+            {% for product in section.settings.related_products %}
+              {% assign product_handle = product.handle %}
+
+                {% assign variant = product.selected_or_first_available_variant %}
+                <div class="bundle-products__item">
+                  <input type="checkbox"
+                         checked
+                         name='{{ variant.id }}'
+                         id='{{ variant.id }}'
+                         value='{{ variant.id }}' 
+                         data-variant-id='{{ variant.id }}'
+                         data-product-id='{{ product.id }}'
+                         data-price='{{ variant.price }}'
+                         data-compare-price='{{ variant.compare_at_price }}'
+                         quantity='1'
+                         class="bundle-products__item-checkbox">
+                  <label for='{{ variant.id }}' class="bundle-products__label">
+                    <img class="bundle-products__item-img" src="{{ product.featured_image | img_url: '480x480' }}" alt="{{ product.title }}">
+                    <h3 class="bundle-products__item-title">{{ product.title }}</h3>
+                    <p class="bundle-products__item-price">
+                      {% if variant.compare_at_price > variant.price %}
+                        <u>&euro;{{ variant.compare_at_price | money_without_currency }}</u>
+                      {% endif %}
+                      &euro;{{ variant.price | money_without_currency }}
+                    </p>
+                  </label>
+                </div>
+
+            {% endfor %}
+          {% endif %}
+        </div>
+        <div class="bundle-products__price">
+          <div class="bundle-products__price-header">
+            <span class="bundle-products__price-label">You save: <span id="total-savings" class="bundle-products__price-saved">0%</span></span>
+          </div>
+          <div class="bundle-products__price-footer">
+            <span class="bundle-products__price-name">Total Price:</span>
+            <div>
+              <span id="total-price-discounted" class="bundle-products__price-old">0.00</span>
+              <span id="total-price" class="bundle-products__price-actual">0.00</span>
+            </div>
+          </div>
+          <button id="add-bundle-to-cart" data-variant-id="" type="button" class="button btn btn--full add-to-cart js-add-to-cart">Add to cart</button>
+        </div> 
+      </form>
+    </div>
+  </section>
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var form = document.getElementById('bundle-form--{{ section.id }}');
+      var formSubmit = document.querySelector('#bundle-form--{{ section.id }} #add-bundle-to-cart');
+      var checkboxes = document.querySelectorAll(".bundle-products__item-checkbox");
+      var totalPriceElem = document.getElementById("total-price");
+      var totalPriceDiscountedElem = document.getElementById("total-price-discounted");
+      var totalSavingsElem = document.getElementById("total-savings");
+    
+      function updateTotal() {
+        var totalPrice = 0;
+        var totalPriceDiscounted = 0;
+        var checkedCount = 0;
+    
+        checkboxes.forEach(function(checkbox) {
+          if (checkbox.checked) {
+            checkedCount++;
+            var productPrice = parseFloat(checkbox.getAttribute('data-price'));
+            var productPriceSale = parseFloat(checkbox.getAttribute('data-compare-price'));
+            if (!isNaN(productPrice) && !isNaN(productPriceSale)) {
+              totalPrice += productPrice / 100;
+              totalPriceDiscounted += productPriceSale / 100;
+            } else {
+              console.error("Invalid price data for product:", checkbox);
+            }
+          }
+        });
+    
+        var discount = 0;
+        {% if section.blocks.size > 0 %}
+        {% for item in section.blocks %}
+        {% if forloop.index == 1 %}
+        if (checkedCount === {{ item.settings.quantity }}) {
+          discount = {{ item.settings.percent }};
+        } {% else %}
+          else if (checkedCount === {{ item.settings.quantity }}) {
+            discount = {{ item.settings.percent }};
+          }
+          {% endif %}
+        {% endfor %}
+
+        {% endif %}
+    
+        var discountedPrice = totalPrice * (1 - discount / 100);
+    
+        totalPriceElem.textContent = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2 }).format(discountedPrice);
+        totalPriceDiscountedElem.textContent = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2 }).format(totalPrice);
+        totalSavingsElem.textContent = discount + "%";
+    
+        if (discountedPrice === 0) {
+          formSubmit.setAttribute('disabled', 'disabled');
+        } else {
+          formSubmit.removeAttribute('disabled');
+        }
+      }
+    
+      checkboxes.forEach(function(checkbox) {
+        checkbox.addEventListener("change", updateTotal);
+      });
+    
+      updateTotal(); // Initial calculation
+    
+      formSubmit.addEventListener('click', function(event) {
+        event.preventDefault();
+        var productsToCart = [];
+        checkboxes.forEach(function(checkbox) {
+          if (checkbox.checked) {
+            productsToCart.push(parseInt(checkbox.getAttribute('data-variant-id')));
+          }
+        });
+        formSubmit.setAttribute('data-variant-id', JSON.stringify(productsToCart));
+      });
+    });
+  </script>
+  
+  
+  {% schema %}
+  {
+    "name": "Bundle Products",
+    "blocks": [
+      {
+        "name": "Discount Amount",
+        "type": "discount_amount",
+        "settings": [
+          {
+            "type": "text",
+            "id": "quantity",
+            "label": "Quantity"
+          },
+          {
+            "type": "number",
+            "id": "percent",
+            "label": "Percent"
+          }
+        ]
+      }
+    ],
+    "settings": [
+      {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+      },
+      {
+        "type": "product_list",
+        "id": "related_products",
+        "label": "Related Products"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Bundle Products"
+      }
+    ]
+  }
+  {% endschema %}
+  

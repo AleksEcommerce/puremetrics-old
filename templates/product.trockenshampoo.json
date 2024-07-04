@@ -1,0 +1,742 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "97c212ef-e341-4579-9727-771d4e628867": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich bin rundum zufrieden mit diesem Trockenshampoo und kaufe es mir immer wieder! Der Preis ist top, es funktioniert einwandfrei und im Punkt Nachhaltigkeit ist das Produkt nicht zu toppen. Danke!\" - Sabrina H. via Trusted Shops"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "905ba814-2813-411f-9bd2-4a96d3433a67": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "1ebe75a5-f32f-46ff-a9a8-7d1d62bdbf54": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "b71c63b9-e0b0-4dd4-b076-07eb5ec787fb": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "47ba58ac-0739-4d38-a5ed-10bfae9054b6": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "Ersetzt 10 herkömmliche Spraydosen"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "c7c3c5e0-65ee-49a1-9d33-5fa03332f662": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "97c212ef-e341-4579-9727-771d4e628867",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "variant_picker",
+        "905ba814-2813-411f-9bd2-4a96d3433a67",
+        "1ebe75a5-f32f-46ff-a9a8-7d1d62bdbf54",
+        "buy_buttons",
+        "b71c63b9-e0b0-4dd4-b076-07eb5ec787fb",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "47ba58ac-0739-4d38-a5ed-10bfae9054b6",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "c7c3c5e0-65ee-49a1-9d33-5fa03332f662"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_VFGiXL": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürliche Pflege für dein Haar",
+        "title": "Warum du unser Trockenshampoo lieben wirst!",
+        "text": "<p><strong>Natürliche Basis:<\/strong> Frei von schädlichen Chemikalien bietet unser Trockenshampoo eine natürliche Basis mit Maisstärke, Tonerde und Natron.<\/p><p><strong>Frische ohne Wasser:<\/strong> Ideal für geschäftige Tage oder Reisen, revitalisiert es dein Haar ohne den Einsatz von Wasser, für sofortige Leichtigkeit und ein frisches Aussehen.<\/p><p><strong>Mattierender Effekt:<\/strong> Absorbiert überschüssiges Öl, verleiht deinem Haar Fülle und sorgt für einen matten, natürlichen Look.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0e9863427a3d4ec49ef02633543d26e0.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "rich_text_HPJrXj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_krQ3XW": {
+          "type": "heading",
+          "settings": {
+            "title": "Die gesündere alternative für dich und die Umwelt!"
+          }
+        },
+        "text_iVy7f4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Viele konventionelle Trockenshampoos enthalten schädliche Treibgase, Konservierungsmittel und weitere bedenkliche Inhaltsstoffe, die der Kopfhaut ganz schön zusetzen können. Im schlimmsten Fall droht neben Juckreiz und Schuppen sogar Haarverlust! <\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_krQ3XW",
+        "text_iVy7f4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_video_text_4Bwq63": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "ein idealer begleiter zuhause und unterwegs",
+        "title": "Einfache & schnelle Anwendung",
+        "text": "<p>Wenn du keine Zeit für eine vollständige Haarwäsche hast oder deine Haare auffrischen möchtest, ist Trockenshampoo ideal, um überschüssiges Öl zu absorbieren und Frische zu verleihen. Streue das Trockenshampoo auf den Ansatz, massiere es ein und bürste es aus. Schnell, unkompliziert und ohne Rückstände. Es ist praktisch für unterwegs, besonders wenn der Zugang zu Wasser und herkömmlichen Haarpflegeprodukten eingeschränkt ist. Es bietet eine schnelle Auffrischung ohne Wasser.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8e861ead65b5432186fcd37a71eab5a0.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_hdBqUg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Tonerden.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Talg binden für einen frischen Look",
+        "title": "Maisstärke & Tonerde",
+        "text": "<p>Haare erscheinen fettig und strähnig, wenn die Talgdrüsen in der Kopfhaut überschüssiges Öl, auch bekannt als Talg, produzieren. Dieser natürliche Ölfilm soll das Haar vor dem Austrocknen schützen, aber wenn zu viel produziert wird, kann das Haar einen fettigen und strähnigen Look annehmen.<\/p><p>Maisstärke und Tonerde haben die Fähigkeit, überschüssiges Öl zu absorbieren. Sie agieren wie kleine Schwämme, die das Öl aufsaugen und somit das Erscheinungsbild von fettigem Haar reduzieren. Eine effiziente Kombination, fettiges Haar zu behandeln, indem überschüssiges Öl absorbiert und gleichzeitig Frische und Volumen verliehen wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jgy8K3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Natron.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "unangenehme gerüche neutralsieren",
+        "title": "frische mit Natron",
+        "text": "<p>Der unangenehme Geruch von fettigen Haaren entsteht durch die Ansammlung von Talg, Schweiß und Bakterien auf der Kopfhaut. Das überschüssige Öl bietet einen Nährboden für Bakterien, die wiederum Verbindungen produzieren, die als unangenehmer Geruch wahrgenommen werden.<\/p><p>Natron hat die Fähigkeit, Gerüche zu neutralisieren. Es wirkt wie ein Absorptionsmittel und kann unangenehme Gerüche effektiv binden und neutralisieren. Natron kann bakterienhemmend wirken, indem es das Wachstum von Bakterien auf der Kopfhaut reduziert. Durch die Verringerung der Bakterienpopulation wird auch der Geruch reduziert.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_B8h8Rw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Duefte_allgemein.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "optional nach deinem belieben",
+        "title": "beduftet oder natural",
+        "text": "<p>Der angenehme Duft sorgt für ein langanhaltendes Frischegefühl in deinen Haaren, selbst zwischen den Haarwäschen. Ein feiner Duft kann auch deine Sinne beleben und ein Wohlfühlerlebnis schaffen.<\/p><p>Trotz dieser Vorteile verstehen wir, dass nicht jeder Duftpräferenzen hat. Daher bieten wir auch Trockenshampoos ohne zusätzlichen Duft an. Unsere duftfreien Varianten der \"Sensibelchen-Serie\" bieten die gleiche effektive Reinigung. Bei uns findest du die Trockenshampoo-Variante, die perfekt zu deinen Bedürfnissen passt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "163420324116308dc9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Trockenshampoo_Cotton_07.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Volumen, Textur und Finish",
+        "title": "Styling-Tipps",
+        "text": "<p>Auch, wenn deine Ansätze gar nicht fettig sind, kann dir unser Trockenshampoo beim Styling deiner Haare helfen. <\/p><p><strong>Volumen-Booster: <\/strong>Streue das Trockenshampoo auf die Ansätze, insbesondere am Oberkopf. Massiere es leicht ein, um Volumen zu erzeugen. Dies verleiht deiner Frisur einen luftigen, frischen Look.<\/p><p><strong>Textur für Flechtfrisuren: <\/strong>Verteile das Trockenshampoo auf den Längen und Spitzen, bevor du eine Flechtfrisur machst. Es sorgt für Griffigkeit und erleichtert das Flechten.<\/p><p><strong>Fixierung für Hochsteckfrisuren: <\/strong>Verwende das Trockenshampoo, um das Haar vor dem Hochstecken zu texturieren. Dies hilft, die Frisur zu fixieren und sorgt für einen besseren Halt.<\/p><p><strong>Mattes Finish für Locken: <\/strong>Streue Trockenshampoo auf die Haarsträhnen, bevor du Locken machst. Dies verleiht dem Haar Textur und sorgt für ein mattes Finish.<\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_khgrMH": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_Ag7KPW": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_m3Cqpy": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_c3nB6n": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_4nh4zT": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Ag7KPW",
+        "text_block_m3Cqpy",
+        "text_block_c3nB6n",
+        "text_block_4nh4zT"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_rWRKCR": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "nachhaltige alternativen zu konventionelle Spraydosen",
+        "text": "<p>Trockenshampoo ist ein sehr beliebtes Produkt und in unseren Badezimmern kaum mehr wegzudenken. Neben teilweise kritischen Inhaltsstoffen für den Körper, die Atemwege und die Umwelt fällt hierbei leider auch viel vermeidbarer Abfall an. Nicht restentleerte Dosen können sich sogar entzünden und explodieren.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere Trockenshampoos enthalten umweltfreundliche und teilweise biologisch abbaubare Inhaltsstoffe. In der Variante zum Streuen setzen wir auf 100% Pappe, dass sehr gut recyclet werden kann. Noch nachhaltiger wird es mit unserem cleveren Nachfüllsystem.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_W3xCaf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Brandneu_Streuer.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "noch nachhaltiger",
+        "title": "refill-system",
+        "text": "<p>Mit unserem wieder verwendbarem Trockenshampoo Streuer kanns du deine Trockenshampoos jetzt noch umweltfreundlicher und günstiger genießen. Im Vergleich zur Einwegverpackung im Streuer aus Pappe kannst du die günstigeren Nachfüllpacks im Papierbeutel mit nur zwei Handgriffen in dein Refill-System füllen.<\/p>",
+        "button_label": "Refill Entdecken",
+        "button_link": "shopify:\/\/collections\/trockenshampoo-nachfullpacks",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_C67weh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zrtnm6": {
+          "type": "heading",
+          "settings": {
+            "title": "Vielseitig und Hautfreundlich"
+          }
+        },
+        "text_EiEUky": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Geeignet für alle Haartypen und Haarfarben. Die schonende hinterlässt keine Rückstände. Durch den Einsatz verschiedener Tonerden entsteht zudem kein Grauschleier!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zrtnm6",
+        "text_EiEUky"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo_grid_G4Gt6L": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_AFpYjL": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "Helles Haar",
+            "cta_link1": "shopify:\/\/collections\/trockenshampoos-fur-helles-haar",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Trockenshampoo_Mittleres_Haar_2.png",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_nwyw7W": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "Brünettes Haar",
+            "cta_link1": "shopify:\/\/collections\/trockenshampoos-fur-mittleres-haar",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Trockenshampoo_Mittleres_Haar_1.png",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_pjAFm6": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "Dunkles Haar",
+            "cta_link1": "shopify:\/\/collections\/trockenshampoos-fur-dunkles-haar",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Trockenshampoo_Dunkles_Haar.png",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_nzQUrV": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "rotes haar",
+            "cta_link1": "shopify:\/\/collections\/trockenshampoos-fur-rotes-haar",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Trockenshampoo_Rotes_Haar.png",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_7R7YAY": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "sensible kopfhaut",
+            "cta_link1": "shopify:\/\/collections\/trockenshampoos-fur-sensible-kopfhaut",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Feder.png",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_GeyNm7": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "nachfüller",
+            "cta_link1": "shopify:\/\/collections\/trockenshampoo-nachfullpacks",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Trockenshampoo_Cotton_Nachfuller_10.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "advanced_AFpYjL",
+        "advanced_nwyw7W",
+        "advanced_pjAFm6",
+        "advanced_nzQUrV",
+        "advanced_7R7YAY",
+        "advanced_GeyNm7"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "163646546932a4d446": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Noch mehr schätze für gesundes haar und kopfhaut entdecken",
+        "home_featured_products": "haarpflege",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1634205304d71c6dc6": {
+      "type": "faq",
+      "blocks": {
+        "question_CytxQk": {
+          "type": "question",
+          "settings": {
+            "title": "Wofür wird Trockenshampoo verwendet?",
+            "text": "<p>Trockenshampoo wird verwendet, um das Haar zwischen den traditionellen Haarwäschen aufzufrischen. Es absorbiert überschüssiges Öl, erfrischt die Haare und verleiht Volumen.<\/p>"
+          }
+        },
+        "question_j4dagV": {
+          "type": "question",
+          "settings": {
+            "title": "Ist Trockenshampoo für alle Haartypen geeignet?",
+            "text": "<p>Ja, Trockenshampoo ist für alle Haartypen geeignet. Es ist besonders nützlich bei öligem Haar, kann aber auch bei normalem oder trockenem Haar verwendet werden.<\/p>"
+          }
+        },
+        "question_JqcLwi": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft kann ich Trockenshampoo verwenden?",
+            "text": "<p>Trockenshampoo kann je nach Bedarf verwendet werden. Es ist eine temporäre Lösung und sollte nicht als Ersatz für regelmäßiges Haarewaschen dienen. Daher solltest du Trockenshampoo nur zwischen zwei Haarwäschen als Überbrückung nutzen. Es ersetzt nicht, die Haarwäsche mit Wasser. <\/p>"
+          }
+        },
+        "question_tcA9VM": {
+          "type": "question",
+          "settings": {
+            "title": "Kann Trockenshampoo auf gefärbtem Haar verwendet werden?",
+            "text": "<p>Ja, unsere Trockenshampoos sind auch für gefärbtes Haar geeignet. <\/p>"
+          }
+        },
+        "1634205304d71c6dc6-1": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es Unterschiede bei den Sorten und meiner Haarfarbe?",
+            "text": "<p>Ja, um einen Grauschleier zu vermeiden haben wir verschiedene Sorten mit unterschiedlichen Tonerden kreiert, die am besten zu deiner Haarfarbe passen.<\/p>"
+          }
+        },
+        "5bed6e4f-982d-4f6f-ac54-b87b46dfa84a": {
+          "type": "question",
+          "settings": {
+            "title": "Hat das Trockenshampoo eine färbende Wirkung?",
+            "text": "<p>Nein. Obwohl  farbige Tonerden enthalten sind, färbt unser Trockenshampoo deine Haare nicht. Sie sind gering dosiert mit dem Ziel, einen Graschleier zu vermeiden.<\/p>"
+          }
+        },
+        "question_pGXHeq": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Trockenshampoo bei empfindlicher Kopfhaut verwenden?",
+            "text": "<p>Ja, es gibt unsere Trockenshampoos auch speziell für empfindliche Kopfhaut in unserer Produktserie \"Sensibelchen\".<\/p>"
+          }
+        },
+        "question_AAGXwK": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Trockenshampoo verwenden, wenn ich schwanger bin?",
+            "text": "<p>Ja, unsere Trockenshampoos sind sicher während der Schwangerschaft zu verwenden. Bitte beachte, dass sie gründlich ausgebürstet werden wie in der Anwendung beschrieben.<\/p>"
+          }
+        },
+        "1634205304d71c6dc6-0": {
+          "type": "question",
+          "settings": {
+            "title": "Können die Papphülsen nachgefüllt werden?",
+            "text": "<p>Nein. Daher empfehlen wir unseren Streuer aus Weißblech. Er wurde extra für die Wiederverwendung und spielend leichte Befüllung der Nachfüllpacks konzipiert.<\/p>"
+          }
+        },
+        "question_8BUkrx": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange komme ich mit einer Packung aus?",
+            "text": "<p>Das ist natürlich sehr individuell und abhängig von der Haarbeschaffenheit. In der Regel solltest du aber 50 Anwendungen mit einer 100 Gramm Packung auskommen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_CytxQk",
+        "question_j4dagV",
+        "question_JqcLwi",
+        "question_tcA9VM",
+        "1634205304d71c6dc6-1",
+        "5bed6e4f-982d-4f6f-ac54-b87b46dfa84a",
+        "question_pGXHeq",
+        "question_AAGXwK",
+        "1634205304d71c6dc6-0",
+        "question_8BUkrx"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGer ZUM THEMA \"TROCKENSHAMPOOS\". HIER SIND DIE ANTWORTEN dazu 💚"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_VFGiXL",
+    "rich_text_HPJrXj",
+    "background_video_text_4Bwq63",
+    "text_and_image_hdBqUg",
+    "text_and_image_jgy8K3",
+    "text_and_image_B8h8Rw",
+    "163420324116308dc9",
+    "text_with_icons_khgrMH",
+    "text_and_image_rWRKCR",
+    "text_and_image_W3xCaf",
+    "rich_text_C67weh",
+    "promo_grid_G4Gt6L",
+    "163646546932a4d446",
+    "1634205304d71c6dc6",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "8fb28e9e-b3dd-49cf-8f30-c31a43b8f9f9": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17986568716554__8fb28e9e-b3dd-49cf-8f30-c31a43b8f9f9-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "CODE: 4FUR3",
+            "textarea": "",
+            "cta_text1": "JETZT AKTIVIEREN",
+            "cta_link1": "https:\/\/puremetics.de\/discount\/4FUR3?redirect=\/collections\/sommerschlussverkauf",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Sommerschlussverkauf_Superdeal_2023_Shop_Banner.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 740,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#ff876c",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "809fba64-47c5-41a0-b066-c13c831bc620": {
+          "type": "banner",
+          "settings": {
+            "heading": "Kaufe 4 - Zahle 3",
+            "text": "CODE: 4FUR3",
+            "link": "",
+            "label": "",
+            "color_tint": "#ff6d6d",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17986568716554__8fb28e9e-b3dd-49cf-8f30-c31a43b8f9f9-advanced-1",
+        "809fba64-47c5-41a0-b066-c13c831bc620"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": false,
+        "collection_image_enable": false,
+        "parallax": false
+      }
+    },
+    "2178f0b4-ff71-4eec-8440-2713756b6a49": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17986568716554__2178f0b4-ff71-4eec-8440-2713756b6a49-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "jetzt zuschlagen und sparen"
+          }
+        },
+        "template--17986568716554__2178f0b4-ff71-4eec-8440-2713756b6a49-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir machen Platz in unseren Regalen und bereiten alles für unser Weihnachtsgeschäft<br\/>vor. Das bedeutet für euch, dass ihr euch noch mal eindecken und dabei sparen<br\/>könnt. <\/p><p><strong>Kauft vier Produkte und erhaltet das günstigste Gratis. Dies gilt<br\/>für alle Produkte bei uns im Shop.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17986568716554__2178f0b4-ff71-4eec-8440-2713756b6a49-heading-1",
+        "template--17986568716554__2178f0b4-ff71-4eec-8440-2713756b6a49-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "f940f6f6-c7df-4190-b4d4-417a494d19a8": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "subtitle": "jetzt zuschlagen und sparen",
+        "title": "wir machen platz!",
+        "text": "<p>Bei puremetics steht bereits alles im Zeichen der Festtage. Gar nicht so einfach, wenn die Sonne scheint und wir uns Abends am See noch ein leckeres Eis bei 25° Grad gönnen.<\/p><p>Wir machen Platz in unseren Regalen und bereiten alles für unser Weihnachtsgeschäft vor. Das bedeutet für euch, dass ihr euch noch mal eindecken und dabei sparen könnt. <\/p><p><strong>Kauft vier Produkte und erhaltet das günstigste Gratis. Dies gilt für alle Produkte bei uns im Shop.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "7405c1f9-7638-41d1-8715-85f19bfd4d41": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "💚 bestseller 💚",
+        "home_featured_products": "bestseller",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "250c8ae5-57a0-49d9-b465-240d23e6e2c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "🥰 3in1 Dusch-fluffs 🥰",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 5,
+            "rows_per_page": 3,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "1a49d67b-f41d-4513-85bf-8b8a1b6cf216": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "koerperpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "haarpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "gesichtspflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschenkboxen-sets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "ad89990e-50c5-47a6-874f-d7e06be2a891": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessoires",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-1",
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-2",
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-3",
+        "template--17986568716554__1a49d67b-f41d-4513-85bf-8b8a1b6cf216-collection-4",
+        "ad89990e-50c5-47a6-874f-d7e06be2a891"
+      ],
+      "settings": {
+        "title": "Nach Kategorie Shoppen",
+        "divider": false,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    },
+    "6bee4c04-6690-475b-b938-3b4b81ccef6f": {
+      "type": "promo-grid",
+      "blocks": {
+        "10d96aac-5ea6-413b-8018-db1a34cfba1e": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "link": "shopify:\/\/pages\/hauttypen",
+            "label": "Nach Hauttyp shoppen",
+            "color_tint": "#99ce99",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "10d96aac-5ea6-413b-8018-db1a34cfba1e"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "899ae3c8-7501-4398-81bc-cd6a160ea5b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "alle produkte",
+        "home_featured_products": "all",
+        "per_row": 5,
+        "rows": 5,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "8fb28e9e-b3dd-49cf-8f30-c31a43b8f9f9",
+    "collection-header",
+    "2178f0b4-ff71-4eec-8440-2713756b6a49",
+    "f940f6f6-c7df-4190-b4d4-417a494d19a8",
+    "7405c1f9-7638-41d1-8715-85f19bfd4d41",
+    "250c8ae5-57a0-49d9-b465-240d23e6e2c4",
+    "main-collection",
+    "1a49d67b-f41d-4513-85bf-8b8a1b6cf216",
+    "6bee4c04-6690-475b-b938-3b4b81ccef6f",
+    "899ae3c8-7501-4398-81bc-cd6a160ea5b9"
+  ]
+}

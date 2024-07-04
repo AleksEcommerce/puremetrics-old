@@ -1,0 +1,261 @@
+{
+  "sections": {
+    "ad796ca8-af13-4bb1-8913-6644db6bf882": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18184301314314__ad796ca8-af13-4bb1-8913-6644db6bf882-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "unsere limitierte winterkollektion ist bald da",
+            "title": "jetzt unverbindlichen zugang sichern!",
+            "title_size": 80,
+            "subheading": "Erfahre zuerst davon, wenn unsere beliebten 3in1Dusch-Fluffs in vier winterlichen Düften kommen",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special-DF-Winter_23_Fluffs-auf-Brett_Wolken_kleiner.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__ad796ca8-af13-4bb1-8913-6644db6bf882-image-1"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "text": "🎁 Die ersten 100 Kund:innen erhalten ein Überraschungs-Geschenk!",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "Sonntag den 05. November 09:00 Uhr",
+            "heading_size": "h2",
+            "text": "<p>Schnell sein lohnt sich! Unsere limitierten Editionen sind immer schnell ausverkauft!<\/p>",
+            "content_alignment": "center"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "11",
+            "day": "5",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Der Kollektions-Start hat bereits am 05.11.2023 um 09:00 Uhr begonnen. Jetzt aber schnell!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "1698915843c0819bc1": {
+      "type": "apps",
+      "blocks": {
+        "2f7e579d-c716-43bb-927f-f770f0b631bd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "SAzNTc"
+          }
+        }
+      },
+      "block_order": [
+        "2f7e579d-c716-43bb-927f-f770f0b631bd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "03a16069-1d4d-4031-9614-cd3c141ae26f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18220441731338__03a16069-1d4d-4031-9614-cd3c141ae26f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Diese vier außergewöhnlichen Sorten erwarten dich"
+          }
+        }
+      },
+      "block_order": [
+        "template--18220441731338__03a16069-1d4d-4031-9614-cd3c141ae26f-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "b1132a56-31da-45c9-80c1-dec3485d3ab2": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Mandarine",
+        "text": "<p>Für die meisten Menschen gehört der warme und süße Duft von Mandarinen in die freudige und kuschelige Winterzeit einfach dazu. Die aromatische Verbindung von frischen Duftnoten und warmer Süße entführt dich in unbeschwerte Kindheitstage voller Freudiger Erwartungen und der Magie der Weihnachtszeit. Lass deine Sinne auf Traumwege gehen und pflege deine strapazierte Winterhaut dabei seidig zart und kuschelweich.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b24b593957114722a4c5318d56f5daf9.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 550
+      }
+    },
+    "4b6e780e-9137-4875-ab37-7513dd32635f": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Schokolade",
+        "text": "<p>Der Duft von Schokolade ist unverwechselbar und berührt die meisten Menschen auf einer emotionalen Ebene, die uns einfach in den Arm nimmt. Der warme, süße und aufregende Duft erinnert uns an Momente voller Freude und Glück. Es ist einer der bekanntesten und beliebtesten Düfte der Welt, der Menschen jeden Alters und jeder Kultur anspricht. Lass dich jetzt auch unter der Dusche von dem wohltuenden Schleier der Schokoladenmagie verzaubern.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8326543fbcfe4e9c9d91f2ddc4a45d88.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "7f662e18-e5bf-4a89-989f-0a51b840ffba": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Aprikose Vanille",
+        "text": "<p>Die Duftsymbiose von Aprikose und Vanille' ist ein wahres Wunder. Du wirst von einem süßen Aroma überwältigt, das einen an einen gold-sonnigen Frühherbsttag erinnert. Es ist ein süßer, aber nicht zu überwältigender Duft, der die Sinne angenehm verwöhnt. Es ist eine Mischung aus leicht süßen, fruchtig-säuerlichen Aprikosen, die mit balsamischer Vanille kombiniert werden. Dieser zarte Duft ist einfach unwiderstehlich und macht Lust auf mehr.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0917aedca50a4b64af3db0345f8a22da.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 550
+      }
+    },
+    "6531e3f0-1472-4846-aa84-109adcd53bfa": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Macadamiamilch",
+        "text": "<p>Der Duft von Macadamiamilch ist einzigartig und unbeschreiblich: Ein wunderbares Aroma, das einen zum Träumen einlädt. In Kombination mit feinen Honignoten entsteht eine faszinierende Mischung aus nussigen, süßen und cremigen Noten. Die unwiderstehliche Duftkomposition nimmt dich an kalten, dunklen Tagen in den Arm und entführt dich auf eine wohlige, warme Reise.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/94b8beea8c094fd6902a7f263a1467a1.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "e3445833-0a77-48b3-8f70-c22531b80aba": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--18220441731338__e3445833-0a77-48b3-8f70-c22531b80aba-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "Duschgel, Peeling und Bodylotion in einem!",
+            "text": "<p>Vereine die tägliche Körperreinigung mit einem sanften Peeling und einem olfaktorischen Erlebnis! Edles Kokosöl pflegt deine Haut schon während des Duschens und versorgt sie mit Feuchtigkeit, ohne zu fetten<\/p>"
+          }
+        },
+        "template--18220441731338__e3445833-0a77-48b3-8f70-c22531b80aba-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% Plastikfrei",
+            "text": "<p>Vom Produkt bis zur Verpackung verwöhnen wir dich mit hochwertigen Inhaltsstoffen und verzichten dabei auf komplett auf Plastik. Behandle dich und die Umwelt mit Liebe.<\/p>"
+          }
+        },
+        "template--18220441731338__e3445833-0a77-48b3-8f70-c22531b80aba-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "trophy",
+            "title": "Ausgezeichnet!",
+            "text": "<p>Unsere 3in1 Dusch-Fluffs wurden mehrfach ausgezeichnet. Sie sind Sieger des PETA Vegan Awards 2023 in der Kategorie \"Körperpeelings\" und haben auch die Presse im Sturm erobert.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18220441731338__e3445833-0a77-48b3-8f70-c22531b80aba-text_block-1",
+        "template--18220441731338__e3445833-0a77-48b3-8f70-c22531b80aba-text_block-2",
+        "template--18220441731338__e3445833-0a77-48b3-8f70-c22531b80aba-text_block-3"
+      ],
+      "settings": {
+        "title": "Du wirst nie wieder mit etwas anderem duschen wollen!",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz_02.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Darum sind solche",
+        "title": "vorverkaufslisten so wichtig",
+        "text": "<p>Sie helfen uns uns enorm in der Planung unserer Produktionsabläufe  und damit, auch eben diese Abläufe nachhaltiger zu gestalten. Viele Unternehmen entsorgen jährlich Tonnenweise Saisonartikel. <\/p><p><strong>Gemeinsam können wir es besser machen. Für uns und unsere Umwelt!<\/strong><\/p>",
+        "button_label": "zurück zum shop",
+        "button_link": "https:\/\/www.puremetics.de",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "ad796ca8-af13-4bb1-8913-6644db6bf882",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "1698915843c0819bc1",
+    "03a16069-1d4d-4031-9614-cd3c141ae26f",
+    "b1132a56-31da-45c9-80c1-dec3485d3ab2",
+    "4b6e780e-9137-4875-ab37-7513dd32635f",
+    "7f662e18-e5bf-4a89-989f-0a51b840ffba",
+    "6531e3f0-1472-4846-aa84-109adcd53bfa",
+    "e3445833-0a77-48b3-8f70-c22531b80aba",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f"
+  ]
+}

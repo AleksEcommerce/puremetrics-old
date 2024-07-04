@@ -1,0 +1,68 @@
+{
+  "sections": {
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "blog_show_tag_filter": false,
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide"
+      }
+    },
+    "506954c3-6f19-4809-9ee5-3a96a47ca414": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "alles zum thema \"Beauty\"",
+        "blog": "beauty",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "cd57aedc-b3e4-456e-8920-a42070ce5459": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Alles zum Thema \"Plastikfrei leben\"",
+        "blog": "umwelt-facts-news",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "ae2ac894-afba-4d13-926a-d8f9ad9a0a5d": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Alles zum Thema \"Vegan & Yummy\"",
+        "blog": "rezepte",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "506954c3-6f19-4809-9ee5-3a96a47ca414",
+    "cd57aedc-b3e4-456e-8920-a42070ce5459",
+    "ae2ac894-afba-4d13-926a-d8f9ad9a0a5d"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "1632494036a3c883f5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "rounded",
+        "subtitle": "Chris Cosma (CEO & Co-Founder)",
+        "title": "Inhaltsstoffe einfach und verständlich",
+        "text": "<p>\"Als ich damals das Konzept für puremetics geschrieben habe, war es mir eine Herzensangelegenheit, Verbraucher:innen über Inhaltsstoffe aufzuklären und ihnen somit zu guten Entscheidungen, nicht nur für jeden selbst, sondern auch für die Umwelt, zu verhelfen.\"<\/p><p><br\/>Die Kosmetikverordnung nach EU-Kosmetikrichtlinie schreibt Kosmetikanbieter vor, wie Inhaltsstoffe aufzulisten und zu benennen sind. Pflanzliche Stoffe müssen beispielsweise in Latein genannt werden. Wer soll da noch durchsteigen? Daher präsentieren wir zu jedem Inhaltsstoff eine verständliche Übersetzung sowie die Funktionen in kosmetischen Mitteln.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1632495937f2073b21": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_produktion_1.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/puremetics_produktion_2.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "unser grundsatz",
+        "title": "nur das beste für dich und die umwelt",
+        "text": "<p>Unser Versprechen: Wir nutzen ausschließlich nachhaltige und vegane Inhaltsstoffe frei von Tierleid. Wir wählen sie nach sehr hohen Qualitätsstandards aus und beziehen sie so regional wie möglich. <\/p><p><strong>Wir verwöhnen dich UND unsere Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1632494529ff760af1": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Wir machen es dir einfach",
+        "title": "Auf jeder Produkteseite findest du eine Auflistung aller Inhaltsstoffe inklusive der Übersetzungen",
+        "text": "<p>Wusstest du, dass die Reihenfolge der Inhaltsstoffe nach der Menge, in denen sie enthalten sind, gegliedert wird? Der erste Inhaltsstoff ist prozentual am meisten im Produkt enthalten. Der letzte hingegen macht den geringsten Anteil aus.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/water-droplets-on-green.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "e39454bc-7b62-4a36-ad2b-b7c7f5f8c226": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Wir machen",
+        "title": "Kosmetik Transparent",
+        "text": "<p>Die Kosmetikverordnung nach EU-Kosmetikrichtlinie schreibt Kosmetikanbieter vor, wie Inhaltsstoffe aufzulisten und zu benennen sind. Pflanzliche Stoffe müssen beispielsweise in Latein genannt werden. <\/p><p><strong>Uns ist es aber wichtig, dass du unsere Inhaltsstoffe schnell und einfach erkennen kannst.<\/strong> Daher präsentieren wir zu jedem Inhaltsstoff eine verständliche Übersetzung sowie die Funktionen in kosmetischen Mitteln.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d7225ae81f724165970e6eec0e51836a.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "81e72ad5-108b-4359-8e9f-0bf7e45617b8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166264627466__81e72ad5-108b-4359-8e9f-0bf7e45617b8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Einfach, schnell und schlau"
+          }
+        },
+        "template--18166264627466__81e72ad5-108b-4359-8e9f-0bf7e45617b8-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Eine Auflistung aller Inhaltsstoffe inklusive der Übersetzungen, Erklärungen und Funktionen findest du direkt auf unseren Produktseiten.<strong> <\/strong>Klicke einfach auf den Reiter \"Inhaltsstoffe\" und erfahre, welche Inhaltsstoffe weshalb in deinen Lieblingsprodukten enthalten sind.<\/p><p><strong>Im Folgenden findest du unser Lexikon.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166264627466__81e72ad5-108b-4359-8e9f-0bf7e45617b8-heading-1",
+        "template--18166264627466__81e72ad5-108b-4359-8e9f-0bf7e45617b8-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "1632494036a3c883f5",
+    "1632495937f2073b21",
+    "1632494529ff760af1",
+    "main",
+    "e39454bc-7b62-4a36-ad2b-b7c7f5f8c226",
+    "81e72ad5-108b-4359-8e9f-0bf7e45617b8"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_CbXzTh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aJwhPU": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#bbca6b",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_DK-Ostermix_Shop_Banner_Landingpage_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_DK-Ostermix_Shop_Banner_Landingpage_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aJwhPU"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "countdown_YBfCXQ": {
+      "type": "countdown",
+      "blocks": {
+        "content_dcime6": {
+          "type": "content",
+          "settings": {
+            "heading": "Bis Ostern ist es nicht mehr weit!",
+            "heading_size": "h2",
+            "text": "<p>Entdecke unseren exklusiven 3in1 Dusch-Konfekt ‘Ostereier-Mix‘ und weitere tolle Geschenkideen für das Osternest deiner Liebsten. <\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_Hm3ixe": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "03",
+            "day": "30",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": "<p>Ist der Osterhase schon zu dir gehoppelt? Das gesamte puremetics Team wünscht dir und deinen Liebsten ein schönes Osterfest.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_dcime6",
+        "timer_Hm3ixe"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#f6f6f6",
+        "background_color": "#bbca6b",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "65d247f9-b7aa-4dd9-936d-72151a31814b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Spar-Sets für dein Osternest",
+        "home_featured_products": "spar-sets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "slideshow_bgTedN": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tX9MTN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Shopify_Das-Versprechen_2023_17b70867-31ec-41b7-9ad7-ff4abf432d74.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Shopify_Das-Versprechen_2023_mobil_1ddf5deb-f641-4249-9704-bfa5a134a922.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_tX9MTN"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_xckQc8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FKJYfx": {
+          "type": "heading",
+          "settings": {
+            "title": "Speziell für dich! unsere kuratierte auswahl zu ostern"
+          }
+        },
+        "text_8Qpayq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Von sinnlich pflegenden Körperölen, bis hin zu unseren 3in1 Dusch-Fluffs und weiterer nachhaltiger Kosmetik für alle Weltretter:innen und Beautyjunkies.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FKJYfx",
+        "text_8Qpayq"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "3153459f-0103-4e46-a194-6542d30f5992": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "🐰-ostern-🐰",
+        "per_row": 4,
+        "rows": 5,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "6c6f11f7-0b12-4d9e-bd50-83c328bdd148": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "SO BUNT WIE UNSERE PRODUKTE",
+        "title": "DAS SIND WIR",
+        "text": "<p>Die Köpfe hinter puremetics. Wir lieben Nachhaltigkeit und geben jeden Tag Vollgas, damit Kosmetik und unsere Umwelt cleaner werden.<\/p><p><\/p><p><strong>Plastikfrei, vegan und wirksam: Das ist puremetics!<\/strong><\/p><p>Unsere Beautyschätze werden mit Liebe von Hand in Deutschland hergestellt. Dabei achten wir nicht nur auf die Umwelt, sondern haben auch den Anspruch, dir ein ganz besonderen Wohlfühlmoment zu bereiten. Mit Liebe zum Detail, olfaktorischen Erlebnissen und hochwertigen Rohstoffen rüsten wir dein Bad zu einer Oase der Entspannung und Achtsamkeit auf.<\/p><p><strong>Denn mit einem Lächeln im Gesicht, lässt sich die Welt doch gleich viel besser retten <\/strong>🙂<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_CbXzTh",
+    "countdown_YBfCXQ",
+    "65d247f9-b7aa-4dd9-936d-72151a31814b",
+    "slideshow_bgTedN",
+    "rich_text_xckQc8",
+    "3153459f-0103-4e46-a194-6542d30f5992",
+    "6c6f11f7-0b12-4d9e-bd50-83c328bdd148",
+    "main-collection"
+  ]
+}

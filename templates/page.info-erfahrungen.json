@@ -1,0 +1,329 @@
+{
+  "sections": {
+    "d789932b-9341-4e9b-8a96-f366fd2c995a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_09_Chris_Cosma_puremetics_GmbH.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Chris Cosma (CO-FOUNDER)",
+        "title": "Hey du! Schön, dass du hier bist!",
+        "text": "<p>Bei uns dreht sich alles um plastikfreie und nachhaltige Kosmetik, die nicht nur deiner Haut, sondern auch unserer Umwelt guttut. Wir wissen, wie wichtig es ist, auf Qualität und Nachhaltigkeit zu setzen, deshalb freuen wir uns riesig, dir unsere Produkte vorstellen zu dürfen. Aber Moment mal, warum solltest du uns vertrauen? Ganz einfach: <\/p><ul><li>Wir bieten dir eine 100% <strong>Zufriedenheitsgarantie<\/strong>.<\/li><li>Wir sind ein <strong>Trusted-Shops<\/strong> registriertes Unternehmen. Dein kauf ist also von einer externen, unabhängigen Stelle <strong>abgesichert<\/strong>.<\/li><li>Wir dürfen bereits über <strong>50.000 zufriedene<\/strong> <strong>Kund:innen <\/strong>zählen, was uns mit großem Stolz erfüllt.<\/li><\/ul><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "43ddf2b2-af94-4070-982d-aa8b84cf93c5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18068847198474__43ddf2b2-af94-4070-982d-aa8b84cf93c5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Hier sind einige Erfahrungsberichte unserer Community, die unsere Produkte lieben."
+          }
+        }
+      },
+      "block_order": [
+        "template--18068847198474__43ddf2b2-af94-4070-982d-aa8b84cf93c5-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "cd3b67ff-8957-4770-8f6c-df2c2e5d9e5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Isabel_18e428ee-2e08-4565-965a-1b554bf28b59.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Isabel K.",
+        "title": "Absolut begeistert!",
+        "text": "<p>Seitdem ich die Shampoo Pulver von puremetics versende sind meine Haare, griffiger, strahlender und schöner denn je. Der tolle und frische Duft  und die Inhaltsstoffe haben mich sofort begeistert und bieten eine tolle Pflege für Haar und Kopfhaut.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9f3065d8-ff86-4081-9447-99c9d8f4201f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kathi.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Kathi W.",
+        "title": "Frisch und Gepflegt",
+        "text": "<p>Das Rosenwasser kann was es verspricht. Ich nutze es gerne abends zur Gesichtsreinigung und fühle mich danach richtig frisch und gepflegt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f6901f30-4ffd-4a70-867b-7ea7d82eb78c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dieter.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Dieter A.",
+        "title": "Einfach Klasse! Daumen hoch!",
+        "text": "<p>Die Idee mit dem Duschgel in dieser Form beruhigt nicht nur mein<br\/>Gewissen, sondern ist eines der besten Pflegeprodukte, die ich je hatte. Absolute Weiterempfehlung! Finde es immer klasse wenn junge Menschen so tolle Ideen haben. Weiter so. Ich werde euch auf jeden Fall unterstützen :)<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0bd254ae-24ce-4f47-99df-9a3a8013c81e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Monika_und_Charlotte.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Charlotte & Oma Monika",
+        "title": "Nicht nur für alte Haut",
+        "text": "<p>Als Omi liebe ich es Zeit mit meiner Enkelin zu verbringen. Was bei uns jetzt ganz fest zum Ritual dazugehört ist die Hyaluronmaske. Die ist nicht nur für alte Haut ganz toll, sondern auch für junge. Es mildern jugendakne und wir haben einfach immer einer tolle Zeit zusammen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "112ce27f-882b-4a49-8829-f095cfcc6f82": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Nina.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Nina K.",
+        "title": "Wirklich empfehlenswert für dunkle Haare",
+        "text": "<p>Dies ist das erste Trockenshampoo für dunkle Haare, was keinen Schleier hinterlässt und trotzdem pflegt\/wirkt. Bin begeistert.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ba045040-c2c5-4567-ac7f-f19b5a83200a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Paula.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Paula M.",
+        "title": "Super weiche Haut",
+        "text": "<p>Die Gesichtspflegeseife Wildrose überzeugt schon direkt beim Auspacken, weil sie einfach so unglaublich toll riecht. Ich bin zwar immer noch bei dem Tester aus der Testerbox, obwohl ich schon eine neue Seife bestellt habe, das liegt aber nur daran, dass sie nicht nur gut riecht und so ergiebig ist, sondern auch total toll für die Haut ist. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d7e43bd9-836a-4b85-8095-64fddf54ad4b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Judith.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Judith K.",
+        "title": "Wie Urlaub in Spanien",
+        "text": "<p>Duschen ist für mich zu einem besonderen, nachhaltigen und duftenden Erlebnis geworden. Duschen mit dem Fluff ist wie Urlaub und Träumen zugleich. Ich fühle mich, als stehe ich auf einer Mandelbaumwiese in Spanien im Sonnenschein und rieche den Duft von süßlichen Mandeln. Der Fluff ist sanft, rau, weich, sinnlich, süß und schaumig cremig in Einem. Er pflegt die Haut und gibt ihr ein Wohlgefühl zurück. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "75a02bbc-2b2d-4b6d-b1bf-30460c33e4a0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Robin.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Robin T.J.",
+        "title": "Geiler Geruch",
+        "text": "<p>Überzeugt hat mich die plastikfreie Verpackung, die angenehme Anwendung und vor allem der geile Geruch. Das schönste ist, dass meine Haut gefühlt auch viel weicher geworden ist :)<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9dfc5db7-76fa-40e9-a5bc-814fb0202e4b": {
+      "type": "testimonials",
+      "blocks": {
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Die Bestellung ans andere Ende von Deutschland 😁 war super schnell da. Wie immer liebevoll gepackt und ich freue mich schon drauf die dusch fluffs anzuwenden.<\/p>",
+            "author": "Schnell und zuverlässig wie immer",
+            "author_info": ""
+          }
+        },
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Duschfluff und Gesichtstonikum haben mich total überzeugt - war ein echter Zufalllskauf aber wird beides sicher in meiner dauerhafte Beschaffungrn Liste landen.<\/p>",
+            "author": "Schnelle Lieferung - tolle Produkte",
+            "author_info": ""
+          }
+        },
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Die Produkte von puremetics sind einfach wunderbar und natürlich. Was mir besonders gut gefällt, sind die Projekte, die man mit jeder Bestellung unterstützen kann.<\/p>",
+            "author": "Einfach Wunderbar!",
+            "author_info": ""
+          }
+        },
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich war skeptisch ob es sich wirklich so anfühlen wird. Aber meine Skepsis hat sich ganz schnell verflüchtigt. Die Konsistenz sucht seinesgleichen.<br\/>Es ist ganz geschmeidig und fühlt sich an wie Samt.<\/p>",
+            "author": "Fell in Love",
+            "author_info": ""
+          }
+        },
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Super Produkte und schneller Versand! Ich bin rundum zufrieden. Der Duft könnte auf der Haut etwas intensiver sein, aber in erster Linie soll das Produkt ja die Haut pflegen und das tut es hervorragend :)<\/p>",
+            "author": "Super Produkte und schneller Versand!",
+            "author_info": ""
+          }
+        },
+        "6c96199d-e535-405b-941f-5eb18975f024": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>immer wieder gerne, Produkte TOP Qualität, es wird gehalten was versprochen wird, toles kreatives Team, Plastikfrei, Nachhaltigkeit perfekt in Verpackung und Verbrauch, tolle Aktionen, das Team verfolgt ständig seine Mission mit viel Engagement<\/p>",
+            "author": "Tolles, kreatives Team",
+            "author_info": ""
+          }
+        },
+        "53a9dd30-c2b5-4434-9d70-03478a1442b2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich liebe die streich-zarte Konsistenz des Peelings und vor allem im Sommer finde ich es mega angenehm. Erstens durch den leichen und fruchtigen Duft und dass man hinterher keine Bodylotion braucht. Da diese ja in dem Peeling enthalten ist.<\/p>",
+            "author": "Liebe die Peelings",
+            "author_info": ""
+          }
+        },
+        "268cb393-d3c6-444d-8a75-09bff30c89a0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich habe diverse Allergien und meine Haut reagiert oft empfindlich auch auf Produkte, die „eigentlich funktionieren“. Die Puremetics Produkte haben mich erst mal durch die Zusammensetzung überzeugt und gleich auch durch die Plastik- freie Verpackung.<\/p>",
+            "author": "Wow, tolle Produkte",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-1",
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-2",
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-3",
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-4",
+        "template--18068847198474__9dfc5db7-76fa-40e9-a5bc-814fb0202e4b-testimonial-5",
+        "6c96199d-e535-405b-941f-5eb18975f024",
+        "53a9dd30-c2b5-4434-9d70-03478a1442b2",
+        "268cb393-d3c6-444d-8a75-09bff30c89a0"
+      ],
+      "settings": {
+        "title": "Weitere Erfahrungen via Trustedshops",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "166015036078a332ec": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Möchtest du uns deine Erfahrung auch mitteilen?",
+        "text": "<p>Dann kontaktiere uns gerne. Wir freuen uns auf deine Nachricht.<\/p>",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "d789932b-9341-4e9b-8a96-f366fd2c995a",
+    "43ddf2b2-af94-4070-982d-aa8b84cf93c5",
+    "cd3b67ff-8957-4770-8f6c-df2c2e5d9e5f",
+    "9f3065d8-ff86-4081-9447-99c9d8f4201f",
+    "f6901f30-4ffd-4a70-867b-7ea7d82eb78c",
+    "0bd254ae-24ce-4f47-99df-9a3a8013c81e",
+    "112ce27f-882b-4a49-8829-f095cfcc6f82",
+    "ba045040-c2c5-4567-ac7f-f19b5a83200a",
+    "d7e43bd9-836a-4b85-8095-64fddf54ad4b",
+    "75a02bbc-2b2d-4b6d-b1bf-30460c33e4a0",
+    "9dfc5db7-76fa-40e9-a5bc-814fb0202e4b",
+    "166015036078a332ec"
+  ]
+}

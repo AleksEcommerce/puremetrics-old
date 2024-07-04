@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16330979257500e367": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/Portrait_Chido_04e79a3a-7137-45d2-a35c-c12382669e12.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "Chris und Chido (CEOS % CO-Founder)",
+        "title": "Deine Zufriedenheit ist uns sehr wichtig!",
+        "text": "<p>Bei puremetics möchten wir ausschließlich fröhliche Gesichter sehen. Denn wir sind überzeugt davon, dass Nachhaltigkeit nur mit Zufriedenheit langfristig funktionieren wird.<\/p><p><strong>Daher genießt du bei uns die 100% Zufriedenheitsgarantie!<\/strong><br\/><\/p><p>Sie geht weit über das bekannte Widerrufsrecht hinaus. Du kannst unsere Produkte zuhause nutzen und dich selbst von unserer hohen Qualität überzeugen. Möchtest du einen Artikel zurücksenden, erstatten wir die den Kaufbetrag zu 100% ohne \"Wenn\" und \"Aber\".<br\/><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16330979688cf3c565": {
+      "type": "faq",
+      "blocks": {
+        "16330979688cf3c565-0": {
+          "type": "question",
+          "settings": {
+            "title": "Wie funktioniert das?",
+            "text": "<p>Sende die Produkte<strong> innerhalb von 30 Tagen<\/strong> nach Zustelldatum an uns zurück. Dabei ist es wichtig, dass <strong>50% des Produktes noch vorhanden<\/strong> sind. Dies reicht auf jeden Fall aus, um herauszufinden, wie gut dir das Produkt gefällt. <\/p><p>Bitte lege deiner Rücksendung  ein formloses Schreiben bei, welches deine <strong>Bestellnummer, Bankkontoinformationen und das Stichwort \"Zufriedenheitsgarantie\"<\/strong> enthält. Wir werden dir den Betrag dann auf dieselbe Zahlungsweise rückerstatten, die du auch bei der Bestellung gewählt hast. <\/p><p><strong>Unsere Anschrift lautet: <\/strong>puremetics GmbH, Borsigstraße 11A, 30916 Isernhagen.<\/p>"
+          }
+        },
+        "16330979688cf3c565-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was wird erstattet?",
+            "text": "<p>Nachdem die Artikel bei uns eingegangen sind, erstatten wir dir den Kaufpreis zurück.<\/p>"
+          }
+        },
+        "7bf489cd-4fed-4846-8d54-a0bbfaee422d": {
+          "type": "question",
+          "settings": {
+            "title": "Was wird nicht erstattet?",
+            "text": "<ul><li>Versandkosten<\/li><li>Gratisartikel <\/li><li>Zugabe-Artikel<\/li><li>Geschenkkarten <\/li><li>Gutscheine<\/li><\/ul>"
+          }
+        },
+        "54e691b6-e232-4c7c-a63a-365681229d1d": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Zufriedenheitsgarantie auch nutzen, wenn ich woanders als bei euch bestellt habe?",
+            "text": "<p>Diese Zufriedenheitsgarantie gilt nur für Bestellungen, die über www.puremetics.de getätigt wurden. <\/p>"
+          }
+        },
+        "57125027-a765-4f0b-bd5e-646f14c0c2e4": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es sonst noch etwas zu beachten?",
+            "text": "<p>Ja. Bitte denke daran, dass du auch ggf. deine <strong>Gratis-Produkte zurücksenden<\/strong> musst, falls du mit der Rückerstattung wieder unter den Wert fallen würdest, für den du unsere Gratis-Geschenke freischalten kannst. <\/p><p><strong>Das ist nur fair :) <\/strong>Die beiden Werte für die Rückerstattung betragen 49€ und 89€.<\/p>"
+          }
+        },
+        "6833ec18-22a6-4ee9-b9e4-1ca8dff3eb3f": {
+          "type": "rich-text",
+          "disabled": true,
+          "settings": {
+            "title": "Viel Freude mit deiner Lieferung  :)",
+            "text": "<p>Stand und Gültigkeit: 12.07.2021 13:20 Uhr bis auf Widerruf.<br\/><\/p>",
+            "align_text": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16330979688cf3c565-0",
+        "16330979688cf3c565-1",
+        "7bf489cd-4fed-4846-8d54-a0bbfaee422d",
+        "54e691b6-e232-4c7c-a63a-365681229d1d",
+        "57125027-a765-4f0b-bd5e-646f14c0c2e4",
+        "6833ec18-22a6-4ee9-b9e4-1ca8dff3eb3f"
+      ],
+      "settings": {
+        "title": "Und so geht´s"
+      }
+    },
+    "f55db91d-1972-4564-84b1-786b91469a31": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Gerne beantworten wir deine Fragen und freuen uns auf deine Nachricht",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "bb5b14bc-c29a-4672-88f4-99382c6a6547": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Viel Freude mit deinen Nachhaltigen Beauty-Highlights",
+        "home_featured_products": "alle-artikel",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16330979257500e367",
+    "16330979688cf3c565",
+    "f55db91d-1972-4564-84b1-786b91469a31",
+    "bb5b14bc-c29a-4672-88f4-99382c6a6547"
+  ]
+}

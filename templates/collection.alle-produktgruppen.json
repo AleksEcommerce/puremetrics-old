@@ -1,0 +1,376 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "003d5045-0150-46c2-987b-9389967a3fb6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BEAUTY ALLROUNDER",
+        "home_featured_products": "beauty-allrounder",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "82ce8dca-b439-4918-8601-91580311b0ad": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Naturseifen",
+        "home_featured_products": "seifen",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "4a08dda5-2d6b-4d2a-8d06-222d12e64652": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "3in1-dusch-fluffs",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "badebomben",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "be6c81a5-35f3-46cd-848c-abe4a3118b14": {
+          "type": "collection",
+          "settings": {
+            "collection": "badesalz",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "butter-fizz-badebomben",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "09dd4035-ab43-490b-9505-eef155833ef4": {
+          "type": "collection",
+          "settings": {
+            "collection": "deos",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "duschgel-pulver",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "7190f90a-29ad-4f74-aae6-bb53db657e78": {
+          "type": "collection",
+          "settings": {
+            "collection": "dusch-konfekt",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "6dc86420-6dd8-420f-95f8-b242151cb3f9": {
+          "type": "collection",
+          "settings": {
+            "collection": "duschseifen",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "b061a7d1-956c-4875-9bc6-533ee698ee33": {
+          "type": "collection",
+          "settings": {
+            "collection": "fussbader",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "d33a474a-e44b-4b1d-94a8-07d07af9c9ec": {
+          "type": "collection",
+          "settings": {
+            "collection": "hande-fusse",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "c3a875dc-6f5d-4d62-bc2c-c1ea28548c26": {
+          "type": "collection",
+          "settings": {
+            "collection": "nagelbutter",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "fa907952-ef51-4955-b297-899b3fc5e2de": {
+          "type": "collection",
+          "settings": {
+            "collection": "ole-butter-lotions",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-1",
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-3",
+        "be6c81a5-35f3-46cd-848c-abe4a3118b14",
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-4",
+        "09dd4035-ab43-490b-9505-eef155833ef4",
+        "template--18819678929162__4a08dda5-2d6b-4d2a-8d06-222d12e64652-collection-2",
+        "7190f90a-29ad-4f74-aae6-bb53db657e78",
+        "6dc86420-6dd8-420f-95f8-b242151cb3f9",
+        "b061a7d1-956c-4875-9bc6-533ee698ee33",
+        "d33a474a-e44b-4b1d-94a8-07d07af9c9ec",
+        "c3a875dc-6f5d-4d62-bc2c-c1ea28548c26",
+        "fa907952-ef51-4955-b297-899b3fc5e2de"
+      ],
+      "settings": {
+        "title": "KÖRPERPFLEGE",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "b43acea6-804a-4736-aba2-ba383a3b1c8c": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "feste-shampoos-1",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "28377a18-9026-4463-bf13-3be93e30cd25": {
+          "type": "collection",
+          "settings": {
+            "collection": "haaressentials",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "haarseifen",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "shampoo-pulver",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "trockenshampoo",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-1",
+        "28377a18-9026-4463-bf13-3be93e30cd25",
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-2",
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-3",
+        "template--18819678929162__b43acea6-804a-4736-aba2-ba383a3b1c8c-collection-4"
+      ],
+      "settings": {
+        "title": "HAARPFLEGE",
+        "divider": false,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    },
+    "85204e46-ed4a-4f11-a62c-19a81700a7de": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "gesichtspflegeole",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "gesichtsseifen",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "ff9e1836-987a-4716-bff1-3ca09663bd61": {
+          "type": "collection",
+          "settings": {
+            "collection": "lippenpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "619c930a-2b28-487f-b07d-fc97cf0e7266": {
+          "type": "collection",
+          "settings": {
+            "collection": "masken",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "peel-off-masken",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "toner-und-seren",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-1",
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-2",
+        "ff9e1836-987a-4716-bff1-3ca09663bd61",
+        "619c930a-2b28-487f-b07d-fc97cf0e7266",
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-4",
+        "template--18819678929162__85204e46-ed4a-4f11-a62c-19a81700a7de-collection-3"
+      ],
+      "settings": {
+        "title": "GESICHTSPFLEGE",
+        "divider": false,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    },
+    "b4c08ac9-cd80-444e-831f-be59a04a9fca": {
+      "type": "featured-collections",
+      "blocks": {
+        "8fe997a7-d605-41dd-ba56-b1c345d81dfd": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessoires",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschenk-ideen",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "gutscheine-geschenkkarten",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "home",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "spar-sets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "8fe997a7-d605-41dd-ba56-b1c345d81dfd",
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-2",
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-1",
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-4",
+        "template--18819678929162__b4c08ac9-cd80-444e-831f-be59a04a9fca-collection-3"
+      ],
+      "settings": {
+        "title": "GESCHENKE HOME UND SETS",
+        "divider": false,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "main-collection",
+    "003d5045-0150-46c2-987b-9389967a3fb6",
+    "82ce8dca-b439-4918-8601-91580311b0ad",
+    "4a08dda5-2d6b-4d2a-8d06-222d12e64652",
+    "b43acea6-804a-4736-aba2-ba383a3b1c8c",
+    "85204e46-ed4a-4f11-a62c-19a81700a7de",
+    "b4c08ac9-cd80-444e-831f-be59a04a9fca"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "4b174839-0071-40f0-84af-09aa3ce4858a": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Chido (CEO & CO-FOUNDER)",
+        "title": "Wir denken um und schaffen eine neue Beziehung zu Plastik",
+        "text": "<p>Der Wertstoff Plastik hat den Fortschritt der Menschheit massiv angetrieben. Der universell einsetzbare Stoff ist heute nicht mehr wegzudenken und in vielen Bereichen wichtig. <\/p><p>Dennoch: Plastik, so wie wir ihn die letzten Jahre genutzt haben, ist eine Gefahr für die Zukunft. Seine Stabilität und Haltbarkeit sind Segen und Fluch zugleich. <\/p><p><strong>Umdenken ist jetzt wichtiger als jemals zuvor. Dies ist unser Antrieb bei puremetics.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/bab154ee01b3435fa34ca505b3975472.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "9e3416aa-9bc5-4a48-8a61-68ca63a6e230": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Chris (CEO & CO-FOUNDER)",
+        "title": "Wir finden zukunftsorientierte Alternativen",
+        "text": "<p>Ich bin fest davon überzeugt, dass wir Menschen auch dieses Problem gemeinsam lösen können und dafür sorgen werden, dass die Welt auch in einer Million Jahre noch dieser wundervolle blaue Planet ist.<\/p><p><strong>Und das tun wir bei puremetics. Wir machen Plastik im Badezimmer überflüssig und finden bessere Lösungen für dich und die Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0bb391f3872d4abcbbf5cb8b5d7f37fd.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "3e1f07d4-9069-4cc6-8f69-44e755443f26": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166264430858__3e1f07d4-9069-4cc6-8f69-44e755443f26-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir haben es in der Hand"
+          }
+        },
+        "template--18166264430858__3e1f07d4-9069-4cc6-8f69-44e755443f26-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Um zu verstehen, weshalb ein Umdenken für den Fortbestand der Welt, wie wir sie kennen, so wichtig ist, möchten wir euch einige wichtige Fakten zum Thema Plastik präsentieren.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166264430858__3e1f07d4-9069-4cc6-8f69-44e755443f26-heading-1",
+        "template--18166264430858__3e1f07d4-9069-4cc6-8f69-44e755443f26-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "163249945707ac907c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-fbccca5d--plastic-in-oceanpuremetics.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/pf-e2eefbcc--plastic-beachpuremetics.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "Jedes Jahr gelangen",
+        "title": "über 2 Millionen Tonnen Plastikmüll in die Ozeane!",
+        "text": "<p>Im Nordpazifik hat sich bereits eine Insel, <strong>größer als die Vereinigten<\/strong> <strong>Staaten <\/strong>aus diesem Müll gebildet!<br\/><br\/>Bis heute hat die Menschheit über <strong>6,9 Milliarden Plastikteile <\/strong>produziert, <strong>nur 9% wurden davon jemals recycelt<\/strong>, 12% verbrannt und 79% landeten in Deponien oder der Umwelt!<br\/><br\/>Und die Plastikproduktion steigt immer weiter! 1950 wurden jährlich 2.1 Mio Tonnen Plastik pro Jahr produziert, heute sind es über <strong>406 Mio Tonnen. Jährlich!<\/strong><br\/><br\/><strong>Über die Hälfte <\/strong>davon wurde <strong>nur einmal <\/strong>für Produktverpackungen <strong>verwendet <\/strong>und nicht recycelt. Das entspricht jährlich über 200 Mio. Tonnen Plastikmüll, so viel wie <strong>90.000 Elefanten<\/strong> - doppelt so viel, wie in freier Wildbahn überhaupt existieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1632499610ff34e10e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-07-19_at_12.06.22.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/PlastikSammeln_5be71b40-a5f3-4e27-9df9-d19e8a3c4baa.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "IRREPERABEL",
+        "title": "PLASTIK BELASTET DIE UMWELT 450 JAHRE BIS \"IMMER\"",
+        "text": "<p>Plastik, das aus Erdöl hergestellt wird, zersetzt sich nicht oder nur sehr langsam. Vielmehr zerfällt es in immer kleinere Partikel, das sogenannte <strong>Mikroplastik<\/strong>.<br\/><br\/>Die Belastung für die Umwelt ist enorm. 90% aller Meeresvögel tragen Plastik in sich. <strong>Jährlich verenden Millionen Tiere<\/strong> an unserem Müll. Ganze Kulturen und Riffe gehen zugrunde. Ein dramatischer Kreislauf, von Menschen verursacht. Und schon bald werden es auch die Menschen sein, die unter diesen Folgereaktionen leiden werden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16324997122f805afe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_produktion_1.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/Produktion24.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "JETZT LIEGT ES BEI UNS",
+        "title": "UNSERE UMWELT UND DAMIT UNSERE ZUKUNFT ZU RETTEN!",
+        "text": "<p><strong>Wir lösen das Plastik- und Giftstoff-Problem der Kosmetikindustrie mit unseren nachhaltigen Beauty-Alternativen die jedem die Möglichkeit bieten, hochwertige Kosmetik zu genießen und gleichzeitig die Welt zu retten.<\/strong><br\/><br\/>Unser gesamtes Sortiment ist plastikfrei!<strong> <\/strong>Und zwar von der Formulierung, über die Verpackung bis hin zum Versand. Hierzu haben wir viel Liebe und Zeit investiert, denn unsere Vision erfordert Entschlossenheit und Ausdauer. <\/p><p><strong>Wir können dabei nicht auf konventionelle Wege bleiben, sondern müssen neue finden. Und das ist unser Antrieb.<\/strong><\/p><p><\/p>",
+        "button_label": "Erfahre mehr über unsere Mission",
+        "button_link": "shopify:\/\/pages\/unsere-mission",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "50ac2724-ce56-4d7e-8040-fc2f8ef66c91": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "JEDE PUREMETICS BESTELLUNG",
+        "title": "SCHÜTZT DIE WELTMEERE VOR EINEM GANZEN KILO PLASTIKMÜLL!",
+        "text": "<p>Plastikfreie Produkte und ein plastikfreier Versand sind uns noch lange nicht genug, wir wollen außerdem dazu beitragen, unsere Meere vor der Plastikflut anderer Menschen zu schützen. <\/p><p>Mit jeder Bestellung bei puremetics unterstützen wir <em>Cleanhub <\/em>und bergen damit ein ganzes Kilo Plastikmüll aus Küstenregionen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0e36c6b8b8a84137a6087bbbbb610a28.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "16325002893ae4e4a3": {
+      "type": "rich-text",
+      "blocks": {
+        "16325002893ae4e4a3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir schaffen umweltfreundliche lösungen"
+          }
+        },
+        "063a033b-5df9-49bb-9367-cd4e9478de3b": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Sicherlich ist Plastik in vielen Bereichen wie der medizinischen Versorgung sehr wichtig und auch gar nicht mehr wegzudenken. <\/p><p>Wir müssen unsere Beziehung zu diesem Stoff jedoch grundlegend ändern: Ein sparsamer Umgang. Recyclen. Und uns täglich die Frage stellen, ob wir Plastik in unserem Leben durch umweltfreundlichere Lösungen tauschen können.<\/p><p>Täglich entwickeln wir für euch und unsere Umwelt neue Alternativen, die genau so gut funktionieren wie Plastik und dabei nachhaltig sind. <\/p><p><strong>Auf diesem Weg möchten wir unseren Beitrag für eine umweltfreundliche Zukunft leisten und den weiteren Verlauf der Welt zum positiven beeinflussen.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16325002893ae4e4a3-0",
+        "063a033b-5df9-49bb-9367-cd4e9478de3b"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "a103e5b2-f508-4d93-b649-a07003b7943f": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Für diese Mission benötigen wir eure Unterstützung",
+        "title": "LASST ES UNS GEMEINSAM angehen und das Blatt zum guten wenden",
+        "text": "<p>Entscheide dich ab heute für nachhaltige Kosmetik die dir und deiner Umwelt gut tut. Wir bieten dir umweltfreundliche Beauty-Alternativen mit hochwertigen Inhaltsstoffen, die du lieben wirst.<\/p>",
+        "button_label": "Jede bestellung zählt!",
+        "button_link": "shopify:\/\/collections\/alle-artikel",
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-Drinnen-Herz_02_64715704-e731-42c3-a492-35b6e2742bde.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4b174839-0071-40f0-84af-09aa3ce4858a",
+    "9e3416aa-9bc5-4a48-8a61-68ca63a6e230",
+    "3e1f07d4-9069-4cc6-8f69-44e755443f26",
+    "163249945707ac907c",
+    "1632499610ff34e10e",
+    "16324997122f805afe",
+    "50ac2724-ce56-4d7e-8040-fc2f8ef66c91",
+    "16325002893ae4e4a3",
+    "a103e5b2-f508-4d93-b649-a07003b7943f"
+  ]
+}

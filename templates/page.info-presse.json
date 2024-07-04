@@ -1,0 +1,209 @@
+{
+  "sections": {
+    "1632407497a906ee18": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mitarbeiterfotos_Hauptbild_Chris_2023_0ded4d0f-16dd-4853-8658-8f000eeaa7bf.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/puremetics_hanna.webp",
+        "image2_mask": "rounded",
+        "subtitle": "Chris & Hanna",
+        "title": "Hallo Freund:in der nachhaltigen Berichterstattung!",
+        "text": "<p>Besonders als Start-Up ist es für uns sehr wichtig die Botschaft unserer Mission weiter in die Welt zu tragen. Wir wissen, dass das nur mit dir gemeinsam geht und freuen uns riesig über deinen Support! Deine Zeit ist wertvoll, das wissen wir! Deshalb haben wir auch schon vieles für dich vorbereitet.<\/p><p>Unser komplettes Mediakit wartet schon sehsüchtig auf dich! Pressetexte, Freisteller und kostenfreie druckfähige Moodbilder können schon in wenigen Augenblicken bei dir in der Redaktion sein. <\/p><p>Du hast speziellen Wissensbedarf, eine Interviewanfrage, benötigst Expert:innenwissen rund um die nachhaltige Kosmetik oder hast weitere Wünsche? Wir freuen uns auf deine Nachricht!<\/p>",
+        "button_label": "E-Mail senden",
+        "button_link": "mailto:cosma@puremetics.de",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1632490994dd4cca36": {
+      "type": "logo-list",
+      "blocks": {
+        "1632490994dd4cca36-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_VeganWorld.png",
+            "link": ""
+          }
+        },
+        "1632490994dd4cca36-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_Petra.png",
+            "link": ""
+          }
+        },
+        "1632490994dd4cca36-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_FitForFun.png",
+            "link": ""
+          }
+        },
+        "1632490994dd4cca36-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_HarpersBazaar.png",
+            "link": ""
+          }
+        },
+        "1d1135cb-c366-458a-9292-7faff5db12dc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_Bild.png",
+            "link": ""
+          }
+        },
+        "53be8b80-14ff-4bad-8135-f2235caf407d": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_Joy.png",
+            "link": ""
+          }
+        },
+        "fad79569-deb0-413c-be30-cdff8f656b7d": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos__Beautyjunkies.png",
+            "link": ""
+          }
+        },
+        "ff355f3a-afc5-41ac-b5de-cbb4c1991d0c": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos__Laura.png",
+            "link": ""
+          }
+        },
+        "115789cf-f130-4d0d-b9c5-edb023d559a6": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos__Lisa.png",
+            "link": ""
+          }
+        },
+        "0b8b8b1b-7da7-4caa-bc70-f0667ffe9a69": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PresseLogos_Mini.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632490994dd4cca36-0",
+        "1632490994dd4cca36-1",
+        "1632490994dd4cca36-2",
+        "1632490994dd4cca36-3",
+        "1d1135cb-c366-458a-9292-7faff5db12dc",
+        "53be8b80-14ff-4bad-8135-f2235caf407d",
+        "fad79569-deb0-413c-be30-cdff8f656b7d",
+        "ff355f3a-afc5-41ac-b5de-cbb4c1991d0c",
+        "115789cf-f130-4d0d-b9c5-edb023d559a6",
+        "0b8b8b1b-7da7-4caa-bc70-f0667ffe9a69"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
+    "1632491429fb35a019": {
+      "type": "testimonials",
+      "blocks": {
+        "729cd64a-9ea2-4e0e-8844-adeb555c133c": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><strong>Made in Hannover!<\/strong><\/p><p>Chris Cosma macht jetzt Bio Kosmetik. Alles vegan, plastikfrei, handgemacht und aus Hannover!<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_Bild.png",
+            "author": "Bild",
+            "author_info": "02. Juli 2019 Seite 3"
+          }
+        },
+        "1632491429fb35a019-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><strong>Weniger bringt mehr! <\/strong><\/p><p>Nachhaltigkeit: Firmen, die Müll vermeiden, können damit nicht nur Geld sparen. Vor allem punkten sie bei Kunden und Mitarbeitern<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_impulse_1x1_83046b94-a1e5-4a25-9376-7d5635d47896.png",
+            "author": "Impulse",
+            "author_info": "Ausgabe 11 2020 Seite 70-75"
+          }
+        },
+        "1632491429fb35a019-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><strong>Die plastikfreie Zero-Waste Kosmetik <\/strong><\/p><p>von puremetics wird in liebevoller Handarbeit hergestellt. ohne bedenkliche Inhaltsstoffe und Tierleid.<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_green-up_1x1_1c0fdf32-04a1-46da-a4ee-45afaee5cfe5.png",
+            "author": "GreenUp!",
+            "author_info": "Ausgabe 09 2020 Seite 79"
+          }
+        },
+        "1632491429fb35a019-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Top Thema: Kosmetiktrends!<\/p><p>Neben den Wirkstoffkomponenten und dekorativen Aspekten von kesmetik steht das Thema der Verpackung für Hersteller wie Verbraucher auf dem Plan. Puremetics verbinden diese.<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_creativ-verpacken_1x1_e769471a-9f2f-482e-a6f5-88d964c5348c.png",
+            "author": "creativ verpacken",
+            "author_info": "Ausgabe 185 2020 Seite 62"
+          }
+        },
+        "1632491429fb35a019-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><strong>Plastikfreie Kosmetik<\/strong><\/p><p>puremetics ist für alle, die sich nicht<br\/>zwischen Weltretter und Beautyjunkie entscheiden wollen.<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_WirNatur_1x1_d57d6d3f-320e-44c9-a6ac-af2203d8ecf3.png",
+            "author": "Wir Natur",
+            "author_info": "Online Juni 2020"
+          }
+        },
+        "1632491429fb35a019-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><strong>Isernhagener Start-up sagt Plastik den Kampf an!<\/strong><\/p><p>Seit einem jahr wächst Puremetics in Altwarmbüchen und entwickelt vegane und plastikfreie Kosmetik.<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos__HAZ.png",
+            "author": "Hannoversche Allgemeine Zeitung",
+            "author_info": "17. März 2021 Seite 2"
+          }
+        }
+      },
+      "block_order": [
+        "729cd64a-9ea2-4e0e-8844-adeb555c133c",
+        "1632491429fb35a019-0",
+        "1632491429fb35a019-1",
+        "1632491429fb35a019-2",
+        "1632491429fb35a019-3",
+        "1632491429fb35a019-4"
+      ],
+      "settings": {
+        "title": "einige Pressestimmen",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ecf9ec",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1632407497a906ee18",
+    "1632490994dd4cca36",
+    "1632491429fb35a019",
+    "main"
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "Unsere Butter-Fizz ist keine gewöhnliche Badebombe! Das intensiv pflegende Frosting aus Sheabutter und Mandelöl vereint sich mit einem Zuckerschaum-Peeling zu deiner neuen Lieblings BF 💛"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "79dedb2c-9e55-4dab-b682-e1df27a3007c": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "4873da1d-82a4-4cbc-8cd0-860e696047a2": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "eb97c311-91b7-4447-8618-37153f5ca129": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "b78e6c45-f315-4408-9f96-112e07fed2f7": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum produkt?",
+            "phone": false
+          }
+        },
+        "3619d036-15ca-4c11-bfed-2fca7504d357": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "variant_picker",
+        "79dedb2c-9e55-4dab-b682-e1df27a3007c",
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee",
+        "buy_buttons",
+        "4873da1d-82a4-4cbc-8cd0-860e696047a2",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8",
+        "eb97c311-91b7-4447-8618-37153f5ca129",
+        "b78e6c45-f315-4408-9f96-112e07fed2f7",
+        "3619d036-15ca-4c11-bfed-2fca7504d357"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_ydRTqz": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "mit unseren natürlichen Badebomben",
+        "title": "Genieße ein entspannendes Bad",
+        "text": "<p>Erlebe pure Freude und Entspannung in deiner Badewanne mit Farbkreationen natürlichen Ursprungs. Gefertigt aus sorgfältig ausgewählten Inhaltsstoffen, verwandeln sie dein Bad in ein buntes und duftendes Paradies. <\/p><p>Lass die Badebombe in dein warmes Badewasser gleiten und beobachte, wie sich lebendige Farben entfalten. Gönn dir eine Auszeit vom Alltag, während die natürlichen Farben dich in eine Welt der Entspannung entführen. Eine Wohltat für deine Haut und deine Sinne. <\/p><p><em><strong>Die Farbe variiert je nach Sorte.<\/strong><\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3598f3f42c1e47f7834f50d71151d10c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "5985718e-0f12-407c-af3b-2389be2d46a9": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Tauche ein in pure Pflege",
+        "title": "mit unserem zarten Frosting!",
+        "text": "<p>Das Geheimnis liegt in unserem einzigartigen Frosting, das aus einer luxuriösen Mischung von Sheabutter und Mandelöl besteht. Sobald du die Badebombe ins Wasser gleiten lässt, beginnt das Frosting langsam zu schmelzen und umhüllt das Wasser mit einem herrlichen Duft, der deine Sinne verwöhnt. Während du in deinem warmen Bad entspannst, zaubert das Frosting eine sanfte Pflegeschicht auf deine Haut, die sie mit intensiver Feuchtigkeit versorgt und seidig glatt macht. In dem Frosting verbirgt sich ein geheimes Zuckerschaumpeeling, das deine Haut sanft exfoliert und sie von abgestorbenen Hautzellen befreit. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5189a3cabdaf45a6bbb0dc890c6afc99.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "a7ab2e4c-5ce3-43f9-8f49-3dabb2561184": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166265774346__a7ab2e4c-5ce3-43f9-8f49-3dabb2561184-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Verwöhne dich selbst mit diesem einzigartigen Badeerlebnis und erlebe Momente der puren Entspannung und Pflege"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166265774346__a7ab2e4c-5ce3-43f9-8f49-3dabb2561184-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "43200094-104f-475c-92e8-d4c39ec45e06": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "mit liebe von hand gemacht",
+        "title": "ein besonderes highlight",
+        "text": "<p>Jede unserer Butter-Fizz Badebomben wird mit größter Sorgfalt und Hingabe von Hand hergestellt und dekoriert, um dir ein unvergleichliches Badeerlebnis zu bieten. Unser talentiertes Butter-Fizz Team steckt seine ganze Leidenschaft und Liebe in die Herstellung jedes einzelnen Produkts, um sicherzustellen, dass du nur das Beste bekommst. Von der sorgfältigen Auswahl hochwertiger Inhaltsstoffe bis hin zur liebevollen Gestaltung der Dekoration - bei der Herstellung unserer Butter-Fizz Badebomben wird nichts dem Zufall überlassen. Wenn du also nach einem ganz besonderen Badeerlebnis suchst, dann ist unsere Butter-Fizz Badebombe genau das Richtige für dich. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1ec8e201f80948c9aa05d5786899a67d.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "a241e8b9-72c7-4349-87a2-f05583116320": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Badebombe_Peeling.png",
+        "image_mask": "rounded",
+        "image2_mask": "rounded",
+        "subtitle": "himmlisch weiche haut",
+        "title": "zuckerschaumpeeling",
+        "text": "<p>Das Zuckerschaumpeeling in unserer Butter-Fizz Badebombe bietet eine sanfte und effektive Möglichkeit, die Haut zu peelen und zu revitalisieren. Dieses Peeling enthält feine Zuckerkristalle, die abgestorbene Hautzellen sanft entfernen und die Haut glatt und geschmeidig hinterlassen. Durch die regelmäßige Anwendung des Zuckerschaumpeelings können Verunreinigungen und abgestorbene Hautzellen entfernt werden, was zu einem klareren und ebenmäßigeren Hautbild führt. Darüber hinaus regt das Peeling die Durchblutung an und fördert die Zellerneuerung, was zu einer strahlenderen und gesünder aussehenden Haut führt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_4bYzXz": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_sheabutter.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "geschmeidigkeit und hydration",
+        "title": "Sheabutter",
+        "text": "<p>Diese reichhaltige und pflegende Butter ist bekannt für ihre feuchtigkeitsspendenden Eigenschaften, die dazu beitragen, die Haut mit intensiver Feuchtigkeit zu versorgen und sie weich und geschmeidig zu halten. Durch die Anwendung von Sheabutter wird die Hautbarriere gestärkt, was sie vor dem Austrocknen schützt und sie gleichzeitig geschmeidig und hydratisiert hält. Darüber hinaus ist Sheabutter reich an Vitaminen und Antioxidantien, die dazu beitragen können, die Haut zu beruhigen, zu regenerieren und vor äußeren Einflüssen zu schützen. So verwöhnt unsere Butter-Fizz Badebombe deine Sinne und pflegt auch deine Haut auf höchstem Niveau, um ein luxuriöses Badeerlebnis zu schaffen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_M94YKb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Mandeloel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "reich an Vitaminen und Nährstoffe",
+        "title": "Mandelöl",
+        "text": "<p>Dieses leicht absorbierbare Öl ist reich an Vitaminen und Nährstoffen, die dazu beitragen, die Haut mit Feuchtigkeit zu versorgen und sie geschmeidig zu halten. Mandelöl wirkt beruhigend auf die Haut und kann dabei helfen, Trockenheit zu lindern und Irritationen zu reduzieren. Darüber hinaus ist es reich an Vitamin E, einem starken Antioxidans, das dazu beiträgt, die Haut vor freien Radikalen zu schützen und ihre Elastizität zu verbessern. Die Anwendung von Mandelöl kann dazu beitragen, die Haut zu pflegen, zu beruhigen und ihr ein gesundes Strahlen zu verleihen, wodurch unser Butter-Fizz Badeerlebnis zu einem wahren Genuss wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634213101991484f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Farbe_Pulver.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "die Schönheit der Natur genießen",
+        "title": "natürliche farben",
+        "text": "<p>Natürliche Farben sind in unserer Badebombe eine hervorragende Wahl, da sie die Haut nicht unnötig belasten und gleichzeitig ein visuell ansprechendes Badeerlebnis bieten. Im Gegensatz zu künstlichen Farbstoffen enthalten natürliche Farben keine synthetischen Zusatzstoffe oder Chemikalien, die möglicherweise die Haut reizen können. Stattdessen stammen sie aus natürlichen Quellen wie Pflanzen, Mineralien oder Tonen und sind daher sanft zur Haut und umweltfreundlich. Diese Farben färben das Badewasser auf eine angenehme und beruhigende Weise ein, ohne Rückstände auf der Haut oder in der Badewanne zu hinterlassen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_Emx3Kw": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_GGCwF7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_hVkbVU": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_NqWNxW": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_GFMDrK": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_GGCwF7",
+        "text_block_hVkbVU",
+        "text_block_NqWNxW",
+        "text_block_GFMDrK"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_FQQw7L": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "nachhaltiger badespass",
+        "text": "<p>Badebomben garantieren sprudelnden Badespaß und bereiten ganz besondere Auszeiten und Momente der Entspannung. Allerdings wird in diesem Segment auch unglaublich viel vermeidbarer Abfall produziert und ich sehe häufig teils kritische Inhaltsstoffe in vielen konventionellen Produkten.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch die Verwendung unserer plastikfreien Verpackung kann der Verbrauch von umweltbelastenden Materialien reduziert werden. Zudem ist Papier sehr gut recyclebar. Biologisch abbaubare oder recycelbare Materialien können die Umweltbelastung weiter reduzieren. Wir setzen auf hochwertige natürliche Zutaten wie Mandelöl und natürliche Farben, die gut für deine Haut und auch sanft zur Umwelt sind. Unsere Badebomben ermöglichen es, einen Beitrag zum Umweltschutz zu leisten, ohne auf bunten Badespaß verzichten zu müssen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_BCpUTX": {
+      "type": "faq",
+      "blocks": {
+        "question_VybkFN": {
+          "type": "question",
+          "settings": {
+            "title": "Wie verwende ich die Butter-Fizz Badebombe?",
+            "text": "<p>Einfach das Badewasser einlassen, die Badebombe hinzufügen und das Sprudeln genießen!<\/p>"
+          }
+        },
+        "question_jidTFc": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Inhaltsstoffe sind in der Butter-Fizz Badebombe enthalten?",
+            "text": "<p>Ja, unsere Badebombe ist für alle Hauttypen geeignet, einschließlich empfindlicher Haut.<\/p>"
+          }
+        },
+        "question_QT4Yti": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält der Duft der Butter-Fizz Badebombe im Badewasser an?",
+            "text": "<p>Der angenehme Duft bleibt während des gesamten Badeerlebnisses erhalten und hinterlässt einen dezenten Duft auf Ihrer Haut.<\/p>"
+          }
+        },
+        "question_wUJdfN": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Butter-Fizz Badebombe auch für ein Fußbad verwenden?",
+            "text": "<p>Ja, die Butter-Fizz Badebombe eignet sich auch hervorragend für ein entspannendes Fußbad.<\/p>"
+          }
+        },
+        "question_zmP6xK": {
+          "type": "question",
+          "settings": {
+            "title": "Ist die Butter-Fizz Badebombe frei von künstlichen Farb- und Konservierungsstoffen?",
+            "text": "<p>Ja, unsere Badebombe enthält keine künstlichen Farb- oder Konservierungsstoffe und ist daher sanft zur Haut.<\/p>"
+          }
+        },
+        "question_QWtmWc": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange kann ich die Butter-Fizz Badebombe aufbewahren, bevor ich sie benutze?",
+            "text": "<p>Unsere Badebombe bleibt bei richtiger Lagerung bis zu 6 Monate haltbar.<\/p>"
+          }
+        },
+        "question_aDB7MQ": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Butter-Fizz Badebombe mehrmals verwenden?",
+            "text": "<p>Nein, jede Badebombe ist für eine Anwendung bestimmt, um das optimale Badeerlebnis zu gewährleisten.<\/p>"
+          }
+        },
+        "question_GRVyyF": {
+          "type": "question",
+          "settings": {
+            "title": "Verfärbt die Butter-Fizz Badebombe die Badewanne?",
+            "text": "<p>Nein, unsere Badebombe verfärbt die Badewanne nicht. Die Farben werden ganz einfach nach dem Baden weggespült.<\/p>"
+          }
+        },
+        "question_fPGHer": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Butter-Fizz Badebombe mit anderen Badezusätzen kombinieren?",
+            "text": "<p>Wir empfehlen dies nicht. Zum einen wäre der schöne Effekt der Butter-Fizz dann nicht mehr gegeben, zum anderen können zu viele Badezusätze auf einmal, die Haut eher reizen.<\/p>"
+          }
+        },
+        "question_VJEtbn": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich die Butter-Fizz Badebombe verwenden?",
+            "text": "<p>Du kannst unsere Butter-Fizz nach Bedarf verwenden, um deine Haut zu verwöhnen und zu pflegen. Wenn du möchtest, auch täglich.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_VybkFN",
+        "question_jidTFc",
+        "question_QT4Yti",
+        "question_wUJdfN",
+        "question_zmP6xK",
+        "question_QWtmWc",
+        "question_aDB7MQ",
+        "question_GRVyyF",
+        "question_fPGHer",
+        "question_VJEtbn"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGer ZUM THEMA \"Butter-fizz\". HIER SIND DIE ANTWORTEN dazu 💚"
+      }
+    },
+    "3e2c0ae1-a7ac-4f81-9c15-b09a48ae0e4a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "wie wäre es noch mit einer entspannenden gesichtsmaske zum verwöhnbad?",
+        "home_featured_products": "peel-off-masken",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird häufig zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_ydRTqz",
+    "5985718e-0f12-407c-af3b-2389be2d46a9",
+    "a7ab2e4c-5ce3-43f9-8f49-3dabb2561184",
+    "43200094-104f-475c-92e8-d4c39ec45e06",
+    "a241e8b9-72c7-4349-87a2-f05583116320",
+    "text_and_image_4bYzXz",
+    "text_and_image_M94YKb",
+    "1634213101991484f1",
+    "text_with_icons_Emx3Kw",
+    "text_and_image_FQQw7L",
+    "faq_BCpUTX",
+    "3e2c0ae1-a7ac-4f81-9c15-b09a48ae0e4a",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

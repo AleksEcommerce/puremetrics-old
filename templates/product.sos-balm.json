@@ -1,0 +1,546 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Unser SOS BALM besteht aus",
+        "title": "über 95% natürliche fette",
+        "text": "<p>Diese natürlichen Inhaltsstoffe, wie Sheabutter, Kokosöl und Mandelöl, versorgen deine gereizte und irritierte Haut, intensiv mit Feuchtigkeit, machen sie geschmeidig und schützen sie vor dem Austrocknen. Ihre reichhaltigen Eigenschaften helfen auch, raue und spröde Haut zu beruhigen und zu regenerieren, damit sie sich weich und gesund anfühlen.  Im Gegensatz zu Mineralölen, die in vielen konventionellen Produkten enthalten sind und die Haut auf lange Sicht austrocknen, setzen wir auf natürliche Fette und Öle, die die Haut intensiv mit Feuchtigkeit versorgen und ihre natürliche Feuchtigkeitsbarriere unterstützen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1ecf50df9d1b4fbcbea979ec2c9c6ac3.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_yMJLDA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_mandeloel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "feuchtigkeit & pflege",
+        "title": "Mandelöl",
+        "text": "<p>Mandelöl ist ein wesentlicher Bestandteil unseres SOS Balm, da es über beruhigende und pflegende Eigenschaften verfügt. Es ist reich an Vitamin E, das als Antioxidans wirkt und die Haut vor Schäden durch freie Radikale schützt. Zudem ist Mandelöl leicht und zieht schnell in die Haut ein, wodurch es Feuchtigkeit spendet und die Haut geschmeidig macht. Es eignet sich besonders gut für irritierte und empfindliche Haut und hilft, Entzündungen zu lindern.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_m7azhT": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Olivenoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "reich an Vitaminen & Antioxidantien",
+        "title": "olivenöl",
+        "text": "<p>Olivenöl ist in unserem SOS Balm enthalten, weil es reich an Vitaminen, Antioxidantien und essentiellen Fettsäuren ist, die alle dazu beitragen, die Haut zu pflegen und zu schützen. Es hat entzündungshemmende Eigenschaften und kann helfen, gereizte oder geschädigte Haut zu beruhigen und zu regenerieren. Darüber hinaus spendet Olivenöl Feuchtigkeit und trägt dazu bei, die Hautbarriere zu stärken, um Feuchtigkeitsverlust zu verhindern.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_sheabutter.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "regenerierend & beschützend",
+        "title": "Sheabutter",
+        "text": "<p>Sheabutter ist eine reichhaltige Quelle an Feuchtigkeit und Nährstoffen für die Haut ist. Sie enthält Vitamine, Mineralien und essentielle Fettsäuren, die dazu beitragen, die Haut zu pflegen, zu beruhigen und zu schützen. Sheabutter hat entzündungshemmende Eigenschaften und kann helfen, gereizte oder geschädigte Haut zu beruhigen und zu regenerieren. Darüber hinaus bildet sie eine schützende Barriere auf der Haut, die Feuchtigkeit einschließt und den natürlichen Heilungsprozess unterstützt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Teebaumoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "antimikrobiell & entzündungshemmend",
+        "title": "ätherisches teebaumöl",
+        "text": "<p>Ätherisches Teebaumöl wird in unserem SOS Balm verwendet, weil es natürliche antimikrobielle, entzündungshemmende und antiseptische Eigenschaften besitzt. Es hilft, Bakterien, Viren und Pilze abzuwehren, die Hautreizungen oder Infektionen verursachen können. Teebaumöl kann auch dazu beitragen, Hautausschläge, Entzündungen und Rötungen zu lindern, und ist daher besonders wirksam bei der Behandlung von Hautirritationen, kleinen Schnitten, Insektenstichen oder Pickeln. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Nj9hdL": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_vitamin_e_7e3a7dfa-03db-43c3-bf9c-e9b355ffe1b7.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "unterstützt die Heilung",
+        "title": "vitamin e",
+        "text": "<p>Vitamin E wird in unserem SOS Balm verwendet, weil es eine ausgezeichnete antioxidative Wirkung hat und dazu beiträgt, die Haut vor schädlichen freien Radikalen zu schützen. Es hilft, die Haut zu beruhigen und zu regenerieren, indem es die natürliche Feuchtigkeitsbarriere stärkt und die Haut vor Austrocknung schützt. Darüber hinaus fördert Vitamin E die Zellerneuerung und unterstützt die Heilung von irritierter oder geschädigter Haut, indem es Entzündungen reduziert und die Hautstruktur verbessert. In unserem SOS Balm hilft Vitamin E daher dabei, die Haut zu pflegen, sie geschmeidig zu machen und sie bei der Regeneration zu unterstützen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_Uq78JD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lipbalm.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "praktisch & nachhaltig",
+        "title": "wiederverwendbare tiegel",
+        "text": "<p>Unsere SOS Balm im Weißblechtiegel ist äußerst praktisch für die tägliche Anwendung und auch ein Statement für Nachhaltigkeit. Ihr wiederverwendbares Design reduziert den Verpackungsmüll und ermöglicht es auch, den SOS Balm bis zur letzten Portion zu verwenden. Der Weißblechtiegel ist robust und schützt den Balm optimal vor äußeren Einflüssen. <br\/><br\/>Darüber hinaus setzen wir uns aktiv für die Wiederverwertung ein. Mit unserem Rücknahmeprogramm kannst du 10 leere Tiegel an uns zurückschicken und erhältst als Dankeschön einen Gratis-SOS Balm deiner Wahl. Dieses Programm spart Ressourcen, und belohnt auch unsere treue Community für ihr Engagement im Umweltschutz. So können wir gemeinsam einen weiteren wichtigen Beitrag zum Schutz unserer Umwelt leisten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Für welche Hautprobleme eignet sich der SOS Balm?",
+            "text": "<p>Der SOS Balm ist ideal für trockene, gereizte und geschädigte Hautstellen geeignet, einschließlich rissiger Haut, Irritationen, Verbrennungen, Insektenstichen und vielem mehr.<\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft kann ich den SOS Balm verwenden?",
+            "text": "<p>Der SOS Balm kann bei Bedarf mehrmals täglich angewendet werden, je nachdem, wie stark die Hautprobleme sind.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den SOS Balm auch für die Lippen verwenden?",
+            "text": "<p>Ja, der SOS Balm eignet sich auch hervorragend für spröde und trockene Lippen.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Ist der SOS Balm auch für empfindliche Haut geeignet?",
+            "text": "<p>Ja, der SOS Balm ist auch für empfindliche Haut geeignet, da er milde und natürliche Inhaltsstoffe enthält.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der SOS Balm auch bei Sonnenbrand verwendet werden?",
+            "text": "<p>Ja, der SOS Balm kann auch bei Sonnenbrand verwendet werden, um die Haut zu beruhigen und Feuchtigkeit zu spenden.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Enthält der SOS Balm Parabene oder andere schädliche Chemikalien?",
+            "text": "<p>Nein, der SOS Balm ist frei von Parabenen und anderen schädlichen Chemikalien. Er besteht aus rein natürlichen Inhaltsstoffen.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der SOS Balm auch bei Hautirritationen durch Rasur verwendet werden?",
+            "text": "<p>Ja, der SOS Balm kann auch bei Hautirritationen nach der Rasur verwendet werden, um die Haut zu beruhigen und zu pflegen.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der SOS Balm auch bei Neurodermitis oder Psoriasis verwendet werden?",
+            "text": "<p>Ja, der SOS Balm kann auch bei Neurodermitis oder Psoriasis verwendet werden, um die Haut zu beruhigen und zu pflegen.<\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der SOS Balm auch bei Verbrennungen verwendet werden?",
+            "text": "<p>Ja, der SOS Balm kann auch bei leichten Verbrennungen verwendet werden, um die Haut zu beruhigen und zu pflegen. Beachte aber, dass Verbrennungen in der Regel eine medizinische Abklärunge benötigen.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist der SOS Balm haltbar?",
+            "text": "<p>Der SOS Balm ist in der Regel mindestens 4 Monate haltbar, nachdem er geöffnet wurde.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_wMaDab",
+        "question_p4Kcxj"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"SOS Balm\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "pflege für deine Haut und die umwelt",
+        "text": "<p>Die Pflege irritierter und geschädigter Haut ist nicht nur eine Frage des Aussehens, sondern auch der Gesundheit. Natürlich sind SOS Produkte nicht mehr wegzudenken und schaffen uns jede Menge Linderung. Leider sind die meisten Produkte für diese Pflege aber noch immer in Einwegverpackungen erhältlich, was nicht sein muss. <\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere SOS Balms in wiederverwendbaren Tiegeln bieten eine nachhaltige Lösung im Gegensatz zu herkömmlichen Pflegeprodukten in Einwegverpackungen. Durch die Verwendung eines wiederverwendbaren Tiegels reduzieren wir den Verbrauch von Einwegverpackungen und tragen zur Abfallreduzierung bei. Mit unserem Recyclingprogramm fördern wir einen nachhaltigen Kreislauf und minimieren den ökologischen Fußabdruck unserer Produkte zusätzlich.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "dürfen wir weitere nachhaltige highlights aus unserer wirkstoff-serie vorstellen? Eine optimale, nachhaltige ergänzung zu unserem SOS Balm",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_yMJLDA",
+    "text_and_image_m7azhT",
+    "text_and_image_G8efbn",
+    "text_and_image_aQ6RB3",
+    "text_and_image_Nj9hdL",
+    "text_with_icons_MK3AR6",
+    "text_and_image_Uq78JD",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

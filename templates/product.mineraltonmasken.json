@@ -1,0 +1,449 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9a6edb7c-5056-47ff-af07-af19887a2815": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "920c033e-bdda-471f-b21e-f50de19496ee": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe & Nährwerte",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "af11656a-5bba-4794-9f06-16522ca199cf": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9a6edb7c-5056-47ff-af07-af19887a2815",
+        "variant_picker",
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575",
+        "920c033e-bdda-471f-b21e-f50de19496ee",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "af11656a-5bba-4794-9f06-16522ca199cf"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_BEetbm": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "klare und verfeinerte poren",
+        "title": "mineralische pflege mit KAOLIN",
+        "text": "<p>Kaolin, auch bekannt als Porzellanerde, ist eine Art mineralischer Ton, der eine sanfte, aber dennoch effektive reinigende Wirkung auf die Haut hat. Es zieht überschüssiges Öl, Schmutz und Verunreinigungen aus den Poren, ohne die Haut zu stark auszutrocknen. Kaolin kann abgestorbene Hautzellen sanft von der Hautoberfläche entfernen, was zu einem ebenmäßigeren Teint und einem strahlenden Hautbild führt. Aufgrund seiner absorbierenden Eigenschaften kann Kaolin helfen, den Glanz zu reduzieren und die Haut matt und ausgeglichen aussehen zu lassen, besonders bei öliger oder glänzender Haut.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1bd5fd28918d4b85a8dd62bdce50f702.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "c9954598-fb3f-4989-9ebe-5c1f3694ebd0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_tonerden_03f92071-6fb3-4768-9fd8-cc16b2d33a15.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "darum ist kaolin",
+        "title": "besonders hautvertäglich",
+        "text": "<p>Kaolin ist bekannt für seine außergewöhnliche Hautverträglichkeit. Es hat eine sanfte Textur und eine feine Partikelgröße, die es ermöglicht, dass es sanft auf der Haut wirkt, ohne Irritationen oder Reizungen zu verursachen. Im Gegensatz zu groben Exfolianten oder aggressiven Reinigungsmitteln ist Kaolin schonend und nicht abrasiv, selbst auf empfindlicher Haut. Darüber hinaus ist Kaolin ein natürliches Mineral, das frei von synthetischen Chemikalien, Duftstoffen und Konservierungsmitteln ist, die oft in Hautpflegeprodukten vorkommen und bei empfindlicher Haut Reizungen auslösen können. Diese Reinheit und Natürlichkeit machen Kaolin besonders gut verträglich, selbst für Personen mit sensibler oder problematischer Haut.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3c31d31c-6c97-4039-b8f6-6f8790a0ad9c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_kaolin.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Haut- und Haarpflege Allrounder",
+        "title": "ein absolutes Must-Have",
+        "text": "<p>Die verschiedenen Farbgebungen von Kaolin entstehen durch unterschiedliche Mineralgehalte und Beimengungen. Weißes Kaolin, das am häufigsten verwendet wird, hat eine helle, weiße Farbe und ist das reinste und mildeste Kaolin. Es eignet sich besonders gut für empfindliche oder trockene Hauttypen.<\/p><p>Daneben gibt es noch andere Farbvarianten von Kaolin, wie zum Beispiel rosa, gelb oder rot. Diese Farben entstehen durch den Gehalt an Eisenoxid, Kupferoxid oder anderen natürlichen Mineralien im Kaolin. Jede Farbvariante kann unterschiedliche Eigenschaften und Anwendungen haben. Zum Beispiel wird rosa Kaolin oft als sanfte Reinigungsmaske für empfindliche Haut verwendet, während gelbes oder rotes Kaolin eher für Mischhaut oder fettige Hauttypen geeignet sein kann.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_PepTjf": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_WzLVtn": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_K4nmDN": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_URpir9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_b7WwGL": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_WzLVtn",
+        "text_block_K4nmDN",
+        "text_block_URpir9",
+        "text_block_b7WwGL"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "faq_D4YY7G": {
+      "type": "faq",
+      "blocks": {
+        "question_NGifGk": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist Kaolin Mineralton?",
+            "text": "<p>Kaolin ist ein natürlich vorkommendes Mineral, das häufig in Kosmetikprodukten, insbesondere Gesichtsmasken, verwendet wird.<\/p>"
+          }
+        },
+        "question_7AYU7t": {
+          "type": "question",
+          "settings": {
+            "title": "Für welchen Hauttyp sind Kaolin-Mineraltonmasken geeignet?",
+            "text": "<p>Kaolin-Mineraltonmasken sind für alle Hauttypen geeignet, insbesondere für fettige und empfindliche Haut.<\/p>"
+          }
+        },
+        "question_QiiNzA": {
+          "type": "question",
+          "settings": {
+            "title": "Was sind die Hauptvorteile von Kaolin-Mineraltonmasken?",
+            "text": "<p>Kaolin-Mineraltonmasken helfen dabei, überschüssiges Öl und Unreinheiten von der Haut zu entfernen, die Poren zu reinigen und die Haut zu klären und zu beruhigen.<\/p>"
+          }
+        },
+        "question_LGLagD": {
+          "type": "question",
+          "settings": {
+            "title": "Kann Kaolin-Mineralton Unreinheiten reduzieren?",
+            "text": "<p>Ja, Kaolin-Mineraltonmasken können dazu beitragen, Unreinheiten zu reduzieren, indem sie überschüssiges Öl und Verunreinigungen entfernen, die oft zu Hautunreinheiten führen.<\/p>"
+          }
+        },
+        "question_YTb6nW": {
+          "type": "question",
+          "settings": {
+            "title": "Sind Kaolin-Mineraltonmasken auch für empfindliche Haut geeignet?",
+            "text": "<p>Ja, Kaolin-Mineraltonmasken sind aufgrund ihrer sanften und beruhigenden Eigenschaften auch für empfindliche Haut geeignet.<\/p>"
+          }
+        },
+        "question_XwXike": {
+          "type": "question",
+          "settings": {
+            "title": "Kann Kaolin-Mineralton bei Akne helfen?",
+            "text": "<p>Ja, Kaolin-Mineralton kann bei Akne helfen, indem es überschüssiges Öl und Verunreinigungen entfernt, die zu Akneausbrüchen führen können.<\/p>"
+          }
+        },
+        "question_RPXGac": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich eine Kaolin-Mineraltonmaske verwenden?",
+            "text": "<p>Die Häufigkeit der Anwendung hängt von Ihrem Hauttyp und Ihren individuellen Bedürfnissen ab. Einmal wöchentlich ist jedoch für die meisten Menschen ausreichend.<\/p>"
+          }
+        },
+        "question_fVdmbd": {
+          "type": "question",
+          "settings": {
+            "title": "Kann Kaolin-Mineralton die Haut austrocknen?",
+            "text": "<p>Nein, Kaolin-Mineralton ist sanft genug, um die Haut nicht auszutrocknen. Es absorbiert überschüssiges Öl, ohne die Haut zu dehydrieren, und hinterlässt sie sauber und erfrischt.<\/p>"
+          }
+        },
+        "question_9jkKwT": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Kaolin-Mineraltonmasken auch auf anderen Körperbereichen anwenden?",
+            "text": "<p>Ja, Kaolin-Mineraltonmasken können auch auf anderen Körperbereichen wie dem Rücken oder der Brust angewendet werden, um Unreinheiten zu bekämpfen und die Haut zu klären.<\/p>"
+          }
+        },
+        "question_3erFGE": {
+          "type": "question",
+          "settings": {
+            "title": "Verstopfen Kaolin-Mineraltonmasken die Poren?",
+            "text": "<p>Nein, Kaolin-Mineraltonmasken haben eher das Gegenteilige. Sie reinigen die Poren, indem sie überschüssiges Öl und Schmutzpartikel entfernen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NGifGk",
+        "question_7AYU7t",
+        "question_QiiNzA",
+        "question_LGLagD",
+        "question_YTb6nW",
+        "question_XwXike",
+        "question_RPXGac",
+        "question_fVdmbd",
+        "question_9jkKwT",
+        "question_3erFGE"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGER ZUM THEMA \"mineraltonmasken\". HIER SIND DIE ANTWORTEN DAZU 💚"
+      }
+    },
+    "text_and_image_zEwQAG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "UNSERE MASKEN SIND NACHHALTIGER ALS VIELE KONVENTIONELLE PRODUKTE",
+        "text": "<p>Gesichtsmasken sind ein absolutes Must-Have in der Pflegeroutine und der Markt dafür boomt! Kein Wunder, dass man unzählige Varianten findet, welche meist nur für eine Anwendung ausgerichtet sind und viel Abfall produzieren.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch die Verwendung unserer plastikfreien Becher kann der Verbrauch von Einwegmaterialien reduziert werden, da ein Becher zudem Inhalt für sieben Anwendungen bietet. Zudem ist Papier sehr gut recyclebar. Biologisch abbaubare oder recycelbare Materialien können die Umweltbelastung weiter reduzieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_ThKKWV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "DIE PERFEKTE ERGÄNZUNG IN DEINER NACHHALTIGEN GESICHTSPFLEGEROUTINEALLE",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_BEetbm",
+    "c9954598-fb3f-4989-9ebe-5c1f3694ebd0",
+    "3c31d31c-6c97-4039-b8f6-6f8790a0ad9c",
+    "text_with_icons_PepTjf",
+    "faq_D4YY7G",
+    "text_and_image_zEwQAG",
+    "featured_collection_ThKKWV",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

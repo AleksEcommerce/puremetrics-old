@@ -1,0 +1,443 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "79dedb2c-9e55-4dab-b682-e1df27a3007c": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "65dfdfd8-74d4-4482-87ea-5d1e28f21a5a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "eb97c311-91b7-4447-8618-37153f5ca129": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "b78e6c45-f315-4408-9f96-112e07fed2f7": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum produkt?",
+            "phone": false
+          }
+        },
+        "3619d036-15ca-4c11-bfed-2fca7504d357": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774",
+        "variant_picker",
+        "79dedb2c-9e55-4dab-b682-e1df27a3007c",
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee",
+        "buy_buttons",
+        "65dfdfd8-74d4-4482-87ea-5d1e28f21a5a",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8",
+        "eb97c311-91b7-4447-8618-37153f5ca129",
+        "b78e6c45-f315-4408-9f96-112e07fed2f7",
+        "3619d036-15ca-4c11-bfed-2fca7504d357"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_ezDFpf": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "mit unseren natürlichen Badebomben",
+        "title": "Genieße ein entspannendes Bad",
+        "text": "<p>Erlebe pure Freude und Entspannung in deiner Badewanne mit Farbkreationen natürlichen Ursprungs. Gefertigt aus sorgfältig ausgewählten Inhaltsstoffen, verwandeln sie dein Bad in ein buntes und duftendes Paradies. <\/p><p>Lass die Badebombe in dein warmes Badewasser gleiten und beobachte, wie sich lebendige Farben entfalten. Gönn dir eine Auszeit vom Alltag, während die natürlichen Farben dich in eine Welt der Entspannung entführen. Eine Wohltat für deine Haut und deine Sinne. <\/p><p><em><strong>Die Farbe variiert je nach Sorte.<\/strong><\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4d0fb80dfc2e4bc98e0e4a082bfbd6f5.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "1634213101991484f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Mandeloel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "zarte pflegephase",
+        "title": "mandelöl",
+        "text": "<p>Mandelöl ist ein echter Schatz für die Haut, besonders wenn es um unsere Badebomben geht. Mit seinen feuchtigkeitsspendenden Eigenschaften, reichhaltigen Vitaminen und beruhigenden Wirkstoffen ist es ein Alleskönner für die Hautpflege. Diese natürliche Zutat dringt tief in die Haut ein, um sie mit Feuchtigkeit zu versorgen und gleichzeitig zu beruhigen. Dank seiner leichten Textur lässt es sich mühelos auf der Haut verteilen und hinterlässt ein angenehm gepflegtes Gefühl. Mandelöl ist auch hypoallergen und daher selbst für empfindliche Hauttypen geeignet. In unseren Badebomben verwandelt es Ihr Bad in ein entspannendes Wellnesserlebnis, das deine Haut zart und geschmeidig zurücklässt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_UDianb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Farbe_Pulver.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "die Schönheit der Natur genießen",
+        "title": "natürliche farben",
+        "text": "<p>Natürliche Farben sind in unserer Badebombe eine hervorragende Wahl, da sie die Haut nicht unnötig belasten und gleichzeitig ein visuell ansprechendes Badeerlebnis bieten. Im Gegensatz zu künstlichen Farbstoffen enthalten natürliche Farben keine synthetischen Zusatzstoffe oder Chemikalien, die möglicherweise die Haut reizen können. Stattdessen stammen sie aus natürlichen Quellen wie Pflanzen, Mineralien oder Tonen und sind daher sanft zur Haut und umweltfreundlich. Diese Farben färben das Badewasser auf eine angenehme und beruhigende Weise ein, ohne Rückstände auf der Haut oder in der Badewanne zu hinterlassen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_hGYfBY": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_4tWRFf": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_ehhFtP": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_PCLjV9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_YrW9LB": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_4tWRFf",
+        "text_block_ehhFtP",
+        "text_block_PCLjV9",
+        "text_block_YrW9LB"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_hDxVaU": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "nachhaltiger badespass",
+        "text": "<p>Badebomben garantieren sprudelnden Badespaß und bereiten ganz besondere Auszeiten und Momente der Entspannung. Allerdings wird in diesem Segment auch unglaublich viel vermeidbarer Abfall produziert und ich sehe häufig teils kritische Inhaltsstoffe in vielen konventionellen Produkten.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch die Verwendung unserer plastikfreien Verpackung kann der Verbrauch von umweltbelastenden Materialien reduziert werden. Zudem ist Papier sehr gut recyclebar. Biologisch abbaubare oder recycelbare Materialien können die Umweltbelastung weiter reduzieren. Wir setzen auf hochwertige natürliche Zutaten wie Mandelöl und natürliche Farben, die gut für deine Haut und auch sanft zur Umwelt sind. Unsere Badebomben ermöglichen es, einen Beitrag zum Umweltschutz zu leisten, ohne auf bunten Badespaß verzichten zu müssen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_qVXCwR": {
+      "type": "faq",
+      "blocks": {
+        "question_T8fmxg": {
+          "type": "question",
+          "settings": {
+            "title": "Sind eure Badebomben für alle Hauttypen geeignet?",
+            "text": "<p>Unsere Badebomben sind für die meisten Hauttypen geeignet, aber wenn du spezielle Hautbedenken hast, empfehlen wir einen Patch-Test, bevor du das Produkt großflächig verwendest.<\/p>"
+          }
+        },
+        "question_3ppaDi": {
+          "type": "question",
+          "settings": {
+            "title": "Enthalten eure Badebomben Sulfate oder Parabene?",
+            "text": "<p>Nein, unsere Badebomben enthalten weder Sulfate noch Parabene. Wir verwenden nur hochwertige natürliche Inhaltsstoffe.<\/p>"
+          }
+        },
+        "question_rd7wkH": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange dauert es, bis sich eine Badebombe vollständig im Wasser aufgelöst hat?",
+            "text": "<p>Die Auflösungszeit variiert je nach Größe und Zusammensetzung der Badebombe. In der Regel dauert es jedoch etwa 3-5 Minuten, bis sich eine Badebombe vollständig im Wasser aufgelöst hat.<\/p>"
+          }
+        },
+        "question_U6y8xN": {
+          "type": "question",
+          "settings": {
+            "title": "Können eure Badebomben auch von Kindern verwendet werden?",
+            "text": "<p>Ja, unsere Badebomben sind sanft genug für Kinder, aber wir empfehlen eine Aufsicht durch Erwachsene während des Badeerlebnisses.<\/p>"
+          }
+        },
+        "question_bFVEeU": {
+          "type": "question",
+          "settings": {
+            "title": "Wie bewahre ich eure Badebomben am besten auf, um ihre Frische zu erhalten?",
+            "text": "<p>Um die Frische unserer Badebomben zu erhalten, bewahre sie am besten an einem kühlen, trockenen Ort auf und verwende sie innerhalb von sechs Monaten nach dem Kauf.<\/p>"
+          }
+        },
+        "question_N83EXz": {
+          "type": "question",
+          "settings": {
+            "title": "Sind eure Badebomben vegan und tierversuchsfrei?",
+            "text": "<p>Ja, unsere Badebomben sind zu 100 % vegan und tierversuchsfrei. Wir lieben Tiere und setzen uns für ethische Praktiken ein.<\/p>"
+          }
+        },
+        "question_JqTF67": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es spezielle Anweisungen für die Verwendung eurer Badebomben?",
+            "text": "<p>Die Verwendung unserer Badebomben ist einfach! Leg sie einfach ins warme Badewasser und genieße den sprudelnden Spaß.<\/p>"
+          }
+        },
+        "question_aechEr": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich eure Badebomben verwenden, um optimale Ergebnisse zu erzielen?",
+            "text": "<p>Die Häufigkeit der Verwendung hängt von deinen persönlichen Vorlieben ab. Einige Leute verwenden sie täglich, während andere sie nur gelegentlich verwenden, um sich zu verwöhnen.<\/p>"
+          }
+        },
+        "question_KH4BgK": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich eure Badebomben auch in einem Whirlpool verwenden?",
+            "text": "<p>Ja, unsere Badebomben können sicher in einem Whirlpool verwendet werden. Genieße das sprudelnde Vergnügen und lass dich verwöhnen.<\/p>"
+          }
+        },
+        "question_8Uirex": {
+          "type": "question",
+          "settings": {
+            "title": "Woher stammen die natürlichen Farbstoffe, die in euren Badebomben verwendet werden?",
+            "text": "<p>Unsere natürlichen Farbstoffe stammen aus pflanzlichen oder mineralischen Quellen und werden sorgfältig ausgewählt, um deine Haut zu schonen und ein schönes Badeerlebnis zu bieten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_T8fmxg",
+        "question_3ppaDi",
+        "question_rd7wkH",
+        "question_U6y8xN",
+        "question_bFVEeU",
+        "question_N83EXz",
+        "question_JqTF67",
+        "question_aechEr",
+        "question_KH4BgK",
+        "question_8Uirex"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGer ZUM THEMA \"badebomben\". HIER SIND DIE ANTWORTEN dazu 💚"
+      }
+    },
+    "0709860d-f302-4a90-ae47-ef0b02ec075d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "noch reichhaltiger! unsere neueste generation: die butterfizz badebomben",
+        "home_featured_products": "butter-fizz-badebomben",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird häufig zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_ezDFpf",
+    "1634213101991484f1",
+    "text_and_image_UDianb",
+    "text_with_icons_hGYfBY",
+    "text_and_image_hDxVaU",
+    "faq_qVXCwR",
+    "0709860d-f302-4a90-ae47-ef0b02ec075d",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

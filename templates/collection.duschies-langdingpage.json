@@ -1,0 +1,395 @@
+{
+  "sections": {
+    "252de40b-46fa-405b-b5bc-2c7ed4973bab": {
+      "type": "scrolling-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "text": "💙 Entdecke eine neue Generation der festen Duschpflege 💙",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
+    },
+    "af8fce06-17f9-425a-8545-5a4afa998731": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18166263382282__af8fce06-17f9-425a-8545-5a4afa998731-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#21a6ff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_produkteinfuehrung_Duschies_Newsletter_header_Mail-3_B2C.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_produkteinfuehrung_Duschies_Newsletter_header_Mail-3_-_mobile_B2C.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263382282__af8fce06-17f9-425a-8545-5a4afa998731-image-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_FMX9Ec": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NNBwnT": {
+          "type": "heading",
+          "settings": {
+            "title": "🚿 Was sind unsere Duschies und was macht sie so besonders? 🚿"
+          }
+        },
+        "text_HqMCYL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Duschies sind innovative, feste Hydro-Duschgele, die Deine Haut pflegen und gleichzeitig die Umwelt schonen. Sie bestehen aus einem milden, natürlichen Tensid aus Kokosnuss, Rosenhydrolat, Mandelöl und Glycerin. Diese hochwertigen Inhaltsstoffe machen Duschies zu einer nährenden und sanften Pflege für Deine Haut<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NNBwnT",
+        "text_HqMCYL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 3,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "rich_text_wCbHq3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yxjyPr": {
+          "type": "heading",
+          "settings": {
+            "title": "🤩 Im Kennenlern-Set alle Düfte Entdecken, SISALsäckchen GRATIS dazu erhalten + kostenloser Versand 🤩"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yxjyPr"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_product_UVegi6": {
+      "type": "featured-product",
+      "blocks": {
+        "price_8DwB7G": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_33NVRz": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_c99yky": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_EBGKQ3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_8DwB7G",
+        "description_33NVRz",
+        "variant_picker_c99yky",
+        "buy_buttons_EBGKQ3"
+      ],
+      "settings": {
+        "featured_product": "duschies-kennenlern-set",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "8484b4ec-c1d7-4b6a-be20-e70a38b4eb54": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_YEDkjL": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_JMNdR9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_BncgqR": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_AF9RpD": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfktioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_YEDkjL",
+        "text_block_JMNdR9",
+        "text_block_BncgqR",
+        "text_block_AF9RpD"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#21a6ff",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "rich_text_bnhMGj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qqk7iy": {
+          "type": "heading",
+          "settings": {
+            "title": "5 Gründe,warum du ab sofort nur noch mit Duschies duschen solltest"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qqk7iy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Inhaltsstoffe.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Grund 1",
+        "title": "Duschies sind frei von bedenklichen Inhaltstoffen und voll von nährenden Ölen!",
+        "text": "<p>Jedes Jahr werden laut EU-Kosmetikrichtlinie neue Stoffe im Kosmetikeinsatz verboten, die lange im Verdacht standen, schädlich zu sein. Wir verzichten direkt auf potenziell bedenkliche Inhaltsstoffe und setzen ausschließlich auf nachweisbar sichere und hochwertige Inhalte. Duschies sind frei von Mikroplastik, Flüssigplastik, Sulfate, Silikone und Parabene. Ein mildes Kokostensid in Kombination mit hochwertigem Mandelöl und pflanzlichen Glyzerin bilden die Basis deiner neuen Lieblingsdusche.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5d4639bb-92fc-4aa4-a6a7-af4f3f50f268": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zeichenflaeche_2.jpg",
+        "image_mask": "square",
+        "image2_mask": "rounded",
+        "subtitle": "Grund 2",
+        "title": "Duschies bestehen zu 95% aus pflegenden, natürlichen Inhaltsstoffen",
+        "text": "<p>Konventionelle Duschgele enthalten oft über 80% Wasser. Hinzu kommen Binde- und Geliermittel, Konservierungsstoffe, aggressivere Tenside und nur ein sehr geringer Anteil an Pflege. Duschies hingegen enthalten gar kein Wasser, sondern ein pflegendes Rosen-Hydrolat, das einen geringen Anteil Wasser enthält. Mit einem milden Tensid aus Kokos und lediglich 5% Wasseranteil stellen Duschies also ein nährendes und intensiv-pflegendes Duschkonzentrat dar, dass unglaublich ergiebig und reich an pflegendem Mandelöl und Glyzerin ist.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f97be1d6-5842-4b99-a53c-204b6ce5a1ec": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zeichenflaeche_1_4e3bef2d-2d0b-400e-9e87-b91defa4f145.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Grund 3",
+        "title": "Duschies respektieren die natürliche Hautschutzbarriere",
+        "text": "<p>Duschies respektieren die Hautschutzbarriere, weil sie aus milden, natürlichen Inhaltsstoffen hergestellt werden, die die Haut nicht austrocknen oder reizen. Im Gegensatz zu vielen herkömmlichen Duschgelen enthalten Duschies keine aggressiven Sulfate oder Silikone, die die natürliche Schutzschicht der Haut angreifen und blockieren könnten. Stattdessen pflegen sie mit sanften Tensiden aus Kokosnuss, feuchtigkeitsspendendem Glycerin und nährenden Ölen wie Mandelöl. Ihr nahezu hautneutraler pH-Wert sorgt dafür, dass die Haut in ihrem natürlichen Gleichgewicht bleibt, was besonders wichtig ist, um die Hautschutzbarriere zu erhalten und zu stärken.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_7XFbTt": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zeichenflaeche_5.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 4",
+        "title": "Spürbar seidenzarte, genährte und gepflegte Haut",
+        "text": "<p>Die meisten Menschen müssen sich nach der Dusche direkt eincremen, weil die Haut spannt, gereizt und trocken ist. Kein Wunder, denn in vielen<br\/>konventionellen Duschgelen stecken aus Kostengründen aggressive Tenside und kaum bis keine Pflege. Anders sind die Duschies! Sie enthalten ein mildes Tensid, beruhigendes Rosen-Hydrolat, pflanzliches Glyzerin und Mandelöl, das reichhaltig an haut-nährenden Vitaminen und Fettsäuren ist. Schon während der Dusche ist die herausragende Qualität des reichhaltigen Cremeschaums deutlich spürbar.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_YUxcCV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zeichenflaeche_3.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Grund 5",
+        "title": "Duschies sind umweltfreundlich, nachhaltig und sehr ergiebig",
+        "text": "<p>Die wasserfreie Formulierung der Duschies gibt dir ein hochkonzentriertes Duschgel, von dem du nur eine sehr geringe Menge benötigst. Das Wasser kommt ja schließlich aus deinem Duschkopf.<br\/>Durch das geringe Volumen und Gewicht, sparen Duschies jede Menge CO2 im Transportweg und der Herstellungskette. Die umweltfreundlichen Inhaltsstoffe belasten die Umwelt dabei im Vergleich zu vielen konventionellen Mitteln nicht. Duschies sind lediglich in recyclebarem Papier eingeschlagen und verzichten auf unnötige Umverpackungen. Somit fördert die Nutzung dieses Produkts die Reduzierung von Plastikmüll und schont aktiv unsere Umwelt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "💙 Möchtest du weiterhin viel Geld für Wasser in Duschgelflaschen und Hautcremes zahlen, oder deiner Haut und der Umwelt ab sofort nur noch das Beste bieten?",
+        "home_featured_products": "duschies",
+        "per_row": 3,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    }
+  },
+  "order": [
+    "252de40b-46fa-405b-b5bc-2c7ed4973bab",
+    "af8fce06-17f9-425a-8545-5a4afa998731",
+    "rich_text_FMX9Ec",
+    "main-collection",
+    "rich_text_wCbHq3",
+    "featured_product_UVegi6",
+    "8484b4ec-c1d7-4b6a-be20-e70a38b4eb54",
+    "rich_text_bnhMGj",
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34",
+    "5d4639bb-92fc-4aa4-a6a7-af4f3f50f268",
+    "f97be1d6-5842-4b99-a53c-204b6ce5a1ec",
+    "text_and_image_7XFbTt",
+    "text_and_image_YUxcCV",
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba",
+    "collection-header"
+  ]
+}

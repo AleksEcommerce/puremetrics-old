@@ -1,0 +1,672 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "4c733bac-9c9e-4ff9-87f8-3d1b35e2afb3": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "0c970d35-a205-4ed6-b211-30652907e7a7": {
+          "type": "text",
+          "settings": {
+            "text": "\"Die Maske ist super, meine Haut fühlt sich hinterher fantastisch an, und sieht auch irgendwie frischer aus. Sehr angenehm aufzutragen. Auch das abziehen ist überhaupt kein Problem. Früher war ich nicht so für Masken und so zu haben, aber seit diesen Masken ist es mein sonntägliches Ritual! Sehr zu empfehlen!\" - Filou&Balu via Bewertungen"
+          }
+        },
+        "6eccfa7b-dcb6-4523-a6f7-f2dc57bec575": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "cf513650-84aa-417a-ab28-b1c6efd94d31": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "6df74ebe-c495-437d-9224-9772ef79a60f": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "4c733bac-9c9e-4ff9-87f8-3d1b35e2afb3",
+        "0c970d35-a205-4ed6-b211-30652907e7a7",
+        "6eccfa7b-dcb6-4523-a6f7-f2dc57bec575",
+        "variant_picker",
+        "cf513650-84aa-417a-ab28-b1c6efd94d31",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "6df74ebe-c495-437d-9224-9772ef79a60f"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "eb29e61e-4b65-4a46-b0e4-70e4eb51adfd": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Peel-Off_Maske.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "kühlend, porenverfeinernd & feuchtigkeitsspendend",
+        "title": "für eine klare und frische haut",
+        "text": "<p>Verleihe deiner Haut ein neues Leben mit unseren hochwertigen, nachhaltigen und natürlichen  Peel-Off Masken! Entwickelt, um deine Haut zu revitalisieren, Unreinheiten zu klären und einen frischen Teint zu enthüllen, bieten unsere Masken ein einzigartiges Pflegeerlebnis. Die sorgfältig ausgewählten Inhaltsstoffe machen unsere Peel-Off Masken zu einem Must-Have in deiner Hautpflegeroutine, die du nicht mehr missen möchtest. Das Beauty-Pulver wird mit Wasser zu einer cremigen Maske angerührt und auf das Gesicht aufgetragen. Erlebe, wie sie deine Haut spürbar erfrischen und kühlen, tief in deine Poren eindringen, um sie von Talg, Schmutz und abgestorbenen Hautzellen befreien und feines, strahlendes Hauterlebnis schenken.<\/p><p><strong>Im Gegensatz zu den konventionellen, pergamentdünnen Produkte, bieten unsere dicken, reichhaltigen Peel-Off Masken schon während des Tragens ein hochwertiges und wirksames Gefühl.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16366266888ae964d1": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "erfrischend & Feuchtigkeitsspendend",
+        "title": "Welche Peel-Off Maske passt am besten zu mir?",
+        "text": "<p>In der Basis haben unsere Peel-Off Masken einiges gemeinsam. Sie bestehen aus <strong>mineralstoffreichen Tonerden<\/strong>, welche die Haut sanft reinigen und das Hautbild verfeinern.  <strong>Natürlicher Argilla Ton<\/strong> mit reinigenden Eigenschaften, absorbiert überschüssiges Öl und fördert ein klares Hautbild. Als <strong>Extrakt aus Braunalgen <\/strong>strafft Algin die Haut und revitalisiert sie, um ein jugendliches Erscheinungsbild zu fördern.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/puremetics_Peel-Off-Maske-Allgemein_02.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "fe48ad42-dc48-4829-8abd-3b1c2264a0ef": {
+      "type": "rich-text",
+      "blocks": {
+        "84a4b73a-584d-41fc-8c53-2139c99f0a33": {
+          "type": "heading",
+          "settings": {
+            "title": "Für die verschiedenen Bedürfnisse der Haut haben wir unserer Peel-Off Masken spezielle Wirkstoffe hinzugefügt"
+          }
+        }
+      },
+      "block_order": [
+        "84a4b73a-584d-41fc-8c53-2139c99f0a33"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "8c56557d-5c4b-4405-a350-98adb5e5dcd3": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18166266396938__8c56557d-5c4b-4405-a350-98adb5e5dcd3-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Hydroboost",
+            "heading": "hyaluron",
+            "textarea": "Hyaluronsäure ist in der Lage, große Mengen an Wasser zu binden, wodurch sie als exzellenter Feuchtigkeitsspender dient. In Kosmetikprodukten sorgt sie dafür, dass die Haut intensiv mit Feuchtigkeit versorgt wird. Dies ist besonders wichtig, um trockene Haut zu hydratisieren und einen frischen, strahlenden Teint zu fördern.",
+            "cta_text1": "Diese Maske entdecken",
+            "cta_link1": "shopify:\/\/products\/peel-off-maske-hyaluron",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_6cdd7363-1c49-4d25-b063-9841d5bf6fd2.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--18166266396938__8c56557d-5c4b-4405-a350-98adb5e5dcd3-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Anti-Unreinheiten",
+            "heading": "spirulina",
+            "textarea": "Spirulina hat natürliche entgiftende Eigenschaften, die dazu beitragen können, die Poren zu reinigen und überschüssiges Öl zu kontrollieren. Dies macht Spirulina für Menschen mit zu Akne neigender Haut besonders interessant. Es ist zudem entzündungshemmend und feuchtigkeitsspendend.",
+            "cta_text1": "Diese Maske entdecken",
+            "cta_link1": "shopify:\/\/products\/peel-off-maske-spirulina",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Spirulina_Pulver.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "278c3b69-f051-4141-ab31-5aa9646c8ad0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Revitalisierend",
+            "heading": "Cocos Vanille",
+            "textarea": "Vanille enthält Antioxidantien, die dazu beitragen können, freie Radikale zu neutralisieren. Dies ist wichtig, um die Haut vor vorzeitiger Alterung und Umweltschäden zu schützen. Durch die feuchtigkeitsspendenden Eigenschaften von Vanille und Cocos kann die Hauttextur verbessert werden, sodass sie sich weicher und geschmeidiger anfühlt.",
+            "cta_text1": "Diese Maske entdecken",
+            "cta_link1": "shopify:\/\/products\/peel-off-maske-cocos-vanille",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Vanille.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "190f284b-468d-4f33-97d2-9412efb7d4ed": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Detox",
+            "heading": "Ginkgo grüntee",
+            "textarea": "Ginkgo und Grüntee können dazu beitragen, die Hauttextur zu verbessern und ein ebenmäßiges Hautbild zu fördern. Die Extrakte enthalten Antioxidantien, die dazu beitragen, freie Radikale zu neutralisieren. Dieser antioxidative Schutz ist wichtig, um die Haut vor vorzeitiger Alterung und schädlichen Umwelteinflüssen zu bewahren.",
+            "cta_text1": "Diese Maske entdecken",
+            "cta_link1": "shopify:\/\/products\/peel-off-maske-ginkgo-gruentee",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Ginkgo.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#191919",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18166266396938__8c56557d-5c4b-4405-a350-98adb5e5dcd3-advanced-1",
+        "template--18166266396938__8c56557d-5c4b-4405-a350-98adb5e5dcd3-advanced-2",
+        "278c3b69-f051-4141-ab31-5aa9646c8ad0",
+        "190f284b-468d-4f33-97d2-9412efb7d4ed"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "72ae75c2-5ccf-491a-abde-002b7ca18a9b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Multimasking.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Multimasking",
+        "title": "experten-tipp!",
+        "text": "<p>Multimasking ist die maßgeschneiderte Antwort auf die unterschiedlichen Bedürfnisse verschiedener Hautpartien. Diese innovative Methode ermöglicht es, unterschiedliche Masken auf verschiedenen Gesichtsbereichen gleichzeitig zu verwenden, um den individuellen Hautanforderungen gerecht zu werden. Unsere hochwertigen Peel-Off Masken eignen sich perfekt für diese personalisierte Hautpflegepraxis.<\/p><p>Deine T-Zone benötigt beispielsweise möglicherweise mehr Mattierung, während Wangenpartien intensive Feuchtigkeit und Pflege benötigen. Multimasking ermöglicht es dir, diese unterschiedlichen Bedürfnisse mit verschiedenen Masken zu erfüllen. <\/p><p><strong>Nutze dafür ganz einfach mehrere Masken und verstreiche sie dann zu einem homogenen Übergang im Gesicht. Du wirst sie nach der Einwirkzeit als, in sich geschlossene, Maske abziehen können.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_rPaPr3": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_wh9mGA": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_VmcJmw": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_mqPULe": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_7zdgFF": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wh9mGA",
+        "text_block_VmcJmw",
+        "text_block_mqPULe",
+        "text_block_7zdgFF"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "163661923254299a31": {
+      "type": "featured-video",
+      "settings": {
+        "title": "3 Tipps und Tricks für die Anwendung unserer Peel-Off Masken",
+        "video_url": "https:\/\/youtu.be\/OgvNVCRg6lY",
+        "divider": false
+      }
+    },
+    "9f337b9b-ce9f-4542-be44-a8f78b5e6997": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Masken_texturen.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Mineral- und Tonerden",
+        "title": "eine natürliche Quelle für viele Mineralien und Nährstoffe",
+        "text": "<p>Tonerden sind eine natürliche Quelle für viele Mineralien und Nährstoffe, die deiner Haut helfen, vital und gesund zu bleiben. Sie sind sehr effektiv bei der Behandlung von Akne, Entzündungen, Rötungen und anderen Hautproblemen.<\/p><p>Tonerden sind zudem reich an Antioxidantien, die helfen, freie Radikale zu bekämpfen. Freie Radikale sind schädliche Substanzen, die das Zellversagen fördern, wodurch deine Haut vorzeitig altern kann. Antioxidantien helfen auch, die Kollagenproduktion zu erhöhen, was deiner Haut ein gesundes Aussehen verleiht.<\/p><p>Tonerden sind auch reich an Mineralien wie Magnesium, Kalium, Calcium und Eisen. Diese Mineralien helfen, die Haut zu befeuchten und zu beleben. Sie können auch helfen, die Poren zu verfeinern und die Haut zu beruhigen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "28ee2da0-c989-4201-9324-a7e17cb3bd7c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Maske_Textur.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Vitamine, Mineralien und Antioxidantien",
+        "title": "Beauty-Allrounder Braunalge",
+        "text": "<p>Braunalgen werden in der Kosmetik häufig als Inhaltsstoffe in Gesichtsmasken, Cremes und anderen Hautpflegeprodukten verwendet. Sie sind reich an Vitaminen, Mineralien und Antioxidantien und können die Haut nähren und Feuchtigkeit spenden. Zudem haben sie eine beruhigende Wirkung, wodurch sie hilfreich bei der Verringerung von Rötungen und Hautirritationen sein können. Auch bei der Behandlung von Akne werden Braunalgen als sanftes Mittel verwendet, da sie die Haut beruhigen und den Heilungsprozess beschleunigen können.<\/p><ul><li>Entzündungshemmende Wirkung, die helfen kann, entzündliche Hautprobleme wie Akne und Rosacea zu reduzieren.<\/li><li>Es kann die Zellregeneration fördern, um die Anzeichen von Alterung zu verringern.<\/li><li>Kann hhelfen, die Haut vor schädlichen Umwelteinflüssen wie UV-Strahlen und Umweltverschmutzung zu schützen.<\/li><li>Kann die Hautfeuchtigkeit erhöhen, um trockene Haut zu bekämpfen.<\/li><li>Hat ebenfalls starke antioxidative Eigenschaften, die helfen können, die Hautzellen vor freien Radikalen zu schützen.<\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "27eff394-e668-40a0-8a13-a11cd0bade1f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Unsere Peelings sind",
+        "title": "frei von verstecktem plastik",
+        "text": "<p>Wusstest du schon, dass Peelingkörper meist kleine Plastikpartikel waren? Heute sind in vielen Peelings zum Glück keine peelenden Plastikpartikel mehr enthalten. Sie werden offiziell als „frei von Mikroplastik“ bezeichnet und dürfen entsprechende Siegel tragen. <\/p><p>Mikroplastik ist in vielen Peelings aber leider trotzdem in Form von flüssigem Kunststoff enthalten. Dieser kann in Flüssen und Meeren nicht abgebaut werden und schadet unserer Umwelt.<br\/><\/p><p><strong>Unser Masken, aber auch unser gesamtes Sortiment ist garantiert frei von Plastik jeglicher Art. Dir und unserer Umwelt zuliebe.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "cab49c0b-a7b6-413b-9059-f66a7ae5246c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Alle_PeelOffMasken_-_Kopie.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "UNSERE MaskenBECHER",
+        "title": "100% plastikfrei, recyclebar & upcyclebar",
+        "text": "<p>Unsere Maskenbecher haben wir eigens für unsere Masken  entwickelt. Sie werden in Deutschland aus <strong>100% Papier<\/strong> produziert und kommen dabei ganz ohne Plastik oder versteckter Bioplastikbeschichtung aus. <\/p><p>Du kannst die Verpackung im Altpapier entsorgen. <strong>Besser aber noch: <\/strong>Du kannst sie reinigen und anschließend wunderbar upcyclen. Zum Beispiel als Aufbewahrungsdöschen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "bb87bcfe-e562-4162-beba-057a06e64f6a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "UNSERE MASKEN SIND NACHHALTIGER ALS VIELE KONVENTIONELLE PRODUKTE",
+        "text": "<p>Gesichtsmasken sind ein absolutes Must-Have in der Pflegeroutine und der Markt dafür boomt! Kein Wunder, dass man unzählige Varianten findet, welche meist nur für eine Anwendung ausgerichtet sind und viel Abfall produzieren.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch die Verwendung unserer plastikfreien Becher kann der Verbrauch von Einwegmaterialien reduziert werden, da ein Becher zudem Inhalt für sieben Anwendungen bietet. Zudem ist Papier sehr gut recyclebar. Biologisch abbaubare oder recycelbare Materialien können die Umweltbelastung weiter reduzieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9c5d7bd5-7ec9-4848-9aa9-271a30e17982": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Pro-Tipp Gesichtsreinigungsroutine",
+        "title": "Die perfekte reihenfolge",
+        "text": "<p><strong>1. Abschminken: <\/strong>Optional.<\/p><p><strong>2. Reinigen: <\/strong>Am besten mit unseren festen Produkten.<\/p><p><strong>3. Maske: <\/strong>Optional, sollte aber 1-2 mal in der Woche genutzt werden.<\/p><p><strong>4. Toner: <\/strong>Gleicht den PH Wert nach der Reinigung aus und bereit die Haut auf die weitere Pflege vor.<\/p><p><strong>5. Serum: <\/strong>Beispielsweise unser Hyaluronserum. Immer vor der Creme nutzen.<\/p><p><strong>6. Creme: <\/strong>Eine passende Tages- oder Nachcreme bildet immer den Schluss der Pflege-Routine. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e8a77ac82181445aa7eff13234cf811e.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "79918824-9dfe-405b-8008-3c43e4a31cf9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Die perfekte ergänzung in deiner nachhaltigen gesichtspflegeroutine",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "0fc23263-1754-478b-9849-9b582efef0ee": {
+      "type": "faq",
+      "blocks": {
+        "62c986c6-548e-4a99-be95-bb9085f5a5d8": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist eine Peel-Off Maske?",
+            "text": "<p>Peel-Off-Masken sind Hautpflegeprodukte, die aufgetragen und nach dem Trocknen abgezogen werden können. Sie werden oft verwendet, um abgestorbene Hautzellen zu entfernen, die Haut zu klären und einen strahlenden Teint zu fördern.<\/p>"
+          }
+        },
+        "7147aa28-43c2-4b9f-8b35-0607caaa59dd": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Vorteile bieten Peel-Off-Masken?",
+            "text": "<p>Unsere Peel-Off-Masken können dazu beitragen, die Haut von Unreinheiten zu befreien, abgestorbene Hautzellen zu entfernen, die Poren zu klären und ein frisches, strahlendes Aussehen zu fördern. <\/p>"
+          }
+        },
+        "6a1ddf9c-ae95-4567-89f7-4a057ea3a185": {
+          "type": "question",
+          "settings": {
+            "title": "Für welchen Hauttyp sind die Peel-Off-Masken geeignet?",
+            "text": "<p>Unsere Peel-Off-Masken sind in der Regel für verschiedene Hauttypen geeignet, können jedoch individuell unterschiedlich wirken. Menschen mit empfindlicher Haut sollten vorher einen Patch-Test an einer kleinen Hautstelle durchführen.<\/p>"
+          }
+        },
+        "template--16074730307850__0fc23263-1754-478b-9849-9b582efef0ee-1677686727185e3f90-0": {
+          "type": "question",
+          "settings": {
+            "title": "Wie viele Anwendungen sind in einem Becher enthalten?",
+            "text": "<p>Der Inhalt reicht für 7 Anwendungen.<\/p>"
+          }
+        },
+        "template--16074730307850__0fc23263-1754-478b-9849-9b582efef0ee-1677686727185e3f90-1": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte man Peel-Off-Masken anwenden?",
+            "text": "<p>Die Häufigkeit der Anwendung hängt von der individuellen Hautpflege und den Bedürfnissen deiner Haut ab. In der Regel ist die Anwendung ein- bis zweimal pro Woche ausreichend.<\/p>"
+          }
+        },
+        "aaed62df-1cbf-45fb-a21a-665cf473115c": {
+          "type": "question",
+          "settings": {
+            "title": "Können Peel-Off-Masken auch auf anderen Körperteilen verwendet werden?",
+            "text": "<p>Obwohl sie primär für das Gesicht entwickelt wurden, können unsere Peel-Off-Masken auch auf anderen Körperpartien mit unreiner Haut oder Unreinheiten verwendet werden.<\/p>"
+          }
+        },
+        "0363fbac-838f-4edd-9ec7-521a22eca06a": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Peel-Off-Masken bei Akne oder Neurodermitis verwenden?",
+            "text": "<p>Ja, unsere Peel-Off-Masken können dazu beitragen, die Haut von überschüssigem Öl zu befreien und Poren zu klären, was bei Akne unterstützend sein kann. Die Feuchtigkeitsversorgung der Haut ist auch bei Neurodermitis hilfreich. Wir haben zu beiden Fällen viele positive Nachrichten der Wirkung erhalten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "62c986c6-548e-4a99-be95-bb9085f5a5d8",
+        "7147aa28-43c2-4b9f-8b35-0607caaa59dd",
+        "6a1ddf9c-ae95-4567-89f7-4a057ea3a185",
+        "template--16074730307850__0fc23263-1754-478b-9849-9b582efef0ee-1677686727185e3f90-0",
+        "template--16074730307850__0fc23263-1754-478b-9849-9b582efef0ee-1677686727185e3f90-1",
+        "aaed62df-1cbf-45fb-a21a-665cf473115c",
+        "0363fbac-838f-4edd-9ec7-521a22eca06a"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"Peel-off masken\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Diese Produkte werden häufig zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "eb29e61e-4b65-4a46-b0e4-70e4eb51adfd",
+    "16366266888ae964d1",
+    "fe48ad42-dc48-4829-8abd-3b1c2264a0ef",
+    "8c56557d-5c4b-4405-a350-98adb5e5dcd3",
+    "72ae75c2-5ccf-491a-abde-002b7ca18a9b",
+    "text_with_icons_rPaPr3",
+    "163661923254299a31",
+    "9f337b9b-ce9f-4542-be44-a8f78b5e6997",
+    "28ee2da0-c989-4201-9324-a7e17cb3bd7c",
+    "27eff394-e668-40a0-8a13-a11cd0bade1f",
+    "cab49c0b-a7b6-413b-9059-f66a7ae5246c",
+    "bb87bcfe-e562-4162-beba-057a06e64f6a",
+    "9c5d7bd5-7ec9-4848-9aa9-271a30e17982",
+    "79918824-9dfe-405b-8008-3c43e4a31cf9",
+    "0fc23263-1754-478b-9849-9b582efef0ee",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

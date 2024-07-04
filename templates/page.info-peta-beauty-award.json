@@ -1,0 +1,101 @@
+{
+  "sections": {
+    "aa9db41c-7943-4c53-a0a5-acf794ff26f4": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17989381980426__aa9db41c-7943-4c53-a0a5-acf794ff26f4-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/230711_PETA-VeganAward_Beauty_2023-SocialMediaTeaser_1024x512px.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 520,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17989381980426__aa9db41c-7943-4c53-a0a5-acf794ff26f4-advanced-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "28accb52-c26e-4c3f-88ea-ea4d0d6e0ecd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17989381980426__28accb52-c26e-4c3f-88ea-ea4d0d6e0ecd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "🤩 gewonnen! 🤩"
+          }
+        },
+        "template--17989381980426__28accb52-c26e-4c3f-88ea-ea4d0d6e0ecd-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Voller Freude können wir euch mitteilen, dass <strong>puremetics Gewinner beim PETA VEGAN AWARD 2023<\/strong> <strong>im Bereich Beauty<\/strong> ist! Wir haben eure liebste Kategorie, die 3in1 Dusch-Fluffs ins rennen geschickt und konnten damit ebenfalls die Jury überzeugen.<\/p><p><em>„Puremetics zeigt mit 3in1 Dusch-Fluff vorbildlich, dass tierische Inhaltsstoffe und Tierversuche der Vergangenheit angehören. Vegane und moderne Produktkreationen sind gut für Tiere, Menschen und die Umwelt. Wir hoffen, dass viele weitere Unternehmen der Beauty-Branche diesem Beispiel folgen werden und gratulieren herzlich zum Gewinn des PETA VEGAN AWARD 2023 in der Kategorie „Bestes veganes Peeling“, so Harald Ullmann, Mitgründer und 2. Vorsitzender von PETA Deutschland.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17989381980426__28accb52-c26e-4c3f-88ea-ea4d0d6e0ecd-heading-1",
+        "template--17989381980426__28accb52-c26e-4c3f-88ea-ea4d0d6e0ecd-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "3b267ccf-1678-4e63-aea2-00ecab07ba3f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_und_Team_puremetics.jpg",
+        "image2": "shopify:\/\/shop_images\/23_09_Chris_Cosma_puremetics_GmbH.jpg",
+        "subtitle": "Chris (CEO & Co-Founder)",
+        "title": "Eine besondere Auszeichnung",
+        "text": "<p>Puremetics war für mich seit der Stunde der Idee immer eine Herzensangelegenheit. Ich wollte meine eigenen Werte fest in die Unternehmensphilosophie einbringen und verankern. Nachhaltigkeit, Umwelt- und Tierschutz. Da ich selbst viele Jahre vegan lebe, wollte ich auch unser gesamtes Sortiment von Stunde Eins vegan halten.<\/p><p>Glücklicherweise sind eben diese Themen heute sehr prominent. Als ich mit dem Konzept für puremetics begann, bewegten wir uns aber noch in die Nische und hatten einige Hürden zu überwinden. Dank meinem Geschäftspartner Chido und unserem wundervollen Team haben wir es geschafft. <\/p><p><strong>Diese Auszeichnung bedeutet der gesamten puremetics Familie sehr viel. Sie zeigt uns, dass wir mit unserer Mission nicht allein sind und wir gemeinsam so viel bewegen können. <\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "39940051-7d37-4d9a-8bde-b6622ca69e57": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "🏆 Und hier kommen die gewinner:innen 🏆",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "aa9db41c-7943-4c53-a0a5-acf794ff26f4",
+    "28accb52-c26e-4c3f-88ea-ea4d0d6e0ecd",
+    "3b267ccf-1678-4e63-aea2-00ecab07ba3f",
+    "39940051-7d37-4d9a-8bde-b6622ca69e57"
+  ]
+}

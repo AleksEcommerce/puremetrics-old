@@ -1,0 +1,166 @@
+{
+  "sections": {
+    "165847578320f00eea": {
+      "type": "promo-grid",
+      "blocks": {
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c": {
+          "type": "banner",
+          "settings": {
+            "heading": "⚡ Flash-Sale ⚡",
+            "text": "Spare bis zu 20%* auf Alles - Nur bis zum 13.10!",
+            "link": "",
+            "label": "",
+            "color_tint": "#10a2ab",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "1d782335-bd4a-44db-8ea4-6a599c70e046": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16074728374538__1d782335-bd4a-44db-8ea4-6a599c70e046-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Aktion_Flash-Sale_Rabatt-Staffelung_Shop_Banner_10_15_15-Prozent_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Aktion_Flash-Sale_Rabatt-Staffelung_Shop_Banner_10_15_15-Prozent_Mobile-und-Desktop.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16074728374538__1d782335-bd4a-44db-8ea4-6a599c70e046-image-1"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "b506a642-ed30-4391-8b3b-8b799b58327b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18028610224394__b506a642-ed30-4391-8b3b-8b799b58327b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "EIN GANZ NEUES BADEERLEBNIS!"
+          }
+        },
+        "template--18028610224394__b506a642-ed30-4391-8b3b-8b799b58327b-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Entdecke jetzt unsere einzigartigen Badebomben der neuesten Generation: Die Butter-Fizz! <\/strong><\/p>"
+          }
+        },
+        "51b99113-e133-4d9a-a0b5-432d3e21175c": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Sie vereint alles, was wir an unseren Standard-Badebomben so lieben und legt mit ihrem zartschmelzenden Frosting aus Sheabutter und Mandelöl, sowie dem Zuckerschaum-Peeling  noch einige Extras oben drauf! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18028610224394__b506a642-ed30-4391-8b3b-8b799b58327b-heading-1",
+        "template--18028610224394__b506a642-ed30-4391-8b3b-8b799b58327b-text-1",
+        "51b99113-e133-4d9a-a0b5-432d3e21175c"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "bbe5f063-0262-42c4-87e9-5869e91ae5f5": {
+      "type": "promo-grid",
+      "blocks": {
+        "fe105bf5-22da-4143-aee0-445a36d8c03c": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "*Ausgenommen sind bereits reduzierte Produkte, (Online-)Geschenkkarten und die Soli-Seife. Nurbis einschließlich 01.01.2023 und unter www.puremetics.de. Keine Barauszahlung. Die Verbreitung dieses Codes zu kommerziellen Zwecken ist untersagt.",
+            "link": "",
+            "label": "",
+            "color_tint": "#ffffff",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "fe105bf5-22da-4143-aee0-445a36d8c03c"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    }
+  },
+  "order": [
+    "165847578320f00eea",
+    "collection-header",
+    "1d782335-bd4a-44db-8ea4-6a599c70e046",
+    "b506a642-ed30-4391-8b3b-8b799b58327b",
+    "main-collection",
+    "bbe5f063-0262-42c4-87e9-5869e91ae5f5"
+  ]
+}

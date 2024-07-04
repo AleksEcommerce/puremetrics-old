@@ -1,0 +1,286 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "166014851557e8582d": {
+      "type": "promo-grid",
+      "blocks": {
+        "1660148514c7eb47cb-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "wir wollen auch in Zukunft unabhängig von Konzernen bleiben!",
+            "heading": "Darum wir brauchen deine Unterstützung!",
+            "textarea": "Investiere in puremetics und unterstütze uns bei unserer Crowdinvesting-Kampagne!",
+            "cta_text1": "Zur Econeers Kampagne",
+            "cta_link1": "https:\/\/www.econeers.de\/investmentchancen\/puremetics?entryPoint=puremetics",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Portrait_15_von_31b.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 720,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "1660148514c7eb47cb-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false
+      }
+    },
+    "1660148725b6c9f4ad": {
+      "type": "rich-text",
+      "blocks": {
+        "166014872424624b53-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Mit unseren nachhaltigen Beautyalternativen konnten wir gemeinsam bereits tausende von Plastikverpackungen vermeiden und über 53 Tonnen Plastikmüll aus Küstenregionen bergen."
+          }
+        },
+        "166014872424624b53-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Mission auch weiterhin in die Welt zu tragen,<br\/>schaffen wir aber nicht allein, sondern nur als Gemeinschaft. Also packen wir<br\/>es zusammen an! <\/p><p><strong>Deshalb starten wir<br\/>am kommenden Dienstag, den 16. August, um 12 Uhr unsere Crowdinvesting-Kampagne<br\/>auf Econeers!<\/strong><\/p><p>Werde Teil der puremetics-Familie, unterstütze uns im Kampf<br\/>gegen die Plastik-Vermüllung der Erde und profitiere sogar von bis zu 7 Prozent<br\/>Zinsen pro Jahr!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166014872424624b53-0",
+        "166014872424624b53-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16601488415dc21dc0": {
+      "type": "promo-grid",
+      "blocks": {
+        "f6237b5b-29aa-4bad-a28d-eb3dda9a9496": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "So einfach funktioniert’s:",
+            "heading": "JETZT MITMACHEN!",
+            "textarea": "1. Erstelle ein Profil auf www.econeers.de \n2. Investiere deinen Wunschbetrag (Mindestinvestment 250 Euro).\n3. Dein Investment wird mit bis zu 7 % pro Jahr verzinst.*\n* Du erhältst im Early-Bird-Zeitraum bis zum 30.08.2022 7 % Zinsen p. a., bei einem Investment nach Ende dieses Zeitraums 6 % p. a.\nSICHERE DIR JETZT ZUSÄTZLICH 1 % ZINSAUFSCHLAG IN UNSERER EARLY-BIRD-PHASE*!",
+            "cta_text1": "JETZT MITMACHEN!",
+            "cta_link1": "https:\/\/www.econeers.de\/investmentchancen\/puremetics?entryPoint=puremetics",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/scenic-mountain-landscape.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "166014884175862897-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Bereits mit einem kleinen Beitrag",
+            "heading": "kannst du uns enorm unterstützen!",
+            "textarea": "●\tAuf Econeers kannst du in Form eines Darlehens in puremetics investieren und einen Teil zur Gesamtsumme beitragen.\n●\tDabei hilfst du uns nicht nur, sondern profitierst auch von festen Zinszahlungen.\n●\tWir benötigen das Investment, um unser Team zu vergrößern, den Vertrieb auszubauen und Zertifizierungen zu beantragen.",
+            "cta_text1": "Zur Kampagne",
+            "cta_link1": "https:\/\/www.econeers.de\/investmentchancen\/puremetics?entryPoint=puremetics",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/nature-close-up-plant-water-droplets-on-leaf.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "166014884175862897-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Wer ist eigentlich",
+            "heading": "Econeers?",
+            "textarea": "Econeers ist eine Plattform für Crowdinvesting, auf der Interessenten in nachhaltige Unternehmen wie puremetics bereits ab kleinen Investments von 250 Euro investieren können. Du profitierst als Anleger:in von festen, regelmäßigen Zinszahlungen. Auf diesem Weg wirst du Teil der puremetics-Familie, hilfst uns aktiv im Kampf für eine nachhaltige Zukunft und unterstützt uns dabei, auch künftig unabhängig von Konzernen zu bleiben.",
+            "cta_text1": "Mehr erfahren",
+            "cta_link1": "https:\/\/www.econeers.de",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/natural-forest-collapse.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "00a2b036-2450-4b12-a89f-ac530d604794": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Was ist eigentlich",
+            "heading": "Crowdinvesting?",
+            "textarea": "Crowdinvesting eröffnet Ihnen schon mit kleinen Summen eine neuartige Möglichkeit der Geldanlage, die bisher nur Business Angels oder Venture-Capital-Gesellschaften vorbehalten war. Crowdinvesting bei Econeers heißt, dass Investoren als Teil der Crowd schon ab 250 Euro in nachhaltige Projekte und erneuerbare Energien investieren und gemeinsam nachhaltiges Handeln fördern können. Crowdinvesting ist die Demokratisierung von Venture Capital!",
+            "cta_text1": "Mehr erfahren",
+            "cta_link1": "https:\/\/www.econeers.de\/crowdfunding",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/man-photographs-nature.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "422f0a21-f07a-465e-84d7-a23996e8ebb6": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "INVESTIERE MIT PUREMETICS in",
+            "heading": "EINE NACHHALTIGE ZUKUNFT",
+            "textarea": "●\tEine nachhaltige Community, wegweisend für das Badezimmer der Zukunft.\n●\tEin Unternehmen, das sich an sozialen, Umwelt- und Tierschutzprojekten beteiligt und gemeinsam mit Cleanhub bereits über 53 Tonnen Plastikmüll aus Küstenregionen geborgen hat.\n●\tEin Team mit stabilen Werten, das für Nachhaltigkeit brennt!\n●\tUmweltfreundliche neue Ansätze: Wir wollen auch die Wirkstoff- und dekorative Kosmetik plastikfrei gestalten!",
+            "cta_text1": "Zur Kampagne",
+            "cta_link1": "https:\/\/www.econeers.de\/investmentchancen\/puremetics?entryPoint=puremetics",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/thick-lush-green-forest.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "f6237b5b-29aa-4bad-a28d-eb3dda9a9496",
+        "166014884175862897-0",
+        "166014884175862897-1",
+        "00a2b036-2450-4b12-a89f-ac530d604794",
+        "422f0a21-f07a-465e-84d7-a23996e8ebb6"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true
+      }
+    },
+    "1660150076c51b3d99": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Erfahre mehr über unser Vorhaben",
+        "video_url": "https:\/\/youtu.be\/iokIbngwiHU",
+        "divider": false
+      }
+    },
+    "16601494499490e357": {
+      "type": "faq",
+      "blocks": {
+        "16601494496177f825-0": {
+          "type": "question",
+          "settings": {
+            "title": "Investmentplattform",
+            "text": "<p><a href=\"https:\/\/www.econeers.de\/investmentchancen\/puremetics?entryPoint=puremetics\" target=\"_blank\" title=\"https:\/\/www.econeers.de\/investmentchancen\/puremetics?entryPoint=puremetics\">Econeers<\/a><\/p>"
+          }
+        },
+        "16601494496177f825-1": {
+          "type": "question",
+          "settings": {
+            "title": "Unternehmen",
+            "text": "<p>puremetics GmbH<\/p>"
+          }
+        },
+        "7262f4a1-bbff-40f9-9267-235912911d75": {
+          "type": "question",
+          "settings": {
+            "title": "Investment pro Person",
+            "text": "<p>Darlehen in Höhe von 250 bis maximal 25.000 Euro pro Person<\/p>"
+          }
+        },
+        "53a2d125-e180-4caf-a3b4-dbb4ce818997": {
+          "type": "question",
+          "settings": {
+            "title": "Verzinsung",
+            "text": "<p>Bis 30.08.2022 7 % p. a. in der Early-Bird-Phase, für Investments danach 6 % p. a.<\/p>"
+          }
+        },
+        "0334e0af-f9ed-486b-9645-b2afa6010352": {
+          "type": "question",
+          "settings": {
+            "title": "Investment-Laufzeit",
+            "text": "<p>31.12.2027<\/p>"
+          }
+        },
+        "45db150f-193f-4fbe-aa08-e6de5b1ad296": {
+          "type": "question",
+          "settings": {
+            "title": "Fundingziel",
+            "text": "<p>400.00 Euro<\/p>"
+          }
+        },
+        "e811c61a-32d7-4147-abbe-fc5dd2f64fe8": {
+          "type": "question",
+          "settings": {
+            "title": "Fragen und Antworten zu Econeers",
+            "text": "<p><a href=\"https:\/\/www.econeers.de\/faq\" target=\"_blank\" title=\"https:\/\/www.econeers.de\/faq\">www.econeers.de\/faq<\/a><\/p>"
+          }
+        },
+        "16f03f0b-5a16-41b0-9353-1513120f9600": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Warnhinweis: <\/strong>Der Erwerb dieser Vermögensanlage ist mit erheblichen Risiken verbunden und kann zum vollständigen Verlust des eingesetzten Vermögens führen. Der in Aussicht gestellte Ertrag ist nicht gewährleistet und kann auch niedriger ausfallen.<\/p>",
+            "align_text": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16601494496177f825-0",
+        "16601494496177f825-1",
+        "7262f4a1-bbff-40f9-9267-235912911d75",
+        "53a2d125-e180-4caf-a3b4-dbb4ce818997",
+        "0334e0af-f9ed-486b-9645-b2afa6010352",
+        "45db150f-193f-4fbe-aa08-e6de5b1ad296",
+        "e811c61a-32d7-4147-abbe-fc5dd2f64fe8",
+        "16f03f0b-5a16-41b0-9353-1513120f9600"
+      ],
+      "settings": {
+        "title": "Das Wichtigste In Kürze"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166014851557e8582d",
+    "1660148725b6c9f4ad",
+    "16601488415dc21dc0",
+    "1660150076c51b3d99",
+    "16601494499490e357"
+  ]
+}

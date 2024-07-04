@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "16606523838ffb1412": {
+      "type": "promo-grid",
+      "blocks": {
+        "ed66c740-7fd6-48ac-ad08-b7b44e51f623": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "das hat geklappt",
+            "heading": "Deine Registrierung war erfolgreich",
+            "textarea": "Du erhältst am Sonntag um 9:00 Uhr eine Benachrichtigung per E-Mail, sobald der Vorverkauf beginnt!",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Countdown_Bilder_3in1_Dusch-Fluff_Limitierte_Valentinstags-Editionen.png",
+            "video_url": "",
+            "width": "100",
+            "height": 600,
+            "text_size": 175,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "ed66c740-7fd6-48ac-ad08-b7b44e51f623"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "16606523838ffb1412"
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "disabled": true,
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich hatte euren Kalender schon letztes Jahr und bin absolut begeistert gewesen! Dieses Jahr also auf jeden Fall nochmal! ❤️\" - Alice via Instagram"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "60faa416-9140-4572-af2a-1336e12b9304": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "4c418923-dc70-44e6-bc48-32ce8bf38368": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100 % plastikfrei und vegan"
+          }
+        },
+        "dcc6385a-dc61-43ab-ba57-145851cc4df0": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Spart ca. 62 herkömmliche Produkte in und aus Plastik"
+          }
+        },
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "text": "Streng limitiert, schnell sein lohnt sich"
+          }
+        },
+        "a54adf5f-6051-4fe5-85dd-ae6eacc402b4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "In 3-5 Werktagen bei dir!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Deine_Bestellung_Spart_Plastik_1_646a9252-c5e9-49e7-b685-c00677176b14.jpg"
+          }
+        },
+        "803a085e-2580-4e3e-956a-34ad4178efe1": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3d854db6-f5a8-416b-a308-2f56ee700063": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "67f0e65c-2e67-4f0c-80e2-fc834765bea3": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "df328069-cf74-4bb2-bb95-f6b63f2c797d": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "variant_picker",
+        "60faa416-9140-4572-af2a-1336e12b9304",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "4c418923-dc70-44e6-bc48-32ce8bf38368",
+        "dcc6385a-dc61-43ab-ba57-145851cc4df0",
+        "4c0128bc-5aca-4f43-a2cf-911792cd1e16",
+        "a54adf5f-6051-4fe5-85dd-ae6eacc402b4",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "803a085e-2580-4e3e-956a-34ad4178efe1",
+        "3d854db6-f5a8-416b-a308-2f56ee700063",
+        "67f0e65c-2e67-4f0c-80e2-fc834765bea3",
+        "df328069-cf74-4bb2-bb95-f6b63f2c797d"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1663575188b57fa03c": {
+      "type": "rich-text",
+      "blocks": {
+        "16635751885106f212-0": {
+          "type": "heading",
+          "settings": {
+            "title": "24 BEAUTY-HIGHLIGHTS, DIE DIR BIS WEIT ÜBER DIE ADVENTSZEIT FREUDE BEREITEN"
+          }
+        }
+      },
+      "block_order": [
+        "16635751885106f212-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1663575190fff94c11": {
+      "type": "slideshow",
+      "blocks": {
+        "1663575190c6eaf8b3-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Adventskalender_2022_Icons_Rechteck_Nach_Preasale.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Adventskalender_2022_Icons_Quadrat_Nach_Preasale.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1663575190c6eaf8b3-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "16635753601ce7dcd9": {
+      "type": "rich-text",
+      "blocks": {
+        "16635753602757e174-0": {
+          "type": "heading",
+          "settings": {
+            "title": "DER BESTIMMT NACHHALTIGSTE KALENDER DER WELT… 🌱"
+          }
+        }
+      },
+      "block_order": [
+        "16635753602757e174-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2022_Moodbilder_Inlay_1x1_Weiss.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Jedes Produkt in diesem Kalender ist zu <strong>100% plastikfrei <\/strong>und <strong>ersetzt<\/strong> teilweise sogar <strong>mehrere herkömmliche Produkte aus Plastik<\/strong>. So sparst du mehr als 60 Plastikverpackungen und sorgst dafür, dass dieser Berg aus Plastik gar nicht erst entsteht.<br\/><br\/>Aber es wird noch besser, denn auch der Kalender selbst ist nachhaltig und plastikfrei. Die Innenfächer bestehen aus einem <strong>heimkompostierbaren Zellulose-Material<\/strong>. Sie müssen nicht weggeschmissen werden, sondern können im Frühling als <strong>Anzuchttöpfchen für deine Pflanzen<\/strong> genutzt werden. Nachhaltiger geht´s doch wirklich nicht oder?<\/p><p>Pssst… ganz vielleicht haben wir passende Samen auch bereits beigelegt? ;)<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16635755957ab04144": {
+      "type": "rich-text",
+      "blocks": {
+        "1663575595b5f0ca0a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "EINE HERZENS-ANGELEGENHEIT ❤️"
+          }
+        }
+      },
+      "block_order": [
+        "1663575595b5f0ca0a-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1633431362df92adae": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2022_Foto_Chris-und-Chido.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Wir schenken dir 60 €, du sparst also ganze 30 % auf deinen Kalender. <\/strong><br\/><br\/>Das ist trotz Inflation und steigender Rohstoffpreise der gleiche Preis wie im letzten Jahr und unsere Art, uns bei dir von ganzem Herzen für deine Treue und Support in diesem Jahr zu bedanken und dir eine ganz besondere Freude zur Adventszeit zu bereiten.<\/p><p>Die letzten Monate waren für uns alle verrückt und belastend. Daher liegt es uns am Herzen, dir mit diesem großen Rabatt einen Dezember voller Wunder, Freude und Zeit für dich und deine Liebsten zu bereiten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1663575620f247694c": {
+      "type": "rich-text",
+      "blocks": {
+        "166357562024f8ea5e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "SPIEGLEIN, SPIEGLEIN AN DER WAND... 🪞"
+          }
+        }
+      },
+      "block_order": [
+        "166357562024f8ea5e-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "163343333665cabde2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender2022_Moodbild_Detail_Geschichte.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>... wer schreibt das nachhaltigste <strong>Weihnachtsmärchen <\/strong>im ganzen Land? Na, wir natürlich!<br\/>Unsere liebe Lena hat während ihres Praktikums die wohl süßeste und nachhaltigste Weihnachtsgeschichte geschrieben, die wir je gelesen haben. Daran angelehnt hat Hanna, unser Design-Genie, aus unserem Kalender dein liebstes Märchenbuch gezaubert und Lenas Geschichte liebevoll illustriert.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1633431800d646df46": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2022_Weihnachts-Teamfoto.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Mit viel Liebe zum Detail haben wir tatsächlich das ganze Jahr lang an diesem Schmuckstück gearbeitet und daher ist es uns eine <strong>Herzensangelegenheit<\/strong>, dass du<br\/>ihn ebenso lieben wirst wie wir.<\/p><p>Das gesamte puremetics Team wünscht dir viel Freude mit deinem Kalender und eine schöne Adventszeit. ✨<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1663575737c1afaab8": {
+      "type": "testimonials",
+      "blocks": {
+        "16635757379fc57604-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich liebe eure Fluffs, am Kalender hat mich jedoch besonders die Vielfalt der verschiedenen Produkte begeistert. Und die speziellen Düfte.<\/p>",
+            "author": "Cosima",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Mir hat einfach alles am Kalender gefallen! Ich habe mich jeden Tag total aufs Aufmachen gefreut! (Obwohl ich vorher schon gespoilert hatte was drin ist :-))<\/p>",
+            "author": "Anja",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Die vielen verschiedenen hochwertigen Produkte waren den Preis des Kalenders wirklich wert. Man hat gemerkt, dass viel Herzblut reingesteckt wurde in die Entwicklung und das Design des Kalenders und ich habe die Zero Waste Option für nach der Weihnachtszeit sehr geliebt.<\/p>",
+            "author": "Josephine",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p> Ich finde es super, dass die Nachhaltigkeit im Fokus stand. Das dezente Design sorgt dafür, dass er sich auch als Geschenk für Mann und Frau mit verschiedensten Geschmäckern eignet.<\/p>",
+            "author": "Petra",
+            "author_info": ""
+          }
+        },
+        "16635757379fc57604-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ihr habt es geschafft meine Vorfreude wieder herauszuholen. Ich fühlte mich jeden Morgen wieder wie ein kleines Kind, das es kaum erwarten konnte das nächste Türchen zu öffnen. <\/p>",
+            "author": "Kerstin",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "16635757379fc57604-0",
+        "16635757379fc57604-1",
+        "16635757379fc57604-2",
+        "16635757379fc57604-3",
+        "16635757379fc57604-4"
+      ],
+      "settings": {
+        "title": "SO SCHÖN WARS IM LETZTEN JAHR 🌟",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#b35268",
+        "color_text": "#ffffff"
+      }
+    },
+    "1663575910085669c1": {
+      "type": "rich-text",
+      "blocks": {
+        "1663575910d917bbb9-0": {
+          "type": "heading",
+          "settings": {
+            "title": "SPOILER ALARM! 🚨"
+          }
+        },
+        "1663575910d917bbb9-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Ab jetzt nur weiterlesen, wenn du wissen möchtest, welche<br\/>Produkte im Kalender enthalten sind.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1663575910d917bbb9-0",
+        "1663575910d917bbb9-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16334319871db119f1": {
+      "type": "faq",
+      "blocks": {
+        "16334319871db119f1-0": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Produkte sind im Kalender enthalten?",
+            "text": "<p><\/p><p><strong>Türchen 1:<\/strong> Duschgel-Pulver 'Safran Sandelholz'<\/p><p> <\/p><p><strong>Türchen 2:<\/strong> SOS-Balm<\/p><p> <\/p><p><strong>Türchen 3:<\/strong> Peel-Off Maske 'Spirulina'<\/p><p> <\/p><p><strong>Türchen 4:<\/strong> Handseife 'Tannenwald'<\/p><p> <\/p><p><strong>Türchen 5:<\/strong> 3x Scentmelts 'Glühwein'<\/p><p> <\/p><p><strong>Türchen 6:<\/strong> Dusch-Fluff 'Winteredition'<\/p><p> <\/p><p><strong>Türchen 7:<\/strong> Lipbalm 'Vanillekipferl'<\/p><p> <\/p><p><strong>Türchen 8:<\/strong> Shampoo-Pulver 'Winterbeeren'<\/p><p> <\/p><p><strong>Türchen 9:<\/strong> Fußbad 'Basen-Blüten'<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 10:<\/strong> Kosmetikpads 10er Pack (+ Wäschesäckchen GRATIS)<\/p><p> <\/p><p><strong>Türchen 11:<\/strong> Trockenshampoo Streuer + Geschenkkarte für Nachfüller<\/p><p> <\/p><p><strong>Türchen 12:<\/strong> Duschseife 'Orange'<\/p><p> <\/p><p><strong>Türchen 13:<\/strong> Seifensäckchen 'Jute'<\/p><p> <\/p><p><strong>Türchen 14:<\/strong> Gesichtsseife 'Hanf'<\/p><p> <\/p><p><strong>Türchen 15:<\/strong> Badebombe 'Zitrone-Vanille'<\/p><p> <\/p><p><strong>Türchen 16:<\/strong> Festes Protein-Shampoo 'Mandelmilch'<\/p><p> <\/p><p><strong>Türchen 17:<\/strong> Ghassoulpulver 'Mini' 100 g<\/p><p> <\/p><p><strong>Türchen 18:<\/strong> Dusch-Fluff 'Apfelblüte'<\/p><p> <\/p><p><strong>Türchen 19:<\/strong> Salbeiseife<\/p><p> <\/p><p><strong>Türchen 20:<\/strong> Seifenstein<\/p><p> <\/p><p><strong>Türchen 21:<\/strong> Gesichtspackung 'Mineralton'<\/p><p> <\/p><p><strong>Türchen 22:<\/strong> Statement Jutebeutel 'NEU'<\/p><p> <\/p><p><strong>Türchen 23:<\/strong> Bienenwiese<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 24:<\/strong> Gesichts-Toner 'Aloe Vera Pfirsich'<\/p>"
+          }
+        },
+        "e3478544-ded1-4a09-882a-cb6931d124c5": {
+          "type": "question",
+          "settings": {
+            "title": "Liste mit allen Inhaltsstoffen",
+            "text": "<p><\/p><p><strong>Türchen 01: Duschgel-Pulver 'Safran Sandelholz'<\/strong><\/p><p>ZEA MAYS STARCH, SODIUM COCOYL ISETHIONATE, COCOS NUCIFERA OIL, AQUA, BUTYROSPERMUM PARKII BUTTER, PRUNUS AMYGDALUS DULCIS OIL, GLYCERIN, PARFUM, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE, BENZYL SALICYLATE, LINALOOL<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 02: SOS Balm<\/strong><\/p><p>PRUNUS AMYGDALUS DULCIS OIL,  OLEA EUROPAEA FRUIT OIL, BUTYROSPERMUM PARKII BUTTER, COPERINICA CERIFERA CERA, MELALEUCA ALTERNIFOLIA LEAF OIL, TOCOPHEROL.<\/p><p> <\/p><p><strong>Türchen 03: Peel-Off Maske 'Spirulina'<\/strong><\/p><p>DIATOMACEOUS EARTH, CALCIUM SULFATE HYDRATE, ALGIN, TETRASODIUM PYROPHOSPHATE, ARGILLA, SPIRULINA MAXIMA EXTRACT, SODIUM CHLORIDE, XANTHAN GUM, MAGNESIUM OXIDE.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 04: Handseife 'Tannenwald'<\/strong><\/p><p>OLEA EUROPAEA FRUIT OIL, AQUA, SODIUM HYDROXIDE, COCOS NUCIFERA OIL, BRASSICA CAMPESTRIS SEED OIL, BUTYROSPERMUM PARKII BUTTER, SPINACIA OLERACEA LEAF POWDER, LIMONENE, LINALOL.<\/p><p> <\/p><p><strong>Türchen 05: Scentmelts 'Glühwein'<\/strong><\/p><p>Sojwax, Candle Dye Colour, Essential Oils, Aroma, Perfume.<\/p><p> <\/p><p><strong>Türchen 06: Dusch-Fluff 'Winteredition'<\/strong><\/p><p>GLYCERIN, SUCROSE, AQUA, SODIUM LAUROYL ISETHIONATE,<br\/>SORBITOL, DISODIUM LAURYL SULFOSUCCINATE, COCOS NUCIFERA OIL, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, LIMONENE, LINALOOL, CINNAMAL, COUMARIN, CITRAL.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 07: Lipbalm 'Vanillekipferl'<\/strong><\/p><p>BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, COPERNICIA CERIFERA WAX, PRUNUS AMYGDALUS DULCIS OIL, VANILLIN.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 08: Shampoo-Pulver 'Winterbeeren'<\/strong><\/p><p>ZEA MAYS STARCH, SODIUM COCOYL ISETHIONATE, BUTYROSPERMUM PARKII BUTTER, AQUA, PARFUM, COCOS NUCIFERA OIL, CITRIC ACID, AVENA SATIVA KERNEL OIL, SODIUM BENZOATE, POTASSIUM SORBATE, LINALOOL<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 09: Fußbad 'Basen-Mineralien'<\/strong><\/p><p>SODIUM BICARBONATE, KAOLIN, CITRUS AURANTIUM DULCIS PEEL OIL, CALENDULA OFFICINALIS FLOWER.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 10: Kosmetikpads 10er Pack (+ Wäschesäckchen GRATIS)<\/strong><\/p><p>70% HANF, 30% BAUMWOLLE<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 11: Trockenshampoo Streuer + Geschenkkarte für Nachfüller<\/strong><\/p><p>WEISSBLECH<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 12: Duschseife 'Orange'<\/strong><\/p><p>OLEA EUROPAEA FRUIT OIL, AQUA, SODIUM HYDROXIDE, BRASSICA CAMPESTRIS SEED<br\/>OIL, RICINUS COMMUNIS SEED OIL, BUTYROSPERMUM PARKII BUTTER, HELIANTHUS ANNUUS<br\/>SEED OIL, CITRUS AURANTIUM DULCIS OIL,PARFUM, CI77492, CI77491.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 13: Seifensäckchen 'Jute'<\/strong><\/p><p>JUTE MIT HOLZKUGEL<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 14: Gesichtsseife 'Hanf'<\/strong><\/p><p>SODIUM COCOATE, SODIUM OLIVATE, AQUA, SODIUM HEMP SEEDATE, SODIUM AVOCADATE, PARFUM,  CI 77891, GLYCYRRHIZA GLABRA ROOT EXTRACT, OAT KERNEL EXTRACT.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 15: Badebombe 'Zitrone-Vanille'<\/strong><\/p><p>SODIUM BICARBONATE, CITRIC ACID, CITRUS LIMON FRUIT OIL, ZEA MAYS STARCH, LIMONENE, PARFUM, CARTHAMUS TINCTORIUS FLOWER EXTRACT, GLYCINE SOJA OIL, AROMA, AQUA, CITRAL, VANILLIN, PYRUS MALUS FRUIT EXTRACT, BENZYL ALCOHOL, CITRUS LIMON PEEL EXTRACT, TOCOPHEROL.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 16: Festes Protein-Shampoo 'Mandelmilch'<\/strong><\/p><p>SODIUM COCOYL ISETHIONATE, HYDROGENATED VEGETABLE OIL,<br\/>AQUA, POLYGLYCERYL-LAURATE, GLYCERIN, COCOS NUCIFERA OIL, VITIS VINIFERA SEED OIL, PARFUM, ORYZA SATIVA SEED PROTEIN, ARGANIA SPINOSA KERNEL OIL, TETRASODIUM GLUTAMATE DIACETATE, COUMARIN.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 17: Ghassoulpulver 'Mini' 100 g<\/strong><\/p><p>MOROCCAN LAVA CLAY<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 18: Dusch-Fluff 'Apfel'<\/strong><\/p><p>GLYCERIN, SUCROSE, AQUA, SODIUM LAUROYL ISETHIONATE, SORBITOL, DISODIUM LAURYL SULFOSUCCINATE, COCOS NUCIFERA OIL, SODIUM CHLORIDE, PARFUM, LEVULINIC ACID, POTASSIUM SORBATE, COUMARIN.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 19: Salbeiseife<\/strong><\/p><p>OLEA EUROPAEA FRUIT OIL, AQUA, SODIUM HYDROXIDE, BRASSICA CAMPESTRIS SEED OIL, RICINUS COMMUNIS SEED OIL, COCOS NUCIFERA OIL, SALVIA LAVANDULIFOLIA LEAF OIL, SPINACIA OLERACEA LEAF POWDER, SALVIA OFFICINALIS LEAF, LIMONENE, LINALOOL.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 20: Seifenstein<\/strong><\/p><p>TRAVERTINSTEIN, KORK<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 21: Gesichtspackung 'Mineralton'<\/strong><\/p><p>KAOLIN, C.I.77007.<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 22: Statement Jutebeutel 'NEU'<\/strong><\/p><p>BAUMWOLLE<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 23: Bienenwiese<\/strong><\/p><p>Saattüte befüllt mit einer Bienenblumen-Mischung aus fast 30 verschiedenen<br\/>Blumensorten (speziell auf die Nahrungsquellen von Bienen abgestimmt)<\/p><p><strong> <\/strong><\/p><p><strong>Türchen 24: Gesichtstoner Aloe-Vera-Pfirsich<\/strong><\/p><p>AQUA, PENTYLENE GLYCOL, ALOE BARBADENSIS LEAF EXTRACT, LITSEA CUBEBA FRUIT OIL, PARFUM, LIMONENE, LINALOOL, CITRAL, GERANIOL.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16334319871db119f1-0",
+        "e3478544-ded1-4a09-882a-cb6931d124c5"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "166384194442e14cf5": {
+      "type": "rich-text",
+      "blocks": {
+        "16638419449b219b7d-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>*Kostenloser Versand in Deutschland und Österreich <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">(Andere Versandzonen)<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16638419449b219b7d-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1663575188b57fa03c",
+    "1663575190fff94c11",
+    "16635753601ce7dcd9",
+    "text-and-image",
+    "16635755957ab04144",
+    "1633431362df92adae",
+    "1663575620f247694c",
+    "163343333665cabde2",
+    "1633431800d646df46",
+    "1663575737c1afaab8",
+    "1663575910085669c1",
+    "16334319871db119f1",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return",
+    "166384194442e14cf5"
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "sections": {
+    "711d2208-1b37-4798-82b4-66bebbabea37": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17875006849290__711d2208-1b37-4798-82b4-66bebbabea37-168492606197221e50-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "klein aber (h)oho!",
+            "heading": "vielen Dank für deine unterstützung",
+            "textarea": "Hier erfährst du mehr über unsere Inspiration, unsere Mission und erhältst Zugang zur exklusiven Abstimmung",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Adventskalender-2023_Shop-banner_01_4708aff9-b478-4cf9-b50b-d6fc83834095.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-left",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17875006849290__711d2208-1b37-4798-82b4-66bebbabea37-168492606197221e50-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "9a2373b4-a925-474b-bfdf-0a91f0cc88f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_Papacks_M_2023_Hintergrund-Bild-Abstimmung-07.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Exklusiver Zugang",
+        "title": "Deine Stimme zählt!",
+        "text": "<p>Welcher 3in1 Dusch-Fluff soll in unser <strong>Standardsortiment <\/strong>einziehen? Stimme bis einschließlich <strong>15.01.2024 <\/strong>ab!<\/p><p>Du hast unseren limitierten Mini-Dusch-Fluff Kalender erhalten und damit einen exklusiven Zugang zur Abstimmung! Damit kannst du mitentscheiden, welche Sorte es in unser dauerhaftes Sortiment schafft.<\/p><p>🚨 <strong>Spoiler-Alarm! <\/strong>Wenn du dich überraschen lassen möchtest, welche Sorten dich im Adventskalender erwarten, solltest du die Abstimmung erst nach Weihnachten öffnen.<\/p>",
+        "button_label": "Abstimmung jetzt starten",
+        "button_link": "https:\/\/bgu6a3l81sr.typeform.com\/to\/xuQuF94X",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3926b409-98e4-404a-ab48-3d8789e3d3b0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "😍 Du bekommst auch nicht genug von unseren Dusch-Fluffs? 😍",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "6077bc8b-5aad-4cf9-be5d-0839d6a7ef8e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Chris_und_Hanna.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Hanna (Design) und Chris (CEO)",
+        "title": "Das war unsere Inspiration",
+        "text": "<p>Mit diesem Adventskalender wollten wir einen Grundsatzpfeiler unserer Werte vermitteln: <strong>„Klein aber Oho! Gemeinsam können wir Alles erreichen“!<\/strong> Die 3in1 Dusch-Fluff Minis ergeben zusammen einen besonderen Adventskalender und zusammen ergeben wir eine besondere Bewegung, die gemeinsam aktiv für eine bessere Zukunft einsteht. Viele unserer Werte haben wir in kleinen Icons weihnachtlich visualisiert. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c41e93cc-70e9-4dd3-9cc3-916d21b61f6e": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Hochwertige Öle statt Füllstoffe! Unsere Rezepturen sind für eine optimale Pflege ausgelegt und verwöhnen deine Haut.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_65000.png",
+            "author": "WEICHE HAUT",
+            "author_info": "Hochwertige Pflege"
+          }
+        },
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wir sind nicht nur nachhaltig und Umweltfreundlich, sondern verlieren unseren Kernpunkt, die Skincare nicht aus den Augen.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_95000_28e1ceef-e860-43f6-bde7-e2a864645e6f.png",
+            "author": "SKINCARE",
+            "author_info": "Qualitätskosmetik"
+          }
+        },
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Viele Kreationen vereinen der Umwelt zuliebe mehrere Produkte in einem. Der Dusch-Fluff verbindet Reinigung, Peeling und Bodylotion.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_115000.png",
+            "author": "ALL IN ONE",
+            "author_info": "Spart Geld und Müll"
+          }
+        },
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Zeit für dich! Unsere Texturen, Düfte und Designs sollen aus der täglichen Hygiene eine ganz besondere Selbstachtungszeit machen.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_205000.png",
+            "author": "SELFCARE",
+            "author_info": "Zeit für dich"
+          }
+        }
+      },
+      "block_order": [
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-0",
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-1",
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-2",
+        "template--17875006849290__c41e93cc-70e9-4dd3-9cc3-916d21b61f6e-1684926461ec747bc9-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "b59c237b-7a97-445e-b141-e847e346a8e5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Plastikfrei-06.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Produkt und Verpackung",
+        "title": "100% PLASTIKFREI",
+        "text": "<p>Wir haben uns der Entwicklung alternativer Texturen, Verpackungen und Versandmaterialien verschrieben. Du kennst sicherlich das Sprichwort \"Eine gute Seele lebt in einem guten Tempel\"? Dasselbe gilt für unsere Produkte! Unsere hochwertige, umweltfreundliche Kosmetik gehört in Verpackungen mit denselben hohen Ansprüchen an unsere Nachhaltigkeitskriterien.<\/p><p>Daher findest du bei uns zu 100% plastikfreie Produkte, Verpackungen und Versandmaterial. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "22407521-a3f2-464f-b68b-3dbeb9be370f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_Papacks_M_2023_Layout07-06.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "0% tierische Inhaltsstoffe",
+        "title": "100% VEGAN",
+        "text": "<p>Kein Tier sollte jemals für unsere Schönheit leiden müssen! Daher versichern wir dir, dass du bei uns ausschließlich 100% vegane Produkte findest wirst. Einen Anspruch, der auch für die Zukunft fest in unseren Werten verankert ist.<\/p><p>Du kannst also getrost in unserem gesamten Sortiment stöbern und wirst niemals tierische Inhaltsstoffe finden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4f74b053-0da0-4515-a5c9-a76c17637600": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Icons-09.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Ohne Tierleid",
+        "title": "PETA APPROVED",
+        "text": "<p>puremetics ist auf PETAS offizielle Liste, tierversuchsfreier Kosmetik, Pflegeprodukte, Haushaltsmittel und mehr.<\/p><p>„PETA Approved“ ist das deutsche Äquivalent zum Programm „Beauty without Bunnies“ von PETA USA. Wir sammeln und teilen Informationen über tierversuchsfreie Unternehmen, Marken und Produkte, um Konsument:innen beim tierfreundlichen Einkauf zu unterstützen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9e3fb5c5-1538-4dc7-b645-84267a4718f0": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Unsere Soli-Seife ist gut für deine Haut und deine Mitmenschen. Gemeinsam unterstützen wir deine Herzensprojekte. <\/p>",
+            "image": "shopify:\/\/shop_images\/Element_45000.png",
+            "author": "SOLI-SEIFEN",
+            "author_info": "Projekte unterstützen"
+          }
+        },
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Nur zusammen sind wir stark! Daher verstehen wir uns nicht als Unternehmen und euch als Kund:innen, sondern als Community.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_145000.png",
+            "author": "GEMEINSCHAFT",
+            "author_info": "Zusammen sind wir stark"
+          }
+        },
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wir konnten mit der AGA Artenschutz unter anderem über 5.000 Schildkrötenbabys retten oder verschiedene Tierheime und Gnadenhöfe mit unserer Soli-Seife unterstützen.<\/p><p><\/p>",
+            "image": "shopify:\/\/shop_images\/puremetics_Icons-13.png",
+            "author": "LEBENSRAUM",
+            "author_info": "Projekte unterstützen"
+          }
+        },
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Alle unsere Verpackungen sind recyclebar und auch hinter den Kulissen recyclen wir z.B. alte Kartons zu Füllmaterial.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_195000.png",
+            "author": "RECYCLEBAR",
+            "author_info": "Wertstoffkette nutzen"
+          }
+        }
+      },
+      "block_order": [
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-1",
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-2",
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-3",
+        "template--17875006849290__9e3fb5c5-1538-4dc7-b645-84267a4718f0-1684926461ec747bc9-4"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "9382fcf9-a2a8-49ec-a2cd-ab37da19841f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_Papacks_M_2023_Layout07-07.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Bepflanzbares Inlay",
+        "title": "UPCYCLING",
+        "text": "<p>Wir sind immer auf der Suche nach cleveren Kombi-Lösungen, um so wenig Müll wie nötig anfallen zu lassen. Daher kannst du viele unserer Verpackungen upcyclen. Das Inlay unseres Adventskalenders kannst du zum Beispiel im Frühjahr als Anzuchttöpfchen verwenden und später einpflanzen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "53d7c706-c5f3-4047-ba0a-307ca8232498": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Icons-11.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Projekte unterstützen",
+        "title": "UMWELT",
+        "text": "<p>Wir unterstützen mit jeder Bestellung den Schutz der Meere! Ganz egal welcher Warenwert: Für jede Bestellung bergen wir ein ganzes Kilo Plastikmüll aus Küstenregionen und konnten die Meere bereits vor über 50 Tonnen Müll beschützen!<\/p><p>Wir gehen aber auch regelmäßig gemeinsam \"aufräumen\" und kooperieren mit verschiedenen Veranstaltern, um die Umwelt aktiv von Altlasten zu befreien.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "831609e2-3c54-466d-94ec-36702aeeb13d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Icons-Hand-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Mit Liebe gemacht",
+        "title": "HANDARBEIT",
+        "text": "<p>In unserer Manufaktur in Isernhagen bei Hannover produzieren wir mit viel Liebe wundervolle Kosmetik für dich und die Umwelt. Von der Produktion bis hin zur Konfektionierung wird alles mit Liebe bei puremetics gemacht.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f93fb575-99f4-441d-84a9-cec04d6fafec": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Icons-12.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Schildkrötenbabys retten",
+        "title": "Artenschutz",
+        "text": "<p><strong>Birgit von der AGA erzählt: <\/strong>„Seit mehr als 200 Millionen Jahren durchqueren Meeresschildkröten die Weltmeere, doch heute sind alle sieben Meeresschildkrötenarten akut vom Aussterben bedroht. Der Schutz der Meeresschildkröten beginnt schon direkt am Niststrand, denn bereits die Kinderstuben dieser faszinierenden Meeresreptilien sind gefährdet. Dank der Unterstützung von puremetics konnten wir bereits mehr als 1.500 Schildkrötenbabys schützen, so dass sie nach dem Schlupf sicher das Meer erreicht haben. Ein sehr hoffnungsvoller Beitrag und wir freuen uns, dass puremetics diese wichtige Arbeit zum Schutz der Meeresschildkröten weiter unterstützt.“<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e5f26558-b729-4bb7-b4c3-15ff6d28e2ce": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Viele Geschenke bestehen aus haufenweise Müll, um aus wenig Inhalt mit Folie und Co viel herzumachen. Mit puremetics schenkst du sinnvoll und nachhaltig, spannende und umweltfreundliche Produkte mit Spaßfaktor.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_55000.png",
+            "author": "SCHENKEN",
+            "author_info": "Nachhaltig und sinnvoll"
+          }
+        },
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wenn es doch nur diese eine Lösung für das Klimaproblem gäbe... Wir sind uns bewusst, dass wir unser Verhalten in vielen verschiedenen Bereich anpassen müssen und setzen bei puremetics genau dort an.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_125000.png",
+            "author": "KLIMA",
+            "author_info": "Aktiv gegen den Wandel"
+          }
+        },
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Neben unserer Mission sehen wir uns aber auch in der Pflicht, den Schaden rücksichtsloser Menschen zu begrenzen. Wir unterstützen mit Tatkraft, Reichweite und Goodies Umweltprojekte und gehen aktiv für eine bessere Welt auf die Straße.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_105000.png",
+            "author": "CLEAN UP",
+            "author_info": "Wir räumen auf"
+          }
+        },
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Wir haben bisher 16,06 Tonnen CO2<br\/>mit GoGreen Produkte und Services durch weltweite, registrierte Klimaschutzprojekte aus. ausgeglichen. Ein Wert, mit dem mehr mehr als einmal mit einem Benziner um die Welt fahren könnte.<\/p>",
+            "image": "shopify:\/\/shop_images\/Element_155000.png",
+            "author": "GOGREEN",
+            "author_info": "Klimaneutraler Versand"
+          }
+        }
+      },
+      "block_order": [
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-0",
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-1",
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-2",
+        "template--17875006849290__e5f26558-b729-4bb7-b4c3-15ff6d28e2ce-1684926461ec747bc9-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f1f8fa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "9d34d7be-5df3-4d85-9fd3-2934ac068e22": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "alle-artikel",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "haarpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "gesichtspflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "koerperpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-0",
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-1",
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-2",
+        "template--17875006849290__9d34d7be-5df3-4d85-9fd3-2934ac068e22-16849277182baf7a31-3"
+      ],
+      "settings": {
+        "title": "💙 Wir können nicht nur richtig gute Dusch-Fluffs 💙",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17875006849290__9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6-16849276071673d0c4-0": {
+          "type": "title",
+          "settings": {
+            "title": "😊 Bleibe mit uns verbunden 😊",
+            "heading_size": "h2"
+          }
+        },
+        "template--17875006849290__9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6-16849276071673d0c4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Erhalte spannende Neuigkeiten rund um das Thema Nachhaltigkeit und exklusive Angebote von uns mit unserem Newsletter.<\/p>"
+          }
+        },
+        "template--17875006849290__9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6-16849276071673d0c4-2": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17875006849290__9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6-16849276071673d0c4-0",
+        "template--17875006849290__9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6-16849276071673d0c4-1",
+        "template--17875006849290__9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6-16849276071673d0c4-2"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f1f4fa",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "711d2208-1b37-4798-82b4-66bebbabea37",
+    "9a2373b4-a925-474b-bfdf-0a91f0cc88f1",
+    "3926b409-98e4-404a-ab48-3d8789e3d3b0",
+    "6077bc8b-5aad-4cf9-be5d-0839d6a7ef8e",
+    "c41e93cc-70e9-4dd3-9cc3-916d21b61f6e",
+    "b59c237b-7a97-445e-b141-e847e346a8e5",
+    "22407521-a3f2-464f-b68b-3dbeb9be370f",
+    "4f74b053-0da0-4515-a5c9-a76c17637600",
+    "9e3fb5c5-1538-4dc7-b645-84267a4718f0",
+    "9382fcf9-a2a8-49ec-a2cd-ab37da19841f",
+    "53d7c706-c5f3-4047-ba0a-307ca8232498",
+    "831609e2-3c54-466d-94ec-36702aeeb13d",
+    "f93fb575-99f4-441d-84a9-cec04d6fafec",
+    "e5f26558-b729-4bb7-b4c3-15ff6d28e2ce",
+    "9d34d7be-5df3-4d85-9fd3-2934ac068e22",
+    "9fd455d2-37b8-40ae-ba0e-c6c6dc8c96d6"
+  ]
+}

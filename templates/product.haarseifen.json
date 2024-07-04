@@ -1,0 +1,689 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9a6edb7c-5056-47ff-af07-af19887a2815": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich habe seit dem Absetzen der Pille vor 7 Jahren mit Haarausfall zu kämpfen. Nachdem ich das wunderbar duftende Etwas ausprobiert habe, muss ich sagen: ich liebe die Seife! Meine Haare wirken definitiv NICHT fettig, sondern genährt und sauber. Es stehen keine elektrischen Härchen ab, was bei mir sonst oft der Fall ist. Insgesamt scheint das Haar schwerer und am Ansatz deutlich kräftiger. Ich bin begeistert und bleibe dran. Nur Mut, die Seife kann was\" - Linda via Amazon"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "af11656a-5bba-4794-9f06-16522ca199cf": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9a6edb7c-5056-47ff-af07-af19887a2815",
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213",
+        "variant_picker",
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4",
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "af11656a-5bba-4794-9f06-16522ca199cf"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_7Egrpb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_X3jPWQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Darum lohnt sich der umstieg auf natürliche haarseife"
+          }
+        },
+        "text_JAeWmB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Die Vorteile der Reinigung mit natürlicher Haarseife sind vielfältig. Viele Menschen berichten von einer <strong>deutlichen Verbesserung der Haarstruktur und Kopfhaut<\/strong>. Auch Schuppen, trockene und juckende Haut sowie brüchiges Haar können durch die Umstellung auf das sanfte Naturprodukt gelindert werden. Im Vergleich zu vielen konventionelle Produkten ist natürliche Seife <strong>frei von aggressiven Tensiden, Silikonen, Wachse<\/strong> und weitere bedenkliche Inhaltsstoffe. <\/p><p>Die<strong> Gesundheit der Kopfhaut<\/strong> kann verbessert und die <strong>natürliche Haarstruktur <\/strong>wiederhergestellt werden. <\/p><p>Neben optischen-, fühlbaren- und nachhaltigen- Vorteilen ist die Haarseife auch <strong>einfach, praktisch und günstig<\/strong>. Denn für deine Haarpflege benötigst du lediglich deine Haarseife und ggf. eine saure Rinse, die du mit Wasser und Essig spielendleicht selbst herstellen kannst. Mehr dazu im Reiter \"Anwendung\".<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_X3jPWQ",
+        "text_JAeWmB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Haarewaschen.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "WIR ERKLÄREN DIR DEN",
+        "title": "UNTERSCHIED zwischen HAARSEIFE und FESTEm SHAMPOO",
+        "text": "<p>Beide Produkte sind feste Waschstücke, die schäumen und mit denen man Haare und Kopfhaut reinigen kann. Dennoch handelt es sich im Wesen um zwei grundverschiedene Produkte.<\/p><p><strong>Haarseife <\/strong>ist eine gesiedete Seife bestehend aus den Grundzutaten Fett und Lauge. Verschiedene Kombinationen von Ölen bestimmen den Pflegegrad der Haarseife. Beim Ausreifen der Seife entstehen waschaktive Substanzen, welche für die Reinigung sorgen. Unsere Haarseife besteht aus natürlichen Grundstoffen.<\/p><p><strong>Festes Shampoo <\/strong>hingegen wird nicht verseift oder gesiedet. Es besteht aus verschiedenen Zutaten, meist Tensiden, Wasser, Öle und ggf. Wirkstoffe, die miteinander vermischt und gepresst werden. Seltener können feste Shampoos auch geschmolzen und gegossen werden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Welches Produkt ist das richtige für meine Bedürfnisse?"
+          }
+        },
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Das kommt ganz auf deine Bedürfnisse und Haarsituation an. Generell empfehlen wir Haarseife nur bei chemisch unbehandeltem, unbeschädigtem Haar. Nach einer Blondierung beispielsweise wäre ein spezielles Shampoo sinnvoller, dass auf die speziellen Bedürfnisse eingeht. Hier nennen wir dir einige Fakten beider Varianten. Findest du dich wieder?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1",
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "29c8f23d-a5ac-49fd-8976-d6ddac1bdad4": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürlich, mild, hangesiedet",
+        "title": "Haarseife",
+        "text": "<p>Bei puremetics ein rein natürliches Produkt, dass Haare und Kopfhaut mild, aber effektiv reinigt. Sie enthält keine synthetischen Tenside und stellt damit die sanfteste Form der Reinigung dar.<\/p><p>Wer sonst immer konventionelle Shampoos genutzt hat, sollte wissen, dass eine kurze Umstellungsphase von ca. 3 Wochen eingeplant werden sollte. Haare und Kopfhaut müssen sich erst an die mildere Form der Reinigung gewöhnen. In dieser Zeit lösen sich auch ggf. eingelagerte Silikone etc. von der Kopfhaut und den Haaren. Dafür darfst du dich am Ende über kräftigere, gesündere Haare und Kopfhaut freuen.<\/p>",
+        "button_label": "Haarseifen Entdecken",
+        "button_link": "shopify:\/\/collections\/haarseifen",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c4065f2f446e4bffaa430e0804fcb931.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Gut zu wissen: Die Wasserhärte ist entscheidend"
+          }
+        },
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Generell ist weiches Wasser besser geeignet, um sich mit Seife die Haare zu waschen. Wie hart dein Wasser ist, kannst du speziell für deine Region bei den Stadtwerken erfragen. Ab 14 Grad spricht man von hartem Wasser und ab 8 Grad von weichem Wasser. Unseren Haarseifen haben wir eine Art \"Entkalker\" beigefügt. Das klingt erstmal lustig, ist aber für die Anwendung bei hartem Wasser ein echter Gamechanger!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1",
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "7f5fde89-906e-4f8b-a64c-b576451318b0": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Hybrid, Allrounder, Mild",
+        "title": "Feste Shampoos",
+        "text": "<p>Bei puremetics ein Hybrid-Produkt aus synthetischen und natürlichen Grundstoffen. Auch wenn wir ein mildes Tensid nutzen, entfettet es die Kopfhaut doch mehr als eine Seife. Dafür geben wir mehr pflegende Öle dazu. Die Wasserhärte spielt hier weniger eine Rolle.<\/p><p>Hierbei ist keine Umstellung notwendig, da es wirkt, wie ein konventionelles Shampoo auch. Zudem eignen sich feste Shampoos auch gut bei chemisch behandeltem Haar, da hier spezielle Wirkstoffe beigefügt werden können.<\/p>",
+        "button_label": "Feste Shampoos Entdecken",
+        "button_link": "shopify:\/\/collections\/feste-shampoos",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d98d885b5e81429ab0d56e20d9e5d153.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "8f0f653c-f645-41ba-a5dc-e72ca3b3f97f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__8f0f653c-f645-41ba-a5dc-e72ca3b3f97f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir haben übrigens noch eine weitere Option: Unser Shampoo-Pulver"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__8f0f653c-f645-41ba-a5dc-e72ca3b3f97f-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "f9bbbc48-5a1e-4844-ac74-9ff05b8f8661": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Ganz Ohne Umgewöhung",
+        "title": "Zum Selbst anrühren",
+        "text": "<p>Unsere Shampoo Pulver verwandelst du Zuhause mit etwas Wasser wie durch Zauberei zu einem Flüssigshampoo. Diese Option ist für alle sinnvoll, die mit einem flüssigen Shampoo einfach besser umgehen können. <\/p><p>Sie sind speziell für verschiedene Haar- und Kopfhauttypen ausgerichtet und du kannst direkt ohne Umgewöhnungsphase durchstarten.<\/p>",
+        "button_label": "Shampoo Pulver entdecken",
+        "button_link": "shopify:\/\/collections\/shampoo-pulver",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/988c3387c41341db820841a1ab310855.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "text_with_icons_Mx8t7W": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_CgqFik": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_Lyxm7J": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.v<\/p>"
+          }
+        },
+        "text_block_8TgMzM": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_XTmL3D": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_CgqFik",
+        "text_block_Lyxm7J",
+        "text_block_8TgMzM",
+        "text_block_XTmL3D"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO und CO-Founder)",
+        "title": "Alle drei Varianten sind nachhaltiger als flüssiges shampoo in Plastikflaschen",
+        "text": "<p>Eine Person verbraucht im Jahr durchschnittlich zehn Flaschen Shampoo. Das sind durchschnittlich 806 Flaschen Shampoo für jeden Deutschen im ganzen Leben – etwa 25kg Plastik, welches allein durch Shampooflaschen pro Person anfällt.<\/p><p><strong>Deine Entscheidung zu einer festen Alternative ist also vollkommen richtig und wichtig. Danke <\/strong>💚<\/p><p>Denn ob Haarseife, festes Shampoo oder Shampoo-Pulver, du wirst sehen wie toll diese nachhaltigen Alternativen funktionieren und, dass du kein fertigen flüssigen Shampoos in Plastikflaschen mehr brauchen wirst. Bitte zögere nicht uns zu kontaktieren, wenn wir dich in diesem Thema unterstützen können. Wir helfen gerne weiter.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Perfekte ergänzungen zu unseren naturseifen",
+        "home_featured_products": "seifenaccessoires",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Jede Seife ist",
+        "title": "Mit Liebe von Hand gemacht",
+        "text": "<p>Jede Seife wird von sorgfältigen Händen und aufmerksamen Augen mit Liebe hergestellt. Unsere Naturseifen unterscheiden sich von der Massenproduktion der Großkonzerne in ihren hochwertigen Rohstoffen und den ausgiebigen Reifezeiten.<\/p><p><strong>Das Beste für dich und unsere Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a55c6dfe7edb4240b6151278cfd5bb55.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "c67229b4-d31e-41fc-886a-e06785c48e99": {
+      "type": "faq",
+      "blocks": {
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist natürliche Haarseife?",
+            "text": "<p>Natürliche Haarseife ist eine Art von Shampoo, das aus rein natürlichen Zutaten hergestellt wird. Sie enthält keine synthetischen Chemikalien oder künstlichen Zusatzstoffe.<\/p>"
+          }
+        },
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Vorteile hat die Verwendung von natürlicher Haarseife?",
+            "text": "<p>Natürliche Haarseife kann helfen, das Haar sanft zu reinigen, ohne die natürlichen Öle zu stark zu entziehen. Sie ist umweltfreundlich, frei von schädlichen Chemikalien und kann bei empfindlicher Haut oder Allergien eine gute Alternative sein.<\/p>"
+          }
+        },
+        "967af684-ba7f-49b7-a53c-54736e20bc98": {
+          "type": "question",
+          "settings": {
+            "title": "Wie unterscheidet sich natürliche Haarseife von herkömmlichem Shampoo?",
+            "text": "<p>Herkömmliches Shampoo enthält oft synthetische Tenside, Konservierungsmittel und künstliche Duftstoffe, während natürliche Haarseife nur natürliche Inhaltsstoffe wie Pflanzenöle, ätherische Öle und Kräuter enthält.<\/p>"
+          }
+        },
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8": {
+          "type": "question",
+          "settings": {
+            "title": "Für welche Haartypen ist natürliche Haarseife geeignet?",
+            "text": "<p>Natürliche Haarseife ist in der Regel für viele Haartypen geeignet, kann aber je nach Rezeptur unterschiedlich wirksam sein. Am besten nur bei chemisch unbehandeltem Haar und weicher Wasserqualität anwenden. Es gibt spezielle Seifen für trockenes, fettiges, lockiges oder coloriertes Haar.<\/p>"
+          }
+        },
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird natürliche Haarseife angewendet?",
+            "text": "<p>Die Anwendung von natürlicher Haarseife ähnelt der von herkömmlichem Shampoo. Man benetzt das Haar, reibt die Seife zwischen den Händen oder direkt über das Haar, massiert die Kopfhaut und spült gründlich aus.<\/p>"
+          }
+        },
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3": {
+          "type": "question",
+          "settings": {
+            "title": "Kann man mit natürlicher Haarseife Haarprobleme wie Schuppen oder Juckreiz behandeln?",
+            "text": "<p>Ja, bestimmte natürliche Haarseifen enthalten Inhaltsstoffe, die bei der Behandlung von Schuppen oder irritierter Kopfhaut helfen können.<\/p>"
+          }
+        },
+        "b90a661c-25c8-4306-adb6-3a6980405709": {
+          "type": "question",
+          "settings": {
+            "title": "Kann man natürliche Haarseife für die Körperpflege verwenden?",
+            "text": "<p>Ja, viele natürliche Haarseifen können auch für die Körperpflege verwendet werden. Sie enthalten oft milde Inhaltsstoffe, die für die Haut schonend sind. Sie kann aber etwas zu trocken für deine Körperhaut sein. Besser ist also eine spezielle Körperseife, da diese etwas mehr Fette enthält.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1",
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2",
+        "967af684-ba7f-49b7-a53c-54736e20bc98",
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8",
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb",
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3",
+        "b90a661c-25c8-4306-adb6-3a6980405709"
+      ],
+      "settings": {
+        "title": "Diese Fragen erhalten wir häufig zum Thema \"Haarseife\". Hier sind die antworten 💚"
+      }
+    },
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Auch spannend: Umweltfreundliche Trockenshampoos",
+        "home_featured_products": "trockenshampoo",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "7aedadaf-2064-4e44-a85b-348ff13cfe91": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__7aedadaf-2064-4e44-a85b-348ff13cfe91-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Das könnte dich außerdem interessieren: Unsere Blogbeiträge zum Thema Haarpflege"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__7aedadaf-2064-4e44-a85b-348ff13cfe91-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "d558c250-3451-43b2-9810-8154f131bf8c": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18289269604618__d558c250-3451-43b2-9810-8154f131bf8c-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Haarseife",
+            "heading": "UMGEWÖHNUNG AUF HAARSEIFE",
+            "textarea": "UND DIY SAURE RINSE BEI HARTEM WASSER",
+            "cta_text1": "Jetzt Lesen",
+            "cta_link1": "https:\/\/puremetics.de\/blogs\/beauty\/umgewohnung-auf-haarseife-diy-saure-rinse?_pos=2&_sid=7bbcc8011&_ss=r",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Shopify_Banner_SaureRinse_37bedd0c-75e0-45c1-a04d-a6ca3726fbb9.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#ffffff",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--18289269604618__d558c250-3451-43b2-9810-8154f131bf8c-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "HAARTYPEN",
+            "heading": "Welcher Typ bist du?",
+            "textarea": "DIE RICHTIGE PFLEGE MACHT DEN UNTERSCHIED",
+            "cta_text1": "Jetzt Lesen",
+            "cta_link1": "https:\/\/puremetics.de\/blogs\/beauty\/haartypen-die-richtige-pflege-macht-den-unterschied?_pos=9&_sid=7bbcc8011&_ss=r",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Banner_Haartyp.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#ffffff",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "ca053b24-3c15-4782-bf4d-678052a71797": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Wissenswert",
+            "heading": "NATURSEIFEN ",
+            "textarea": "So werden sie hergestellt",
+            "cta_text1": "Jetzt Lesen",
+            "cta_link1": "https:\/\/puremetics.de\/blogs\/beauty\/darum-solltet-ihr-unsere-naturseifen-kennen?_pos=11&_sid=7bbcc8011&_ss=r",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-05-28_at_09.13.28.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#ffffff",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__d558c250-3451-43b2-9810-8154f131bf8c-advanced-1",
+        "template--18289269604618__d558c250-3451-43b2-9810-8154f131bf8c-advanced-2",
+        "ca053b24-3c15-4782-bf4d-678052a71797"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "7a29e87b-1677-4b6d-8a8c-96d4839b312f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Alle Beauty highlights zum thema haarpflege",
+        "home_featured_products": "haarpflege",
+        "per_row": 5,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_7Egrpb",
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f",
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112",
+    "29c8f23d-a5ac-49fd-8976-d6ddac1bdad4",
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7",
+    "7f5fde89-906e-4f8b-a64c-b576451318b0",
+    "8f0f653c-f645-41ba-a5dc-e72ca3b3f97f",
+    "f9bbbc48-5a1e-4844-ac74-9ff05b8f8661",
+    "text_with_icons_Mx8t7W",
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797",
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1",
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b",
+    "c67229b4-d31e-41fc-886a-e06785c48e99",
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4",
+    "7aedadaf-2064-4e44-a85b-348ff13cfe91",
+    "d558c250-3451-43b2-9810-8154f131bf8c",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return",
+    "7a29e87b-1677-4b6d-8a8c-96d4839b312f"
+  ]
+}

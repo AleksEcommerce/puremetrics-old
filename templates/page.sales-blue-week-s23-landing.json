@@ -1,0 +1,393 @@
+{
+  "sections": {
+    "bdb6423f-ef8d-4f66-b154-bbcd95d9ccb8": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--17931269439754__bdb6423f-ef8d-4f66-b154-bbcd95d9ccb8-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "großartige rabatte, specials & impact",
+            "heading": "sommer blue week",
+            "textarea": "Blue is the new Black: Die nachhaltige Alternative",
+            "cta_text1": "blueweek-berry Fluff",
+            "cta_link1": "shopify:\/\/products\/3in1-dusch-fluff-blueweek-berry-mit-zuckerpeeling",
+            "cta_text2": "Alle Aktionen",
+            "cta_link2": "shopify:\/\/collections\/all",
+            "image": "shopify:\/\/shop_images\/puremetics_Blue_Week_Sommer_2023_Shop_Banner-mit-Fluff_b433aec3-8fbf-4b77-8a08-2f1aeb325eda.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 800,
+            "text_size": 160,
+            "text_align": "vertical-bottom horizontal-left",
+            "color_accent": "#f6b900",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17931269439754__bdb6423f-ef8d-4f66-b154-bbcd95d9ccb8-advanced-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "ade24096-1f6b-4658-8494-3488eca1cacb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17931269439754__ade24096-1f6b-4658-8494-3488eca1cacb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Was ist die Blue Week?"
+          }
+        },
+        "template--17931269439754__ade24096-1f6b-4658-8494-3488eca1cacb-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Die Blue Week ist unser nachhaltiges Pendant zur Black Week. Neben Rabatten und Specials steht der nachhaltige Einfluss über Allem. In den vergangenen Jahren konnten wir gemeinsam einen großen Beitrag für verschiedene Umwelt-, Artenschutz- und soziale Projekte leisten.<\/p><p>🐢🥰 <strong>Schildkrötenbabys <\/strong>🥰🐢<\/p><p>In diesem Jahr steht alles unter dem Stern des Artenschutzes. In Kooperation mit der AGA retten wir für jede Bestellung ein Schildkrötenei aus Gefährdungsgebieten. Unser Ziel ist es, 15 Nester zu beschützen, bis die ca. 1.800 Schildkrötenbabys sicher geschlüpft sind und ihren Weg ins Meer gefunden haben. <\/p><p><strong>😍 Wirst auch Du ein Schildkrötenbaby beschützen? 😍<\/strong><\/p><p>Dann mach jetzt mit und beschütze automatisch ein Schildkrötenbaby für deinen Einkauf. Auf diesem Weg erfüllen wir das Shopping-Event mit Sinn. Während der gesamten Blue Week unterstützt dein Einkauf bei uns, die Umwelt noch mehr als sonst.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17931269439754__ade24096-1f6b-4658-8494-3488eca1cacb-heading-1",
+        "template--17931269439754__ade24096-1f6b-4658-8494-3488eca1cacb-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "57462e4b-7b1e-4454-bcdc-a3500e72cc80": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17952653508874__57462e4b-7b1e-4454-bcdc-a3500e72cc80-image-2": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Sommer-Blue-Week_2023_Netserskala_Desktop-12.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Sommer-Blue-Week_2023_Nesterskala-Mobile-33.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--17952653508874__57462e4b-7b1e-4454-bcdc-a3500e72cc80-image-2"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "93e5ad32-4764-4572-a256-feb2aa1e7c22": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17931269439754__93e5ad32-4764-4572-a256-feb2aa1e7c22-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--17931269439754__93e5ad32-4764-4572-a256-feb2aa1e7c22-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "template--17931269439754__93e5ad32-4764-4572-a256-feb2aa1e7c22-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "53ea23ad-8a98-4959-bc30-67edfcff5340": {
+          "type": "text",
+          "settings": {
+            "text": "✔  Duschgel, Peeling & Lotion in Einem<br>✔  Rettet ein zusätzliches <br>✔ Alle Hauttypen<br>✔  Fruchtig-Süßer Blaubeerenduft"
+          }
+        },
+        "398bf39c-e967-448a-baa5-ea45e78fd179": {
+          "type": "text",
+          "settings": {
+            "text": "<b>VEREINT DUSCHGEL, PEELING & BODYLOTION IN EINEM!<\/b><br>Vereine die tägliche Körperreinigung mit einem sanften Peeling und einem olfaktorischen Erlebnis! Edles Kokosöl pflegt deine Haut schon während des Duschens und versorgt sie mit Feuchtigkeit, ohne zu fetten! So sparst du dir das Eincremen. Zuckerpartikel befreien deinen Körper von alten Hautzellen und sorgen für himmlische Geschmeidigkeit."
+          }
+        },
+        "5f76c5ef-40e9-4e84-8ae4-195f792d9c9f": {
+          "type": "text",
+          "settings": {
+            "text": "<b>RETTET EIN ZUSÄTZLICHES SCHILDKRÖTENEI!<\/b><br>Der exklusive 3in1 Dusch-Fluff \"Blueweek-Berry\" ist nicht rabattiert, sondern schützt ein zusätzliches Schildkrötenei. Mit der AGA Artenschutz konnten wir bereits über 3.500 Schildkröten retten."
+          }
+        }
+      },
+      "block_order": [
+        "template--17931269439754__93e5ad32-4764-4572-a256-feb2aa1e7c22-price-1",
+        "template--17931269439754__93e5ad32-4764-4572-a256-feb2aa1e7c22-variant_picker-1",
+        "template--17931269439754__93e5ad32-4764-4572-a256-feb2aa1e7c22-buy_buttons-1",
+        "53ea23ad-8a98-4959-bc30-67edfcff5340",
+        "398bf39c-e967-448a-baa5-ea45e78fd179",
+        "5f76c5ef-40e9-4e84-8ae4-195f792d9c9f"
+      ],
+      "settings": {
+        "featured_product": "3in1-dusch-fluff-blueweek-berry-mit-zuckerpeeling",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "cd54084a-27c5-44ac-aec9-f083fa5af93e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Nest_wird_ausgegraben2_c_BahariHai.jpg",
+        "subtitle": "Schildkröten retten",
+        "title": "so sieht der Schutz vor Ort aus aus",
+        "text": "<p>Seit mehr als 200 Millionen Jahren durchqueren Meeresschildkröten die Weltmeere, doch heute sind alle sieben Meeresschildkrötenarten akut vom Aussterben bedroht. Der Schutz der Meeresschildkröten beginnt schon direkt am Niststrand, denn bereits die Kinderstuben dieser faszinierenden Meeresreptilien sind gefährdet. <\/p><p>Die Wildhüter sind jeden Tag am Niststrand im Einsatz. Sie schützen sie vor Wilderern und sie nehmen zudem viele wichtige Daten auf. Sollte das Nest an einer ungünstigen Stelle vergraben worden sein, weil die Stelle beispielsweise stark touristisch genutzt wird, dann graben die Wildhüter die Eier aus und vergraben sie an einer sicheren Stelle. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "0c30c469-a458-4091-9a47-a3c75869cbf9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "💙Weitere blue week knaller! 💙",
+        "home_featured_products": "bestseller",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "18ce1c05-8786-4076-b3c3-695fc364e435": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schildkroete_Eiablage_c_AGA.jpg",
+        "image2": "shopify:\/\/shop_images\/Umsetzung_Nest_c_BahariHai.jpg",
+        "subtitle": "Eiablage",
+        "title": "Umsetzung und Schutz der Nester",
+        "text": "<p>Dabei gehen sie sehr vorsichtig und umsichtig vor, um das Nest so ungestört wie möglich zu lassen. Um die Schildkrötenbabys in die richtige Richtung zu leiten, bereiten die Wildhüter bei Bedarf mit Pfosten eine Bahn Richtung Meer. Nachdem ein Nest dann geschlüpft ist, wird es nach ein paar Tagen ausgegraben, so dass die Wildhüter dann anhand der Eierschalen zählen können, wie viele Eier im Nest waren und wie<br\/>viele davon geschlüpft sind. Das sind wertvolle Daten, die uns Auskunft über den Schlupferfolg geben.<\/p>",
+        "button_label": "jetzt ein schildkrötenei beschützen",
+        "button_link": "shopify:\/\/products\/3in1-dusch-fluff-blueweek-berry-mit-zuckerpeeling",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "a2bd763d-3864-42d9-8208-7ee50199949b": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>puremetics kümmert sich wirklich von Anfang an um die Umwelt und ist sehr bedacht auf den ganzen ökologischen Fußabdruck. Hervorragende Produkte und gut für die Umwelt. Besser kann es nicht sein.<\/p>",
+            "image": "shopify:\/\/shop_images\/joel_cleanhub.jpg",
+            "author": "Joel (CEO) Cleanhub",
+            "author_info": "Über 80 Tonnen Plastikmüll geborgen"
+          }
+        },
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Meeresschildkröten stehen vor vielen Gefahren, die meisten davon sind Menschen gemacht. Danke, dass puremetics auch auf diesem Weg einen Beitrag zum Schutz dieser wunderbaren Tiere leistet.<\/p>",
+            "image": "shopify:\/\/shop_images\/Birgit_AGA.jpg",
+            "author": "Birgit (CEO) Aktionsgemeinschaft Artenschutz",
+            "author_info": "1.545 Schildkröteneier gerettet"
+          }
+        },
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Gemeinsam für die Abschaffung der schrecklichen Affenhirnversuche in Deutschland. Diese besonders grausame Forschung an unseren nächsten Verwandten ist ethisch nicht zu rechtfertigen und wissenschaftlich gesehen Unsinn, da Tierversuche nicht auf den Menschen übertragbar sind.<\/p>",
+            "image": "shopify:\/\/shop_images\/Astrid_Aerzte_gegen_Tierversuche.jpg",
+            "author": "Astrid (e.V. Verwaltung) Ärzte gegen Tierversuche",
+            "author_info": "Abschaffung der Affenhirnversuche"
+          }
+        },
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Mit der Kastration von einer Straßenkatze, erspart man vielen weiteren Katzen sehr viel Elend und Leid. Vieles kann verhindert werden, wenn man präventiv arbeitet, weshalb wir jedes Jahr versuchen so viele Katzen wie möglich kastrieren zu lassen.  <\/p>",
+            "image": "shopify:\/\/shop_images\/Tessa_Seelenkatzen.jpg",
+            "author": "Tessa (Seelenkatzen e.V.) Tierheime und Gnadenhöfe",
+            "author_info": "Folgt"
+          }
+        },
+        "905af110-2939-43e6-8d18-e274d9324d58": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Die Spenden haben Deutschkurse ermöglicht, in dem die Deutschlehrerin geflüchteten Kindern und Jugendlichen aus der Ukraine zwischen 12-17 Jahren drei Mal in der Woche unterrichten konnte. Sprache ist so wichtig für die Integration!<\/p>",
+            "image": "shopify:\/\/shop_images\/Anja_pro_Zukunft.jpg",
+            "author": "Anja (Vorstand) Pro Zukunft e.V",
+            "author_info": "Sprachkurse für geflüchtete Kinder"
+          }
+        }
+      },
+      "block_order": [
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-4",
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-1",
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-2",
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-3",
+        "905af110-2939-43e6-8d18-e274d9324d58"
+      ],
+      "settings": {
+        "title": "💪 Hier konnten wir bereits gemeinsam helfen 💪",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#d1e2f5",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "0566c102-bde0-4ff6-b632-ac7ba7168488": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "💙 starter sets! rundum sorglos pakete 💙",
+        "home_featured_products": "spar-sets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "3b4ca112-15d2-406f-a7d1-dece870c4e60": {
+      "type": "featured-video",
+      "settings": {
+        "title": "🌊 die weltmeere vor plastik retten: puremetics x cleanhub 🌊",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=L66pKwD9i-k",
+        "divider": false
+      }
+    },
+    "aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "koerperpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "gesichtspflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "haarpflege",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "hande-fusse",
+            "title": "Handpflege",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-1",
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-2",
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-3",
+        "template--17931269439754__aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553-collection-4"
+      ],
+      "settings": {
+        "title": "wonach suchst du?",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "41bb5678-c31d-4a80-8111-470df20c64b4": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Wir gegen Plastik! In Kooperation mit unserer Community 🤩",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=xDDjPAfbPRE",
+        "divider": false
+      }
+    },
+    "bd3b59b2-48c8-49c9-9966-9111341bbc8e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "🎁 nachhaltige geschenkboxen 🎁",
+        "home_featured_products": "geschenk-ideen",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "166015036078a332ec": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "bdb6423f-ef8d-4f66-b154-bbcd95d9ccb8",
+    "ade24096-1f6b-4658-8494-3488eca1cacb",
+    "57462e4b-7b1e-4454-bcdc-a3500e72cc80",
+    "93e5ad32-4764-4572-a256-feb2aa1e7c22",
+    "cd54084a-27c5-44ac-aec9-f083fa5af93e",
+    "0c30c469-a458-4091-9a47-a3c75869cbf9",
+    "18ce1c05-8786-4076-b3c3-695fc364e435",
+    "a2bd763d-3864-42d9-8208-7ee50199949b",
+    "0566c102-bde0-4ff6-b632-ac7ba7168488",
+    "3b4ca112-15d2-406f-a7d1-dece870c4e60",
+    "aba9e58a-4fb2-4dfc-ba1f-9691bc0c2553",
+    "41bb5678-c31d-4a80-8111-470df20c64b4",
+    "bd3b59b2-48c8-49c9-9966-9111341bbc8e",
+    "166015036078a332ec"
+  ]
+}

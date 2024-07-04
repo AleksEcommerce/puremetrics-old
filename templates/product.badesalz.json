@@ -1,0 +1,449 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9a6edb7c-5056-47ff-af07-af19887a2815": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "920c033e-bdda-471f-b21e-f50de19496ee": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "af11656a-5bba-4794-9f06-16522ca199cf": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9a6edb7c-5056-47ff-af07-af19887a2815",
+        "variant_picker",
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575",
+        "920c033e-bdda-471f-b21e-f50de19496ee",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "af11656a-5bba-4794-9f06-16522ca199cf"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_BEetbm": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "remineralisierung",
+        "title": "MINERALISCHES Meersalz",
+        "text": "<p>Meersalz enthält eine Vielzahl von Mineralien, die tief in die Haut eindringen und sie pflegen können. Diese Mineralien können dazu beitragen, die Haut zu revitalisieren, Feuchtigkeit zu spenden und sie weich und geschmeidig zu machen. Darüber hinaus kann das Einweichen in einem Meersalzbad auch dazu beitragen, Muskelverspannungen zu lösen, Stress abzubauen und die Durchblutung zu fördern. Ein Meersalzbad ist für alle Hauttypen förderlich, besonders bei entzündlicher Haut, Akne oder Schuppenflechte. Das Meersalz kann dazu beitragen, die Haut zu beruhigen, zu pflegen, Rötungen zu reduzieren und die Heilung von Hautirritationen zu fördern. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/13cc4a63190e434eb2853b87ac132709.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "c9954598-fb3f-4989-9ebe-5c1f3694ebd0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Badesalze_Meersalz.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "mineralische HAUTPFLEGE",
+        "title": "natürliches MEERSALZ",
+        "text": "<p>Unser Badesalz ist reich an Mineralien wie Magnesium, Kalzium und Kalium, die die Haut mit Nährstoffen versorgen und sie pflegen. Die feinen Körner des Meersalzes wirken auch als sanftes Peeling, entfernen abgestorbene Hautzellen und fördern die Durchblutung, was zu einer glatteren Haut führen kann. Darüber hinaus kann das Eintauchen in ein Bad mit Meersalz Verspannungen lösen und Stress abbauen, da die mineralischen Inhaltsstoffe eine beruhigende Wirkung haben können. Das Salz besitzt auch leicht antiseptische Eigenschaften, was besonders bei Hautunreinheiten und leichten Hautirritationen hilfreich sein kann. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3c31d31c-6c97-4039-b8f6-6f8790a0ad9c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Badesalz_Blueten.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Entspannung pur",
+        "title": "MIT NATÜRLICHEN FARBEN und BLÜTEN",
+        "text": "<p>Wir verwenden ätherische Öle, biologische Blüten und Aromen in unseren Badesalzen, um das Badeerlebnis zu verbessern und verschiedene Sinne anzusprechen. <\/p><p><strong>Ätherische Öle<\/strong> und erlesene Aromen hüllen deine Sinne mit angenehmen Düften ein und haben eine beruhigende oder anregende Wirkung auf den Geist und den Körper. Sie können helfen, Stress abzubauen, die Sinne zu stimulieren und eine entspannende Atmosphäre zu schaffen.<br\/><br\/><strong>Biologische Blüten <\/strong>dienen der ästhetischen Aufwertung deiner besonderen Auszeit und haben zudem noch pflegende und olfaktorische Eigenschaften, die dein Wellnessbad liebevoll abrunden.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_PepTjf": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_WzLVtn": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_K4nmDN": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_URpir9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_b7WwGL": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_WzLVtn",
+        "text_block_K4nmDN",
+        "text_block_URpir9",
+        "text_block_b7WwGL"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "faq_D4YY7G": {
+      "type": "faq",
+      "blocks": {
+        "question_NGifGk": {
+          "type": "question",
+          "settings": {
+            "title": "Sind eure Badesalze umweltfreundlich verpackt?",
+            "text": "<p>Ja, unsere Badesalze sind umweltfreundlich verpackt. Sie kommen in Papierverpackungen, die biologisch abbaubar sind.<\/p>"
+          }
+        },
+        "question_7AYU7t": {
+          "type": "question",
+          "settings": {
+            "title": "Enthalten eure Badesalze synthetische Duftstoffe?",
+            "text": "<p>Nein, unsere Badesalze enthalten keine synthetischen Duftstoffe. Sie werden ausschließlich mit natürlichen ätherischen Ölen und Aromen angereichert.<\/p>"
+          }
+        },
+        "question_LGLagD": {
+          "type": "question",
+          "settings": {
+            "title": "Sind eure Badesalze für empfindliche Haut geeignet?",
+            "text": "<p>Ja, unsere Badesalze sind für empfindliche Haut geeignet. Sie enthalten keine reizenden Inhaltsstoffe und sind sanft zur Haut.<\/p>"
+          }
+        },
+        "question_YTb6nW": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich eure Badesalze auch für Fußbäder verwenden?",
+            "text": "<p>Ja, unsere Badesalze eignen sich auch hervorragend für Fußbäder. Sie helfen, müde Füße zu entspannen und zu erfrischen.<\/p>"
+          }
+        },
+        "question_XwXike": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange dauert es, bis sich die Badesalze im Wasser auflösen?",
+            "text": "<p>Die Auflösungszeit unserer Badesalze variiert je nach Salzkörnung und Wassertemperatur. In der Regel lösen sie sich jedoch innerhalb weniger Minuten vollständig auf.<\/p>"
+          }
+        },
+        "question_RPXGac": {
+          "type": "question",
+          "settings": {
+            "title": "Helfen eure Badesalze bei Muskelverspannungen?",
+            "text": "<p>Ja, unsere Badesalze können bei Muskelverspannungen helfen. Die mineralischen Inhaltsstoffe des Meersalzes unterstützen die Entspannung der Muskeln.<\/p>"
+          }
+        },
+        "question_fVdmbd": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich eure Badesalze auch für ein entspannendes Schaumbad verwenden?",
+            "text": "<p>Unsere Badesalze sind nicht für die Verwendung in Schaumbädern gedacht, da sie nicht schäumen. Sie sorgen jedoch für ein entspannendes und aromatisches Badeerlebnis.<\/p>"
+          }
+        },
+        "question_9jkKwT": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich eure Badesalze auch während der Schwangerschaft verwenden?",
+            "text": "<p>Wir empfehlen, vor der Verwendung unserer Badesalze während der Schwangerschaft einen Arzt zu konsultieren, um sicherzustellen, dass sie für dich geeignet sind.<\/p>"
+          }
+        },
+        "question_3erFGE": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich eure Badesalze verwenden, um optimale Ergebnisse zu erzielen?",
+            "text": "<p>Die Häufigkeit der Verwendung unserer Badesalze hängt von deinen persönlichen Vorlieben und Bedürfnissen ab. Einige Menschen genießen regelmäßige Bäder, während andere sie nur gelegentlich verwenden.<\/p>"
+          }
+        },
+        "question_QiiNzA": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich eure Badesalze mit anderen Badezusätzen kombinieren?",
+            "text": "<p>Ja, Sie können unsere Badesalze problemlos mit anderen Badezusätzen wie ätherischen Ölen oder Badebomben kombinieren, um dein Badeerlebnis zu individualisieren.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NGifGk",
+        "question_7AYU7t",
+        "question_LGLagD",
+        "question_YTb6nW",
+        "question_XwXike",
+        "question_RPXGac",
+        "question_fVdmbd",
+        "question_9jkKwT",
+        "question_3erFGE",
+        "question_QiiNzA"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGER ZUM THEMA \"badesalz\". HIER SIND DIE ANTWORTEN DAZU 💚"
+      }
+    },
+    "text_and_image_zEwQAG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "wellness für dich und unsere erde",
+        "text": "<p>Entspannende Auszeiten sind für das Wohlbefinden sehr wichtig. Badesalze dürfen dabei natürlich nicht fehlen. Leider sind viele Produkte nach wie vor weiterhin in umweltbelastenden Materialien verpackt, oder mit kritischen Inhaltsstoffen hergestellt, was wirklich nicht sein muss.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch die Verwendung unserer plastikfreien Becher kann der Verbrauch von umweltbelastenden Materialien reduziert werden. Zudem ist Papier sehr gut recyclebar. Biologisch abbaubare oder recycelbare Materialien können die Umweltbelastung weiter reduzieren. Durch diese Kombination können wir weiterhin unsere Wellness-Momente genießen und gleichzeitig unsere Umwelt respektieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_ThKKWV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "dürfen wir dir die perfekte ölpflege nach deinem entspannungsbad vorstellen?",
+        "home_featured_products": "ole-butter-lotions",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_BEetbm",
+    "c9954598-fb3f-4989-9ebe-5c1f3694ebd0",
+    "3c31d31c-6c97-4039-b8f6-6f8790a0ad9c",
+    "text_with_icons_PepTjf",
+    "faq_D4YY7G",
+    "text_and_image_zEwQAG",
+    "featured_collection_ThKKWV",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

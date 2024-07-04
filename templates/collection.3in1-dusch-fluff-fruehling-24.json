@@ -1,0 +1,397 @@
+{
+  "sections": {
+    "af8fce06-17f9-425a-8545-5a4afa998731": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18166263382282__af8fce06-17f9-425a-8545-5a4afa998731-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#21a6ff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special_DF-Fruehling_Shop_Banner_Landingpage_Desktop_02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Special_DF-Fruehling_Shop_Banner_Landingpage_Mobile_02.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263382282__af8fce06-17f9-425a-8545-5a4afa998731-image-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "252de40b-46fa-405b-b5bc-2c7ed4973bab": {
+      "type": "scrolling-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "text": "🌺 NUR FÜR KURZE ZEIT UND STRENG LIMITIERT 🌺",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
+    },
+    "rich_text_FMX9Ec": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NNBwnT": {
+          "type": "heading",
+          "settings": {
+            "title": "Der Frühling zieht ein!"
+          }
+        },
+        "text_HqMCYL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Sehnst du dich auch nach dem erfrischenden Hauch des Frühlings? <br\/>Unsere Frühlingssorten bringen die Lebendigkeit des Frühlings zu dir nach Hause. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NNBwnT",
+        "text_HqMCYL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_wCbHq3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yxjyPr": {
+          "type": "heading",
+          "settings": {
+            "title": "Im Set 10% sparen + kostenloser Versand"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yxjyPr"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_product_UVegi6": {
+      "type": "featured-product",
+      "blocks": {
+        "price_8DwB7G": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_33NVRz": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_c99yky": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_EBGKQ3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_8DwB7G",
+        "description_33NVRz",
+        "variant_picker_c99yky",
+        "buy_buttons_EBGKQ3"
+      ],
+      "settings": {
+        "featured_product": "3in1-dusch-fluff-set-fruhling-editionen",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 5,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "3ef0ae11-6689-4b04-b7f5-e8d2aeb8fc9c"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_09_Chris_Cosma_puremetics_GmbH.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO & Co-Founder)",
+        "title": "Diese Freude war meine Inspiration",
+        "text": "<p>Stell dir vor, wie die ersten Knospen sprießen, die Blumen blühen und die Natur in einem bunten Farbenmeer erstrahlt. Unsere Frühlingssorten sind eine Hommage an diese wundervolle Jahreszeit und bringen die erfrischende Lebendigkeit und den Duft des Frühlings direkt zu dir nach Hause.<\/p><p>Die Inspiration für diese Kollektion schöpfte ich aus der Sehnsucht nach Frische und Erneuerung, die der Frühling mit sich bringt. Nach der Dunkelheit des Winters war ich von dem Verlangen erfüllt, die ersten zarten Anzeichen des Frühlings zu erfassen und in meinen Produkten widerzuspiegeln. Die lebendigen Farben, die erfrischende Luft und die erwachende Natur dienten als Quelle der Inspiration für die Auswahl der Düfte. Jede Note wurde sorgfältig ausgewählt, um die Atmosphäre und den Zauber des Frühlings einzufangen und den Kunden ein unvergleichliches Dufterlebnis zu bieten.<\/p><p><strong>Mit unserer Frühlingsedition, die die zarten Aromen von Flieder, dem lebendigen Garten im Frühling, der lieblichen Lindenblüte und dem frisch gemähten Rasen einfängt, kannst du den Frühling direkt in dein Badezimmer bringen.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b4ca5a5a-f91a-446e-9de0-cccf8bd3cb86": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "leicht & elegant",
+        "title": "Flieder",
+        "text": "<p>Der Duft von Flieder ist eine Symphonie aus zarten, blumigen Noten, die die Sinne umhüllen und eine Atmosphäre der Leichtigkeit und Eleganz schaffen. Die süßen und leicht pudrigen Aromen des Flieders erinnern an einen warmen Frühlingsnachmittag, wenn die zarten lila Blüten in voller Pracht erblühen. Es ist ein Duft, der Erinnerungen weckt und die Vorfreude auf die warme Jahreszeit hervorruft. Flieder verströmt eine sanfte Frische und eine subtile Süße, die einen Hauch von Romantik und Frühling in die Luft zaubert.<\/p>",
+        "button_label": "zur Edition",
+        "button_link": "https:\/\/puremetics.de\/products\/3in1-dusch-fluff-flieder",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/51de7cf9eac84745844aa73d521bbebd.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "background_video_text_Egfzfp": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "süß & zart",
+        "title": "Lindenblüte",
+        "text": "<p>Der Duft von Lindenblüte ist eine wundervolle Mischung aus süßen, blumigen und honigartigen Noten, die eine sanfte und beruhigende Atmosphäre schaffen. Die Lindenblüte verströmt einen zarten, lieblichen Duft, der an warme Frühlings- und Sommertage erinnert, wenn die Luft von dem betörenden Aroma der blühenden Lindenbäume erfüllt ist. Die süßen, honigähnlichen Nuancen verleihen dem Duft eine beruhigende und einladende Qualität, während die blumigen Noten eine leichte Frische und Leichtigkeit hinzufügen.<\/p>",
+        "button_label": "zur Edition",
+        "button_link": "https:\/\/puremetics.de\/products\/3in1-dusch-fluff-lindenblute",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ec2915251e634104aaf5e84590e44532.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "background_video_text_4yzAVm": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "lebendig & frisch",
+        "title": "frühlingsgarten",
+        "text": "<p>Der Duft von Frühlingsgarten ist eine lebendige und frische Komposition, die die Vorfreude auf die warme Jahreszeit einfängt. Es ist, als würde man durch einen blühenden Garten spazieren, umgeben von einer Vielzahl von blumigen Aromen und frischen Grünnoten. Frühlingsgarten verströmt einen Hauch von Frische, der an den Tau auf den Blättern und die aufsteigende Sonne erinnert. Die blumigen Noten bringen die lebhafte Energie und Schönheit des Frühlings zum Ausdruck, während die grünen Akkorde eine natürliche Vitalität und Reinheit verleihen.<\/p>",
+        "button_label": "zur Edition",
+        "button_link": "https:\/\/puremetics.de\/products\/3in1-dusch-fluff-fruehlingsgarten",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5d480588c8524814bcf050af60bb79f5.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "background_video_text_hGTd9m": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "belebend & rein",
+        "title": "frisch gemähter rasen",
+        "text": "<p>Der Duft von frisch gemähtem Rasen ist ein belebender und erfrischender Duft, der die Frische und Reinheit der Natur einfängt. Es ist, als würde man durch einen grünen Garten spazieren, während der Rasen gerade frisch gemäht wurde. Der Duft ist von einer klaren, grünen Frische geprägt, die an die saftigen Blätter und Halme erinnert. Es mischen sich zarte, erdige Noten mit einem Hauch von Zitrusfrische, die eine belebende und lebendige Atmosphäre schaffen. Der Duft von frisch gemähtem Rasen weckt Erinnerungen an warme Frühlingstage im Freien und lädt dazu ein, die belebende Energie der Natur zu genießen.<\/p>",
+        "button_label": "zur Edition",
+        "button_link": "https:\/\/puremetics.de\/products\/3in1-dusch-fluff-frisch-gemahter-rasen",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f5dad8c81afb43ecba8a3ecee658d099.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "540e2e7b-0e75-424e-9206-e763d3ef1de3": {
+      "type": "promo-grid",
+      "blocks": {
+        "140f269b-0b36-4c5a-ab3a-fc34e300f391": {
+          "type": "banner",
+          "settings": {
+            "heading": "du kennst unsere 3in1 dusch-fluffs noch nicht?",
+            "text": "Dann wird es jetzt Zeit für ein Match! Tausende Kund:innen sind bereits begeistert und wollen nicht mehr mit etwas anderem duschen 😍",
+            "link": "",
+            "label": "",
+            "color_tint": "#f1497c",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "140f269b-0b36-4c5a-ab3a-fc34e300f391"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "8484b4ec-c1d7-4b6a-be20-e70a38b4eb54": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "background_image_text_WY9KDB": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "der 3in1 Dusch-Fluff",
+        "title": "ein GEWINNER!",
+        "text": "<p>„Puremetics zeigt mit 3in1 Dusch-Fluff vorbildlich, dass tierische Inhaltsstoffe und Tierversuche der Vergangenheit angehören. Vegane und moderne Produktkreationen sind gut für Tiere, Menschen und die Umwelt. Wir hoffen, dass viele weitere Unternehmen der Beauty-Branche diesem Beispiel folgen werden und gratulieren herzlich zum Gewinn des PETA VEGAN AWARD 2023 in der Kategorie „Bestes veganes Peeling“. <\/p><p><em><strong>Harald Ullmann, Mitgründer und 2. Vorsitzender von PETA Deutschland<\/strong><\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/230711_PETA-VeganAward_Beauty_2023-SocialMediaTeaser_1024x512px.jpg",
+        "layout": "left",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "5d4639bb-92fc-4aa4-a6a7-af4f3f50f268": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Fluff_10_add25fc7-2791-4381-8ed8-ede8c2824f64.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "rounded",
+        "subtitle": "100% Papier – 0% plastik",
+        "title": "Unsere 3in1 Dusch-Fluff Becher",
+        "text": "<p>Diese haben wir eigens in Kooperation mit einem regionalen Produzenten für unsere 3in1 Dusch-Fluffs entwickelt. Sie werden in Deutschland produziert und kommen dabei ganz ohne Plastik oder Bioplastikbeschichtung aus und halten deinen Dusch-Fluff dennoch frisch. <\/p><p>Unsere Verpackung besteht zu 100% Papier, das in einem speziellen Verfahren verarbeitet wird, um dem 3in1 Dusch-Fluff frisch und sicher zu verpacken. <\/p><p><strong>Bitte beachte aber, dass der Becher nicht wasserdicht ist.<\/strong> Nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f97be1d6-5842-4b99-a53c-204b6ce5a1ec": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/03_puremetics_3in1-Dusch-Fluff_Arm_Gif_14MB.gif",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "garantiert frei von mikroplastik",
+        "title": "Wusstest du, …?",
+        "text": "<p>… dass Peelingkörner früher meist kleine Plastikpartikel waren? Heute sind in vielen Peelings zum Glück keine peelenden Plastikpartikel mehr enthalten. Sie werden offiziell als „frei von Mikroplastik“ bezeichnet und dürfen entsprechende Siegel tragen. Mikroplastik ist in vielen Peelings aber leider trotzdem in Form von flüssigem Kunststoff enthalten.  Dieser kann in Flüssen und Meeren nicht abgebaut werden und schadet unserer Umwelt. <br\/><strong>Wir machen bei Plastik keine Kompromisse! Unser 3in1 Dusch-Fluff ist zu 100% plastikfrei, versprochen!<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Dusch-Fluff Basics",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    }
+  },
+  "order": [
+    "af8fce06-17f9-425a-8545-5a4afa998731",
+    "252de40b-46fa-405b-b5bc-2c7ed4973bab",
+    "rich_text_FMX9Ec",
+    "rich_text_wCbHq3",
+    "featured_product_UVegi6",
+    "main-collection",
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34",
+    "b4ca5a5a-f91a-446e-9de0-cccf8bd3cb86",
+    "background_video_text_Egfzfp",
+    "background_video_text_4yzAVm",
+    "background_video_text_hGTd9m",
+    "540e2e7b-0e75-424e-9206-e763d3ef1de3",
+    "8484b4ec-c1d7-4b6a-be20-e70a38b4eb54",
+    "background_image_text_WY9KDB",
+    "5d4639bb-92fc-4aa4-a6a7-af4f3f50f268",
+    "f97be1d6-5842-4b99-a53c-204b6ce5a1ec",
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba",
+    "collection-header"
+  ]
+}

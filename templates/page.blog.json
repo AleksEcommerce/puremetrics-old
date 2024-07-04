@@ -1,0 +1,89 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1eae84b9-27e8-461c-bef9-951974a8c304": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166500032778__1eae84b9-27e8-461c-bef9-951974a8c304-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "der puremtics blog"
+          }
+        },
+        "template--18166500032778__1eae84b9-27e8-461c-bef9-951974a8c304-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir und weitere Experti:innen aus dem Bereichen Beauty, nachhaltiges Leben und vegane Ernährungen berichten über spannende Themen, News und geben hilfreiche Tipps und Inspirationen für Beautyjunkies und Weltretter:innen. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166500032778__1eae84b9-27e8-461c-bef9-951974a8c304-heading-1",
+        "template--18166500032778__1eae84b9-27e8-461c-bef9-951974a8c304-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "0732512c-6779-4d56-aed3-2d87369f7af4": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Alles zum Thema 'Beauty'",
+        "blog": "beauty",
+        "post_limit": 12,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "7bc8e47f-6a90-4888-b5e1-ca54e74768f2": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Alles zum Thema 'plastikfrei leben'",
+        "blog": "umwelt-facts-news",
+        "post_limit": 12,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "c622f9d3-9b58-4009-91c7-225a2cbe6e59": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Alles zum Thema 'vegan food'",
+        "blog": "rezepte",
+        "post_limit": 12,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1eae84b9-27e8-461c-bef9-951974a8c304",
+    "0732512c-6779-4d56-aed3-2d87369f7af4",
+    "7bc8e47f-6a90-4888-b5e1-ca54e74768f2",
+    "c622f9d3-9b58-4009-91c7-225a2cbe6e59"
+  ]
+}

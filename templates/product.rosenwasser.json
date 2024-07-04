@@ -1,0 +1,568 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_ENg7Jp": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "seit jahrhunderten bewährt",
+        "title": "positive effekte",
+        "text": "<p>Mit seiner reinigenden Wirkung eignet es sich ideal als Gesichtswasser, um Make-up und Unreinheiten sanft zu entfernen. Gleichzeitig wirkt es tonisierend, strafft die Haut und verfeinert die Poren, was für eine verbesserte Hautstruktur sorgt. Als hervorragender Feuchtigkeitsspender versorgt Rosenwasser die Haut mit der notwendigen Feuchtigkeit, was besonders bei trockener Haut von Vorteil ist. Seine beruhigenden und entzündungshemmenden Eigenschaften machen es zu einer effektiven Lösung zur Linderung von Rötungen und Hautirritationen, selbst bei empfindlicher Haut.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/912e9340f004439fac0f82e57d626bbb.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_VaqdJw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Rosenwasser_13.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "vitalisierend und pflegend",
+        "title": "auch in der Haarpflege",
+        "text": "<p><strong>Verleiht Glanz:<\/strong> Rosenwasser kann dem Haar einen natürlichen Glanz verleihen und es strahlend aussehen lassen.<\/p><p><strong>Spemdet Feuchtigkeit:<\/strong> Die feuchtigkeitsspendenden Eigenschaften von Rosenwasser helfen, trockenes Haar mit Feuchtigkeit zu versorgen und es geschmeidig zu machen.<\/p><p><strong>Beruhigt die Kopfhaut:<\/strong> Die beruhigenden Eigenschaften von Rosenwasser können dazu beitragen, die Kopfhaut zu beruhigen und mögliche Irritationen zu lindern.<\/p><p><strong>Duftet angenehm:<\/strong> Der zarte, blumige Duft von Rosenwasser verleiht dem Haar einen angenehmen Geruch, der den Tag über anhält.<\/p><p><strong>Um Rosenwasser in die Haarpflege zu integrieren, <\/strong>kann es direkt auf das Haar gesprüht oder mit anderen Haarpflegeprodukten kombiniert werden. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_qqGnzf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_BeautyAllrounder_Rosenwasser_05_6015c9e4-5fc6-4ed9-8b60-59cf2b7c8eeb.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "alle Hauttypen profitieren",
+        "title": "vielfältige vorteile",
+        "text": "<p><strong>Trockene Haut:<\/strong> Rosenwasser hat feuchtigkeitsspendende Eigenschaften und kann helfen, trockene Haut mit Feuchtigkeit zu versorgen.<\/p><p><strong>Empfindliche Haut:<\/strong> Die beruhigenden und entzündungshemmenden Eigenschaften von Rosenwasser machen es ideal für empfindliche Haut, um Irritationen zu lindern.<\/p><p><strong>Reife Haut:<\/strong> Aufgrund seiner tonisierenden Wirkung kann Rosenwasser dazu beitragen, die Elastizität der Haut zu verbessern und feine Linien zu reduzieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_w46yaP": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Rosenwasser_17.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "alle Haartypen profitieren",
+        "title": "weitere positive eigenschaften",
+        "text": "<p><strong>Trockenes Haar:<\/strong> Die feuchtigkeitsspendenden Eigenschaften von Rosenwasser machen es zu einer guten Wahl für die Pflege von trockenem Haar.<\/p><p><strong>Empfindliche Kopfhaut:<\/strong> Die beruhigenden Eigenschaften von Rosenwasser können dazu beitragen, Irritationen auf der Kopfhaut zu lindern.<\/p><p><strong>Normales bis fettiges Haar:<\/strong> Die leichte Textur des Rosenwassers macht die Pflege auch für normales bis fettiges Haar möglich, ohne es zu beschweren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_PUjaW3": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_iWb6n4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_PnAURR": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_XGVtC4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_Gj3i6t": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_iWb6n4",
+        "text_block_PnAURR",
+        "text_block_XGVtC4",
+        "text_block_Gj3i6t"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "background_video_text_VNPmWx": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "beispiel der integration von",
+        "title": "rosenwasser in der Hautpflegeroutine",
+        "text": "<p><strong>Reinige Dein Gesicht <\/strong>mit deinen bevorzugten Gesichtsreiniger, um Make-up und Unreinheiten zu entfernen. Zum Beispiel unseren festen Make-up Entferner mit Reismilch.<\/p><p><strong>Tonisiere mit Rosenwasser.<\/strong> Trage das Rosenwasser mit einem Wattepad auf Dein Gesicht auf oder sprühe es leicht auf die Haut. <\/p><p><strong>Nutze dein Serum oder deine Feuchtigkeitscreme <\/strong>um Deine Pflegeroutine abzuschließen. Zum Beispiel unser Hyaluronserum.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5f22dee1e14a4f499780b03d4a942407.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "faq_NDwAfQ": {
+      "type": "faq",
+      "blocks": {
+        "question_MVQNXg": {
+          "type": "question",
+          "settings": {
+            "title": "Ist euer Rosenwasser natürlich?",
+            "text": "<p>Ja. Unser Rosenwasser ist ein Nebenprodukt der Destillation von Rosenblüten. Es wird oft in der Hautpflege und Haarpflege wegen seiner feuchtigkeitsspendenden und beruhigenden Eigenschaften verwendet.<\/p>"
+          }
+        },
+        "question_FydMW3": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Vorteile bietet Rosenwasser für die Haut?",
+            "text": "<p>Rosenwasser tonisiert die Haut, spendet Feuchtigkeit, beruhigt Irritationen, reduziert Rötungen und fördert die Elastizität. Es ist ein vielseitiges Gesichtstonikum.<\/p>"
+          }
+        },
+        "question_76QkLE": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Rosenwasser direkt auf die Haut sprühen?",
+            "text": "<p>Ja, Rosenwasser kann direkt auf die Haut gesprüht oder mit einem Pad oder den gereinigten Händen aufgetragen werden. Es ist eine erfrischende Möglichkeit, die Haut zu tonisieren.<\/p>"
+          }
+        },
+        "question_ATfV7d": {
+          "type": "question",
+          "settings": {
+            "title": "Eignet sich Rosenwasser für alle Hauttypen?",
+            "text": "<p>Ja, Rosenwasser eignet sich für verschiedene Hauttypen, einschließlich trockener, empfindlicher und reifer Haut. Es kann auch bei fettiger Haut verwendet werden.<\/p>"
+          }
+        },
+        "question_iGYxDD": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Rosenwasser für die Haarpflege verwenden?",
+            "text": "<p>Absolut! Rosenwasser kann als natürliche Haarspülung verwendet werden, um das Haar zu pflegen, zu beruhigen und ihm Glanz zu verleihen.<\/p>"
+          }
+        },
+        "question_bfDXC8": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lagere ich Rosenwasser am besten?",
+            "text": "<p>Lagere Rosenwasser an einem kühlen, dunklen Ort, um seine Frische und Wirksamkeit zu bewahren. Eine Lagerung im Kühlschrank ist ebenfalls möglich.<\/p>"
+          }
+        },
+        "question_BBTBEK": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Rosenwasser während der Schwangerschaft verwenden?",
+            "text": "<p>In der Regel ist die Verwendung von Rosenwasser während der Schwangerschaft sicher, aber es ist ratsam, vor der Anwendung einen Arzt zu konsultieren.<\/p>"
+          }
+        },
+        "question_jUaVC6": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich Rosenwasser verwenden?",
+            "text": "<p>Die Häufigkeit der Anwendung hängt von den individuellen Haut- und Haarbedürfnissen ab. In der Regel kann es täglich als Gesichtstonikum und nach Bedarf in der Haarpflege verwendet werden.<\/p>"
+          }
+        },
+        "question_nypVDk": {
+          "type": "question",
+          "settings": {
+            "title": "Kann Rosenwasser gegen Akne helfen?",
+            "text": "<p>Ja, Rosenwasser kann aufgrund seiner entzündungshemmenden Eigenschaften dazu beitragen, Hautunreinheiten zu beruhigen und Rötungen bei Akne zu reduzieren. Es ist jedoch ratsam, dies mit einem Hautpflegeexperten zu besprechen.<\/p>"
+          }
+        },
+        "question_HC9YLg": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Rosenwasser als Make-up-Setting-Spray verwenden?",
+            "text": "<p>Absolut! Rosenwasser eignet sich hervorragend als natürliches Make-up-Setting-Spray. Sprühe es leicht über dein Make-up, um einen frischen Look zu bewahren und die Haut zu beleben.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_MVQNXg",
+        "question_FydMW3",
+        "question_76QkLE",
+        "question_ATfV7d",
+        "question_iGYxDD",
+        "question_bfDXC8",
+        "question_BBTBEK",
+        "question_jUaVC6",
+        "question_nypVDk",
+        "question_HC9YLg"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGER ZU UNSEREM ROSENWASSER"
+      }
+    },
+    "text_and_image_zmUFqa": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "Umweltfreundlich und nachhaltig",
+        "text": "<p>Rosenwasser ist ein wirklich tolles Produkt in der Beautyroutine und vereint gleich mehrere Artikel in einem Allrounder! Mit unserer Verpackungslösung in Glas mit Naturkorken sogar 100% recycel- und upcyclebar!<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Glasflaschen können leicht wiederverwendet werden. Nach der Verwendung für Rosenwasser können sie für andere Zwecke, wie die Aufbewahrung von Flüssigkeiten oder als Dekoration, verwendet werden. Die Verwendung eines Naturkorkens anstelle von Kunststoffverschlüssen ist ebenfalls nachhaltig. Kork ist ein nachwachsender Rohstoff, der schonend geerntet werden kann, ohne den Baum zu fällen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_XdiYMj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "die pefekte Ergänzung für deine pflegeroutine",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_KCKjJi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fifBQU": {
+          "type": "heading",
+          "settings": {
+            "title": "Oder direkt im Set als pflegesystem bestellen"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fifBQU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "featured_product_PxBTYX": {
+      "type": "featured-product",
+      "blocks": {
+        "price_z8DtTt": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_9fxgUE": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "variant_picker_KLALKU": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_FmqN9K": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_z8DtTt",
+        "description_9fxgUE",
+        "variant_picker_KLALKU",
+        "buy_buttons_FmqN9K"
+      ],
+      "settings": {
+        "featured_product": "gesichtspflege-set-perfect-skin",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_ENg7Jp",
+    "text_and_image_VaqdJw",
+    "text_and_image_qqGnzf",
+    "text_and_image_w46yaP",
+    "text_with_icons_PUjaW3",
+    "background_video_text_VNPmWx",
+    "faq_NDwAfQ",
+    "text_and_image_zmUFqa",
+    "featured_collection_XdiYMj",
+    "rich_text_KCKjJi",
+    "featured_product_PxBTYX",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

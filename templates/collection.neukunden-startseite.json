@@ -1,0 +1,454 @@
+{
+  "sections": {
+    "0e52dad3-59dd-4502-954e-cbfc2b0f1227": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18166263578890__0e52dad3-59dd-4502-954e-cbfc2b0f1227-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "100% Plastikfrei & Vegan!",
+            "title": "Entdecke die Zukunft der Schönheit",
+            "title_size": 70,
+            "subheading": "Deine Haut wird es lieben, die Natur wird es dir danken.",
+            "link": "shopify:\/\/collections\/starters-alle",
+            "link_text": "Alle Starters",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_Header_Start.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263578890__0e52dad3-59dd-4502-954e-cbfc2b0f1227-image-1"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "566591e4-f702-46a8-b7bf-f1b9bcdd98cc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18067861471498__566591e4-f702-46a8-b7bf-f1b9bcdd98cc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Verwöhne dich selbst und die Erde mit Produkten, die gut für dich und unsere Umwelt sind"
+          }
+        },
+        "template--18067861471498__566591e4-f702-46a8-b7bf-f1b9bcdd98cc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Tauche ein in unsere umweltfreundliche Kollektion an veganer Kosmetik, frei von Plastik und schädlichen Chemikalien. <\/p><p><strong>Jetzt entdecken und gemeinsam eine nachhaltige Zukunft gestalten!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18067861471498__566591e4-f702-46a8-b7bf-f1b9bcdd98cc-heading-1",
+        "template--18067861471498__566591e4-f702-46a8-b7bf-f1b9bcdd98cc-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "0c02fa3e-2250-44f8-804b-2b7b77d11d2d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "TOP STARTER SETS",
+        "home_featured_products": "top-starter-sets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "91b19452-24f0-497a-b774-c9fa60429045": {
+      "type": "testimonials",
+      "blocks": {
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/230330_PETA-VeganAward-Beauty-Logo_coral_Flyeralarm_Format_69737ec3-5c25-42c6-9e1f-16621caee042.jpg",
+            "author": "PETA BEAUTY AWARD GEWINNER",
+            "author_info": "Kategorie 3in1 Dusch-Fluffs"
+          }
+        },
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Icons_CleaneInhaltssoffe.jpg",
+            "author": "Clean Beauty",
+            "author_info": "Für deine Haut nur das Beste!"
+          }
+        },
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Icons_Nachhaltig.jpg",
+            "author": "HOCHWERTIGE INHALTSSTOFFE",
+            "author_info": "Ohne bedenkliche Ingredients"
+          }
+        },
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "image": "shopify:\/\/shop_images\/Icons_Plastikfrei.jpg",
+            "author": "100% PLASTIKFREI",
+            "author_info": "Produkt, Verpackung, Versand"
+          }
+        },
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Sortiment_Icons_PetaApproved_vegan_hellgrun.png",
+            "author": "PETA BEAUTY WITHOUT BUNNIES",
+            "author_info": "100% Vegan & PETA Approved"
+          }
+        },
+        "534daeaf-7070-47e5-9189-f8624ef378ab": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Icons_FairePreise.jpg",
+            "author": "Umweltschutz",
+            "author_info": "Wir unterstützen viele Projekte"
+          }
+        }
+      },
+      "block_order": [
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-1",
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-5",
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-4",
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-3",
+        "template--18067861471498__91b19452-24f0-497a-b774-c9fa60429045-testimonial-2",
+        "534daeaf-7070-47e5-9189-f8624ef378ab"
+      ],
+      "settings": {
+        "title": "darum nur puremetics!",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "42062ffa-b297-41c0-a441-fa1321570cb8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Spezielle Pflege und Wirkstoffkosmetik",
+        "home_featured_products": "spezielle-pflege",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "6b63310d-c07b-4443-8be5-5c7a0bd1f329": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18067861471498__6b63310d-c07b-4443-8be5-5c7a0bd1f329-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Einfacher Einstieg in die nachhaltige Schönheit"
+          }
+        },
+        "template--18067861471498__6b63310d-c07b-4443-8be5-5c7a0bd1f329-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Der Start in die nachhaltige Beauty kann ganz schön verwirrend sein, wir wissen das. Deshalb haben wir für dich Kollektionen erstellt, die auf spezielle Bedürfnisse zugeschnitten sind. <\/p><p>Mit Puremetics wird der Weg zu umweltbewusster Pflege zum Kinderspiel. Unsere Produkte sind einfach anzuwenden und lassen dich strahlen, ohne Kompromisse einzugehen. <\/p>"
+          }
+        },
+        "22cc6a52-4c0a-4843-b038-de1432e09e53": {
+          "type": "heading",
+          "settings": {
+            "title": "Beginne noch heute deine Reise zu einer nachhaltigen Schönheit"
+          }
+        }
+      },
+      "block_order": [
+        "template--18067861471498__6b63310d-c07b-4443-8be5-5c7a0bd1f329-heading-1",
+        "template--18067861471498__6b63310d-c07b-4443-8be5-5c7a0bd1f329-text-1",
+        "22cc6a52-4c0a-4843-b038-de1432e09e53"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "d0b3489b-1164-45e9-a39e-de856dbedb30": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18067861471498__d0b3489b-1164-45e9-a39e-de856dbedb30-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "zeige mir Starters für",
+            "heading": "den Einstieg in ein plastikfreies Bad",
+            "textarea": "Perfekt für alle, die noch neu sind und und von Kopf bis Fuß verschiedene testen wollen.",
+            "cta_text1": "entdecken",
+            "cta_link1": "shopify:\/\/collections\/starters-von-kopf-bis-fuss",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Starter_Sets.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#10a2ab",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--18067861471498__d0b3489b-1164-45e9-a39e-de856dbedb30-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "zeige mir Starters für",
+            "heading": "Gesichtsreinigungsroutinen nach Hauttyp",
+            "textarea": "Optimal abgestimmte Sets für alle, die nach Gesichtsreinigung und Pflege für ihren Hauttyp suchen.",
+            "cta_text1": "entdecken",
+            "cta_link1": "shopify:\/\/collections\/gesichtspflege-starters",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_skincare.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#10a2ab",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "d21f69e9-e3d2-446b-a8f5-82ac185e704b": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "zeige mir Starters für",
+            "heading": "seidig zarte und gepflegte haut",
+            "textarea": "Duschen, Baden, Peelen, Cremen: Für alle, die Ihre Körperpflegeroutine schneller, einfacher und nachhaltiger gestalten wollen.",
+            "cta_text1": "entdecken",
+            "cta_link1": "shopify:\/\/collections\/korperpflege-starters",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_koerperreinigung.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#10a2ab",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "57ee6d9c-efdf-49b9-8659-9ed52aa17d3d": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "zeige mir Starters für",
+            "heading": "natürlich schöne und gesunde haare",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "entdecken",
+            "cta_link1": "shopify:\/\/collections\/starters-haarpflege",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Haarpflege_5df65afd-22d3-4e7c-bee4-f26070fbe116.png",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#10a2ab",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18067861471498__d0b3489b-1164-45e9-a39e-de856dbedb30-advanced-1",
+        "template--18067861471498__d0b3489b-1164-45e9-a39e-de856dbedb30-advanced-2",
+        "d21f69e9-e3d2-446b-a8f5-82ac185e704b",
+        "57ee6d9c-efdf-49b9-8659-9ed52aa17d3d"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "d7c8bf70-1d26-468e-8bcb-f594e66348e6": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18067861471498__d7c8bf70-1d26-468e-8bcb-f594e66348e6-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "So viel Plastikmüll konnte bis jetzt  geborgen werden",
+            "heading": "87.668 KG",
+            "textarea": "Für jede Bestellung bergen wir in Kooperation mit CleanHub 1 KG Plastikmüll aus Küstenregionen, bevor sie in die Weltmeere gelangen. Das geborgene Plastik wird nach Möglichkeit recycelt.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Kein_Titel_600_x_150_px_200_x_2852_px_2852_x_200_px_2852_x_300_px.png",
+            "video_url": "",
+            "width": "100",
+            "height": 140,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18067861471498__d7c8bf70-1d26-468e-8bcb-f594e66348e6-advanced-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "d99b3c97-6c56-4f46-8404-d286e42ed5c8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-draussen_-_Kopie.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Pioniere der Nachhaltigkeit",
+        "title": "in der Kosmetikbranche",
+        "text": "<p>Puremetics ist kein konventionelles Unternehmen und wir machen auch keine koventionellen Produkte. Wir machen es anders. Nämlich Besser!<\/p><p>Wir kreieren mit Leidenschaft nachhaltige, vegane und plastikfreie Kosmetik, die für dich und die Umwelt das Beste bereit hält. Dabei wählen wir nicht zwischen Nachhaltigkeit und Qualität - wir verbinden Sie! Denn beide Ansprüche steht bei uns an erster Stelle - ohne Kompromisse. Jedes Produkt ist ein Beweis für unser Streben nach höchster Perfektion. Doch wir gehen noch weiter: Mit jedem Kauf unterstützt du unsere Umweltschutzprojekte, die eine grünere Zukunft für uns alle schaffen. Sei Teil einer Bewegung, die für eine bessere Welt einsteht. <\/p><p><strong>Sei Teil von Puremetics <\/strong>💚<\/p>",
+        "button_label": "Näher kennenlernen",
+        "button_link": "shopify:\/\/pages\/unsere-mission",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "44850ea2-8b7f-4195-8435-0a2212e770e3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Isabel_Text.png",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Kundenbewertungen_Profilbilder_Original_Isabel_18e428ee-2e08-4565-965a-1b554bf28b59.jpg",
+        "image2_mask": "none",
+        "subtitle": "Du bist in guter Gesellschaft. Über",
+        "title": "50.000 zufriedene Kund:innen",
+        "text": "<p>Eure Zufriedenheit unser höchstes Anliegen. Wir schätzen eure Meinung und Feedbacks sehr, denn sie helfen uns, kontinuierlich besser zu werden und euch die besten Produkte zu bieten. Gemeinsam gestalten wir eine Beauty-Erfahrung, die euren, zu recht, hohen Ansprüchen gerecht wird. Teilt eure Gedanken mit uns und lasst uns gemeinsam die Welt der nachhaltigen Schönheit verbessern! <\/p>",
+        "button_label": "Weitere Erfahrungen lesen",
+        "button_link": "shopify:\/\/pages\/erfahrungen",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "6db45350-ed6b-4fe0-a768-8b64f41eaf81": {
+      "type": "promo-grid",
+      "blocks": {
+        "2e3beff2-7c99-4921-9391-c12f969a9f06": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Presse_logos_Beige_03.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "2e3beff2-7c99-4921-9391-c12f969a9f06"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "a5db1124-716f-46f6-8702-b3cbbe73cf13": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Hast du Fragen oder wünscht beratung?",
+        "text": "<p>Zögere bitte nicht und zu kontaktieren. Es ist uns ein großes Anliegen, dass du dich bei uns rundum wohl fühlst und die, speziell für deine Bedürfnisse, besten Produkte erhältst. Sende uns eine Nachricht und wir werden uns so schnell es uns möglich ist bei dir melden.<\/p>",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "0e52dad3-59dd-4502-954e-cbfc2b0f1227",
+    "566591e4-f702-46a8-b7bf-f1b9bcdd98cc",
+    "0c02fa3e-2250-44f8-804b-2b7b77d11d2d",
+    "91b19452-24f0-497a-b774-c9fa60429045",
+    "42062ffa-b297-41c0-a441-fa1321570cb8",
+    "6b63310d-c07b-4443-8be5-5c7a0bd1f329",
+    "d0b3489b-1164-45e9-a39e-de856dbedb30",
+    "d7c8bf70-1d26-468e-8bcb-f594e66348e6",
+    "d99b3c97-6c56-4f46-8404-d286e42ed5c8",
+    "44850ea2-8b7f-4195-8435-0a2212e770e3",
+    "6db45350-ed6b-4fe0-a768-8b64f41eaf81",
+    "a5db1124-716f-46f6-8702-b3cbbe73cf13",
+    "collection-header",
+    "main-collection"
+  ]
+}

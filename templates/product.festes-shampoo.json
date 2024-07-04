@@ -1,0 +1,297 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9ff17de1-f7d4-40f0-b5ea-e0958da3b192": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "980634f4-f61a-43e6-aedc-9fc305607018": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "5da5b5d6-4492-4734-aae2-7bf172260330": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "ea76e68b-e2fd-4d5e-a11d-b1a1ac7e4327": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9ff17de1-f7d4-40f0-b5ea-e0958da3b192",
+        "980634f4-f61a-43e6-aedc-9fc305607018",
+        "variant_picker",
+        "5da5b5d6-4492-4734-aae2-7bf172260330",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "ea76e68b-e2fd-4d5e-a11d-b1a1ac7e4327"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16384393299e5c966a": {
+      "type": "testimonials",
+      "blocks": {
+        "1638439329029e6ff4-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/iconmonstr-medical-13-240.png",
+            "author": "1. Ergiebigkeit",
+            "author_info": "Ein festes Shampoo ersetzt ca. 3 Flüssigshampoos."
+          }
+        },
+        "1638439329029e6ff4-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/iconmonstr-airport-15-240.png",
+            "author": "2. kompakt & auslaufsicher",
+            "author_info": "Das macht es zum perfekten Begleiter im Kulturbeutel oder im Handgepäck."
+          }
+        },
+        "1638439329029e6ff4-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/iconmonstr-recycling-15-240.png",
+            "author": "3. Zero Waste & plastikfrei",
+            "author_info": "Mit unseren festen Shampoos sparst du jede Menge Plastikmüll."
+          }
+        },
+        "495a2a14-647a-460f-a97f-e1fc17a46a48": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/iconmonstr-flask-7-240.png",
+            "author": "4. ohne bedenkliche Inhaltsstoffe",
+            "author_info": "Wir verzichten auf Mikroplastik, Flüssigkunststoff, Silikone und alle weiteren bedenklichen Inhaltsstoffe"
+          }
+        },
+        "0a6eec20-7ab3-47ac-9dc9-8dbaef8c247e": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/iconmonstr-calendar-2-240.png",
+            "author": "5. seifenfrei",
+            "author_info": "Deshalb benötigst du, im Gegensatz zu Haarseife, keine Umgewöhnungszeit."
+          }
+        }
+      },
+      "block_order": [
+        "1638439329029e6ff4-0",
+        "1638439329029e6ff4-1",
+        "1638439329029e6ff4-2",
+        "495a2a14-647a-460f-a97f-e1fc17a46a48",
+        "0a6eec20-7ab3-47ac-9dc9-8dbaef8c247e"
+      ],
+      "settings": {
+        "title": "5 gute Gründe für festes Shampoo",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "1639036172be60bbd7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mehr für deine Plastikfreie Haarpflegeroutine",
+        "home_featured_products": "haaressentials",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16384393299e5c966a",
+    "1639036172be60bbd7",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

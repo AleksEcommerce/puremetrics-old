@@ -1,0 +1,757 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "27abfcfc-0c58-4583-82d9-c45e41b98cb6": {
+          "type": "text",
+          "settings": {
+            "text": "🏆 <b>PETA BEAUTY AWARD GEWINNER!<\/b>"
+          }
+        },
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf": {
+          "type": "text",
+          "settings": {
+            "text": "\"Die Fluffs fühlen sich mega toll an auf der Haut, duften traumhaft gut, und pflegen unendlich gut die Haut! Ich hab empfindliche Haut und reagiere schnell auf alles mögliche... Aber meine Haut liebt die Fluffs! Meine Haut hat sich tatsächlich auch verbessert, seit ich darauf umgestiegen bin [...] ein absolutes must have!!\" - Anke J. via Bewertung"
+          }
+        },
+        "0045d8a6-4ca2-4bc6-9212-588979dafc80": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "c6dcc857-c4a1-44b8-9dda-fb807f8eac24": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "f985e0bf-ed0c-4d35-ba9c-faa6be6dd8ad": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "eb97c311-91b7-4447-8618-37153f5ca129": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "b78e6c45-f315-4408-9f96-112e07fed2f7": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum produkt?",
+            "phone": false
+          }
+        },
+        "3619d036-15ca-4c11-bfed-2fca7504d357": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "27abfcfc-0c58-4583-82d9-c45e41b98cb6",
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "5cc7db43-7a2c-42ef-8f49-0e44f3def774",
+        "407c7faf-fb15-4a1e-8e73-d48d9cd53ecf",
+        "0045d8a6-4ca2-4bc6-9212-588979dafc80",
+        "variant_picker",
+        "c6dcc857-c4a1-44b8-9dda-fb807f8eac24",
+        "2ab0108f-e744-46e2-a4d3-a542c4647dee",
+        "buy_buttons",
+        "f985e0bf-ed0c-4d35-ba9c-faa6be6dd8ad",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "de5cdc0c-a450-4933-af09-6e3557b7b8b8",
+        "eb97c311-91b7-4447-8618-37153f5ca129",
+        "b78e6c45-f315-4408-9f96-112e07fed2f7",
+        "3619d036-15ca-4c11-bfed-2fca7504d357"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_iGLnrg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KDckMA": {
+          "type": "heading",
+          "settings": {
+            "title": "Hautverwöhnung in Perfektion: Kokosöl, Sheabutter, Macadamiabutter und pflanzliches Glycerin"
+          }
+        },
+        "text_nARPLU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unser 3in1 Dusch-Fluff ist ein Dusch-Vergnügen für die Sinne und ein Fest der Pflege dank der wertvollen Inhaltsstoffe, insbesondere des Kokosöls, der Shea- und Macadamiabutter und pflanzlichen Glycerins. Tauche ein in die Welt der Verwöhnung und gönn deiner Haut das Beste. Unser 3in1 Dusch-Fluff macht das Duschen zu einem sinnlichen Erlebnis und hinterlässt eine strahlend saubere und liebevoll gepflegte Haut.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KDckMA",
+        "text_nARPLU"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_video_text_QxChK9": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Die Quelle natürlicher Feuchtigkeit",
+        "title": "Kokosöl",
+        "text": "<p>Kokosöl, bekannt für seine außergewöhnlichen pflegenden Eigenschaften, ist der Schlüssel zu intensiver Feuchtigkeit. Es dringt tief in die Haut ein, um sie von innen heraus zu revitalisieren. Die reichhaltigen Fettsäuren des Kokosöls unterstützen die Haut bei der Erhaltung ihrer natürlichen Feuchtigkeitsbalance, während es gleichzeitig beruhigt und geschmeidig macht. Das Ergebnis: Eine seidig weiche und gut genährte Haut.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/849b336b07d04b9eac16850251e9c14e.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "background_video_text_Bkx4NC": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Sanfte Exfoliation für strahlende Haut",
+        "title": "Zuckerpeeling",
+        "text": "<p>Der feine Zucker im 3in1 Dusch-Fluff fungiert als sanftes Peeling, das abgestorbene Hautzellen sanft entfernt und die Hautoberfläche glättet. Anders als grobe Peelings sorgt der Zucker für eine schonende Exfoliation, die die Haut nicht irritiert. Stattdessen wird die Haut geschmeidig und vorbereitet, um die wohltuenden Inhaltsstoffe des Dusch-Fluffs optimal aufzunehmen.<\/p><p><strong>Zuckerpeeling ist etwas sanfter als unsere Sorten mit Salzpeeling<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9e9fc503181f44fd989d2524d6635690.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "background_video_text_f6YKHL": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Feuchtigkeitsbindung für lang anhaltende Frische",
+        "title": "pflanzliches Glycerin",
+        "text": "<p>Glycerin ist der unsichtbare Held, wenn es um die Bewahrung von Feuchtigkeit geht. Es bildet einen schützenden Film auf der Haut, der die Feuchtigkeit einschließt und so einen lang anhaltenden Effekt bietet. Glycerin trägt dazu bei, die Haut vor dem Austrocknen zu bewahren und schenkt ihr ein angenehmes, geschmeidiges Gefühl. In Kombination mit Kokosöl wird deine Haut schon während der Reinigung, mit einer Extraportion Feuchtigkeit versorgt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7eb0d44a77a848ad89d708118dd03b1a.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "text_and_image_4BKd6G": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_sheabutter.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Intensivpflege für extrem trockene Haut",
+        "title": "mit sheabutter und macadamiabutter",
+        "text": "<p>Unser 3in1 Intensiv-Duschfluff ist der ultimative Verwöhnmoment für extrem trockene Haut. Im Vergleich zu den 3in1 Dusch-Fluffs enthält er eine noch reichhaltigere Mischung aus Kokosöl, ergänzt durch wertvolle Sheabutter und Macadamiabutter – eine einzigartige Kombination für eine intensive Pflege.<\/p><p><strong>Sheabutter <\/strong>ist reich an ungesättigten Fettsäuren, die für ihre feuchtigkeitsspendenden Eigenschaften bekannt sind. Diese unterstützen die Haut dabei, Feuchtigkeit zu bewahren und tragen zur Verbesserung der Elastizität bei.<\/p><p><strong>Macadamiabutter <\/strong>enthält Palmitoleinsäure, die natürlicherweise in der Haut vorkommt. Diese Fettsäure hilft, die Haut zu pflegen und ihr ein glattes, geschmeidiges Gefühl zu verleihen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EfaXpY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremertics_Winter_Edition_Macadamiamilch.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "kuschelweiche haut dank",
+        "title": "effektiver fettsäuren",
+        "text": "<p>Laurinsäure, dringt tief in die Haut ein, um Feuchtigkeit zu spenden und die Hautbarriere zu stärken. Dies hilft, Trockenheit zu bekämpfen und gleichzeitig ein geschmeidiges Hautgefühl zu fördern.<\/p><p>Gemeinsam bilden diese Inhaltsstoffe eine effektive Allianz, um sehr trockene Haut zu revitalisieren und nachhaltig zu pflegen. Der 3in1 Intensiv-Duschfluff bietet Reinigung und Peeling gepaart mit einer luxuriösen Pflege, die selbst die anspruchsvollste Haut mit Feuchtigkeit versorgt. Erlebe das ultimative Verwöhnritual für deine Haut.<\/p><p><strong>Für ein strahlendes und geschmeidiges Hautgefühl.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_jh7eqC": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_drnD9q": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_rP4VgN": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_yhV3K3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_qeYRwj": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_drnD9q",
+        "text_block_rP4VgN",
+        "text_block_yhV3K3",
+        "text_block_qeYRwj"
+      ],
+      "settings": {
+        "title": "Das puremetics versprechen",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "background_image_text_dNrnmb": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "der 3in1 Dusch-Fluff",
+        "title": "ein GEWINNER!",
+        "text": "<p>„Puremetics zeigt mit 3in1 Dusch-Fluff vorbildlich, dass tierische Inhaltsstoffe und Tierversuche der Vergangenheit angehören. Vegane und moderne Produktkreationen sind gut für Tiere, Menschen und die Umwelt. Wir hoffen, dass viele weitere Unternehmen der Beauty-Branche diesem Beispiel folgen werden und gratulieren herzlich zum Gewinn des PETA VEGAN AWARD 2023 in der Kategorie „Bestes veganes Peeling“. <\/p><p><em><strong>Harald Ullmann, Mitgründer und 2. Vorsitzender von PETA Deutschland<\/strong><\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/230711_PETA-VeganAward_Beauty_2023-SocialMediaTeaser_1024x512px.jpg",
+        "layout": "left",
+        "height": 650,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "1634213101991484f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Puremetics_Fluff_10_add25fc7-2791-4381-8ed8-ede8c2824f64.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "100% Papier – 0% plastik",
+        "title": "Unsere 3in1 Dusch-Fluff Becher",
+        "text": "<p>Diese haben wir eigens in Kooperation mit einem regionalen Produzenten für unsere 3in1 Dusch-Fluffs entwickelt. Sie werden in Deutschland produziert und kommen dabei ganz ohne Plastik oder Bioplastikbeschichtung aus und halten deinen Dusch-Fluff dennoch frisch. <\/p><p>Unsere Verpackung besteht zu 100% Papier, das in einem speziellen Verfahren verarbeitet wird, um dem 3in1 Dusch-Fluff frisch und sicher zu verpacken. <\/p><p><strong>Bitte beachte aber, dass der Becher nicht wasserdicht ist.<\/strong> Nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1634209607c9015f08": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_3in1-Dusch-Fluff_Alle-Sorten_Gif-Cremigkeit_1f9b5794-1626-4ca7-82ec-881327ada58c.gif",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "garantiert frei von mikroplastik",
+        "title": "Wusstest du, …?",
+        "text": "<p>… dass Peelingkörner früher meist kleine Plastikpartikel waren? Heute sind in vielen Peelings zum Glück keine peelenden Plastikpartikel mehr enthalten. Sie werden offiziell als „frei von Mikroplastik“ bezeichnet und dürfen entsprechende Siegel tragen. Mikroplastik ist in vielen Peelings aber leider trotzdem in Form von flüssigem Kunststoff enthalten.  Dieser kann in Flüssen und Meeren nicht abgebaut werden und schadet unserer Umwelt. <br\/><strong>Wir machen bei Plastik keine Kompromisse! Unser 3in1 Dusch-Fluff ist zu 100% plastikfrei, versprochen!<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials_7bkWd9": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_eJDJhW": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Das Gute ins Töpfchen! Gleich drei Pflegeschritte vereint der 3in1 Dusch-Fluff. Fluffiges Duschgek reinigt den Körper, feine Zuckerkörnchen glätten die Haut, Kokosbutter spart das Eincremen hinterher - und dazu dieser zarte Mandelduft!<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos__Laura_bc5a4e80-a316-4f66-8366-d00978a17922.png",
+            "author": "",
+            "author_info": "Print-Ausgabe 11.09.2019"
+          }
+        },
+        "testimonial_7NyT8m": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Duschgel, Peeling, Bodylotion - drei Engel in Einem. Damit gelingt dir die tägliche Reinigung und Pflege im Handumdrehen.<br\/>Peelend, hautverfeinernd, pflegend, feuchtigkeitsspendend und durchblutungsfördernd. Auf die Plätze, fertig, Schaum on!<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos__Beautyjunkies.png",
+            "author": "",
+            "author_info": "Online-Ausgabe 05.09.2019"
+          }
+        },
+        "testimonial_ifnUzV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Aus Liebe zur Natur! Für alle, die sich nicht zwischen Umweltschützerin und Beautyjunkie entscheiden wollen, ist Puremetics genau richrig! Die Kosmetik ist zu 100% vegan, plastikfrei, größtenteils biologisch abbaubar und in Deutschland hergestellt. Schöne Sache!<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos__Lisa.png",
+            "author": "",
+            "author_info": "Print-Ausgabe 25.09.2019"
+          }
+        },
+        "testimonial_67mtwK": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Ein wohltuendes Peeling mit Scrub oder Bürste stimuliert Körper und Sinne. Jeder Quadratzentimeter unserer Haut besitzt ungefähr 250 Rezeptoren [...] Vielseitig: Duschgel, Peeling und Lotion im 3in1 Dusch-Fluff von Puremetics.<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_Petra.png",
+            "author": "",
+            "author_info": "Print-Ausgabe Dezember 2019"
+          }
+        },
+        "testimonial_QCpd7W": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Bye bye Plastik! Das haben sich wohl auch die Hersteller dieser smarten Beauty-Produkte gedacht und die Verpackung kurzerhand durch Papier ersetzt [...] Besser geht´s nicht: Der \"3in1 Dusch-Fluff\" mit Meersalz ist Duschgel, Peeling und Bodylotion in einem!<\/p>",
+            "image": "shopify:\/\/shop_images\/PresseLogos_BravoGirl.png",
+            "author": "",
+            "author_info": "Print-Ausgabe 10.06.2020"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_eJDJhW",
+        "testimonial_7NyT8m",
+        "testimonial_ifnUzV",
+        "testimonial_67mtwK",
+        "testimonial_QCpd7W"
+      ],
+      "settings": {
+        "title": "Das sagt die Presse über den 3in1 Dusch-Fluff!",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#e2f4e2",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "163420357348263aa0": {
+      "type": "faq",
+      "blocks": {
+        "question_dg9feP": {
+          "type": "question",
+          "settings": {
+            "title": "Was genau ist ein 3in1 Dusch-Fluff?",
+            "text": "<p>Dar 3in1 Dusch-Fluff ist ein vielseitiges Pflegeprodukt, das Duschgel, Peeling und Lotion in einem vereint. Er bietet eine umfassende Hautpflege während des Duschens.<\/p>"
+          }
+        },
+        "163420357348263aa0-0": {
+          "type": "question",
+          "settings": {
+            "title": "Warum gibt es Sorten mit Zuckerpeeling und Sorten mit Salzpeeling?",
+            "text": "<p>Das Salzpeeling ist im Vergleich zum Zuckerpeeling etwas intensiver. Es kommt also ganz auf deinen Hauttyp und deine Wahrnehmung an, welche Sorte für dich am besten ist.<\/p>"
+          }
+        },
+        "question_i8FKii": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist der Unterschied zwischen dem 3in1 Dusch-Fluff und dem 3in1 Intensiv Dusch-Fluff?",
+            "text": "<p>Den 3in1 Intensiv Dusch-Fluff haben wir aufgrund einiger Kund:innen Feedbacks kreiert. Er ist für sehr trockene Haut geeignet und enthält im Gegensatz zum 3in1 Dusch-Fluff noch mehr Kokosöl und zusätzlich Shea- und Macadamiabutter.<\/p>"
+          }
+        },
+        "163420357348263aa0-1": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es sonst noch einen Unterschied zwischen den Sorten?",
+            "text": "<p>Nur bei den Düften. Die Basis ist bei den 3in1 Dusch-Fluffs immer gleich.<\/p>"
+          }
+        },
+        "a4419ea2-ac08-4692-b973-386221e16992": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den 3in1 Dusch-Fluff mit unter die Dusche nehmen?",
+            "text": "<p>Die Verpackung sollte nicht in direktem Kontakt mit Wasser kommen, da sie aufweichen kann. Wir empfehlen, eine Portion vor dem Duschen zu entnehmen oder den Fluff in ein anderes Gefäß umzufüllen. Wir verzichten der Umwelt zu Liebe ganz bewusst auf Plastik, auch bei unseren Verpackungen. Die Dusch-Fluff Becher können so nämlich, wenn sie komplett entleert und gesäubert sind, im Altpapier entsorgt werden können.<\/p>"
+          }
+        },
+        "2319f256-8c0e-4182-b516-5a0887214cfd": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den 3in1 Dusch-Fluff täglich nutzen?",
+            "text": "<p>Ja, der 3in1 Dusch-Fluff kann täglich verwendet werden, um deine Haut zu reinigen, zu peelen und intensiv zu pflegen.<\/p>"
+          }
+        },
+        "question_p67CBe": {
+          "type": "question",
+          "settings": {
+            "title": "Ist der 3in1 Dusch-Fluff für alle Hauttypen geeignet?",
+            "text": "<p>Ja, der 3in1 Dusch-Fluff eignet sich für alle Hauttypen. Die Formel ist sanft und pflegend, sodass er auch für empfindliche Haut geeignet ist.<\/p>"
+          }
+        },
+        "2601e901-2d7a-4ce6-9e31-93ac57a6516f": {
+          "type": "question",
+          "settings": {
+            "title": "Kann der 3in1 Dusch-Fluff als Ersatz für Bodylotion verwendet werden?",
+            "text": "<p>Ja, der Dusch-Fluff kann als Ersatz für Bodylotion verwendet werden, da er intensive Feuchtigkeitspflege bietet. Solltest du sehr trockene Haut haben, wäre der 3in1 Intensiv Dusch-Fluff die richtige Wahl für dich.<\/p>"
+          }
+        },
+        "question_7RMyLr": {
+          "type": "question",
+          "settings": {
+            "title": "Hinterlässt der 3in1 Dusch-Fluff einen fettigen Film auf der Haut?",
+            "text": "<p>Nein, der Dusch-Fluff hinterlässt keinen fettigen Film. Die Formel ist darauf ausgerichtet, Feuchtigkeit zu spenden, ohne ein klebriges Gefühl zu hinterlassen.<\/p>"
+          }
+        },
+        "question_8jN9PM": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält ein Becher des 3in1 Dusch-Fluffs?",
+            "text": "<p>Die Haltbarkeit hängt natürlich von der Häufigkeit der Anwendung sowie den individuellen Vorlieben ab. Du benötigst pro Duschgang ca. einen gehäuften Esslöffel 3in1 Dusch-Fluff. Ein Becher sollte also für 10 bis 15 Anwendungen reichen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_dg9feP",
+        "163420357348263aa0-0",
+        "question_i8FKii",
+        "163420357348263aa0-1",
+        "a4419ea2-ac08-4692-b973-386221e16992",
+        "2319f256-8c0e-4182-b516-5a0887214cfd",
+        "question_p67CBe",
+        "2601e901-2d7a-4ce6-9e31-93ac57a6516f",
+        "question_7RMyLr",
+        "question_8jN9PM"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIGer ZUM THEMA \"3in1 dusch-fluffs\". HIER SIND DIE ANTWORTEN dazu 💚"
+      }
+    },
+    "background_image_text_hYiMFD": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Regina H. aus Speyer",
+        "title": "meine Wohlfühloase",
+        "text": "<p>\"Diese Produkte sind meine Wohlfühloase, tolle Qualität, gute Beschreibung und Tips, das Produkt hält was versprochen wird, perfekte Nachhaltigkeit, mein Bad ist fast Plastikfrei, die Duschfluffs sind sehr dekorativ verpackt und kein Problem, eine kleine Menge entnehmen und unter die Dusche, peelt und pflegt hervorragend, tolles kreatives Team mit tollen Visionen, denen ich ganz viel Erfolg wünsche, perfekter Kundenservice und super schnelle Lieferung, tolle Aktionen.\"<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/DF_3in1_Sensibelchen_Moodbild_c48acc98-1eee-43c9-8a90-02db1f1cc19a.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "testimonials_UHtjed": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_rjRhdR": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich mag die Dusch Fluffs von puremetics sehr gerne! Und kaufe sie schon zum zweiten Mal. Meine Familie und Freunde sind ebenfalls begeistert.<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        },
+        "testimonial_kD73iA": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Nur zu empfehlen! Das ist meine drölfzigste Bestellung und ich bin noch immer super zufrieden! Und die duschfluffs sind ein sehr beliebtes Geschenk im Familien und Freundeskreis.<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        },
+        "testimonial_b3TLjM": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Super Fluffy. Unkomplizierte Bestellung, schnelle Lieferung, tolles Preisleistungsverhältnis. Ganz tolles Produkt. Kann ich nur empfehlen. Super Fluffy.<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        },
+        "testimonial_hWeR3h": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Die Dush Fluffs sind unglaublich toll , so pflegend das selbst ich mit meiner trockener Haut mich tatsächlich nicht mehr eincremen muss . Das Badesalz ist auch super in der Pflege und im Duft.<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        },
+        "testimonial_CAhEEJ": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Der Dusch-Fluff ist toll. Die Haut wird ganz weich. Ich bin begeistert. Wurde auch sehr schnell geliefert. Top!<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        },
+        "testimonial_9rUXt6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ich liiiiebe Puremetics. Ich bin sooo begeistert von der Philosophie, den Produkten und dem Team. DANKE dass es EUCH gibt. Ihr seid alle wundervoll. Ihr inspiriert mich jeden Tag und macht mein Leben jeden Tag glücklich und entspannt. Ich dusche jeden Tag mit eurem MANDELMILCH DUSCHFLUFF.<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        },
+        "testimonial_8KBeUe": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p> Die Duschfluffs bieten für jeden Geschmack einen passenden Duft, sind sehr angenehm bei der Nutzung und hinterlassen ein angenehmes Hautgefühl.<\/p>",
+            "author": "Trusted Shops",
+            "author_info": "verifizierte Bewertung"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_rjRhdR",
+        "testimonial_kD73iA",
+        "testimonial_b3TLjM",
+        "testimonial_hWeR3h",
+        "testimonial_CAhEEJ",
+        "testimonial_9rUXt6",
+        "testimonial_8KBeUe"
+      ],
+      "settings": {
+        "title": "Das sagen unsere Kund:innen über den 3in1 Dusch-Fluff",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#e2f4e2",
+        "color_text": "#1d1c1c"
+      }
+    },
+    "text_and_image_yJnMQz": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO und Co-Founder)",
+        "title": "Nachhaltigkeit, die sich von konventionellen Duschprodukten abhebt",
+        "text": "<p>Duschgele, Peeling und Bodylotions sind ein absolutes Must-Have in der Reinigungs- und Pflegeroutine und natürlich nicht mehr aus unseren Badezimmern wegzudenken. Allerdings wird in diesem Segment auch unglaublich viel vermeidbarer Abfall produziert.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Durch die Verwendung unserer plastikfreien Becher kann der Verbrauch von umweltbelastenden Materialien reduziert werden. Zudem ist Papier sehr gut recyclebar. Biologisch abbaubare oder recycelbare Materialien können die Umweltbelastung weiter reduzieren. Durch die Kombination mehrerer Funktionen in einem Produkt bieten unsere 3in1 Dusch-Fluffs eine nachhaltigere Alternative zu konventionellen Duschprodukten und ermöglichen es, einen Beitrag zum Umweltschutz zu leisten, ohne auf hochwertige Pflege verzichten zu müssen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "23d907bf-716c-4711-9507-8bed60a93e5e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "😍 Entdecke noch mehr Fluffy-Flavours 😍",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_iGLnrg",
+    "background_video_text_QxChK9",
+    "background_video_text_Bkx4NC",
+    "background_video_text_f6YKHL",
+    "text_and_image_4BKd6G",
+    "text_and_image_EfaXpY",
+    "text_with_icons_jh7eqC",
+    "background_image_text_dNrnmb",
+    "1634213101991484f1",
+    "1634209607c9015f08",
+    "testimonials_7bkWd9",
+    "163420357348263aa0",
+    "background_image_text_hYiMFD",
+    "testimonials_UHtjed",
+    "text_and_image_yJnMQz",
+    "23d907bf-716c-4711-9507-8bed60a93e5e",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

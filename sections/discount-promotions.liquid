@@ -1,0 +1,176 @@
+{{ 'component-discount-promotion.css' | asset_url | stylesheet_tag }}
+
+{% style %}
+    @media (min-width: 769px) {
+    .section-{{ section.id }} .promotion-heading {
+    font-size: {{ section.settings.heading_size }}px;
+    }
+    .section-{{ section.id }} .promotion-text {
+    font-size: {{ section.settings.text_size }}px;
+    }
+    }
+{% endstyle %}
+
+<div class="index-section discount-promotion section-{{ section.id }}">
+    <div class="page-width">
+        {% if section.settings.heading != blank or section.settings.text != blank %}
+            <div class="section-header">
+                {% if section.settings.heading != blank %}
+                    <h2 class="promotion-heading section-header__title">{{ section.settings.heading }}</h2>
+                {% endif %}
+
+                {% if section.settings.text != blank %}
+                    <p class="promotion-text">{{ section.settings.text | newline_to_br }}</p>
+                {% endif %}
+            </div>
+        {% endif %}
+
+        <div class="promotion-grid">
+            {% for block in section.blocks %}
+                {% case block.type %}
+                    {% when 'promotion' %}
+                        <div class="promotion-grid-item rte promotion-block-{{ block.id }}">
+                            {% assign image_width = block.settings.image_width %}
+                            {% if block.settings.image %}
+                                {{ block.settings.image | image_url: width: image_width | image_tag:
+                                class: 'promotion-grid-img',
+                                width: image_width,
+                                alt: block.settings.image.alt,
+                                preload: true
+                                }}
+                            {% endif %}
+
+                            {% if block.settings.text != blank %}
+                                <style>
+                                    .promotion-grid-item.promotion-block-{{ block.id }} p,
+                                    .promotion-grid-item.promotion-block-{{ block.id }} * {
+                                        color: {{ block.settings.text_color }};
+                                        background-color: {{ block.settings.text_bg }};
+                                    }
+                                </style>
+                                {{ block.settings.text }}
+                            {% endif %}
+                        </div>
+                {% endcase %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+
+{% schema %}
+{
+  "name": "Discount Promotion",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Bundle Up & SAVE!"
+    },
+    {
+      "type": "textarea",
+      "id": "text",
+      "label": "Text",
+      "default": "Add the items you want to Cart and discount automatically applies at Checkout."
+    },
+    {
+      "type": "header",
+      "content": "Font size"
+    },
+    {
+      "type": "range",
+      "id": "heading_size",
+      "label": "Heading",
+      "default": 60,
+      "min": 20,
+      "max": 120,
+      "step": 1,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "text_size",
+      "label": "Text",
+      "default": 20,
+      "min": 10,
+      "max": 110,
+      "step": 1,
+      "unit": "px"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "promotion",
+      "name": "promotion",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Upload image"
+        },
+        {
+          "type": "range",
+          "id": "image_width",
+          "min": 50,
+          "max": 400,
+          "step": 5,
+          "unit": "px",
+          "label": "Image width",
+          "default": 300
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "Text",
+          "default": "<p>Promotional text</p>",
+          "info": "Don't want? Keep blank."
+        },
+        {
+          "type": "color",
+          "id": "text_color",
+          "label": "Text color",
+          "default": "#000"
+        },
+        {
+          "type": "color",
+          "id": "text_bg",
+          "label": "Text background color",
+          "default": "#18d371"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Discount Promotion",
+      "blocks": [
+        {
+          "type": "promotion",
+          "settings": {
+            "text": "<p>PICK ANY 2 SAVE 7.5%</p>",
+            "text_bg": "#18d371"
+          }
+        },
+        {
+          "type": "promotion",
+          "settings": {
+            "text": "<p>PICK ANY 3 SAVE 10%</p>",
+            "text_bg": "#74dff7"
+          }
+        },
+        {
+          "type": "promotion",
+          "settings": {
+            "text": "<p>PICK ANY 4 SAVE 12.5%</p>",
+            "text_bg": "#f8e71c"
+          }
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["footer", "header", "custom.popups"]
+  }
+}
+{% endschema %}

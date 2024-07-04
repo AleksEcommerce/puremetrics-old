@@ -1,0 +1,398 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow_UqcBzj": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xNUeeM": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "5 Gründe",
+            "title": "warum der 3in1 Dusch-Fluff das beste für deine Haut ist",
+            "title_size": 56,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Puremetics_Duschie_Banner.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xNUeeM"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_GxxiJe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_3in1_Dusch-Fluff.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "1. Alleskönner in einem Schritt mit Zeitersparnis",
+        "text": "<p>Der 3in1 Dusch-Fluff ist die Komplettpflege für deine Haut. Die einzigartige Kombination aus Duschgel, Peeling und Lotion, spart dir nicht nur Zeit in deiner täglichen Routine, indem das lästige Eincremen nach dem Duschen entfällt, sondern sorgt auch für eine umfassende und effektive Hautpflege. Mit jedem Duschen verwöhnst du deine Haut, förderst deren Regeneration und schützt sie vor dem Austrocknen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_UBL8QT": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_Dusch-Fluff_Vorteile.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "2. Körperpflege, die Hautpflege integriert",
+        "text": "<p>Der 3in1 Dusch-Fluff enthält eine hohe Konzentration an natürlichen Pflegestoffen wie pflanzliches Glycerin, hochwertiges Kokosöl und feinstes Zuckerpeeling. Diese Inhaltsstoffe sind bekannt für ihre feuchtigkeitsspendenden und hautpflegenden Eigenschaften. Im Gegensatz zu flüssigen Produkten, die oft mit Füllstoffen verdünnt sind, bietet dir der Dusch Fluff eine reiche, intensive Pflege, die deine Haut geschmeidig und gesund hält. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yxVRKy": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_Dusch-Fluff_Inhaltsstoffe.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "3. Frei von bedenklichen Inhaltstoffen",
+        "text": "<p>Neben reichhaltigen Hautpflege-Inhaltsstoffen ist der 3in1 Dusch-Fluff von puremetics pflanzenbasiert, vegan und tierversuchsfrei. Er enthält keine Sulfate, Silikone, Parabene oder Mikroplastik. Diese schonende Zusammensetzung macht den Dusch Fluff besonders hautverträglich und ideal für Menschen mit empfindlicher Haut oder Allergien.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_QMdK3t": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4_Dusch-Fluff_Vergleich_Waseranteil.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "4. Umweltschonend, nachhaltig und sehr ergiebig",
+        "text": "<p>Anders als herkömmliche Duschgele, die oft über 80 % Wasser enthalten und in Einwegplastik verpackt sind, setzt der Dusch Fluff von puremetics auf eine wasserfreie Formulierung mit einem hohen Anteil an Pflegestoffen. Dieses milde Konzentrat ist nicht nur besonders sanft zur Haut, sondern auch sehr ergiebig. Verpackt in fettdichtem Papier, fördert die Nutzung dieses Produkts die Reduzierung von Plastikmüll und schont aktiv unsere Umwelt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_8kRakH": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_Dusch-Fluff_Vorher-nachher.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "5. Ausgezeichnet aus gutem Grund",
+        "text": "<p>Mit über 70.000 zufriedenen Kund:innen hat der 3in1 Dusch-Fluff seine Beliebtheit und Wirksamkeit bereits unter Beweis gestellt. Die Hautverträglichkeit wurde von Dermatest mit dem Gesamturteil „Sehr gut“ ausgezeichnet. Und auch PETA Deutschland lobt die nachhaltige und wirkungsvolle Weise des 3in1 Dusch-Fluffs, der in der Kategorie „Bestes Körperpeeling“ den PETA BEAUTY VEGAN AWARD 2023 gewonnen hat! Solche Anerkennungen verdeutlichen nicht nur die herausragende Qualität von puremetics, sondern auch unser Engagement für ethische Standards und Nachhaltigkeit.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "discount_promotion_rVxQ4G": {
+      "type": "discount-promotion",
+      "settings": {
+        "new_version": true,
+        "sub_heading": "Tue deiner Haut etwas Gutes und wechsle jetzt zur wasserfreien Hautpflege von puremetics.",
+        "heading": "Spare Heute auf Unser Tester-Set 20%!",
+        "text": "<p><\/p><p><strong> 20% RABATT!<\/strong><\/p><p><strong><br\/><\/strong><\/p><ul><li><strong>🥰<\/strong> Das Beste für deine Haut<\/li><li>🚚 Kostenloser Versand<\/li><li><strong>🌼<\/strong> Gut für Dich und gut für die Umwelt<\/li><li><strong>💸<\/strong> 30 Tage Geld-Zurück Garantie<\/li><\/ul>",
+        "btn_text": "JETZT SICHERN",
+        "btn_url": "https:\/\/puremetics.de\/products\/tester-set-von-kopf-bis-fuss",
+        "heading_size": 32,
+        "text_size": 24
+      }
+    },
+    "testimonials_ch8NHB": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_z6UPDm": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Justine_Wessling_Foto_DuschFluffAnwendung.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_cXXQFP": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/IMG_0157.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_UtT4NE": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_315.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_FVkKEd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_255.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_UwDKJL": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_286.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_V3nVV4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_257.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_XAd8A7": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_275.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_Q3W98Q": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_314.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        },
+        "testimonial_LYckeU": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "",
+            "image": "shopify:\/\/shop_images\/Dusch-Fluff_Vibrant_Seasalt_Robin.jpg",
+            "author": "Author's name",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_z6UPDm",
+        "testimonial_cXXQFP",
+        "testimonial_UtT4NE",
+        "testimonial_FVkKEd",
+        "testimonial_UwDKJL",
+        "testimonial_V3nVV4",
+        "testimonial_XAd8A7",
+        "testimonial_Q3W98Q",
+        "testimonial_LYckeU"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Über 70.000 zufriedene Kund:innen",
+        "btn_text": "JETZT AUSPROBIEREN",
+        "btn_url": "https:\/\/puremetics.de\/collections\/bestseller\/products\/spar-set-3in1-dusch-fluff-bestseller-flavour-testbox-seifenminis-mit-seifenbox",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "logo_list_hFkwrY": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_ewzqax": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_279.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_PEGrr7": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_315.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_4RAnkp": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_255.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_FmFTVF": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_314.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_9TNK4P": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_286.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_GwWtfE": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_257.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_griG7M": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_275.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_ewzqax",
+        "logo_image_PEGrr7",
+        "logo_image_4RAnkp",
+        "logo_image_FmFTVF",
+        "logo_image_9TNK4P",
+        "logo_image_GwWtfE",
+        "logo_image_griG7M"
+      ],
+      "settings": {
+        "title": "ÜBER 70.000 ZUFRIEDENE KUND:INNEN                         ⭐⭐⭐⭐⭐",
+        "btn_text": "",
+        "btn_url": "",
+        "logo_opacity": 100,
+        "divider": true
+      }
+    },
+    "promo_grid_jHw44n": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_kChEFj": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Tester-Set",
+            "heading": "20% RABATT",
+            "textarea": "Das fluffigste Duscherlebnis everlife!",
+            "cta_text1": "JETZT SICHERN",
+            "cta_link1": "https:\/\/puremetics.de\/products\/tester-set-von-kopf-bis-fuss",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/BLOG_Banner_SeifevsDuschgel_1_eefa58c3-5312-420c-978f-409545e8507d.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 100,
+            "text_size": 150,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "advanced_kChEFj"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_UqcBzj",
+    "text_and_image_GxxiJe",
+    "text_and_image_UBL8QT",
+    "text_and_image_yxVRKy",
+    "text_and_image_QMdK3t",
+    "text_and_image_8kRakH",
+    "discount_promotion_rVxQ4G",
+    "testimonials_ch8NHB",
+    "logo_list_hFkwrY",
+    "promo_grid_jHw44n"
+  ]
+}

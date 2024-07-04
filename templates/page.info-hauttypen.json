@@ -1,0 +1,225 @@
+{
+  "sections": {
+    "1654176081370fb013": {
+      "type": "rich-text",
+      "blocks": {
+        "1654176081bafeb286-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wir haben das passende Produkt für deinen Hauttyp"
+          }
+        },
+        "1654176081bafeb286-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Auch wenn jede Haut einzigartig ist, können wir in verschiedene Hauttypen unterscheiden, welche bestimmte Merkmale aufzeigen. Durch diese Merkmale bestimmen wir spezielle Pflegebedürfnisse, um das beste Produkt für dich anzubieten, dass deinen individuellen Ansprüchen gerecht wird.<\/p><p>Hier ist es zunächst wichtig einzuschätzen, welcher Hauttyp du eigentlich bist. Wir helfen dir bei der Orientierung.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1654176081bafeb286-0",
+        "1654176081bafeb286-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "b871f448-e79d-4b02-b29c-d2772ab98536": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Ausgeglichene Haut",
+        "text": "<p>Auch als normale Haut bezeichnet gilt als relativ ausgeglichen und gesund. Die Merkmale sind:<br\/><br\/>Ein Gleichmäßiger Teint, Elastizität, Unempfindlichkeit, feine Poren, die Haut ist gut mit Feuchtigkeit versorgt, ohne dabei fettig zu wirken, keine oder minimale Unreinheiten.<br\/><br\/>Eine angemessene Hautpflege hilft, diesen guten Zustand zu erhalten.<\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/ausgeglichene-haut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/09b3f0d8f5f5482d8d34016be8f3593e.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "1601abde-2f90-4874-b6a7-6d97f58a0852": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Trockene Haut",
+        "text": "<p>Trockene ist durch einen Mangel an Feuchtigkeit und Lipiden gekennzeichnet ist. Folgende Merkmale sind typisch für trockene Haut:<br\/><br\/>Schuppen, Rauheit, Juckreiz, Spannungsgefühl, Rötung, Feine Linien und Fältchen, Empfindlichkeit.<br\/><br\/>Eine feuchtigkeitsintensive Hautpflege kann helfen, diese Symptome zu lindern.<\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/trockene-haut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b944b26d30934d67b9ef89e83f6af2b9.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "3768cf13-5d2a-42a7-9798-d95de598740b": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Ölige Haut",
+        "text": "<p>Ölige Haut ist durch eine übermäßige Produktion von Talg gekennzeichnet: <br\/><br\/>Die Haut hat einen fettigen Glanz, insbesondere in der T-Zone. Außerdem häufige Glanzbildung, Unreinheiten, und vergrößerte Poren. Make-up neigt dazu, schneller \"abzurutschen\".<br\/><br\/>Eine abgestimmte Hautpflege kann helfen, die Talgproduktion zu regulieren, Glanz und Unreinheiten zu minimieren.<\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/fettige-haut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7c730715202d4f368303b035973b9baf.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "8762fd4b-c4ee-4be0-b64a-b4cc9738abc4": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Mischhaut",
+        "text": "<p>Mischhaut weist Kombinationen aus verschiedenen Hautmerkmalen auf. Typischerweise: <\/p><p>T-Zone öliger, während die Wangen und Augenpartie trockener sind. Vergrößerte Poren, Unreinheiten in der T-Zone, Feine Linien oder Trockenheitsfältchen.<br\/><br\/>Eine abgestimmte Pflege kann helfen, die Bedürfnisse der verschiedenen Bereiche auszugleichen und in ein gesundes Gleichgewicht zu bringen.<\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/mischhaut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/78d140d8ac134c3e8931b2fe2e46455a.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "16ccd001-aba6-4cf9-b2fb-4d6053c56199": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Unreine Haut",
+        "text": "<p>Unreine Haut ist durch Mitesser, Pickel, Pusteln oder Akne gekennzeichnet. Die Merkmale unreiner Haut variieren:<br\/><br\/>Mitesser, Pickel, Papeln, Pusteln, Akne, Rötungen, Ölige Haut und Narbenbildung.<br\/><br\/>Eine effektive Hautpflege und gegebenenfalls professionelle Behandlungen können helfen, die Symptome zu lindern und das Erscheinungsbild unreiner Haut zu verbessern. <\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/unreine-haut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1b4a05bda0ee499290ee6e25d97e128e.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "9e1ceb9c-4cb4-4a70-ad32-e7519ca22fcb": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Reife Haut",
+        "text": "<p>Im Laufe der Zeit zeigt die Haut spezifische Merkmale, die mit dem natürlichen Alterungsprozess und anderen Einflüssen verbunden sind:<br\/><br\/>Feine Linien und Falten, Verlust der Hautelastizität, Trockenheit, Veränderungen in der Hauttextur, Hautdünung, Altersflecken, Rötungen, Veränderungen in der Hautfarbe.<br\/><br\/>Um die Hautgesundheit zu erhalten und die sichtbaren Zeichen der Hautalterung zu minimieren, ist eine umfassende Pflegeroutine wichtig. <\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/reife-haut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3112368063004649b6c620d02ac05e9e.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "79713d94-0e3c-4f00-8d30-8e7cc9bde256": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Sensible Haut",
+        "text": "<p>Sensible Haut reagiert besonders empfindlich auf äußere Reize. Typische Symptome und Merkmale sind:<br\/><br\/>Rötungen, Trockenheit, Brennen, Jucken, Reizungen, Hitzeempfindlichkeit, Neigung zu Allergien, Gefühl der Spannung und Rote Äderchen.<br\/><br\/>Allergenfreie Hautpflegeprodukte, die die Bedürfnisse sensibler Haut verstehen können helfen, diese Symptome zu verringern.<\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/sensible-haut",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cf1b5c1ec8494dfbb6257601807b5eb6.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "daf0a8d5-bd50-45db-81b4-62644bb9736a": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Kinderhaut",
+        "text": "<p>Es ist wichtig zu beachten, dass Kinderhaut individuell variieren kann, und einige Kinder spezifische Hautbedürfnisse haben können. Generell ist sie aber:<\/p><p>Zart, rein, Aufnahmefähiger, Resistent und weist meist noch keine Hautprobleme auf. Sie ist jedoch anfällig für Sonnenbrände, produziert noch wenig Talg und ist empfindlicher gegenüber verschiedener Inhaltsstoffe.<\/p><p>Die Hautpflege für Kinder sollte also so sanft und reduziert wie möglich sein.<\/p>",
+        "button_label": "Passende Produkte entdecken",
+        "button_link": "shopify:\/\/collections\/kinder",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0514daaf69d741a299822e4081e21b84.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "fb0caee2-f16b-4a45-8ca7-390474d24e42": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO & CO-Founder)",
+        "title": "Eine gute Nachricht",
+        "text": "<p>Unsere Haut ist ein sehr fleißiges Organ. Innerhalb eines Monats findet ein Erneuerungszyklus statt. Dabei wird fast ein halbes Kilo Haut neu gebildet!<\/p><p>Wir haben es also aktiv in der Haut, den Zustand unserer Haut jederzeit sichtbar zu verbessern. Eine auf den Hauttyp abgestimmte Reinigung und Pflege kann dabei helfen.<\/p><p>Es ist wichtig zu beachten, dass neben der Hautreinigung und Pflege natürlich auch andere Faktoren eine Rolle beim Hautzustand spielen. Zum Beispiel hormonelle Veränderungen, genetische Veranlagung oder Ernährung. <\/p><p>Deine Haut mit genügend Achtsamkeit, Liebe und gute Produkte zu verwöhnen lohnt sich also. Es ist nie zu spät, um anzufangen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4a3d1c98-ee19-46dd-a36b-9287165e14a2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18166264594698__4a3d1c98-ee19-46dd-a36b-9287165e14a2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Du hast Fragen zu unseren Produkten oder deinem Hauttyp?"
+          }
+        },
+        "template--18166264594698__4a3d1c98-ee19-46dd-a36b-9287165e14a2-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Kontaktiere uns gerne jederzeit! Wir beraten dich gerne persönlich.<\/p>"
+          }
+        },
+        "49e4db64-aa4c-4e72-b0f1-70e680a1ad1c": {
+          "type": "button",
+          "settings": {
+            "link": "mailto:info@puremetics.de",
+            "link_text": "E-Mail senden"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166264594698__4a3d1c98-ee19-46dd-a36b-9287165e14a2-heading-1",
+        "template--18166264594698__4a3d1c98-ee19-46dd-a36b-9287165e14a2-text-1",
+        "49e4db64-aa4c-4e72-b0f1-70e680a1ad1c"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "d9aed45c-e5d8-4fb1-8013-4345005b8534": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Alle Produkte",
+        "home_featured_products": "alle-artikel",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "1654176081370fb013",
+    "b871f448-e79d-4b02-b29c-d2772ab98536",
+    "1601abde-2f90-4874-b6a7-6d97f58a0852",
+    "3768cf13-5d2a-42a7-9798-d95de598740b",
+    "8762fd4b-c4ee-4be0-b64a-b4cc9738abc4",
+    "16ccd001-aba6-4cf9-b2fb-4d6053c56199",
+    "9e1ceb9c-4cb4-4a70-ad32-e7519ca22fcb",
+    "79713d94-0e3c-4f00-8d30-8e7cc9bde256",
+    "daf0a8d5-bd50-45db-81b4-62644bb9736a",
+    "fb0caee2-f16b-4a45-8ca7-390474d24e42",
+    "4a3d1c98-ee19-46dd-a36b-9287165e14a2",
+    "d9aed45c-e5d8-4fb1-8013-4345005b8534"
+  ]
+}

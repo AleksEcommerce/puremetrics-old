@@ -1,0 +1,249 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": false,
+        "collection_image_enable": false,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_P7XLdQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_rhF4rn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#14c08d",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Shop-Banner_Cleanhub-100000kg-Plastik_20.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Shop-Banner_Cleanhub-100000kg-Plastik_Mobile_20.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_hepfyj": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_rhF4rn",
+        "image_hepfyj"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "countdown_N4xBPw": {
+      "type": "countdown",
+      "blocks": {
+        "content_RKKkQ9": {
+          "type": "content",
+          "settings": {
+            "heading": "Wir feiern mit Euch!",
+            "heading_size": "h2",
+            "text": "<p>Dank eurer Bestellungen konnten wir 100.000 kg Plastikmüll bergen! 🙌 <br\/>Sichere dir exklusive -20% Rabatt auf Alles! <strong>Nur bis zum 20.01.2024. <\/strong><\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_pCGN4X": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "01",
+            "day": "20",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "content_RKKkQ9",
+        "timer_pCGN4X"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#f6f6f6",
+        "background_color": "#14c08d",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_XQcKcB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g6aUiT": {
+          "type": "heading",
+          "settings": {
+            "title": "Gib einfach den Rabattcode:"
+          }
+        },
+        "text_Ng9q8M": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h1>PARTY20<\/h1><p>an der Kasse ein, um exklusive 20% zu sparen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_g6aUiT",
+        "text_Ng9q8M"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_collection_kATigQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere liebevoll gestalteten Sets",
+        "home_featured_products": "spar-sets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "LAGERSALE",
+            "text": "15% auf Alles mit dem Code: PARTY15",
+            "link": "https:\/\/puremetics.de\/discount\/LAGERSALE",
+            "label": "JETZT AKTIVIEREN",
+            "color_tint": "#18c390",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        },
+        "advanced": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "banner",
+        "advanced"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_iykJBX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yLeew6": {
+          "type": "heading",
+          "settings": {
+            "title": "ALLE PRODUKTE"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yLeew6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_P7XLdQ",
+    "countdown_N4xBPw",
+    "rich_text_XQcKcB",
+    "featured_collection_kATigQ",
+    "promo-grid",
+    "rich_text_iykJBX",
+    "main-collection"
+  ]
+}

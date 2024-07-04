@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ direction }}" class="{{ checkout_html_classes }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, user-scalable=0">
+    <meta name="referrer" content="origin">
+
+    <title>{{ page_title }}</title>
+
+    {{ content_for_header }}
+
+    {{ checkout_stylesheets }}
+    {{ checkout_scripts }}
+    
+    <!-- Google Tag Manager -->
+    <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KLRJTVQ');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLRJTVQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    {{ skip_to_content_link }}
+
+    <header class="banner" data-header role="banner">
+      <div class="wrap">
+        {{ content_for_logo }}
+      </div>
+    </header>
+
+    {{ order_summary_toggle }}
+    <div class="content" data-content>
+      <div class="wrap">
+        <div class="main">
+          <header class="main__header" role="banner">
+            {{ content_for_logo }}
+            {{ breadcrumb }}
+            {{ alternative_payment_methods }}
+          </header>
+          <main class="main__content" role="main">
+            {{ content_for_layout }}
+          </main>
+          <footer class="main__footer" role="contentinfo">
+            {{ content_for_footer }}
+          </footer>
+        </div>
+        <aside class="sidebar" role="complementary">
+          <div class="sidebar__header">
+            {{ content_for_logo }}
+          </div>
+          <div class="sidebar__content">
+            {{ content_for_order_summary }}
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    {{ tracking_code }}
+    <script>
+      {% if page_title contains 'Bezahlung' %}{% if page_title contains 'puremetics' %}{% if page_title contains 'Vielen Dank' %}{% if order.fulfillment_status == 'unfulfilled' %}{% if order.cancelled == false %}
+          var dlCollection = [];
+          {% for item in order.line_items %}
+              dlCollection.push({"id":"{{'shopify_DE_' | append: item.product_id | append: '_' | append: item.variant_id}}",  'google_business_vertical': 'retail'});
+          {% endfor %}
+          dataLayer.push({
+            'event': 'purchase',
+            'value': '{{order.total_price | money}}',
+            'items': dlCollection,
+          });
+      {% endif %}{% endif %}{% endif %}{% endif %}{% endif %}
+      
+    </script>
+    
+     <script>
+      (function($) {
+        const $checkoutItems = {};
+        {% for item in checkout.line_items %}
+        $checkoutItems['{{ forloop.index }}_{{item.variant_id| json}}'] = {
+          line_price: {{item.line_price}},
+        };
+        {% endfor %}
+        
+        $(document).on("page:load page:change",  function() {
+          if(Checkout.$('form.edit_checkout[data-reduction-form="true"]').length){
+            fetch('/cart.js').then(function(res){return res.json()}).then(function(cart){
+                const cartHasFreeItemButCheckoutDoesnt = cart.items.find(function(item, i){return item.line_price === 0 && $checkoutItems[(i+1) + '_' + item.variant_id] && $checkoutItems[(i+1) + '_' + item.variant_id].line_price !== 0; });
+                if(cartHasFreeItemButCheckoutDoesnt){
+                	alert("[ACHTUNG]\n\nDu hast einen Rabattcode eingegeben und befindest dich nun unter dem Warenwert, der dich für das Gratis-Geschenk qualifiziert. Bitte erhöhe deinen Warenkorbwert, um weiterhin das Geschenk gratis zu erhalten.");
+                }
+            });
+          }
+        });
+      })(Checkout.$);
+
+       
+      
+    </script>
+  </body>
+</html>

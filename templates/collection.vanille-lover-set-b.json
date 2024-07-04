@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": false,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_H6yg9n": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ABraNQ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#00c2b7",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Dusch-Fluff_Vanille_Shop_Banner_Landingpage.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Produkteinfuehrung_Dusch-Fluff_Vanille_Shop_Banner_Landingpage_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ABraNQ"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "1646306464aa9eb545": {
+      "type": "rich-text",
+      "blocks": {
+        "164630646479b57f5d-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "164630646479b57f5d-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_CGkyNQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nB8Xw6": {
+          "type": "heading",
+          "settings": {
+            "title": "Für alle Vanille lover - pflege von kopf bis fuß!"
+          }
+        },
+        "text_TtnTHJ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Nun ist es soweit! Deine Vanille-Träume werden wahr.<br\/>Kuschelweiche Haut ohne eincremen nach dem Duschen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nB8Xw6",
+        "text_TtnTHJ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_8kFyxP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LNV7FE": {
+          "type": "heading",
+          "settings": {
+            "title": "DAS PERFEKTE STARTER-SET"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LNV7FE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_product_TUnVF4": {
+      "type": "featured-product",
+      "blocks": {
+        "price_QdtLKf": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_PP3miz": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_FzygMi": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_G4ck9N": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_QdtLKf",
+        "description_PP3miz",
+        "variant_picker_FzygMi",
+        "buy_buttons_G4ck9N"
+      ],
+      "settings": {
+        "featured_product": "vanille-lover-set-von-kopf-bis-fuss-1",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_BNAfLU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3dbreN": {
+          "type": "heading",
+          "settings": {
+            "title": "Jetzt Neu: 3in1 Dusch-fluff Vanille"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3dbreN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_product_8NG4MJ": {
+      "type": "featured-product",
+      "blocks": {
+        "price_8FgJCk": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_TDQrpH": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_CcjGWC": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_KjtYBy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_8FgJCk",
+        "description_TDQrpH",
+        "variant_picker_CcjGWC",
+        "buy_buttons_KjtYBy"
+      ],
+      "settings": {
+        "featured_product": "3in1-dusch-fluff-vanille-mit-zuckerpeeling",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "text_and_image_q9wUhm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/02_puremetics_3in1-Dusch-Fluff_Vanille_Konzept_50c6e130-203f-42f0-b43a-5608b36c0d7b.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Duschgel, Peeling und Bodylotion in Einem!",
+        "text": "<p>Unser Multitalent zum Duschen und Baden. Unsere 3in1 Produkte vereinen Duschgel, Peeling und Bodylotion in Einem. Wow!<\/p><p>Die Zuckerpartikel befreien eure Körper von abgestorbenen Hautschüppchen & Störern, die milden und pflanzlichen Tenside sorgen für die pflegende Reinigung und das Kokosöl versorgt eure Haut bereits beim Duschen mit Feuchtigkeit, weshalb Eincremen nach dem Duschen\/Baden der Vergangenheit angehört.<br\/>Da bleibt nur eins zu sagen: \"Bye, bye Duschgel, Bodylotion und Peeling! Hello 3in1 Dusch-Fluff!\" <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_mYcTTw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/04_puremetics_3in1-Dusch-Fluff_Vanille_Bein.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "die anwendung deines Dusch-Fluffs",
+        "text": "<p>Massiere deinen Fluff auf der nassen Haut ein, genieße den Duft und das feine Peeling, spüle es anschließend gründlich mit Wasser wieder ab. Fertig! Deine Haut ist nach dem Duschen\/Baden schön geschmeidig. Was ist mit eincremen? Nicht mehr nötig, deine Haut ist nun mit Feuchtigkeit versorgt.<\/p><h3><span style=\"text-decoration:underline\"><strong>­<\/strong><\/span><strong>PAPPE UND WASSER? MHMM…<\/strong><\/h3><p>Damit die Verpackungen recycelt und im Altpapier entsorgt werden können, bestehen sie zu 100% aus Papier. Fülle deinen Fluff daher am Besten in ein anderes Gefäß um (Marmeladenglas, etc.) oder nehme dir vor dem Duschen\/Baden eine Portion raus.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_ph9ewj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hjBwbg": {
+          "type": "heading",
+          "settings": {
+            "title": "hier bekommst du die geballte Ladung Vanille"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hjBwbg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_H6yg9n",
+    "1646306464aa9eb545",
+    "rich_text_CGkyNQ",
+    "rich_text_8kFyxP",
+    "featured_product_TUnVF4",
+    "rich_text_BNAfLU",
+    "featured_product_8NG4MJ",
+    "text_and_image_q9wUhm",
+    "text_and_image_mYcTTw",
+    "rich_text_ph9ewj",
+    "main-collection"
+  ]
+}

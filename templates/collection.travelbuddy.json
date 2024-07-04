@@ -1,0 +1,107 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "165657422048283b46": {
+      "type": "promo-grid",
+      "blocks": {
+        "f26c8b8c-a694-48c2-b511-ee1f7913d895": {
+          "type": "banner",
+          "settings": {
+            "heading": "🏝️🧳 4 für 2 Aktion",
+            "text": "Code: TRAVELBUDDY",
+            "link": "",
+            "label": "",
+            "color_tint": "#0ff245",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        },
+        "4ca08b70-0197-44fd-9c54-e8f879771a9f": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "Lege einfach 4 der Produkte in den Warenkorb, nutze den Code und schon werden die günstigsten 2 gratis*.",
+            "link": "",
+            "label": "",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "f26c8b8c-a694-48c2-b511-ee1f7913d895",
+        "4ca08b70-0197-44fd-9c54-e8f879771a9f"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 2,
+        "space_above": true,
+        "space_below": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "16565753971ef015b0": {
+      "type": "promo-grid",
+      "blocks": {
+        "440bb688-0fa1-4156-9285-b1413f41b150": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "*Gilt nur für die festen Pflege-Duschen 'Orange' und 'Mandelmilch', das Feste Volumen-Shampoo 'Reisblüte' und das Protein-Shampoo 'Mandelmilch'. Gilt nur bis einschließlich 10.07.22 und nur unter www.puremetics.de. Nicht kombinierbar mit anderen Rabatten. Nur solange der Vorrat reicht. Keine Barauszahlung. Rabattiert werden immer die günstigsten Produkte.",
+            "link": "",
+            "label": "",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "440bb688-0fa1-4156-9285-b1413f41b150"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "165657422048283b46",
+    "main-collection",
+    "16565753971ef015b0"
+  ]
+}

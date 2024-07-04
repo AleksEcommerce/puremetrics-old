@@ -1,0 +1,121 @@
+{
+  "sections": {
+    "16606523838ffb1412": {
+      "type": "promo-grid",
+      "blocks": {
+        "ed66c740-7fd6-48ac-ad08-b7b44e51f623": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Header_Adventskalender_2022_ab101d56-003a-43d1-ad7d-7c8042ca5623.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 600,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "e3506f9f-9aa2-49dc-9709-c755c2be7201": {
+          "type": "banner",
+          "settings": {
+            "heading": "",
+            "text": "plastikfreie,  vegane und nachhaltige Kosmetik von Kopf bis Fuß",
+            "link": "",
+            "label": "",
+            "color_tint": "#af2c44",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "ed66c740-7fd6-48ac-ad08-b7b44e51f623",
+        "e3506f9f-9aa2-49dc-9709-c755c2be7201"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "16606524569fdec2db": {
+      "type": "rich-text",
+      "blocks": {
+        "166065245667afb775-0": {
+          "type": "heading",
+          "settings": {
+            "title": "ZERO-Waste-Kalender für Beautijunkies & Weltretter:innen"
+          }
+        },
+        "166065245667afb775-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Weihnachten kommt bekanntlich immer schneller als man denkt, oder? Deshalb geht unser Adventskalender schon ganz bald  in den Presale. <\/p><p><strong>Deine Presale Vorteile:<\/strong><br\/><br\/>✨ 100 € geschenkt: Im Presale sparst du ganze 50 % auf deinen Kalender <\/p><p>✨Der Kalender ist streng limitiert und nur in einer kleinen Auflage verfügbar. Du kannst ihn dir im Presale schon vor allen anderen sichern.<\/p><p><\/p><p><strong>Achtung: <\/strong>Sollte der Kalender im Presale bereits ausverkauft sein, dann ist er NICHT im regulären Shop verfügbar. <\/p><p>Verliere deshalb keine Zeit und melde dich schon jetzt ganz unverbindlich an.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166065245667afb775-0",
+        "166065245667afb775-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16606528577f5f82c4": {
+      "type": "advanced-content",
+      "blocks": {
+        "1660652857b92e2c97-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"klaviyo-form-XcS6ki\"><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1660652857b92e2c97-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1660653151505dc0c6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2022_Moodbild01.jpg",
+        "subtitle": "das erwartet dich",
+        "title": "Sneak Peek 💫",
+        "text": "<p>⭐ 100% plastikfrei & vegan<br\/>⭐ Clean Beauty ohne bedenkliche Inhaltsstoffe<br\/>⭐ 24 Produkte von Kopf bis Fuß<br\/>⭐ Beliebte Bestsellern und spannende Neuheiten<br\/>⭐ Ausschließlich Vollgrößen<br\/>⭐ Mit kompostierbarem Inlay<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "16606523838ffb1412",
+    "16606524569fdec2db",
+    "16606528577f5f82c4",
+    "1660653151505dc0c6"
+  ]
+}

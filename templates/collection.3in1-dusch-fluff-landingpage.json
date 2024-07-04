@@ -1,0 +1,487 @@
+{
+  "sections": {
+    "1645203018ac349618": {
+      "type": "slideshow",
+      "blocks": {
+        "1645203017f1f7f9fe-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Peeling, Duschgel und Lotion vereint in einem Produkt!",
+            "title": "Das fluffigste Duscherlebnis everlife!",
+            "title_size": 80,
+            "subheading": "Vegan und 100% plastikfrei vom produkt bis zur Verpackung bis zum Versand",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/OhneBedenklicheI_06.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1645203017f1f7f9fe-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1645697827d4b2724b": {
+      "type": "promo-grid",
+      "blocks": {
+        "164569782768c07011-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "auf alle Dusch-Fluffs",
+            "heading": "20% rabatt",
+            "textarea": "Code: Fluff20",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/BLOG_Banner_SeifevsDuschgel_1_eefa58c3-5312-420c-978f-409545e8507d.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 100,
+            "text_size": 150,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "164569782768c07011-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
+    "16452036371d03bbc0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_DuschFluff_CoconutCream_11.jpg",
+        "image2": "shopify:\/\/shop_images\/Werbung_Flash10_Boomarang_02_778fa5c8-0e5b-4b16-9d3a-7df33d25164e.gif",
+        "subtitle": "NACHHALTIG, VEGAN, Plastikfrei",
+        "title": "OHNE BEDENKLICHE INHALTSSTOFFE",
+        "text": "<p>Unser Dusch-Fluff ist vom Produkt bis zur Verpackung 100% plastikfrei und verzichtet auf bedenkliche Inhaltsstoffe, die dir oder unserer Umwelt schaden könnten.<\/p><p><br\/><em>,,Ich war auf der Suche nach einem Körperpeeling welches sowohl in der Kosmetik als auch bei der Verpackung ohne Plastik auskommt und bin hier auf den Dusch-Fluff gestoßen. Der Duft ist der Hammer und die Haut ist wirklich weich.<br\/>Kann mir den Dusch-Fluff gar nicht mehr wegdenken!\" - Johanna<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1645203642724ebc4d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mache duschen zu deinem persönlichem Wellness-moment",
+        "home_featured_products": "dusch-fluffs-fluffyland",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "1645208380a0cfdef4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_produktion_1.jpg",
+        "image2": "shopify:\/\/shop_images\/Puremetics_DF_Vanille_-1.jpg",
+        "subtitle": "Laura: Ausgabe 38 Seite 17",
+        "title": "Das Gute ins Töpfchen!",
+        "text": "<p>Gleich drei Pflegeschritte vereint das \"3in1 Dusch-Fluff\". Fluffiges Duschgel reinigt den Körper, feine Zuckerkörnchen glätten die Haut, Kokosbutter spart das Eincremen hinterher - und dazu dieser zarte Mandelduft!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16452041914f6114ea": {
+      "type": "faq",
+      "blocks": {
+        "1645204191e7c1d361-0": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Dusch-Fluff täglich nutzen?",
+            "text": "<p>Ja. Unsere Dusch-Fluffs sind für die tägliche Anwendung ausgelegt. Das Peeling ist dabei sehr sanft und durch die extra Portion Pflege wird deine Haut nicht gereizt.<\/p>"
+          }
+        },
+        "1645204191e7c1d361-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was pflegt dabei die Haut?",
+            "text": "<p>Eine richtig große Portion hochwertige Kokosbutter spendet schon während der Reinigung Feuchtigkeit ohne zu fetten.<\/p>"
+          }
+        },
+        "e703e4fc-ded1-4952-9056-7c5b3f0ab4f7": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es Unterschiede bei den Sorten?",
+            "text": "<p>Nur der Duft und die Peelingkörper. In einigen Sorten ist Meersalzpeeling drin und in anderen Zuckerpeeling.<\/p>"
+          }
+        },
+        "0dca88d4-aaf0-4261-8ac5-85307b0e289a": {
+          "type": "question",
+          "settings": {
+            "title": "Ich bin mir bei den Düften unsicher. Kann ich alle testen?",
+            "text": "<p>Zu jeder Sorte haben wir auch kleine Tester die für eine Anwendung ausreichen. So kannst du dich ganz entspannt durchschnuppern und dein Herzblatt finden :)<\/p>"
+          }
+        },
+        "39b1720e-5e9c-4816-b07f-94c01c314926": {
+          "type": "question",
+          "settings": {
+            "title": "Und die Verpackung ist wirklich plastikfrei?",
+            "text": "<p>Ja zu 100%! Es ist auch kein Bioplastik versteckt. Die Verpackung haben wir monatelang mit einem motivierten Hersteller zusammen ausgetüftelt und sind mächtig stolz auf diese Leistung. Eine Verpackung, die zu 100% aus Papier besteht!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645204191e7c1d361-0",
+        "1645204191e7c1d361-1",
+        "e703e4fc-ded1-4952-9056-7c5b3f0ab4f7",
+        "0dca88d4-aaf0-4261-8ac5-85307b0e289a",
+        "39b1720e-5e9c-4816-b07f-94c01c314926"
+      ],
+      "settings": {
+        "title": "Kurz und knackig"
+      }
+    },
+    "1645204270370efaef": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_chris_und_chido.jpg",
+        "image2": "shopify:\/\/shop_images\/Duschfluff.jpg",
+        "subtitle": "Duschen und entspannen ohne Plastik",
+        "title": "UNSERE DUSCH-FLUFF BECHER",
+        "text": "<p>Diese haben wir eigens für unsere Dusch-Fluffs entwickelt. Sie werden in Deutschland produziert und kommen dabei ganz ohne Plastik oder Bioplastikbeschichtung aus und halten deinen Dusch-Fluff dennoch frisch. Jedoch: Papier bleibt nun mal Papier. Bitte nehme die Becher daher nicht direkt mit in die Dusche, sondern fülle dir etwas Dusch-Fluff für die Nasskabine ab.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16452051764678f66d": {
+      "type": "testimonials",
+      "blocks": {
+        "1645205176524ea4d8-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><em>,,Die Fluffs fühlen sich mega toll an auf der Haut, duften traumhaft gut, und pflegen unendlich gut die Haut! Ich hab empfindliche Haut und reagiere schnell auf alles mögliche... Aber meine Haut liebt die Fluffs! Meine Haut hat sich tatsächlich auch verbessert, seit ich darauf umgestiegen bin. Sie ist nur noch sehr selten trocken und immer schön weich!!\"<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_Qualitat.png",
+            "author": "Anke",
+            "author_info": ""
+          }
+        },
+        "1645205176524ea4d8-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p><em>,,Ich war auf der Suche nach einem Körperpeeling welches sowohl in der Kosmetik als auch bei der Verpackung ohne Plastik auskommt und bin hier auf den Dusch-Fluff gestoßen. Der Duft ist der Hammer und die Haut ist wirklich weich.Kann mir den Dusch-Fluff gar nicht mehr wegdenken!\"<\/em><\/p>",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_Qualitat.png",
+            "author": "Johanna",
+            "author_info": ""
+          }
+        },
+        "1645205176524ea4d8-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Überzeugt hat mich die plastikfreie Verpackung, die angenehme Anwendung und vor allem der geile Geruch. Das schönste ist, dass meine Haut gefühlt auch viel weicher geworden ist :)<\/p>",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_Qualitat.png",
+            "author": "Robin T.J.",
+            "author_info": ""
+          }
+        },
+        "fbcf51fe-77c5-4250-ad42-b102debbed2a": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Die Dusch- Fluffs sind, ebenso wie die Gesichtsseifen, super und dazu noch nachhaltig. Was will man mehr. Klare Kaufempfehlung!<\/p>",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_Qualitat.png",
+            "author": "Marianne D.",
+            "author_info": ""
+          }
+        },
+        "9d8ca68d-88fb-44ec-8248-77ac802916c1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Euer Dusch Fluff ist einfach genial seasalt ist fein herb und darum ideal für Sie und Ihn. Ich bin auf die anderen Sorten gespannt. Wenn ihr die Gesichtsseifen noch handlicher in ihrer Form gestalten könntet. Tolle Verpackung, schneller Versand. Alles TOP<\/p>",
+            "image": "shopify:\/\/shop_images\/Puremetics-Business_Icon_Qualitat.png",
+            "author": "Patrizia M.",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645205176524ea4d8-0",
+        "1645205176524ea4d8-1",
+        "1645205176524ea4d8-2",
+        "fbcf51fe-77c5-4250-ad42-b102debbed2a",
+        "9d8ca68d-88fb-44ec-8248-77ac802916c1"
+      ],
+      "settings": {
+        "title": "Das sagen unsere Kund:innen",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "164520838865c7d8a1": {
+      "type": "featured-product",
+      "blocks": {
+        "16452083885bedfb1d-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "d5296e3c-b069-4885-a8db-8b093b8e4bb5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "4-teilige Geschenkbox"
+          }
+        },
+        "455289bd-d06b-41fc-b6c8-fe8e4e28125d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "In Gratis-Geschenkbox"
+          }
+        },
+        "63045240-8700-44d3-af22-1484bd868cd7": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Mit deinen vier Wunsch-Fluffs"
+          }
+        },
+        "64cf8242-05c5-4f53-90d6-bc5d84c03e9d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Deutschlandweiter GRATIS Versand"
+          }
+        },
+        "16452083885bedfb1d-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "16452083885bedfb1d-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16452083885bedfb1d-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "4667e7ab-c593-48a7-9167-54f487dedc36": {
+          "type": "text",
+          "settings": {
+            "text": "✔  4-teilige Geschenkbox ✔  In Gratis-Geschenkbox✔  Mit deinen vier Wunsch-Fluffs✔  Perfekt zum Kennenlernen & Testen✔  Tipp: Feine Geschenkidee"
+          }
+        }
+      },
+      "block_order": [
+        "16452083885bedfb1d-0",
+        "d5296e3c-b069-4885-a8db-8b093b8e4bb5",
+        "455289bd-d06b-41fc-b6c8-fe8e4e28125d",
+        "63045240-8700-44d3-af22-1484bd868cd7",
+        "64cf8242-05c5-4f53-90d6-bc5d84c03e9d",
+        "16452083885bedfb1d-1",
+        "16452083885bedfb1d-2",
+        "16452083885bedfb1d-3",
+        "4667e7ab-c593-48a7-9167-54f487dedc36"
+      ],
+      "settings": {
+        "featured_product": "kleine-wunsch-fluffy-box",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "164520865191f7a681": {
+      "type": "featured-product",
+      "blocks": {
+        "164520865122fe77e4-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "164520865122fe77e4-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "164520865122fe77e4-2": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "164520865122fe77e4-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "d05bc74a-e787-48e0-bfdf-caee6e30846d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "9-teilige Geschenkbox"
+          }
+        },
+        "7f65d690-191e-45b1-99d6-22c0dcee78e3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "In Gratis-Geschenkbox"
+          }
+        },
+        "97166e16-29c9-4ab4-8fae-dc79accd6565": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Mit deinen neun Wunsch-Fluffs"
+          }
+        },
+        "4caf40e8-2761-44b0-ac4d-0cf613f856ca": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Deutschlandweiter GRATIS Versand"
+          }
+        }
+      },
+      "block_order": [
+        "164520865122fe77e4-0",
+        "164520865122fe77e4-1",
+        "164520865122fe77e4-2",
+        "164520865122fe77e4-3",
+        "d05bc74a-e787-48e0-bfdf-caee6e30846d",
+        "7f65d690-191e-45b1-99d6-22c0dcee78e3",
+        "97166e16-29c9-4ab4-8fae-dc79accd6565",
+        "4caf40e8-2761-44b0-ac4d-0cf613f856ca"
+      ],
+      "settings": {
+        "featured_product": "geschenkbox-grosse-fluffy-box-xxl",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1645208818117ea661": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Du hast noch fragen zu unseren Dusch-Fluffs?",
+        "text": "<p>Dann sende uns eine fluffige Nachricht und wir senden dir eine fluffige Antwort :) Wir freuen uns auf dich!<\/p>",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "1645203018ac349618",
+    "1645697827d4b2724b",
+    "16452036371d03bbc0",
+    "1645203642724ebc4d",
+    "collection-header",
+    "main-collection",
+    "1645208380a0cfdef4",
+    "16452041914f6114ea",
+    "1645204270370efaef",
+    "16452051764678f66d",
+    "164520838865c7d8a1",
+    "164520865191f7a681",
+    "1645208818117ea661"
+  ]
+}

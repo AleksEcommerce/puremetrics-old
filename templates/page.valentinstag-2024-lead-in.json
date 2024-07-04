@@ -1,0 +1,131 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow_aF4WVH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wnDPi7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Streng Limitiert",
+            "title": "Jetzt schnell sichern!",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/puremetics_Valentistag-2024_Shop_Banner_Moodbild.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/puremetics_Valentistag-2024_Shop_Banner_Moodbild_Mobile_2a7caae9-a625-4fca-8d2d-aae071f8db8f.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_wnDPi7"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "countdown_keHzcn": {
+      "type": "countdown",
+      "blocks": {
+        "content_nddgQM": {
+          "type": "content",
+          "settings": {
+            "heading": "Die Anmeldung ist nur noch möglich, bis der countdown abgelaufen ist ⏰",
+            "heading_size": "h2",
+            "text": "<p>Sichere dir jetzt deinen exklusiven Zugang! Registriere dich und du kannst dir eine Stunde vor allen anderen die limitierten Dusch-Fluffs sichern. Verpasse nicht diese Chance!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_aH7nGG": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "01",
+            "day": "27",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": "<p>Leider zu spät! Die Anmeldung ist nicht mehr möglich. Du kannst dir aber dennoch unsere neuen Dusch-Fluffs ab Sonntag den 28.01.2024 um 10:00 Uhr sichern.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_nddgQM",
+        "timer_aH7nGG"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffbba8",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "1706019760d2cd9973": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_VHEDRn": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "RFBffD"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_VHEDRn"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "text_and_image_8BHNF4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_3in1_Special-Dusch-Fluff_Banane-und-Pfirsich_Produktbild_c11843b0-be91-4929-8da6-fc500bb4c6c4.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "schon Neugierig?",
+        "title": "das erwartet dich",
+        "text": "<p><strong>EINE FRUCHTIG, SÜSSE LIEBESERKLÄRUNG<\/strong><\/p><ul><li>100% plastikfreie & vegane Kosmetik<\/li><li>Clean Beauty ohne bedenkliche Inhaltsstoffe<\/li><li>Drei 3in1 Dusch-Fluff Duo Sets: <br\/>1. Banane & Pfirsich<br\/>2. Banane & Banane<br\/>3. Pfirsich & Pfirsich <\/li><li>Valentinstag-Geschenkbox 'Sweethearts': <br\/>1x 3in1 Dusch-Fluff 'Banane'<br\/>1x 3in1 Dusch-Fluff 'Pfirsich'<br\/>1x 3in1 Dusch-Konfekt ‘Vanille‘<\/li><li>Liebevoll verpackt in einer Geschenkbox <\/li><\/ul><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_aF4WVH",
+    "countdown_keHzcn",
+    "1706019760d2cd9973",
+    "text_and_image_8BHNF4"
+  ]
+}

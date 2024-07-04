@@ -1,0 +1,663 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0831986c-a11c-4739-b94f-d9d82dccd374": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9a6edb7c-5056-47ff-af07-af19887a2815": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": false
+          }
+        },
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213": {
+          "type": "text",
+          "settings": {
+            "text": "\"Ich finde diese Box toll, verschiedene kleine Seifenstücke zum Austesten. Ich bin gar kein Fan von fester Seifer normalerweise, aber ich liebe besonders die Gesichtsseife und auch die anderen mag ich gerne. Normalerweise hinterlassen feste Seifen immer so eine eigenartiges Gefühl aber gerade die Seifen von purmetics sind sehr besonders. Jeder der kleine Einblicke in die Seifenwelt von purmetics erhaschen möchte dem kann ich dieses Set nur empfehlen - auch die Box kann man nachher weiterverwenden für die Seifen, großartig\" - Victoria via Bewertungen"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "43af6fce-901f-47fb-860b-508ed011079d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "3765c377-07f4-400c-af66-032afe08cf09": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "af11656a-5bba-4794-9f06-16522ca199cf": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "0831986c-a11c-4739-b94f-d9d82dccd374",
+        "price",
+        "9a6edb7c-5056-47ff-af07-af19887a2815",
+        "0beb8c7a-ffa5-414e-9d8b-1e5971491213",
+        "variant_picker",
+        "9529c6e8-ae27-4f52-be42-a0353cf176b4",
+        "6ba4c0fc-55f2-476f-9938-b25c9edc3575",
+        "buy_buttons",
+        "de11c005-ff4a-4f5c-a368-10702e9ffb25",
+        "43af6fce-901f-47fb-860b-508ed011079d",
+        "074d51ac-2ba4-4d07-be10-94af8a2e04dc",
+        "bb4f6f8e-fdd1-4bee-9a5f-af52f55e16ae",
+        "9a589f3d-9b8e-49cf-aa31-6c7fb1f58bb0",
+        "3bc64df0-991b-44ed-89ab-0a73ac557e07",
+        "3765c377-07f4-400c-af66-032afe08cf09",
+        "6293f2a2-1466-4a63-a35b-2bbab7ab5904",
+        "af11656a-5bba-4794-9f06-16522ca199cf"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Naturseife_Weiss.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Entdecke unsere Vielfalt im Mini-Format",
+        "title": "Warum unsere Seifenminis die ideale Wahl sind",
+        "text": "<p>Entdecke die Welt der natürlichen Pflege mit unseren Seifenminis – die ideale Wahl für alle, die Wert auf nachhaltige Pflege legen.<\/p><p><strong>Vielfalt auf einen Blick: <\/strong>Mit verschiedenen Duftrichtungen und Anwendungsgebieten ermöglichen die Seifenminis ein umfassendes Kennenlernen unserer Produktpalette.<\/p><p><strong>Praktisch für unterwegs:<\/strong> Die handlichen Minis sind perfekt für unterwegs geeignet. Ob auf Reisen, im Fitnessstudio oder einfach in der Handtasche.<\/p><p><strong>Platzsparend:<\/strong> Feste Seifen sind sehr ergiebig. Die geringe Größe reduziert das Volumen und du hast mehr Platz für andere Dinge.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c2068555-7ab2-491a-a8bb-db25b5b4bf52": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Seifenbox-mit-Abtrofeinsatz_Produktbild_Rosa.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/puremetics_Seifenbox-mit-Abtrofeinsatz_Silber_Produktbild_Rosa.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "Zero-Waste: Wiederverwendbare",
+        "title": "Seifenbox mit Abtropfvorrichtung",
+        "text": "<p>Die Seifenminis Testbox kommen in der praktischen Reisebox mit einer integrierten Abtropfvorrichtung. Dadurch bleiben die Seifen zwischen den Anwendungen trocken und gut aufbewahrt, was ihre Haltbarkeit erhöht. Die Abtropfvorrichtung kann einzeln entnommen werden, sodass sich auch in der Dusche kein Wasser in der Dose ansammelt. Die Reisebox ist selbstverständlich wiederverwendbar.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f70bd7d8-52eb-4f62-b453-c27e55182632": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--18401039614218__f70bd7d8-52eb-4f62-b453-c27e55182632-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "gift",
+            "title": "Perfektes Geschenk",
+            "text": "<p>Unsere Seifenminis eignen sich auch hervorragend als Geschenk. Ob für Freunde, Familie oder als Mitbringsel – die Testbox bietet eine liebevolle Auswahl natürlicher Pflege, die jedem eine Freude macht.<\/p>"
+          }
+        },
+        "template--18401039614218__f70bd7d8-52eb-4f62-b453-c27e55182632-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "Optimal zum Kennenlernen",
+            "text": "<p>Unsere Seifenminis ermöglichen es dir, verschiedene Duftrichtungen und Formulierungen auszuprobieren. So kannst du sicher sein, dass du die perfekte Pflege für dich findest.<\/p>"
+          }
+        },
+        "template--18401039614218__f70bd7d8-52eb-4f62-b453-c27e55182632-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "Zero Waste",
+            "text": "<p>Mit unseren Seifenminis bieten wir ein Produkt, dass komplett ohne Verpackung auskommt. Sie werden direkt in die wieder verwendbare Reisedose konfektioniert, die dir auch in Zukunft lange Freude bereiten wird.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18401039614218__f70bd7d8-52eb-4f62-b453-c27e55182632-text_block-1",
+        "template--18401039614218__f70bd7d8-52eb-4f62-b453-c27e55182632-text_block-2",
+        "template--18401039614218__f70bd7d8-52eb-4f62-b453-c27e55182632-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Was können unsere Naturseifen für dich tun?"
+          }
+        },
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Seifen können extrem vielfältig sein und nicht jede Seife eignet sich für den Einsatz jeder Körperpartie.  Jede Mini-Seife in der Testbox erfüllt einen spezifischen Zweck – sei es für die Haare, das Gesicht, den Körper oder die Rasur. Dies ermöglicht es dir, verschiedene Anwendungen auszuprobieren und die perfekte Pflege für deine Bedürfnisse zu entdecken.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-heading-1",
+        "template--18289269604618__e283b3e8-46fe-4a78-83c6-6f52b8f17112-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "29c8f23d-a5ac-49fd-8976-d6ddac1bdad4": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Reinigung, Klärung und Vorbeugung",
+        "title": "Gesichtsseife",
+        "text": "<p>Unsere Gesichtsseifen tragen dazu bei, eine gesunde, strahlende Haut zu fördern. Sie sind speziell formuliert, um Schmutz, überschüssiges Öl und Verunreinigungen von der Haut zu entfernen. Durch ihre reinigenden Eigenschaften tragen sie dazu bei, die Poren zu öffnen und die Haut von Unreinheiten zu befreien. <\/p><p>Durch die regelmäßige Anwendung kann das Hautbild verbessert und Hautunreinheiten wie Akne, Mitessern und Pickeln vorgebeugt werden, indem das Wachstum von Bakterien reduziert wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3318ba5b16b54900ad53e0068f60c7ed.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "f888993d-bb5f-459b-880c-c7ec368907d2": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürlich, mild, hangesiedet",
+        "title": "Haarseife",
+        "text": "<p>Bei puremetics ein rein natürliches Produkt, dass Haare und Kopfhaut mild, aber effektiv reinigt. Sie enthält keine synthetischen Tenside und stellt damit die sanftes Form der Reinigung dar.<\/p><p>Wer sonst immer konventionelle Shampoos genutzt hat, sollte wissen, dass eine 4-8 wöchige Umstellungsphase eingeplant werden sollte. Haare und Kopfhaut müssen sich erst an die mildere Form der Reinigung gewöhnen. Dafür darfst du dich am Ende über kräftigere, gesündere Haare und Kopfhaut freuen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c4065f2f446e4bffaa430e0804fcb931.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "d3d2a9e0-9eb7-45cf-92b6-0d67e6c3ca33": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Reinigung, Klärung und Vorbeugung",
+        "title": "Hand- und Duschseife",
+        "text": "<p>Unsere Hand- und Duschpflegeseifen tragen dazu bei, eine gesunde und hydrierte Haut zu fördern. Sie sind speziell formuliert, um Schmutz, überschüssiges Öl und Verunreinigungen von der Haut zu entfernen. Gleichzeit spenden sie Feuchtigkeit und schützen die Haut vor äußeren Einflüssen. <\/p><p>Sie sind stärker überfettet als beispielsweise Haar- oder Gesichtsseifen und haben damit einen höheren Pflegegrad, den die Hand- und Körperhaut benötigt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/65be213bb89746509c6bde48ef4b2ff9.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "29a03c71-d0d7-4038-8402-3f3b497c14d6": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Für Körper und Gesicht",
+        "title": "Rasierseife",
+        "text": "<p>Unsere feste Rasierseife ist eine speziell entwickelte Seife, die dazu dient, die Haut vorzubereiten für die Rasur vorzubereiten und diese zu erleichtern. Im Gegensatz zu konventionellen Rasierprodukten besteht unsere feste Rasierseife aus natürlichen Inhaltsstoffen und kommt ohne die Treibhausgase oder chemischen Zusatzstoffe aus.<\/p><p>Eine kleine Menge fester Rasierseife reicht oft aus, um einen reichhaltigen Schaum zu erzeugen. Dadurch hält die Rasierseife länger als viele Rasierschaumprodukte aus Dosen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/eec9d9d4fcf6439db87b53ba2439d702.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "e610c0a2-331a-4c3f-b450-308479136f63": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Abschminken und Reinigung in einem Step",
+        "title": "Make-up Entferner",
+        "text": "<p>Die feste Formel entfernt nicht nur mühelos Make-up, sondern auch hartnäckige Rückstände. Ob wasserfestes Mascara oder langanhaltender Lippenstift, unser fester Make-up Entferner meistert jede Herausforderung.<\/p><p>Durch die regelmäßige Anwendung kann das Hautbild verbessert und sogar Hautunreinheiten wie Akne, Mitessern und Pickeln vorgebeugt werden, indem das Wachstum von Bakterien reduziert wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/bb725eff1ac84b58aa472e2b51f5366c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "30b27872-2c7a-492f-913b-9c9af451de7c": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Für kleine und großer Entdecker:innen",
+        "title": "Kinderseife (Auch für Erwachsene geeignet)",
+        "text": "<p>Gönne deinen Kindern eine Seife, die nicht nur reinigt, sondern auch Spaß macht. Unsere Kinderseife ist vielseitig und darauf ausgerichtet, die Kinderpflege zu einem fröhlichen Ritual zu machen. Mach die tägliche Pflege zu einem Moment des Vergnügens und der Liebe für die zarte Haut deinen kleinen Lieblinge.<\/p><p>Die milden und hautfreundlichen Inhaltsstoffe unserer Kinderseife wurden sorgfältig ausgewählt, um die zarte Kinderhaut liebevoll zu reinigen und zu pflegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9695d70d35e542b29a992cc95946b609.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Feuchtigkeitsregulierung"
+          }
+        },
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unsere Naturseifen enthalten feuchtigkeitsspendende Inhaltsstoffe, die helfen, die Haut mit Feuchtigkeit zu versorgen. Dies ist besonders vorteilhaft, um ein ausgewogenes Feuchtigkeitsniveau aufrechtzuerhalten, ohne die Haut zu stark zu entfetten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-heading-1",
+        "template--18289269604618__2a7c94fc-c280-4758-b593-d9e0fb6cdcb7-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "7f5fde89-906e-4f8b-a64c-b576451318b0": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Nachhaltig und Hautschonend",
+        "title": "Natürliche Fettsäuren",
+        "text": "<p>Unsere Gesichtsseifen sind handgesiedet und bestehen im Gegensatz zu konventionellen Gesichtsreinigungsmitteln nicht aus Tensiden, sondern aus natürlichen Fettsäuren.<\/p><p>Natürliche Fettsäuren reinigen die Haut auf eine sanfte Weise, lösen Schmutz und Make-up auf, ohne die Haut zu stark zu entfetten oder zu reizen.<\/p><p>Unsere festen Gesichtsseifen sind also eine natürliche, milde, effektive und nachhaltige Möglichkeit der Gesichtsreinigung.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5ec4869afffb42c594fe2b223e5874cd.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 650
+      }
+    },
+    "text_with_icons_FdPmqn": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_UyPrR8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% VEGAN",
+            "text": "<p>Alle unsere Produkte sind vegan und frei von Tierleid. Puremetics ist Teil des PETA \"Beauty without Bunnies\" Programms.<\/p>"
+          }
+        },
+        "text_block_pzbdnc": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% NACHHALTIG",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_WHBKQp": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% PLASTIKFREI",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_dYqceB": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% HANDGEMACHT",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_UyPrR8",
+        "text_block_pzbdnc",
+        "text_block_WHBKQp",
+        "text_block_dYqceB"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Chris (CEO und CO-Founder)",
+        "title": "Feste Seifen sind nachhaltig und praktisch",
+        "text": "<p>Unsere festen Seifen sind eine umweltfreundliche Alternative zu herkömmlichen flüssigen Hautpflegeprodukten, da sie dazu beitragen können, Abfall zu reduzieren, Ressourcen zu schonen und den ökologischen Fußabdruck zu minimieren.<\/p><p><strong>Deine Entscheidung zu einer festen Alternative ist also vollkommen richtig und wichtig. Danke <\/strong>💚<\/p><p>Die Herstellung von festen Seifen erfordert zudem oft weniger Energie und Ressourcen im Vergleich zu flüssigen Produkten. Sie sind leichter und ergiebiger  als flüssige Produkte, was zu geringeren niedrigeren CO2-Fußabdruck während des Transportes führt. Die stabilere Form kann dazu beitragen, dass weniger Produkt verschwendet wird.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Perfekte ergänzungen zu unseren naturseifen",
+        "home_featured_products": "seifenaccessoires",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Jede Seife ist",
+        "title": "Mit Liebe von Hand gemacht",
+        "text": "<p>Jede Seife wird von sorgfältigen Händen und aufmerksamen Augen mit Liebe hergestellt. Unsere Naturseifen unterscheiden sich von der Massenproduktion der Großkonzerne in ihren hochwertigen Rohstoffen und den ausgiebigen Reifezeiten.<\/p><p><strong>Das Beste für dich und unsere Umwelt.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4a3e0b840f3346eba0e9dac21934bc0c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "c67229b4-d31e-41fc-886a-e06785c48e99": {
+      "type": "faq",
+      "blocks": {
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist in der Seifenminis Testbox enthalten?",
+            "text": "<p>Die Testbox enthält Miniaturversionen unserer Bestseller, darunter Mini Haarseife 'Zitrone Vanille', Mini Kinderseife 'Tropical', Mini Hand- und Duschpflegeseife 'Limette', Mini Gesichtspflegeseife 'Aktivkohle', Mini Rasierseife 'Ingwer Tonic' und Mini Make-up Entferner Seife 'Reismilch'.<\/p>"
+          }
+        },
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Für welche Hauttypen sind die Seifenminis geeignet?",
+            "text": "<p>Unsere Seifenminis sind für eine Vielzahl von Hauttypen geeignet, einschließlich empfindlicher Haut. Die unterschiedlichen Formulierungen bieten eine breite Palette von Anwendungsmöglichkeiten für verschiedene Bedürfnisse.<\/p>"
+          }
+        },
+        "967af684-ba7f-49b7-a53c-54736e20bc98": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Seifenminis für Reisen verwenden?",
+            "text": "<p>Absolut! Die Seifenminis sind perfekt für unterwegs und erfüllen die Flüssigkeitsbeschränkungen für Reisen. Das handliche Mini-Format macht sie zu einem idealen Begleiter.<\/p>"
+          }
+        },
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange halten die Seifenminis?",
+            "text": "<p>Die Haltbarkeit der Seifenminis hängt von der Häufigkeit der Anwendung ab. Es handelt sich hierbei um Miniaturen zum Kennenlernen und für Unterwegs. In der Regel sollten sie einige Wochen halten.<\/p>"
+          }
+        },
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich die Seifenminis einzeln nachkaufen?",
+            "text": "<p>Ja, unserer Mini-Seifen sind einzeln in der Standardgröße erhältlich. Einzelne Minis bieten wir aktuell nicht an, sondern nur im Set. Du kannst dir für Unterwegs aber ganz einfach zuhause etwas von der Vollgröße abschneiden und in die Reisebox legen. Schau dir unser reguläres Sortiment an, um deine Favoriten in voller Größe zu erwerben.<\/p>"
+          }
+        },
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3": {
+          "type": "question",
+          "settings": {
+            "title": "Sind die Seifenminis für Allergiker geeignet?",
+            "text": "<p>Unsere Seifenminis enthalten natürliche Inhaltsstoffe, aber es ist ratsam, die Liste der Inhaltsstoffe zu überprüfen, um sicherzustellen, dass sie für deine speziellen Bedürfnisse geeignet sind.<\/p>"
+          }
+        },
+        "b90a661c-25c8-4306-adb6-3a6980405709": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lagere ich die Seifenminis am besten?",
+            "text": "<p>Die Seifenminis sollten an einem trockenen Ort aufbewahrt werden, um ihre Haltbarkeit zu gewährleisten. Die integrierte Abtropfvorrichtung in der Testbox hilft dabei, dass die Seifen zwischen den Anwendungen gut aufbewahrt werden.<\/p>"
+          }
+        },
+        "cbb8d198-2a4d-4460-a804-029213910a74": {
+          "type": "question",
+          "settings": {
+            "title": "Wie pflege ich die Reisebox?",
+            "text": "<p>Die Reisebox sollte regelmäßig von Hand gewaschen werden. Ein Spülmittel ist dabei nicht notwendig, da ja bereits Seife enthalten ist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-1",
+        "template--18289269604618__c67229b4-d31e-41fc-886a-e06785c48e99-question-2",
+        "967af684-ba7f-49b7-a53c-54736e20bc98",
+        "233f8534-ed2e-403b-9573-2bd18f5f00e8",
+        "2356c01e-60b9-4723-94e9-7c23e35ea0bb",
+        "b8a6ebeb-49e7-495a-885a-1af292fcfcd3",
+        "b90a661c-25c8-4306-adb6-3a6980405709",
+        "cbb8d198-2a4d-4460-a804-029213910a74"
+      ],
+      "settings": {
+        "title": "Diese Fragen erhalten wir häufig zum Thema \"Gesichtsseife\". Hier sind die antworten 💚"
+      }
+    },
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Auch spannend: Toner und Seren für eine strahlende Pflege nach der Reinigung",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d8f137ce-33e4-4c9f-9ac1-674ed2588df0"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 7
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bae9ce1a-39a1-416a-ad19-1a088b5b026f",
+    "c2068555-7ab2-491a-a8bb-db25b5b4bf52",
+    "f70bd7d8-52eb-4f62-b453-c27e55182632",
+    "e283b3e8-46fe-4a78-83c6-6f52b8f17112",
+    "29c8f23d-a5ac-49fd-8976-d6ddac1bdad4",
+    "f888993d-bb5f-459b-880c-c7ec368907d2",
+    "d3d2a9e0-9eb7-45cf-92b6-0d67e6c3ca33",
+    "29a03c71-d0d7-4038-8402-3f3b497c14d6",
+    "e610c0a2-331a-4c3f-b450-308479136f63",
+    "30b27872-2c7a-492f-913b-9c9af451de7c",
+    "2a7c94fc-c280-4758-b593-d9e0fb6cdcb7",
+    "7f5fde89-906e-4f8b-a64c-b576451318b0",
+    "text_with_icons_FdPmqn",
+    "e0b48bbc-446a-42d1-9beb-4c37f820e797",
+    "2fb0cb64-1bd5-425a-ac7e-22521346d1b1",
+    "e9153a3d-0306-4014-a89b-cdb827e7c37b",
+    "c67229b4-d31e-41fc-886a-e06785c48e99",
+    "7f8810f5-3f46-42cb-9849-da2ce1cf8ed4",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

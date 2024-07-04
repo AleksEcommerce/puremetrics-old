@@ -1,0 +1,271 @@
+{
+  "sections": {
+    "text_and_image_TLQbak": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CEO und Co-Founder",
+        "title": "Hey, ich bin Chris!",
+        "text": "<p>Herzlich Willkommen bei puremetics. Es freut mich sehr, dass du dich für unsere Mission für das nachhaltige Badezimmer der Zukunft interessierst.<\/p><p>2017 habe ich das Konzept für puremetics geschrieben und damit viele meiner Interessen, Hobbies und Leidenshaften in ein zukunftsfähiges Business vereint: <\/p><p><strong>100% plastikfreie und vegane Kosmetik mit richtig hochwertigen Inhaltsstoffen, die dich UND unsere<\/strong> <strong>Umwelt verwöhnt! <\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_RKBUd3": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_6YxzmD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Presse_logos_Beige_03.png",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "image_6YxzmD"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_CWrekz": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_2023_Chris-und-Chido_Foto-vor-Baum_Kreis.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "wir entscheiden uns nicht zwischen",
+        "title": "Nachhaltigkeit und Qualität - Wir verbinden sie!",
+        "text": "<p>Ich bin in Wolfenbüttel aufgewachsen und habe in Hannover Public Relations studiert. Für die Natur, Tiere und unsere Umwelt habe ich mich schon immer interessiert. Schon viele Jahre vor der Gründung von puremetics war die Kosmetik meine Leidenschaft. Und da ich selbst lange Zeit vegan lebe, habe ich auch meine Kosmetik-Rührküche natürlich vegan ausgerichtet.<\/p><p>Ich habe viel Zuspruch erhalten, aus meinen effektiven Beautyalternativen ein Business zu machen. Gemeinsam mit Chido (meinem damaligen Chef) wurde puremetics immer konkreter und 2020 als GmbH gegründet.<\/p><p><strong>Unsere Mission: Zukunftsorientierte Lösungen in der Kosmetik schaffen!<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9f708bad-e08e-43c2-8a88-d1b6d3cdb0f6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18228412973322__9f708bad-e08e-43c2-8a88-d1b6d3cdb0f6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Umwelt- und Artenschutz"
+          }
+        },
+        "template--18228412973322__9f708bad-e08e-43c2-8a88-d1b6d3cdb0f6-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wir unterstützen mit jeder Bestellung den Schutz der Meere! Für jede Bestellung bergen wir ein ganzes Kilo Plastikmüll aus Küstenregionen und konnten die Meere bereits vor über 100 Tonnen Müll beschützen! <\/p><p>Auch andere Projekte unterstützen wir. Wir kooperieren beispielsweise mit der Aktionsgemeinschaft Artenschutz, Ärzte Gegen Tierversuche, tierheimen und Gnadenhöfen, Clean-Ups und einigen weiteren Projekten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18228412973322__9f708bad-e08e-43c2-8a88-d1b6d3cdb0f6-heading-1",
+        "template--18228412973322__9f708bad-e08e-43c2-8a88-d1b6d3cdb0f6-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "a2bd763d-3864-42d9-8208-7ee50199949b": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Meeresschildkröten stehen vor vielen Gefahren, die meisten davon sind Menschen gemacht. Danke, dass puremetics auch auf diesem Weg einen Beitrag zum Schutz dieser wunderbaren Tiere leistet.<\/p>",
+            "image": "shopify:\/\/shop_images\/Birgit_AGA.jpg",
+            "author": "Birgit (CEO) Aktionsgemeinschaft Artenschutz",
+            "author_info": "Über 3.000 Schildkröteneier gerettet"
+          }
+        },
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>puremetics kümmert sich wirklich von Anfang an um die Umwelt und ist sehr bedacht auf den ganzen ökologischen Fußabdruck. Hervorragende Produkte und gut für die Umwelt. Besser kann es nicht sein.<\/p>",
+            "image": "shopify:\/\/shop_images\/joel_cleanhub.jpg",
+            "author": "Joel (CEO) Cleanhub",
+            "author_info": "Über 100 Tonnen Plastikmüll geborgen"
+          }
+        },
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Gemeinsam für die Abschaffung der schrecklichen Affenhirnversuche in Deutschland. Diese besonders grausame Forschung an unseren nächsten Verwandten ist ethisch nicht zu rechtfertigen und wissenschaftlich gesehen Unsinn, da Tierversuche nicht auf den Menschen übertragbar sind.<\/p>",
+            "image": "shopify:\/\/shop_images\/Astrid_Aerzte_gegen_Tierversuche.jpg",
+            "author": "Astrid (e.V. Verwaltung) Ärzte gegen Tierversuche",
+            "author_info": "Abschaffung der Affenhirnversuche"
+          }
+        },
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Mit der Kastration von einer Straßenkatze, erspart man vielen weiteren Katzen sehr viel Elend und Leid. Vieles kann verhindert werden, wenn man präventiv arbeitet, weshalb wir jedes Jahr versuchen so viele Katzen wie möglich kastrieren zu lassen.  <\/p>",
+            "image": "shopify:\/\/shop_images\/Tessa_Seelenkatzen.jpg",
+            "author": "Tessa (Seelenkatzen e.V.) Tierheime und Gnadenhöfe",
+            "author_info": "Vermeidung von Tierleid"
+          }
+        },
+        "905af110-2939-43e6-8d18-e274d9324d58": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Die Spenden haben Deutschkurse ermöglicht, in dem die Deutschlehrerin geflüchteten Kindern und Jugendlichen aus der Ukraine zwischen 12-17 Jahren drei Mal in der Woche unterrichten konnte. Sprache ist so wichtig für die Integration!<\/p>",
+            "image": "shopify:\/\/shop_images\/Anja_pro_Zukunft.jpg",
+            "author": "Anja (Vorstand) Pro Zukunft e.V",
+            "author_info": "Sprachkurse für  60 geflüchtete Kinder"
+          }
+        }
+      },
+      "block_order": [
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-1",
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-4",
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-2",
+        "template--17931269439754__a2bd763d-3864-42d9-8208-7ee50199949b-testimonial-3",
+        "905af110-2939-43e6-8d18-e274d9324d58"
+      ],
+      "settings": {
+        "title": "Hier konnten wir bereits gemeinsam helfen",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#e7fae7",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "4a90de19-9cad-4eea-8b73-51b27c3aeba4": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "die weltmeere vor plastik retten:",
+        "title": "puremetics x cleanhub",
+        "text": "<p>puremetics kümmert sich wirklich von Anfang an um die Umwelt und ist sehr bedacht auf den ganzen ökologischen Fußabdruck. Hervorragende Produkte und gut für die Umwelt. Besser kann es nicht sein.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=L66pKwD9i-k",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "cd54084a-27c5-44ac-aec9-f083fa5af93e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Nest_wird_ausgegraben2_c_BahariHai.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Schildkröten retten",
+        "title": "puremetics x AGA",
+        "text": "<p>Seit mehr als 200 Millionen Jahren durchqueren Meeresschildkröten die Weltmeere, doch heute sind alle sieben Meeresschildkrötenarten akut vom Aussterben bedroht. Der Schutz der Meeresschildkröten beginnt schon direkt am Niststrand, denn bereits die Kinderstuben dieser faszinierenden Meeresreptilien sind gefährdet. <\/p><p>Die Wildhüter sind jeden Tag am Niststrand im Einsatz. Sie schützen sie vor Wilderern und sie nehmen zudem viele wichtige Daten auf. Sollte das Nest an einer ungünstigen Stelle vergraben worden sein, weil die Stelle beispielsweise stark touristisch genutzt wird, dann graben die Wildhüter die Eier aus und vergraben sie an einer sicheren Stelle. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "18ce1c05-8786-4076-b3c3-695fc364e435": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schildkroete_Eiablage_c_AGA.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/Umsetzung_Nest_c_BahariHai.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "Eiablage",
+        "title": "Umsetzung und Schutz der Nester",
+        "text": "<p>Dabei gehen sie sehr vorsichtig und umsichtig vor, um das Nest so ungestört wie möglich zu lassen. Um die Schildkrötenbabys in die richtige Richtung zu leiten, bereiten die Wildhüter bei Bedarf mit Pfosten eine Bahn Richtung Meer. Nachdem ein Nest dann geschlüpft ist, wird es nach ein paar Tagen ausgegraben, so dass die Wildhüter dann anhand der Eierschalen zählen können, wie viele Eier im Nest waren und wie<br\/>viele davon geschlüpft sind. Das sind wertvolle Daten, die uns Auskunft über den Schlupferfolg geben.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "963fd1a2-5df7-43ad-a13a-7ab26ad0e267": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "In Kooperation mit unserer Community",
+        "title": "🤩 Wir gegen Plastik!",
+        "text": "<p>Gemeinsam haben wir schon so viel erreicht. Und gemeinsam werden wir noch viel mehr erreichen. Wir sind nicht nur ein Unternehmen und ihr nicht nur Kund:innen. Wir sind eine starke Community, die für eine bessere Zukunft einsteht!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=xDDjPAfbPRE",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "166015036078a332ec": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "featured_collection_Ga3Man": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unterstütze uns bei unserer mission und verwöhne dich gleichzeitig mit hochwertiger pflege",
+        "home_featured_products": "bestseller",
+        "per_row": 5,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "text_and_image_TLQbak",
+    "promo_grid_RKBUd3",
+    "text_and_image_CWrekz",
+    "9f708bad-e08e-43c2-8a88-d1b6d3cdb0f6",
+    "a2bd763d-3864-42d9-8208-7ee50199949b",
+    "4a90de19-9cad-4eea-8b73-51b27c3aeba4",
+    "cd54084a-27c5-44ac-aec9-f083fa5af93e",
+    "18ce1c05-8786-4076-b3c3-695fc364e435",
+    "963fd1a2-5df7-43ad-a13a-7ab26ad0e267",
+    "166015036078a332ec",
+    "featured_collection_Ga3Man"
+  ]
+}

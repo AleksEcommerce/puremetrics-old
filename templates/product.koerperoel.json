@@ -1,0 +1,524 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "darum ist Körperöl",
+        "title": "eine ausgezeichnete Option für die Körperpflege",
+        "text": "<p>Körperöle spenden intensive Feuchtigkeit, da sie reich an feuchtigkeitsspendenden Ölen und Fetten sind, die tief in die Haut eindringen und sie mit Feuchtigkeit versorgen. Dies hilft, trockene und raue Haut zu pflegen und sie weich und geschmeidig zu machen. Darüber hinaus bildet das Auftragen von Körperöl eine Schutzbarriere auf der Haut, die vor äußeren Einflüssen wie Kälte, Wind und Umweltverschmutzung schützt. Zudem enthalten die natürlichen Inhaltsstoffe wichtige Vitamine und Antioxidantien, die die Haut mit Nährstoffen versorgen und sie gesund und strahlend aussehen lassen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/149d4087f298408eb4fb4b587ef9d7db.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_b3395947-3c1a-4857-8ac0-9de88651db37.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Antioxidativ & Regenerierend",
+        "title": "traubenkernöl",
+        "text": "<p>Traubenkernöl ist reich an Antioxidantien wie Vitamin E und Polyphenolen, die dabei helfen, freie Radikale zu neutralisieren und die Haut vor Umweltschäden zu schützen. Dadurch wird die Hautalterung verlangsamt und das Hautbild verbessert. Das Öl ist leicht und zieht schnell in die Haut ein, ohne einen fettigen Film zu hinterlassen. Es spendet der Haut intensive Feuchtigkeit und hilft dabei, sie weich und geschmeidig zu halten. Die enthaltenen Fettsäuren und Vitamine unterstützen die natürliche Regeneration der Hautzellen und tragen dazu bei, die Hautstruktur zu verbessern. Dadurch wirkt die Haut frischer, straffer und jugendlicher.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Sonnenblumenoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Reich an Vitamin E",
+        "title": "Sonnenblumenöl",
+        "text": "<p>Sonnenblumenöl ist reich an Vitamin E, einem starken Antioxidans, das die Haut vor schädlichen freien Radikalen schützt. Dies hilft, vorzeitige Hautalterung zu verhindern und die Haut gesund und strahlend zu erhalten. Die enthaltenen Fettsäuren und Nährstoffe unterstützen die natürliche Regeneration der Hautzellen und tragen dazu bei, die Hautstruktur zu verbessern. Dadurch wirkt die Haut frischer, straffer und jugendlicher. Sonnenblumenöl kann dazu beitragen, das Erscheinungsbild von Hautunreinheiten, Akne und Pigmentflecken zu reduzieren. Es fördert einen ebenmäßigen Teint und verleiht der Haut ein gesundes, strahlendes Aussehen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yMJLDA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Koerperoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "natürliche hautpflege",
+        "title": "einfach und effektiv",
+        "text": "<p>Ein Körperöl benötigt nicht viele Inhaltsstoffe, um effektiv und hochwertig zu sein, da seine Hauptaufgabe darin besteht, Feuchtigkeit zu spenden und die Haut zu pflegen. Im Gegensatz zu komplexen Formulierungen bei Cremes oder Lotionen, die eine Vielzahl von Inhaltsstoffen enthalten können, kann ein Körperöl mit nur wenigen, hochwertigen Inhaltsstoffen auskommen. <br\/><\/p><p>Reich an essentiellen Fettsäuren und Vitaminen sind diese natürlichen Öle  in der Lage, Feuchtigkeit in die Haut einzuschließen, sie zu pflegen und vor dem Austrocknen zu schützen, ohne dass zusätzliche Inhaltsstoffe benötigt werden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_Uq78JD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Komedogenitaetsgrad.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "was bedeutet eigentlich",
+        "title": "Komedogenitätsgrad?",
+        "text": "<p>Der Komedogenitätsgrad ist ein Maß dafür, wie wahrscheinlich es ist, dass ein Hautpflegeprodukt die Poren verstopft und somit Mitesser oder Akne verursacht. Er wird oft auf einer Skala von 0 bis 5 bewertet, wobei 0 bedeutet, dass das Produkt nicht komedogen ist und die geringste Wahrscheinlichkeit besteht, dass es zu Hautunreinheiten führt, während 5 bedeutet, dass das Produkt sehr komedogen ist und die Poren stark verstopfen kann. <\/p><p><strong>Produkte mit einem niedrigen Komedogenitätsgrad sind tendenziell sicherer für diejenigen mit zu Akne neigender oder empfindlicher Haut, während solche mit einem höheren Grad bei diesen Hauttypen vermieden werden sollten.<\/strong><br\/><br\/>Es ist jedoch wichtig zu beachten, dass die Komedogenität eines Produkts von verschiedenen Faktoren abhängt, darunter die individuelle Hautreaktion, die Menge des Produkts, die aufgetragen wird, und die anderen Inhaltsstoffe in der Formel. <\/p><p><strong>Unsere Körperöle sind mit einem Grad von 1,5 nicht komedogen.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_LGCFwm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_fette_oele_trockene_oele_koerperoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "was bedeutet eigentlich",
+        "title": "Trockene und fette Öle?",
+        "text": "<p>Trockene und fette Öle sind zwei Kategorien von Ölen, die basierend auf ihrer Zusammensetzung und ihren Eigenschaften unterschieden werden können:<br\/><br\/><strong>Trockene Öle werden schnell von der Haut aufgenommen und hinterlassen keinen fettigen Rückstand. <\/strong>Sie haben eine leichte Konsistenz und fühlen sich eher dünnflüssig an. Sie eignen sich gut für die Pflege von fettiger oder zu Unreinheiten neigender Haut, da sie nicht zusätzlich zur Hautfettung beitragen.<br\/><br\/><strong>Fette Öle haben eine reichhaltige Textur und hinterlassen auf der Haut einen spürbaren Fettfilm.<\/strong> Diese Öle sind besonders nährend und feuchtigkeitsspendend und eignen sich gut für trockene oder reife Hauttypen.<br\/><br\/><strong>Unsere Körperöle sind tendenziell trockene Öle mit einer leichten Textur.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Sind Körperöle für jeden Hauttyp geeignet?",
+            "text": "<p>Körperöle eignen sich grundsätzlich für verschiedene Hauttypen, jedoch können Personen mit fettiger Haut oder Akne neigen dazu, leichte Texturen wie Trockenöle mit niedrigem Komedogenitätsgrad unter 5 zu bevorzugen.<\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Körperöl im Gesicht verwenden?",
+            "text": "<p>Ja, einige Körperöle eignen sich auch für die Gesichtspflege, jedoch sollte man darauf achten, dass sie nicht zu reichhaltig sind, um Unreinheiten zu vermeiden. Am besten ist es, ein Öl zu verwenden, dass für den Einsatz im gesicht konzipiert und geprüft wurde.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Wie trage ich Körperöl am besten auf?",
+            "text": "<p>Tragen das Körperöl nach dem Duschen auf leicht feuchte Haut auf und massieren es sanft ein, um die Feuchtigkeit einzuschließen und die Haut zu pflegen.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Körperöl auch als Massageöl verwenden?",
+            "text": "<p>Ja, viele Körperöle eignen sich auch hervorragend als Massageöl, da sie eine gleitfähige Textur haben und die Haut geschmeidig machen. Beachte aber, dass für die Massage meist ein Öl mit höherem Komedogenitätsgrad über 5 besser geeignet ist, weil es nicht so schnell einzieht.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Ist Körperöl fettig auf der Haut?",
+            "text": "<p>Unsere hochwertige Körperöle ziehen schnell in die Haut ein und hinterlassen keinen fettigen Film.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Körperöl während der Schwangerschaft verwenden?",
+            "text": "<p>Ja, viele natürliche Körperöle sind auch für die Verwendung während der Schwangerschaft sicher und können dabei helfen, die Haut geschmeidig zu halten und Dehnungsstreifen vorzubeugen. Wir empfehlen unsere Sensibelchen Serie ohne Dutftsoffe.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Sind Körperöle auch für empfindliche Haut geeignet?",
+            "text": "<p>Ja, viele Körperöle sind auch für empfindliche Haut geeignet, insbesondere unsere Sensibelchen Serie.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Körperöl auch im Sommer verwenden?",
+            "text": "<p>Ja, Körperöle sind das ganze Jahr über geeignet und können besonders im Sommer dazu beitragen, die Haut vor dem Austrocknen durch Sonneneinstrahlung und Klimaanlagen zu schützen. Sie sollten aber nur dann aufgetragen werden, wenn keine direkte Sonneneinstrahlung erfolgt. Am besten sind sie also Abends zu verwenden.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist die Haltbarkeit von Körperölen?",
+            "text": "<p>Die Haltbarkeit von Körperölen variiert je nach den enthaltenen Ölen und Zusatzstoffen, aber in der Regel sind sie mehrere Monate bis zu einem Jahr haltbar.<\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Körperöl nach dem Sonnenbaden verwenden?",
+            "text": "<p>Ja, Körperöl kann nach dem Sonnenbaden verwendet werden, um die Haut zu beruhigen, zu kühlen und mit Feuchtigkeit zu versorgen. Es ist jedoch wichtig, einen Sonnenschutz zu verwenden und die Haut nicht zu überhitzen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_p4Kcxj",
+        "question_wMaDab"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"Körperöle\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "das beste für deine haut und deine Umwelt",
+        "text": "<p>Körperöle sind für viele Menschen ein absolutes Must-Have in der Pflegeroutine und das aus gutem Grund. Leider sehe ich noch viel zu häufig Öle, die in Einwegplastik verpackt sind, obwohl das überhaupt nicht sein muss.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unser Körperöl kommt in einer Glasflasche mit einem Naturkorken daher. Die Verwendung von Glas statt Kunststoff reduziert die Umweltbelastung durch Plastik und ermöglicht das Recycling und die Wiederverwendung der Flasche. Glas ist zudem eine umweltfreundliche Verpackungsalternative, da es weder Schadstoffe abgibt noch die Qualität des Inhalts beeinträchtigt. Der Naturkorken, der die Flasche verschließt, ist ebenfalls eine nachhaltige Wahl. Kork wird aus der Rinde der Korkeiche gewonnen, ohne den Baum zu schädigen, da die Rinde nachwächst. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Öle wirken übrigens besser, wenn die haut gepeelt ist. unsere 3in1 dusch-fluffs passen optimal dazu!",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_G8efbn",
+    "text_and_image_aQ6RB3",
+    "text_and_image_yMJLDA",
+    "text_with_icons_MK3AR6",
+    "text_and_image_Uq78JD",
+    "text_and_image_LGCFwm",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

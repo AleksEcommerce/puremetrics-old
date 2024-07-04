@@ -1,0 +1,140 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Gratis versand",
+            "text": "Kostenlosen Versand sichern mit dem Code: FREIHAUS",
+            "link": "https:\/\/puremetics.de\/discount\/FREIHAUS",
+            "label": "JETZT AKTIVIEREN",
+            "color_tint": "#008602",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        },
+        "advanced": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "banner",
+        "advanced"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "f0811d5e-e9ce-4711-8f9c-5f34dba824a8": {
+      "type": "discount-promotion",
+      "blocks": {
+        "template--18166263415050__f0811d5e-e9ce-4711-8f9c-5f34dba824a8-promotion-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/puremetics_Jubilaeum_2024_Shop_3fuer2_Erklaerung_01_5fb3fde8-b928-435b-b37b-54a04c23ff22.jpg",
+            "image_width": 400,
+            "text": "",
+            "text_color": "#ffffff",
+            "text_bg": "#cc3230"
+          }
+        },
+        "template--18166263415050__f0811d5e-e9ce-4711-8f9c-5f34dba824a8-promotion-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/puremetics_Jubilaeum_2024_Shop_3fuer2_Erklaerung_02_97223aec-9669-4d1d-9176-75e5e0455c2c.jpg",
+            "image_width": 400,
+            "text": "",
+            "text_color": "#000000",
+            "text_bg": "#74dff7"
+          }
+        },
+        "template--18166263415050__f0811d5e-e9ce-4711-8f9c-5f34dba824a8-promotion-3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/puremetics_Jubilaeum_2024_Shop_3fuer2_Erklaerung_03.jpg",
+            "image_width": 400,
+            "text": "",
+            "text_color": "#000000",
+            "text_bg": "#f8e71c"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263415050__f0811d5e-e9ce-4711-8f9c-5f34dba824a8-promotion-1",
+        "template--18166263415050__f0811d5e-e9ce-4711-8f9c-5f34dba824a8-promotion-2",
+        "template--18166263415050__f0811d5e-e9ce-4711-8f9c-5f34dba824a8-promotion-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "🥳  Code: KONFETTI 🥳",
+        "text": "<p>Kaufe 3 - zahle 2:  Als Zeichen unserer Wertschätzung und um unser 4-jähriges Bestehen gebührend zu feiern, haben wir etwas Besonderes für dich vorbereitet: Eine fantastische \"3 für 2\"-Aktion! Kauf drei Artikel deiner Wahl, und der Preis des günstigsten fällt für dich weg. Ja, du liest richtig – wähle drei Produkte aus, und das dritte gibt es gratis dazu!<\/p>",
+        "heading_size": 36,
+        "text_size": 20
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "promo-grid",
+    "f0811d5e-e9ce-4711-8f9c-5f34dba824a8",
+    "main-collection"
+  ]
+}

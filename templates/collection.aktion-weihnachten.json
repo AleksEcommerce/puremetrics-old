@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "de758509-8962-4e9b-80bc-3972f3d0bfd7": {
+      "type": "countdown",
+      "blocks": {
+        "template--18166263185674__de758509-8962-4e9b-80bc-3972f3d0bfd7-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "Bis Weihnachten ist es nicht mehr weit!",
+            "heading_size": "h1",
+            "text": "",
+            "content_alignment": "center"
+          }
+        },
+        "template--18166263185674__de758509-8962-4e9b-80bc-3972f3d0bfd7-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "12",
+            "day": "23",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": "<p>Es weihnachtet bereits. Das gesamte puremetics Team wünscht dir und deinen Liebsten von herzen frohe Festtage.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166263185674__de758509-8962-4e9b-80bc-3972f3d0bfd7-content-1",
+        "template--18166263185674__de758509-8962-4e9b-80bc-3972f3d0bfd7-timer-1"
+      ],
+      "settings": {
+        "layout": "hero",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_image": "shopify:\/\/shop_images\/puremetics_Kategoriebilder.png",
+        "overlay_color": "#000000",
+        "overlay_opacity": 22,
+        "lazyload_images": true
+      }
+    },
+    "165847578320f00eea": {
+      "type": "promo-grid",
+      "blocks": {
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c": {
+          "type": "banner",
+          "settings": {
+            "heading": "Entdecke kleine und Große geschenke mit sinn",
+            "text": "Ob Sets, verschenkfertige Geschenboxen oder weihnachtliche Einzelartikel - Hier ist für Alle das Passende dabei",
+            "link": "",
+            "label": "",
+            "color_tint": "#c1a405",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "591a9573-78f3-4c49-b74b-a613f9e464ed": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Wir legen deiner Bestellung keine Rechnung in Druckform bei. Du erhältst sie per E-Mail.",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
+    },
+    "3153459f-0103-4e46-a194-6542d30f5992": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Verschenkfertige Geschenk-Boxen",
+        "home_featured_products": "geschenk-ideen",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "65d247f9-b7aa-4dd9-936d-72151a31814b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Spar-Sets zum selbst verpacken",
+        "home_featured_products": "spar-sets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "5cb596d8-4dd3-4716-86ec-e7763cf8fe0a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Geschenke unter 20€",
+        "home_featured_products": "all",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "6c6f11f7-0b12-4d9e-bd50-83c328bdd148": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Moodbild_Team_aeef42f5-273b-4712-9a09-d35a6c141e47.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "SO BUNT WIE UNSERE PRODUKTE",
+        "title": "DAS SIND WIR",
+        "text": "<p>Die Köpfe hinter puremetics. Wir lieben Nachhaltigkeit und geben jeden Tag Vollgas, damit Kosmetik und unsere Umwelt cleaner werden.<\/p><p><\/p><p><strong>Plastikfrei, vegan und wirksam: Das ist puremetics!<\/strong><\/p><p>Unsere Beautyschätze werden mit Liebe von Hand in Deutschland hergestellt. Dabei achten wir nicht nur auf die Umwelt, sondern haben auch den Anspruch, dir ein ganz besonderen Wohlfühlmoment zu bereiten. Mit Liebe zum Detail, olfaktorischen Erlebnissen und hochwertigen Rohstoffen rüsten wir dein Bad zu einer Oase der Entspannung und Achtsamkeit auf.<\/p><p><strong>Denn mit einem Lächeln im Gesicht, lässt sich die Welt doch gleich viel besser retten <\/strong>🙂<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "de758509-8962-4e9b-80bc-3972f3d0bfd7",
+    "165847578320f00eea",
+    "591a9573-78f3-4c49-b74b-a613f9e464ed",
+    "3153459f-0103-4e46-a194-6542d30f5992",
+    "65d247f9-b7aa-4dd9-936d-72151a31814b",
+    "5cb596d8-4dd3-4716-86ec-e7763cf8fe0a",
+    "6c6f11f7-0b12-4d9e-bd50-83c328bdd148",
+    "main-collection"
+  ]
+}

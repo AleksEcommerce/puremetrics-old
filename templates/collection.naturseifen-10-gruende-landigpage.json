@@ -1,0 +1,317 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "1645872019c1841fc4": {
+      "type": "rich-text",
+      "blocks": {
+        "164587201984f1f4a4-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Seife ist aus unseren Haushalten und Badezimmern nicht mehr wegzudenken. Während zu Zeiten unserer Großeltern überwiegend die festen Reinigungswunder Verwendung gefunden haben, kam in der Nachkriegszeit die große Revolution der Flüssigprodukte in Plastikflaschen. Es steckt schon ein bisschen im Namen, denn <strong>Flüssig<\/strong>produkte sind absolut über<strong>flüssig<\/strong>! <\/p><p>Der Vorteil bei Seifen besteht vor allem daran, dass sie extrem viel umweltfreundlicher sind. Meist können sie in Papier verpackt werden und sparen viel Energie durch ein geringeres Gewicht.<\/p><p><\/p>"
+          }
+        },
+        "945255fd-9261-4fa0-a3df-c2c82bb865e3": {
+          "type": "heading",
+          "settings": {
+            "title": "Doch seife ist nicht gleich seife!"
+          }
+        },
+        "dd33f10a-a1cf-4f06-ac9c-2538cd362375": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Wenn du denkst, du kannst dir nun irgendeine Seife schnappen \"Die machen ja eh alle das Gleiche\", dann ließ bitte unbedingt weiter. <\/p><p><strong>Wir erklären dir die wichtigsten Unterschiede, worauf du beim Kauf unbedingt achten solltest und weshalb es sich lohnt sofort auf Naturseife umzusteigen, wenn du deinen Körper liebst.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164587201984f1f4a4-1",
+        "945255fd-9261-4fa0-a3df-c2c82bb865e3",
+        "dd33f10a-a1cf-4f06-ac9c-2538cd362375"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16458724325f85d0df": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dry-g5a8e5a0ba_6401.jpg",
+        "image2": "shopify:\/\/shop_images\/puremetics_gepflegte_Hande.png",
+        "subtitle": "Grund Nummer 1",
+        "title": "Chemie-Seifen Trocknen die Haut aus!",
+        "text": "<p>Viele Seifen, vor allem aus dem günstigen Segment sind schnell- und heißgesiedete Seifen oder einfache Gießseifen, die gar nicht gesiedet werden. Sie reinigen und schäumen zwar sehr gut, trocknen die Haut aber auch aus, da sie keinerlei Pflege mehr enthalten, noch nie enthalten haben oder nur sehr wenig nachträglich zugeführt wird. Denn Pflege ist teuer und wird daher bei Großkonzernen gerne sparsam eingesetzt. Eine gute Seife kannst du nun mal nicht für 1€ erhalten.<\/p><p><strong>Naturseifen<\/strong> <strong>werden zum Großteil aus natürlichen Pflegeölen gesiedet. <\/strong>Sie wirken dann nach der Verseifung genau so reinigend enthalten dabei aber ihre Pflegewirkung und Fettsäuren. Das Ergebnis: Effektiv gereinigte Haut die gut mit Feuchtigkeit versorgt ist, geschmeidig und elastisch bleibt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1645872818ac6448fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Hautbarriere_gestort.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_Hautbarriere_intakt.png",
+        "subtitle": "Grund Nummer 2",
+        "title": "Die Hautbarriere bleibt stabiler!",
+        "text": "<p>Besonders bei den günstigsten Seifen werden auch die günstigsten Inhaltsstoffe genutzt. Beispielsweise welche, die ursprünglich in der Industrie zum Entfetten von Maschinen Anwendung finden. Sie sind viel zu aggressiv für deine Haut und stören deine natürlich Hautbarriere. Dadurch wirst du anfälliger für Entzündungen und Infektionen. Deine Haut wird dünner und rissiger. Ein Prozess, der sich im besten Fall nur mit viel Geduld und Pflege wieder rückgängig machen lässt.<\/p><p><strong>Naturseifen sind sehr viel milder <\/strong>da sie echte gesiedete Seifen aus Ölen sind. Die Tenside, also die waschaktiven Substanzen, in einer Naturseife entstehen bei Sieden auf natürliche Weise. Hier werden also keine Tenside hinzugefügt. Die Reinigungswirkung ist dabei absolut ausreichend für das Hautmilieu und strapaziert sie nicht über. So bleibt deine Hautbarriere stabil und kann ihrer Aufgabe zuverlässig nachkommen: Dich vor nämlich vor äußeren Einflüssen zu schützen!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1645873232abf39fac": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_trockene_Haut.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_hydrierte_Haut.png",
+        "subtitle": "Grund Nummer 3",
+        "title": "Überfettung auf deine Bedürfnisse abgestimmt!",
+        "text": "<p>Wie bereits erwähnt, trocknen viele Seifen die Haut aus. <strong>Naturseifen können mit einem bestimmten Überfettungsgrad gesiedet werden. <\/strong>Das ist eine Kunst für sich und würde an dieser Stelle den Rahmen sprengen. Wichtig zu wissen ist aber, dass der Überfettungsgrad entscheidet, wie sehr die Seife pflegt. Je höher der Wert, desto intensiver die Pflege.<\/p><p><strong>Mit dem Überfettungsgrag erkennst du, ob die Seife für deine persönlichen Bedürfnisse geeignet ist!<\/strong> Denn jeder Mensch ist unterschiedlich und damit benötigt auch jede Haut ganz unterschiedliche Pflege. Möglicherweise ist der Überfettungsgrad 8 für deine Hände genau richtig, für dein Gesicht aber nur 5. Aus guten Naturseifen erhältst du viel bessere Informationen und Möglichkeiten, als aus einem günstigen Waschstück, das angeblich für alle Bereiche geeignet sein soll.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1645873542f2f03cda": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_kernseife.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_keine_Kernseife.png",
+        "subtitle": "Grund Nummer 4",
+        "title": "Kernseife ist der Tod für deine Haut!",
+        "text": "<p>Wir begnen häufig in dem Kommentarspalten, dass es Kernseife auch tut \"Oma hätte das ja auch schon so gemacht\". Um das ganz deutlich zu sagen: Kernseife ist absolut ungeeignet für deinen Körper! Klar: Damals waren andere Zeiten angesagt. Man nahm das, was man kriegen und sich leisten konnte. Den Luxus, den wir heute haben, hatten unsere Großeltern ganz einfach nicht. Allerdings gehen wir heute auch nicht mehr nacheinander mit der gazen Familie in die Zinkwanne zum baden in der Hoffnung, heute nicht der siebte zu sein. Kernseife eignet sich zum putzen im Haushalt und ist viel zu agressiv für die Haut!<\/p><p><strong>Naturseifen enthalten ihre natürliche Pflegephasen und spenden durch das natürliche Glycerin<\/strong>, das bei der Verseifung entsteht eine extra Portion Feuchtigkeit. Ihr könnt euch sicher sein, wenn Oma die Möglichkeit damals gehabt hätte eine Naturseife zu nutzen, dann hätte sie das auch gemacht!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1645873840dcaf6b9a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_seife_sieden_2.jpg",
+        "image2": "shopify:\/\/shop_images\/puremetics_seife_sieden.png",
+        "subtitle": "Grund Nummer 5",
+        "title": "Naturseife ist Liebe <3",
+        "text": "<p>Das klingt jetzt vielleicht etwas romantisch, ist es aber auch. Eine Naturseife wird per Hand mit viel Zuwendung gemacht. Sie reift mehrere Wochen ganz in Ruhe bis sie fertig ist. Diese Zeit und Fürsorge haben industriell hergestellte Seifen nicht!<\/p><p>Kennt ihr den Unterschied zwischen Tomaten aus dem Supermarkt und aus dem eigenen Garten in dem sie mit Liebe und Zuwendung gepflegt werden und auf natürliche Weise sonnenreifen dürfen so wie es die Natur vorgesehen hat? Dann kennt ihr auch den Unterschied zwischen industrieller Billigseife und Naturseifen :) Okay, die Seife solltet ihr zwar nicht essen, aber so wird eine Seife gemacht, wie eine Seife sein soll.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16458740547f816903": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_schmutziges_wasser.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_sauberes_wasser.png",
+        "subtitle": "Grund Nummer 6",
+        "title": "Der Umwelt zuliebe :)",
+        "text": "<p>Naturseifen sind im Gegensatz zu den meisten industriell hergestellten Seifen zu 100% biologisch abbaubar. Bedenkt bitte, dass das Wasser aus eurem Duschabfluss irgendwann wieder bei euch in die Küche fließt. In Liebe und Anerkennung uns, unseren Nachfahren und der Umwelt gegenüber sollten wir besser darauf achten, wie viel Müll wir in diese Welt tragen. Schon kleine Änderungen können Großes bewirken. Beispielsweise die Entscheidung zur Naturseife.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16458742727ae827a2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_industrie_seife_kochen.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_seife_kaltsieden_b0da27e2-fcaf-4d82-b269-a7d1581c1231.png",
+        "subtitle": "Grund Nummer 7",
+        "title": "Kaltsieden ist die Königin unter den Seifen!",
+        "text": "<p>Seifen werden industriell meist aus einfachen Gießseifen oder sogenannten Syndeten gemacht. Falls sie doch ernsthaft gesiedet werden geschieht dies meist unter hohen Temperaturen. Ihr wisst doch sicherlich was mit den Vitaminen und Mineralstoffen aus eurem Gemüse geschieht, wenn ihr es eine halbe Stunde in Kochendes Wasser gebt? Sie sind eleminiert und bringen eurem Körper so gut wie gar nichts mehr.<\/p><p><strong>Naturseifen die kaltgesiedet werden, werden nicht unter Hitze hergestellt!<\/strong> Das ist das schonendste Verfahren eine Seife herzustellen da nahezu alle guten Stoffe und Fettsäuren erhalten bleiben. Auf diesem Weg können sie deiner Haut das Maximum an Reinigung und Pflege bieten. Um auf dein Gemüse zurückzukommen: Das ist in etwa so, als würdest du den Salat direkt nach dem Pflücken im Garten noch naschen :) Dieses Verfahren ist aber auch das Aufwändigste und längste. Es dauert mehrere Wochen bis die Seife verkaufsfertig ist. Das hat seinen Preis, es lohnt sich aber enorm!<\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1645874340f10066a9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_industrieschornstein.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_kaltsieden_2.png",
+        "subtitle": "Grund Nummer 8",
+        "title": "Kaltsieden ist Energiesparend!",
+        "text": "<p>Ein weiterer Umweltaspekt stellt die Energieersparnis dar. Naturseifen im kaltverfahren sind extrem Energiesparend im Vergleich. Denn Sie werden angerührt und ruhen dann einfach mehrere Wochen aus. Das benötigt neben etwas Raum und Zuwendung keine weiteren Ressourcen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "164587482579e78dee": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_duschgel.png",
+        "image2": "shopify:\/\/shop_images\/puremetics_hydrierte_Haut.png",
+        "subtitle": "Grund Nummer 9",
+        "title": "Naturseife ist ergiebiger!",
+        "text": "<p>Du kommst mit einer guten Naturseife viel länger aus, als mit günstigen Chemie-Industrieseifen. Sie sind im Gegensatz dazu nämlich nicht mit Füllstoffen aufgeplustert mit extremen Schaumabrieb konzipiert. Du benötigst also immer nur eine kleine Menge der Naturseife und erhältst dabei sogar noch ein besserer Ergebnis. <\/p><p>Aber auch Flüssigprodukte werden häufig total überdosiert. Das kann die bei einer Naturseife nicht passieren. Das wiederrum hat einen positiven Effekt für die Umwelt, aber auch für deinen Geldbeutel. Ein günstiges Industriebrot, das Hauptsächlich aus Luft besteht ist schließlich auch schneller aufgegessen als ein richtiges volles Brot vom Bäckermeister.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16458748396ec41745": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Team_86457259-5d33-4804-8dd1-41d6ce8f2e32.jpg",
+        "image2": "shopify:\/\/shop_images\/puremetics_naturseife_1.png",
+        "subtitle": "Grund Nummer 10",
+        "title": "Naturseife ist für absolut alle geeignet!",
+        "text": "<p>Egal ob du du fettige-, trockene- oder empfindliche Haut hast. Schnell fettende Ansätze oder feines, trockenes, brüchiges Haar. Naturseifen werden mit viel Hingabe und Fachwissen über die Zusammensetzung und Harmonie der unterschiedlichen Fettsäuren gesiedet. Somit können wirklich alle von den positiven Eigenschaften profitieren. Unsere Naturseifen bieten wir daher auch als günstige Tester-Minis an. Viele andere Hersteller machen das auch so oder bieten dir vor Ort im Geschäft kleine Abschnitte an. Auf diesem Weg kannst du ganz einfach ausprobieren, welche Seife für deine besonderen Bedürfnisse passt.<\/p><p>Hier siehst du übrigens unser kleines Team :)<\/p>",
+        "button_label": "Wir beraten dich gern",
+        "button_link": "shopify:\/\/pages\/kontakt",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16458756744d272615": {
+      "type": "rich-text",
+      "blocks": {
+        "16458756748e45c345-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Naturseife ist gut für´s Gewissen"
+          }
+        },
+        "16458756748e45c345-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Du weißt jetzt, dass Naturseife einfach nur jede Menge Vorteile für dich und die Umwelt bietet und, dass chemische Industrieprodukte dir und der Umwelt sogar schaden können! <\/p><p>Wer sich liebt, behandelt sich auch so. Und das gilt selbstverständlich auch für die tägliche Reinigungs- und Beautyroutine. <strong>Achtsamkeit ist hier das Stichwort! <\/strong>Neben allen klaren Vorteilen setzen wir bei puremetics aber auch auf ein visuelles und olfaktorisches Erlebnis. Mach deine Reinigungsroutine zu einem Wohlfühlritual und sorge einfach gut für dich :)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16458756748e45c345-0",
+        "16458756748e45c345-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1645876081460533c1": {
+      "type": "rich-text",
+      "blocks": {
+        "164587608164cc6568-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Verbanne alles aus deinem bad, was dir nicht gut tut und lass dich von unseren Naturseifen begeistern"
+          }
+        }
+      },
+      "block_order": [
+        "164587608164cc6568-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "16458762737a09c0b4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Entdecke das gesamte puremetics Sortiment",
+        "home_featured_products": "alle-artikel",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "1645872019c1841fc4",
+    "16458724325f85d0df",
+    "1645872818ac6448fe",
+    "1645873232abf39fac",
+    "1645873542f2f03cda",
+    "1645873840dcaf6b9a",
+    "16458740547f816903",
+    "16458742727ae827a2",
+    "1645874340f10066a9",
+    "164587482579e78dee",
+    "16458748396ec41745",
+    "16458756744d272615",
+    "1645876081460533c1",
+    "main-collection",
+    "16458762737a09c0b4"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "sections": {
+    "dcfe4717-ebb2-47b2-9a23-3754622de340": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--18067643629834__dcfe4717-ebb2-47b2-9a23-3754622de340-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "100% Plastikfrei & Vegan!",
+            "heading": "Entdecke die Zukunft der Schönheit",
+            "textarea": "Deine Haut wird es lieben, die Natur wird es dir danken.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Header_Start.png",
+            "video_url": "",
+            "width": "100",
+            "height": 680,
+            "text_size": 150,
+            "text_align": "vertical-bottom horizontal-left",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18067643629834__dcfe4717-ebb2-47b2-9a23-3754622de340-advanced-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "a9849e3d-776c-470d-9350-a3c907f766d7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18067643629834__a9849e3d-776c-470d-9350-a3c907f766d7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Verwöhne dich selbst und die Erde mit Produkten, die gut für dich und unsere Umwelt sind"
+          }
+        },
+        "template--18067643629834__a9849e3d-776c-470d-9350-a3c907f766d7-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Tauche ein in unsere umweltfreundliche Kollektion an veganer Kosmetik, frei von Plastik und schädlichen Chemikalien. <\/p><p><strong>Jetzt entdecken und gemeinsam eine nachhaltige Zukunft gestalten!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18067643629834__a9849e3d-776c-470d-9350-a3c907f766d7-heading-1",
+        "template--18067643629834__a9849e3d-776c-470d-9350-a3c907f766d7-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "166015036078a332ec": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "9c7e9eec-dbbe-4101-8e07-3259c5b44b04": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "dcfe4717-ebb2-47b2-9a23-3754622de340",
+    "a9849e3d-776c-470d-9350-a3c907f766d7",
+    "166015036078a332ec",
+    "9c7e9eec-dbbe-4101-8e07-3259c5b44b04"
+  ]
+}

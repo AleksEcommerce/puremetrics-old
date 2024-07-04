@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "7634199f-be3f-4aa1-a57f-900811c22bc0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mitarbeiterfotos_Freisteller_Hintergrund_Beige_Marie_Hauptbild.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/Mitarbeiterfotos_Freisteller_Hintergrund_Beige_Hauptbild_Annika.jpg",
+        "image2_mask": "none",
+        "subtitle": "Marie & Annika",
+        "title": "Wir helfen dir gerne weiter :)",
+        "text": "<p>Vielleicht findest du deine Antwort ja bereits in unseren \"Häufig gestellten Fragen und Antworten\" hinter dem Kontaktformular?<\/p><p>Falls nicht, sind wir gerne persönlich für dich da.<\/p><p><\/p>",
+        "button_label": "E-Mail senden",
+        "button_link": "mailto:info@puremetics.de",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Oder Kontaktformular nutzen",
+        "text": "<p>Du wünscht gerne ein persönliches telefonisches Gespräch? Sende uns dazu gerne deine Rufnummer, die Zeiten in denen wir dich am besten erreichen können, sowie eine kurze Übersicht deines Themas mit dem Stichwort \"Rückrufbitte\". Gerne melden wir uns, so schnell es uns möglich ist, bei dir.<\/p>",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "67b76b89-03bd-466c-8c1f-52912a3aa67a": {
+      "type": "faq",
+      "blocks": {
+        "template--18074176651530__67b76b89-03bd-466c-8c1f-52912a3aa67a-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Zahlungsmöglichkeiten gibt es?",
+            "text": "<p>Du kannst bei uns online via PayPal, SOFORT Überweisung, eps Überweisung, Google Pay, Apple Pay, Amazon Pay oder Kreditkarte (Visa, Maestro, mastercard oder American Express) zahlen. Außerdem kannst du selbstverständlich klassisch in Vorkasse als Banküberweisung zahlen oder die Option \"Rechnungskauf mit Klarna\" wählen.<\/p>"
+          }
+        },
+        "11e86f25-0a77-4cda-98f1-cd1a940742b8": {
+          "type": "question",
+          "settings": {
+            "title": "Wie zahle ich \"Rechnungskauf mit Klarna\"?",
+            "text": "<p>Du gleichst den Betrag nicht bei uns aus, sondern überweist ihn an Klarna.<\/p><p>Du erhältst dennoch auch eine Rechnung von uns. Diese dient nur deinen Unterlagen. Die Zahlungsaufforderung kommt von Klarna.<\/p><p>Klarna wird dir alle Zahlungsinformationen an deine, bei uns hinterlegte, E-Mail Adresse zusenden. Solltest du Fragen zur Rechnungsabwicklung haben, wende dich bitte direkt an Klarna.<\/p>"
+          }
+        },
+        "268ec3db-f35f-413c-9919-3ceeb0b538a8": {
+          "type": "question",
+          "settings": {
+            "title": "Ist mein Kauf abgesichert?",
+            "text": "<p>Ja. Als zertifizierter Trusted Shops Store sind deine Käufe und Zahlungen bei uns abgesichert.<\/p>"
+          }
+        },
+        "16baf031-1119-4547-9724-28346b40ee5e": {
+          "type": "question",
+          "settings": {
+            "title": "Sind meine Zahlungen und Daten sicher?",
+            "text": "<p>Absolut! Die Sicherheit der Datenübermittlung wird bei uns sehr groß geschrieben. Daher vertrauen wir nur auf bewährte Versand- und Zahlungsanbieter sowie eine der sichersten Methoden der Datenübermittlung (SSL-Secure). Deine Angaben werden jederzeit verschlüsselt an uns übermittelt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18074176651530__67b76b89-03bd-466c-8c1f-52912a3aa67a-question-2",
+        "11e86f25-0a77-4cda-98f1-cd1a940742b8",
+        "268ec3db-f35f-413c-9919-3ceeb0b538a8",
+        "16baf031-1119-4547-9724-28346b40ee5e"
+      ],
+      "settings": {
+        "title": "Zahlung"
+      }
+    },
+    "759a57c7-0db3-46fe-afb3-6346f11eaf60": {
+      "type": "faq",
+      "blocks": {
+        "9fd1980e-ebad-495f-81cd-0f1c0f2b3b86": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird meine Bestellung versendet?",
+            "text": "<p>Wir senden alle Bestellungen plastikfrei und klimaneutral via DHL Paket GOGREEN.<\/p>"
+          }
+        },
+        "649022d9-afde-4140-ac6e-cb7ab9581dc4": {
+          "type": "question",
+          "settings": {
+            "title": "Wie hoch sind die Versandkosten?",
+            "text": "<p><strong>Deutschland  <\/strong>4,95 € und ab 35€ Warenwert kostenlos!<br\/><strong>Österreich  <\/strong>5,95 € und ab 50€ Warenwert kostenlos!<br\/><strong>Schweiz <\/strong>21,95€.<br\/>Du möchtest in ein anderes Land bestellen? <a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\"><strong>Hier<\/strong><\/a><strong> <\/strong>findest du unsere detaillierten, weltweiten Versandinformationen.<\/p>"
+          }
+        },
+        "e315f646-e642-4f7d-ab78-17aba4a05e4e": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich meine Bestellung verfolgen?",
+            "text": "<p>Du erhältst von uns automatisch eine Sendungsnummer mit der du den Status, sowie die voraussichtlichen Zustelltermin jederzeit im DHL Tracking verfolgen kannst.<\/p>"
+          }
+        },
+        "b5bc8c81-a378-4d1f-8854-85d2b1d685a1": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich mein Paket an eine DHL Packstation liefern lassen?",
+            "text": "<p>Ja. Bitte gebe dabei in deinen Versandinformationen die Postnummer, sowie die Nummer der Packstation an.<\/p>"
+          }
+        },
+        "57c32167-45c5-47f1-b1d7-bc7d96e50d15": {
+          "type": "question",
+          "settings": {
+            "title": "Meine Lieferung ist nicht eingetroffen. Was kann ich tun?",
+            "text": "<p>Bitte prüfe zunächst den Status deiner Lieferung. Gebe hierfür deine Sendungsnummer im Tracking-Tool der DHL ein. Vielleicht wurde dein Paket in einer DHL Filiale oder bei einem Nachbarn abgegeben.<\/p><p><br\/>Bitte prüfe auch, ob deine Lieferadresse korrekt ist. Vielleicht hat sich im Eifer des Gefechts ein kleiner Fehlerteufel eingeschlichen, sodass die Sendung nicht zugestellt werden konnte. In diesem Fall kontaktiere uns bitte.<\/p><p><br\/>Sollten beide Punkte ausgeschlossen sein, kontaktiere uns bitte auch. Wir werden uns umgehend mit dem Versanddienstleister in Verbindung setzen. <\/p><p>Keine Sorge: Bisher hat jeder sein Päckchen von uns bekommen. :)<\/p>"
+          }
+        },
+        "93645c19-f024-405c-b273-0f0bb5a37370": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich meine Lieferadresse ändern?",
+            "text": "<p>Bitte prüfe immer direkt bei der Bestellung, ob deine Daten korrekt von dir hinterlegt wurden. Sollte sich ein Fehlerteufelchen eingeschlichen haben, kontaktiere uns bitte umgehend, damit wir noch rechtzeitig eine Korrektur durchführen können.<br\/><br\/>Falls du bereits eine Versandbestätigung erhalten hast, ist eine Korrektur nicht mehr möglich. Ggf. kann das Paket dennoch zugestellt werden. Andernfalls wird es zu uns zurück kommen und wir werden dich kontaktieren.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9fd1980e-ebad-495f-81cd-0f1c0f2b3b86",
+        "649022d9-afde-4140-ac6e-cb7ab9581dc4",
+        "e315f646-e642-4f7d-ab78-17aba4a05e4e",
+        "b5bc8c81-a378-4d1f-8854-85d2b1d685a1",
+        "57c32167-45c5-47f1-b1d7-bc7d96e50d15",
+        "93645c19-f024-405c-b273-0f0bb5a37370"
+      ],
+      "settings": {
+        "title": "Lieferung und Versand"
+      }
+    },
+    "ac03bcd8-f24b-432c-81e8-baa3ab6bf67b": {
+      "type": "faq",
+      "blocks": {
+        "79242c89-21e8-4ae0-803b-31f86fe719e9": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich meiner Bestellung noch etwas hinzufügen \/ entfernen?",
+            "text": "<p>Ja, sollte deine Bestellung noch nicht im Versandweg sein, ist das möglich. Bitte teile uns Änderungen daher umgehend per E-Mail mit deiner Bestellnummer mit. Wir werden deine Bestellung gerne anpassen.<br\/>Solltest du bereits eine Versandbestätigung erhalten haben, können wir leider keine Änderungen mehr vornehmen.<br\/><\/p>"
+          }
+        },
+        "12f620c6-8ded-4745-95df-2834c315a28a": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe keine Bestell- oder Versandbestätigung erhalten. Was kann ich tun?",
+            "text": "<p>Bestellbestätigungen erhältst du von uns immer innerhalb weniger Minuten nach deinem Kauf. Solltest du keine erhalten haben, prüfe bitte, ob deine hinterlegte Mailadresse korrekt ist oder sich unsere E-Mails vielleicht in deinem Spam Ordner befinden.<br\/>Sollte alles korrekt sein, kontaktiere uns gerne per Mail und wir senden dir alle Informationen gerne nachträglich zu.<br\/>Dies gilt auch für Versand- und Kundenkonto- Bestätigungen.<br\/><\/p>"
+          }
+        },
+        "9330f0b3-9fbe-4870-8907-c3ce4d22bec1": {
+          "type": "question",
+          "settings": {
+            "title": "Ich finde meinen Rabattcode nicht, was kann ich tun?",
+            "text": "<p>Solltest du auf der Suche nach verlorenen Rabattcodes sein, schreibe uns bitte eine Mail und teile uns kurz mit, um welchen Code es sich handelt.<\/p>"
+          }
+        },
+        "8dc2a327-3335-4307-8a54-233153e44bd5": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich einen Rabattcode auch nachträglich nutzen?",
+            "text": "<p>Das ist zwar abhängig vom Code, aber in er Regel kriegen wir das hin ;)  Bitte sende uns eine E-Mail mit deinem Code und wir schauen gerne für dich nach.<\/p>"
+          }
+        },
+        "3e12cfa4-24e0-4c55-a099-14e6b4c3d455": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich meine gesamte Bestellung stornieren?",
+            "text": "<p>Bitte sende uns eine E-Mail mit dem Betreff \"Bestellung komplett stornieren\". Sofern sich die Bestellung noch nicht in der Versandabwicklung befindet, können wir diese kostenfrei stornieren. <br\/>Wir freuen uns natürlich immer über ein Feedback, weshalb du dich doch gegen eine Bestellung bei uns entschieden hast.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "79242c89-21e8-4ae0-803b-31f86fe719e9",
+        "12f620c6-8ded-4745-95df-2834c315a28a",
+        "9330f0b3-9fbe-4870-8907-c3ce4d22bec1",
+        "8dc2a327-3335-4307-8a54-233153e44bd5",
+        "3e12cfa4-24e0-4c55-a099-14e6b4c3d455"
+      ],
+      "settings": {
+        "title": "Bestellung"
+      }
+    },
+    "1218f755-1197-42ed-9198-60c92f4836a2": {
+      "type": "faq",
+      "blocks": {
+        "491f6635-d55f-4999-b4f0-e4cae9c9cee6": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich meine Bestellung oder einen Artikel zurückschicken?",
+            "text": "<p>Manchmal überlegt man es sich doch spontan anders. Das ist okay. Du hast bei uns generell 14 Tage die Möglichkeit von deinem Widerrufsrecht Gebrauch zu machen und deine bestellten Artikel zurück zu senden. Sende hierfür einfach die Artikel, welche du zurückgeben möchtest an:<br\/>puremetics GmbH<br\/>Borsigstraße 11A<br\/>30916 Isernhagen<br\/>Beachte bitte, dass wir eine kurze Widerrufserklärung von dir benötigen. Diese kann formlos handschriftlich erfolgen. Ein Muster, sowie alle Bedingungen findest du bei uns <a href=\"https:\/\/puremetics.de\/policies\/refund-policy\" target=\"_blank\" title=\"https:\/\/puremetics.de\/policies\/refund-policy\">hier<\/a>.<\/p>"
+          }
+        },
+        "e158446b-0f6e-414a-822c-559200461b5d": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich geöffnete und genutzte Produkte zurücksenden?",
+            "text": "<p>Ja und Nein :)<\/p><p>Eigentlich geht das nicht. Wir bieten allerdings im Rahmen unserer 100% Zufriedenheitsgarantie ein ganz besonderes Programm an, um sicherzustellen, dass du auch wirklich happy mit puremetics bist. <a href=\"\/pages\/100-zufriedenheitsgarantie\" target=\"_blank\" title=\"100% Zufriedenheitsgarantie\"><strong>Hier<\/strong><\/a><strong> <\/strong>erfährst du mehr darüber.<br\/><\/p>"
+          }
+        },
+        "afdc1a69-5d0f-4553-811d-14d721b30cb1": {
+          "type": "question",
+          "settings": {
+            "title": "Wie erhalte ich meine Rückerstattung?",
+            "text": "<p>Du erhältst Rückerstattungen immer über die selbe Zahlungsweise, die du auch bei deiner Bestellung gewählt hast. Wir informieren dich, sobald eine Rückerstattung für dich freigegeben wurde. Es kann bis zu 3 Werktage dauern, bis diese auf deinem Konto gutgeschrieben ist. Solltest du die Option \"Klarna Rechnung\" gewählt haben gibt es zwei Möglichkeiten:<br\/>1.  Falls du deine Rechnung noch nicht bezahlt hast, informieren wir Klarna über die Rückerstattung. Dein Rechnungsbetrag wird dann entsprechend der Rückerstattung verringert. Klarna wird dich hierüber separat informieren.<br\/>2.  Falls du deine Rechnung bereits bezahlt hast, wirst du eine Rücküberweisung von Klarna erhalten. <\/p>"
+          }
+        },
+        "b4319b01-9dd9-414e-b92d-b916961c9fa8": {
+          "type": "question",
+          "settings": {
+            "title": "Meine Lieferung wurde auf dem Versandweg beschädigt. Was kann ich tun?",
+            "text": "<p>Das ist natürlich nicht so schön, kann aber durchaus mal passieren. Aber keine Sorge! Wir kümmern uns sofort darum! :)<\/p><p>Bitte sende uns eine E-Mail mit deiner Bestellnummer sowie ein Foto der Beschädigungen. Wir werden gerne für dich einen Umtausch einleiten.<\/p>"
+          }
+        },
+        "b619ab47-a16f-471f-9119-a216181cd590": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist die 100% Zufriedenheitsgarantie?",
+            "text": "<p>Deine Zufriedenheit ist uns sehr wichtig. Wir sind so überzeugt davon, dass du dich mit unseren Produkten pudelwohl fühlst, dass wir dir eine 100% Zufriedenheitsgarantie versprechen. Bist du mit deiner Lieferung nicht zufrieden, erstatten wir dir den Kaufbetrag zurück! Auch dann, wenn du Artikel bereits genutzt sind. Schließlich musst du sie ja testen bevor du sie bewerten kannst :) <a href=\"https:\/\/puremetics.de\/pages\/100-zufriedenheitsgarantie\" target=\"_blank\" title=\"https:\/\/puremetics.de\/pages\/100-zufriedenheitsgarantie\">Hier <\/a>erfährst du mehr dazu.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "491f6635-d55f-4999-b4f0-e4cae9c9cee6",
+        "e158446b-0f6e-414a-822c-559200461b5d",
+        "afdc1a69-5d0f-4553-811d-14d721b30cb1",
+        "b4319b01-9dd9-414e-b92d-b916961c9fa8",
+        "b619ab47-a16f-471f-9119-a216181cd590"
+      ],
+      "settings": {
+        "title": "Retouren und Rückerstattung"
+      }
+    },
+    "83a4aac1-c88e-4019-a3b1-b75ee6541ea4": {
+      "type": "faq",
+      "blocks": {
+        "c3d944e8-51ba-4f24-a5fa-4d85a002154f": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange sind Geschenkkarten gültig?",
+            "text": "<p>Immer. Geschenkkarten haben kein Verfallsdatum bei uns.<\/p>"
+          }
+        },
+        "abb19433-d056-4a9e-8130-69910bd5c708": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe meine Geschenkkarte nicht erhalten. Was kann ich tun?",
+            "text": "<p>Beachte bitte, dass wir Geschenkkarten automatisch per E-Mail an dich versenden. Ein physischer Versand findet nicht statt. Die Motive können aber ausgedruckt werden. Bitte prüfe zunächst deinen Spam-Ordner und kontaktiere und per E-Mail. Wir werden dir deine Geschenkkarte gerne erneut mailen.<\/p>"
+          }
+        },
+        "cf12642a-f257-43be-a89e-a69da5f95d38": {
+          "type": "question",
+          "settings": {
+            "title": "Eines eurer Produkte ist ausverkauft. Wann ist es wieder verfügbar?",
+            "text": "<p>Auf jeder Artikelseite hast du die Möglichkeit, dich für eine automatische Verfügbarkeitsnachricht einzutragen. Wir informieren dich dann gerne direkt, sobald dein Wunschartikel wieder erhältlich ist.<\/p>"
+          }
+        },
+        "b66ddd0f-0096-4db7-b5a8-1c88e5d79144": {
+          "type": "question",
+          "settings": {
+            "title": "Ist euer Glycerin aus Palmöl?",
+            "text": "<p>Nein. Unser Glycerin ist palmölfrei und Bio.<\/p>"
+          }
+        },
+        "5958af81-86ed-4c19-9812-42d7b28f061b": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich  Geschenkkarten gemeinsam mit Rabatten einlösen?",
+            "text": "<p>Nein. Unser Glycerin ist palmölfrei und Bio.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c3d944e8-51ba-4f24-a5fa-4d85a002154f",
+        "abb19433-d056-4a9e-8130-69910bd5c708",
+        "cf12642a-f257-43be-a89e-a69da5f95d38",
+        "b66ddd0f-0096-4db7-b5a8-1c88e5d79144",
+        "5958af81-86ed-4c19-9812-42d7b28f061b"
+      ],
+      "settings": {
+        "title": "Produkte"
+      }
+    },
+    "9a2f8337-8899-46bf-92ba-490a3c0e5f76": {
+      "type": "faq",
+      "blocks": {
+        "304117dc-119e-47e0-8422-785d86adbde5": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist das purepoints Programm?",
+            "text": "<p>Treue wird bei uns belohnt! Entdecke das purepoints Programm und erhalte spannende Vorteile, Rabatte und Geschenke.<br\/>Uns ist oft aufgefallen, dass viele Unternehmen sich häufig nur auf Neukunden fokussieren und die meisten Aktionen und Vergünstigungen nicht für Bestandskunden gelten. <\/p><p>Das ist natürlich schade, denn in einer guten Beziehung sollte man sich immer umeinander kümmern und nicht nur beim ersten Daten glänzen oder?<br\/><br\/>Deshalb haben wir mit unserem purepoints System ein Programm ins Leben gerufen, von dem Du als Bestandskunde profitierst und tolle Vorteile erhältst.<br\/><\/p>"
+          }
+        },
+        "06e4aa51-61ec-4075-937f-5c8a4ff86d67": {
+          "type": "question",
+          "settings": {
+            "title": "Wie funktioniert das purepoints Programm?",
+            "text": "<p>Du erhältst bei uns für jeden Einkauf und für bestimmte Aktivitäten automatisch purepoints, sofern du ein Kundenkonto bei uns hast. Diese kannst du sammeln und gegen tolle Prämien eintauschen.<\/p><p><a href=\"\/pages\/das-purepoints-treueprogramm\" target=\"_blank\" title=\"Das purepoints Treueprogramm\"><strong>Hier<\/strong><\/a><strong> <\/strong>erfährst du mehr dazu.<\/p>"
+          }
+        },
+        "364c017b-75c6-4f0c-8ecf-3f1e3fb55889": {
+          "type": "question",
+          "settings": {
+            "title": "Mir wurden noch keine purepoints gutgeschrieben?",
+            "text": "<p>Bitte habe ein klein wenig Geduld. Manchmal kann es systemseitig bis zu einer halben Stunde dauern, bis deine purepoints übertragen und registriert wurden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "304117dc-119e-47e0-8422-785d86adbde5",
+        "06e4aa51-61ec-4075-937f-5c8a4ff86d67",
+        "364c017b-75c6-4f0c-8ecf-3f1e3fb55889"
+      ],
+      "settings": {
+        "title": "purepoints"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7634199f-be3f-4aa1-a57f-900811c22bc0",
+    "form",
+    "67b76b89-03bd-466c-8c1f-52912a3aa67a",
+    "759a57c7-0db3-46fe-afb3-6346f11eaf60",
+    "ac03bcd8-f24b-432c-81e8-baa3ab6bf67b",
+    "1218f755-1197-42ed-9198-60c92f4836a2",
+    "83a4aac1-c88e-4019-a3b1-b75ee6541ea4",
+    "9a2f8337-8899-46bf-92ba-490a3c0e5f76"
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow_UxTrH3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mmKtjT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "regelmäßig, flexibel und bequem",
+            "title": "Erhalte deine Lieblingsprodukte",
+            "title_size": 80,
+            "subheading": "zu einem unschlagbaren Preis!",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Puremetics_Banner_01-5_03942610-eacb-4c0f-93b6-4e3f9d5822b2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Puremetics_Banner_01-4_mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 34
+          }
+        }
+      },
+      "block_order": [
+        "image_mmKtjT"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_CU8Aq4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Peel-Off-Maske-Allgemein_06_77f599e3-441e-4b66-8f3e-c7829e3cbcbb.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "in einem Rhythmus",
+        "title": "der zu deinem Lebensstil passt",
+        "text": "<p>Das Besondere an unserem Produkt-Abonnement ist die Anpassbarkeit. Du hast die Freiheit, den Lieferintervall nach deinen Wünschen festzulegen – sei es wöchentlich, monatlich oder in einem anderen Rhythmus, der zu deinem Lebensstil passt. Ebenso kannst du die Produktauswahl jederzeit anpassen, um sicherzustellen, dass du immer genau das bekommst, was du möchtest.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_rB4PQC": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Seife_Gesichtspflege.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "attraktive",
+        "title": "Kostenersparnissen",
+        "text": "<p>Ein herausragender Vorteil unseres Produkt-Abonnements liegt in den attraktiven Kostenersparnissen. Im Vergleich zum regulären Einzelkauf bieten wir dir unsere Artikel im Abonnement zu einem deutlich reduzierten Preis an. Das bedeutet nicht nur finanzielle Vorteile für dich, sondern auch die Gewissheit, hochwertige Produkte zu einem unschlagbaren Preis-Leistungs-Verhältnis zu erhalten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_bnrLxg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LagerFotos_07.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "jederzeit kündbar",
+        "title": "du behältst die volle Kontrolle",
+        "text": "<p>Wir verstehen, dass sich deine Bedürfnisse ändern können, und deshalb haben wir die Kündigungsfrist bewusst eliminiert. Du kannst dein Produkt-Abonnement jederzeit ohne lästige Kündigungsfristen beenden. Deine Zufriedenheit steht für uns an erster Stelle, und wir möchten sicherstellen, dass du die volle Kontrolle über dein Abonnement hast.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Bfxxzj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Header-Desktop_Lagersale_2022_Chido_b1a8b607-5ccb-4ac9-9aa6-6743bdb4675c.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "nutze deine zeit besser, als mit einkäufen",
+        "title": "wir kümmern uns für dich um alles",
+        "text": "<p>Darüber hinaus bieten wir dir mit dem Produkt-Abonnement eine sorgenfreie Einkaufserfahrung. Du musst dich nicht mehr daran erinnern, deine Lieblingsprodukte nachzubestellen oder dir Gedanken über Liefertermine machen – wir kümmern uns darum, dass deine Artikel rechtzeitig und bequem zu dir nach Hause geliefert werden.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_EDJxNP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eF9GAJ": {
+          "type": "heading",
+          "settings": {
+            "title": "Starte noch heute und genieße exklusive Vorteile, die nur unser Produkt-Abonnement bietet"
+          }
+        },
+        "text_rrMmz9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Entdecke die Vorzüge unseres Produkt-Abonnements und erleichtere dir das Leben mit einer bequemen, flexiblen und kostengünstigen Möglichkeit, deine bevorzugten Produkte zu erhalten. Die Vorteile unseres Produkt-Abonnements sind vielfältig und auf deine Bedürfnisse zugeschnitten:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eF9GAJ",
+        "text_rrMmz9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_with_icons_txjcLX": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_eieXkq": {
+          "type": "text_block",
+          "settings": {
+            "icon": "wallet",
+            "title": "Kostenersparnis",
+            "text": "<p>Produkte im Abonnement sind im Vergleich zum Einzelkauf deutlich günstiger. Kunden profitieren von attraktiven Rabatten, die eine langfristige Ersparnis ermöglichen.<\/p>"
+          }
+        },
+        "text_block_WdHYtL": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "Flexibilität",
+            "text": "<p>Du bestimmst den Lieferintervall nach deinen persönlichen Vorlieben. Ob wöchentlich, monatlich oder in einem anderen Rhythmus – das Abonnement passt sich deinem Lebensstil an.<\/p>"
+          }
+        },
+        "text_block_rArnQy": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "Anpassbare Produktauswahl",
+            "text": "<p>Ändere deine Produktauswahl nach Bedarf. Ob du neue Produkte ausprobieren möchtest oder deine Vorlieben sich ändern, die Anpassung deiner Abonnementprodukte ist einfach und unkompliziert.<\/p>"
+          }
+        },
+        "text_block_PdEwaj": {
+          "type": "text_block",
+          "settings": {
+            "icon": "package",
+            "title": "Bequeme Lieferung",
+            "text": "<p>Vergiss das manuelle Nachbestellen. Deine Abonnementprodukte werden automatisch und pünktlich zu dir nach Hause geliefert. Eine sorgenfreie Einkaufserfahrung ohne den Aufwand, ständig an Nachbestellungen denken zu müssen.<\/p>"
+          }
+        },
+        "text_block_x8Mmgt": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Keine Kündigungsfrist",
+            "text": "<p>Du hast die volle Kontrolle über dein Abonnement. Jederzeit und ohne Kündigungsfristen kannst du dein Abonnement pausieren oder beenden, falls sich deine Bedürfnisse ändern.<\/p>"
+          }
+        },
+        "text_block_CqaMRX": {
+          "type": "text_block",
+          "settings": {
+            "icon": "calendar",
+            "title": "Einfache Verwaltung",
+            "text": "<p>Nutze die benutzerfreundliche Oberfläche deines Kundenkontos, um dein Abonnement mühelos zu verwalten. Ändere Lieferintervalle, passe Produkte an oder beende dein Abonnement mit nur wenigen Klicks.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_eieXkq",
+        "text_block_WdHYtL",
+        "text_block_rArnQy",
+        "text_block_PdEwaj",
+        "text_block_x8Mmgt",
+        "text_block_CqaMRX"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "rich_text_gfPWMe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hfUU88": {
+          "type": "heading",
+          "settings": {
+            "title": "So einfach funktioniert es"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hfUU88"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_xGCi8a": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Schritt 1",
+        "title": "Auswahl der Produkte",
+        "text": "<p>Besuche unseren Online-Shop und wähle die Produkte aus, die du regelmäßig erhalten möchtest. Statt sie in den Warenkorb zu legen, entscheide dich für die Option \"Abonnement\" und füge die gewünschten Artikel deinem Abonnement hinzu.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_ekrjFB": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Schritt 2",
+        "title": "Lieferintervall & Produktauswahl",
+        "text": "<p>Nutze die Flexibilität des Abonnement-Systems. Du kannst den Lieferintervall nach deinen Bedürfnissen festlegen – sei es wöchentlich, monatlich oder in einem anderen Zeitrahmen. Du kannst auch jederzeit die Produktauswahl anpassen, um sicherzustellen, dass du stets die Produkte erhältst, die zu dir passen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_giTQPm": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Schritt 3",
+        "title": "Bearbeitung deiner Abonnements",
+        "text": "<p>Genieße die finanziellen Vorteile des Abonnements – die Artikel sind im Vergleich zum Einzelkauf günstiger. Das Beste daran: Du kannst dein Abonnement jederzeit ohne Kündigungsfrist beenden.<\/p><p>Außerdem kannst du über dein Kundenkonto im Bereich \"Abonnements\" jederzeit einfach und unkompliziert Änderungen vorzunehmen oder dein Abonnement zu pausieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_X8xemK": {
+      "type": "faq",
+      "blocks": {
+        "question_rmL8wi": {
+          "type": "question",
+          "settings": {
+            "title": "Wie funktioniert das Produkt-Abonnement genau?",
+            "text": "<p>Du wählst die gewünschten Produkte aus und fügst sie dem Abonnement hinzu. Dann bestimmst du den Lieferintervall und passt bei Bedarf die Produktauswahl an. Die Kundenkonto erleichtert die Verwaltung.<\/p>"
+          }
+        },
+        "question_33xQwc": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Lieferintervall nach der Anmeldung ändern?",
+            "text": "<p>Ja, du kannst den Lieferintervall jederzeit in deinem Kundenkonto anpassen, um sicherzustellen, dass er zu deinem aktuellen Bedarf passt.<\/p>"
+          }
+        },
+        "question_XVqaRH": {
+          "type": "question",
+          "settings": {
+            "title": "Sind die Produkte im Abonnement teurer als der Einzelkauf?",
+            "text": "<p>Nein, im Gegenteil. Produkte im Abonnement sind günstiger als bei einem Einzelkauf. Du profitierst von attraktiven Rabatten.<\/p>"
+          }
+        },
+        "question_qi68GA": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich meine Produktauswahl ändern?",
+            "text": "<p>Du kannst deine Produktauswahl einfach in deinem Kundenkonto bearbeiten. Füge neue Produkte hinzu oder entferne Produkte, die du nicht mehr möchtest.<\/p>"
+          }
+        },
+        "question_jbRXbx": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es eine Mindestlaufzeit für das Abonnement?",
+            "text": "<p>Nein, es gibt keine Mindestlaufzeit. Du kannst dein Abonnement jederzeit ohne Kündigungsfrist beenden.<\/p>"
+          }
+        },
+        "question_wkPWMP": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich mein Abonnement pausieren?",
+            "text": "<p>Ja, du kannst dein Abonnement in deinem Kundenkonto pausieren, wenn du vorübergehend keine Lieferungen wünschst.<\/p>"
+          }
+        },
+        "question_RCRp8K": {
+          "type": "question",
+          "settings": {
+            "title": "Werden Änderungen am Abonnement automatisch übernommen?",
+            "text": "<p>Ja, Änderungen an Lieferintervallen oder Produktauswahl werden automatisch für zukünftige Lieferungen übernommen.<\/p>"
+          }
+        },
+        "question_XqJK6P": {
+          "type": "question",
+          "settings": {
+            "title": "Ist das Abonnement international verfügbar?",
+            "text": "<p>Die Verfügbarkeit kann je nach Standort variieren. Bitte überprüfe die Versandoptionen während des Bestellvorgangs.<\/p>"
+          }
+        },
+        "question_Rekpn8": {
+          "type": "question",
+          "settings": {
+            "title": "Wie erfolgt die Zahlung für das Abonnement?",
+            "text": "<p>Die Zahlung erfolgt automatisch gemäß dem gewählten Lieferintervall über deine angegebene Zahlungsmethode.<\/p>"
+          }
+        },
+        "question_Q4tPJE": {
+          "type": "question",
+          "settings": {
+            "title": "Was passiert, wenn sich meine Adresse ändert?",
+            "text": "<p>Du kannst deine Lieferadresse jederzeit in deinem Kundenkonto aktualisieren, um sicherzustellen, dass deine Produkte am richtigen Ort ankommen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_rmL8wi",
+        "question_33xQwc",
+        "question_XVqaRH",
+        "question_qi68GA",
+        "question_jbRXbx",
+        "question_wkPWMP",
+        "question_RCRp8K",
+        "question_XqJK6P",
+        "question_Rekpn8",
+        "question_Q4tPJE"
+      ],
+      "settings": {
+        "title": "Diese Fragen erhalten wir häufig zu unserem produkt-Abonnement. Vielleicht ist deine antwort schon dabei?"
+      }
+    },
+    "text_and_image_fiVVrU": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_und_Team_puremetics.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "wir sind für dich erreichbar",
+        "title": "du hast fragen?",
+        "text": "<p>Gerne sind wir persönlich für dich da und beraten dich zu unseren Produkten und unserem Produkt-Abonnement.<\/p>",
+        "button_label": "E-Mail Senden",
+        "button_link": "mailto:info@puremetics.de",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_x6ieVR": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Direkt starten mit unseren bestsellern, die dir niemals ausgehen sollen",
+        "home_featured_products": "bestseller",
+        "per_row": 5,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_UxTrH3",
+    "text_and_image_CU8Aq4",
+    "text_and_image_rB4PQC",
+    "text_and_image_bnrLxg",
+    "text_and_image_Bfxxzj",
+    "rich_text_EDJxNP",
+    "text_with_icons_txjcLX",
+    "rich_text_gfPWMe",
+    "text_and_image_xGCi8a",
+    "text_and_image_ekrjFB",
+    "text_and_image_giTQPm",
+    "faq_X8xemK",
+    "text_and_image_fiVVrU",
+    "featured_collection_x6ieVR"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "sections": {
+    "165847578320f00eea": {
+      "type": "promo-grid",
+      "blocks": {
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c": {
+          "type": "banner",
+          "settings": {
+            "heading": "🌺🌸🌼💐 Streng limitiert und nur für kurze Zeit! 🌺🌸🌼💐",
+            "text": "Sichere dir die fröhlichen Frühlings Dusch-Fluffs erstmals in drei bezaubernden Sorten",
+            "link": "",
+            "label": "",
+            "color_tint": "#99ce99",
+            "color_tint_opacity": 20,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "743c0ac3-0c4b-4172-ad6c-8ec216fbf32c"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "bbe5f063-0262-42c4-87e9-5869e91ae5f5": {
+      "type": "promo-grid",
+      "blocks": {
+        "fe105bf5-22da-4143-aee0-445a36d8c03c": {
+          "type": "banner",
+          "settings": {
+            "heading": "😍 ODER BESSER DIREKT DAS SET MIT ALLEN FLAVOURS 😍",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "#f72bbd",
+            "color_tint_opacity": 14,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "fe105bf5-22da-4143-aee0-445a36d8c03c"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 2,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "2fb3dab4-19a0-4fe0-b788-2e99108f88e2": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "aa84023b-fb60-444a-b795-61a0d2410674": {
+          "type": "text",
+          "settings": {
+            "text": "✔  Alle limitierten Flavours in einem Set!<br>✔ Duschen, Cremen und Peelen in einem Schritt!<br>✔  Flieder, Frühlingsgarten und Lindenblüte<br><br>Vereine die tägliche Körperreinigung mit einem sanften Peeling und einem olfaktorischen Erlebnis! Edles Kokosöl pflegt deine Haut schon während des Duschens und versorgt sie mit Feuchtigkeit, ohne zu fetten! So sparst du dir das Eincremen. Zuckerpartikel befreien deinen Körper von alten Hautzellen und sorgen für himmlische Geschmeidigkeit.<br><br>"
+          }
+        },
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "322c540f-63b7-4f04-afe2-bfdae13514c0": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "GRATIS VERSAND!"
+          }
+        },
+        "699709e1-6c28-4579-9033-cdc43a968a53": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-0",
+        "aa84023b-fb60-444a-b795-61a0d2410674",
+        "template--17787907735818__2fb3dab4-19a0-4fe0-b788-2e99108f88e2-167949238651db3c39-3",
+        "322c540f-63b7-4f04-afe2-bfdae13514c0",
+        "699709e1-6c28-4579-9033-cdc43a968a53"
+      ],
+      "settings": {
+        "featured_product": "fruhlings-fluffy-set-limitierte-flavours",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_chris_cosma_fruehling.png",
+        "subtitle": "CEO & Produktfee Chris",
+        "title": "Diese Freude war meine Inspiration",
+        "text": "<p><em>Der Frühling ist eine Jahreszeit, die mit einem bestimmten Duft verbunden ist. Es ist ein leichter, frischer Duft, der die ersten warmen Sonnenstrahlen ankündigt. Er erfüllt die Luft und erinnert an die unendlichen Möglichkeiten der neuen Saison.<\/em><\/p><p><em>Der Duft des Frühlings ist ein Duft der Freude und Hoffnung. Er ist so stark, dass man ihn schon im Winter spüren kann, wenn die Sonne durch die Wolken bricht. Es ist ein Duft von Blumen, die sich in knospenden Büschen und Wiesen öffnen, von Gras, das sich unter den Füßen anfühlt und von Vogelgezwitscher, das die Stille durchbricht.<\/em><\/p><p>Der Frühlingsduft ist für viele Menschen ein Grund zur Freude - und ganz besonders auch für mich. Diese Freude war meine Inspiration unserer Frühlings Fluffs. Und ich hoffe, dass sie euch die nächsten Tage und Wochen die Seele mit erstmals drei Sorten in der LE erhellen werden 😊<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Dusch-Fluff Basics",
+        "home_featured_products": "3in1-dusch-fluffs",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "165847578320f00eea",
+    "collection-header",
+    "main-collection",
+    "bbe5f063-0262-42c4-87e9-5869e91ae5f5",
+    "2fb3dab4-19a0-4fe0-b788-2e99108f88e2",
+    "bb2e5c1a-66a9-4fb5-ad1d-a0396464dc34",
+    "0bf5208e-08c0-4daa-93ef-9093213d4fba"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "163759571249ed39d9": {
+      "type": "advanced-content",
+      "blocks": {
+        "16375957129798a4ed-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"klaviyo-form-Ys7q3K\"><\/div>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16375957129798a4ed-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "163759571249ed39d9"
+  ]
+}

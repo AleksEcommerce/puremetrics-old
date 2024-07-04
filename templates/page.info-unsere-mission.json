@@ -1,0 +1,440 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1654078431eb0c29a6": {
+      "type": "promo-grid",
+      "blocks": {
+        "a965d7f4-7304-4115-870c-969899fc7010": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Clean Beauty für dich und die Umwelt",
+            "heading": "Neue Lösungen für das nachhaltige badezimmer der zukunft",
+            "textarea": "PLASTIKFREIE, VEGANE UND NACHHALTIGE KOSMETIK",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/puremetics_Header.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 620,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "a965d7f4-7304-4115-870c-969899fc7010"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "1641561406dbbf92f0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_2023_Chris-und-Chido_Foto-vor-Baum_Kreis.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Chido und Chris (CEO & CO-Founder)",
+        "title": "wir schaffen zukunftsorientierte Lösungen in der Kosmetik",
+        "text": "<p>Jedes Jahr gelangen über 2 Millionen Tonnen Plastikmüll in die Ozeane! 80% des Plastikabfalls werden nicht recycelt. Die in der EU-Kosmetikverordnung zugelassenen Inhaltsstoffe sind teilweise katastrophal. Jedes Jahr kommen neue verbotene Stoffe dazu, die bereits seit langer Zeit im Verdacht stehen, für Mensch und Umwelt gefährlich zu sein. Und für diese Probleme schaffen wir Lösungen.<\/p><p>Die Mission von puremetics ist es, hochwertige, plastikfreie und vegane Kosmetikprodukte zu schaffen, die für dich UND die Umwelt gut sind. Dabei verbinden wir Qualität, Freude und Nachhaltigkeit in einer Marke, die du lieben wirst!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16415619285d3a8ce7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OhneBedenklicheI_03.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/puremetics_produktion_1.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "Vom Produkt bis zur verpackung",
+        "title": "plastikfreie alternativen",
+        "text": "<p>Die Grundlage der Mission von puremetics liegt in der Überzeugung, dass Schönheit und Umweltbewusstsein Hand in Hand gehen können. Wir setzen uns für Nachhaltigkeit ein, indem wir auf den Einsatz von Plastik verzichten und stattdessen umweltfreundliche Verpackungen und Inhaltsstoffe wählen. Dieser Fokus auf Nachhaltigkeit erstreckt sich über den gesamten Produktlebenszyklus, angefangen bei der Produktion bis hin zur Entsorgung.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16415631968bd1012e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LagerFotos_06_421ba76a-2fcc-44c4-9586-7fc3a1ba25e3.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/BlumenFINAL.gif",
+        "image2_mask": "rounded",
+        "subtitle": "innovative produkte",
+        "title": "100% Nachhaltigkeit",
+        "text": "<p>Die Vision von puremetics besteht darin, eine Vorreiterrolle in der Kosmetikindustrie einzunehmen, indem wir zeigen, dass Kosmetik ethisch, hochwertig und umweltfreundlich sein können. Durch kontinuierliche Forschung und Entwicklung streben wir danach, innovative und nachhaltige Lösungen für Kosmetikprodukte zu schaffen, die unserer Community eine bewusste Wahl ermöglichen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3c7ed145-7db3-4ee4-aea5-9299e557bf9f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/230330_PETA-VeganAward-Beauty-Logo_coral_Flyeralarm_Format_69737ec3-5c25-42c6-9e1f-16621caee042.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/puremetics_Shop_Logo_PetaApproved.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "Tierfreundlich",
+        "title": "100% Vegan",
+        "text": "<p>Die ethische Verpflichtung gegenüber Tieren und der Verzicht auf tierische Inhaltsstoffe unterstreichen die umweltfreundliche Ausrichtung von puremetics. Unsere Vision erstreckt sich darüber hinaus darauf, die Bedeutung von umweltfreundlicher Kosmetik in der Gesellschaft zu stärken und ein Bewusstsein für die Auswirkungen von Schönheitsprodukten auf die Umwelt zu schaffen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1641562421a6858ee7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_Teamfoto_2023_Alle-draussen_-_Kopie_6dab31e9-984f-4853-9460-5b6377cf4a8f.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Was wir dafür tun",
+        "title": "Jeden einzelnen schritt auf unsere hohen ansprüche prüfen!",
+        "text": "<p>Nachhaltigkeit ist unser Antrieb! Wir hinterfragen uns bei jedem Schritt, und mag er noch so klein sein, ob wir hier das Maximum an Nachhaltigkeit eingebracht haben.<\/p><p>Wir ruhen uns nicht auf unseren Lösungen aus, sondern sind immer in Bewegung neuere, bessere und nachhaltigere Ansätze aufzugreifen.<\/p>",
+        "button_label": "Hier lernst du unser Team kennen",
+        "button_link": "shopify:\/\/pages\/unser-team",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "16415639761dd6197c": {
+      "type": "rich-text",
+      "blocks": {
+        "b7aa8b78-b4a9-4543-b2fc-57a5a83d947f": {
+          "type": "heading",
+          "settings": {
+            "title": "eine Bewegung, die für nachhaltige Schönheit inspiriert"
+          }
+        },
+        "ffdc60b1-12be-47a3-bc3c-147a3dbcc98f": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Die Vision ist es, einen Beitrag zu einer Welt zu leisten, in der Schönheit nicht auf Kosten der Umwelt geht, sondern im Einklang mit ihr existiert.<\/p>"
+          }
+        },
+        "1641563976965fb579-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Verpackungen <\/strong><\/p><p>sind bei uns 100% plastikfrei. Wir entwickeln zukunftsfähige Lösungen und zeigen, dass es auch ohne Plastik geht.<\/p><p><strong>Texturen<\/strong><\/p><p>Wir kreieren neue Texturen, die von der Wiege auf keine Plastikverpackungen benötigen.<\/p><p><strong>Optimal aufeinander abgestimmt<\/strong><\/p><p>Produkte, Verpackungen und Versandmaterialien werden bei uns so raffiniert aufeinander abgestimmt, dass wir so wenig Volumen wie nötig versenden.<\/p><p><strong>Verstecktes Plastik lokalisieren und nachhaltig Neu denken<\/strong> <\/p><p>Häufig verstecken sich Plastikanteile in vermeintlich umweltfreundlichen Verpackungen. Das können sogenannte Coatings, also Aufstriche an Papierbeuteln sein, der Reißfaden am Versandkarton oder die Dichtung im Schraubdeckel. Da sind wir kompromisslos und versprechen euch 100% Plastikfreiheit.<\/p><p><strong>Soziale Verantwortung<\/strong><\/p><p>Wir unterstützen mit jeder Bestellung den Schutz der Meere! Für jede Bestellung bergen wir ein ganzes Kilo Plastikmüll aus Küstenregionen und konnten die Meere bereits vor über 80 Tonnen Müll beschützen! Auch andere Projekte unterstützen wir. Wir kooperieren beispielsweise mit der Aktionsgemeinschaft Artenschutz, Ärzte Gegen Tierversuche, tierheimen und Gnadenhöfen, Clean-Ups und einigen weiteren Projekten.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b7aa8b78-b4a9-4543-b2fc-57a5a83d947f",
+        "ffdc60b1-12be-47a3-bc3c-147a3dbcc98f",
+        "1641563976965fb579-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1641567334e056221b": {
+      "type": "slideshow",
+      "blocks": {
+        "56fc8641-4cb5-4c24-8534-2b6f45ace73d": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Reichweite und Budgets sinnvoll nutzen",
+            "title": "Soziale Verantwortung",
+            "title_size": 80,
+            "subheading": "Neben unserer Mission sehen wir uns auch in der Pflicht, den Schaden rücksichtsloser Menschen zu begrenzen. So beschützen wir pro Bestellung die Weltmeere vor einem ganzen Kilo Plastikmüll. Wir unterstützen mit Tatkraft, Reichweite und Goodies Umweltprojekte und gehen aktiv für eine bessere Welt auf die Straße.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/puremetics_cleanup_team.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "1641567334171dbe6b-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Fettdicht, auslaufsicher und 0% Plastik",
+            "title": "Unsere Dusch-Fluff Becher",
+            "title_size": 72,
+            "subheading": "Monatelang haben wir mit einem motivierten Hersteller an einem Verfahren getüftelt, fettige und halbflüssige Produkte in Papier zu verpacken. Und das Invest hat sich gelohnt! Unsere Dusch-Fluff Becher halten selbst der intensiven Pflegeformel mit jeder Menge Kokosöl stand. 💪🤩",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/OhneBedenklicheI_06.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 32
+          }
+        },
+        "1641567334171dbe6b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Alten Verpackungen neues Leben einhauchen",
+            "title": "Upcyclebare Verpackungen",
+            "title_size": 72,
+            "subheading": "Unser Adventskalender wurde so konzipiert, dass er nach Weihnachten nicht in den Müll muss, sondern als biologisch abbaubarer Anzuchtkasten dient. Die passenden Samen gab es natürlich auch dazu 🦋🐝",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Kopie_von_Unbenanntes_Design.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "2896d8ab-cca2-44a6-92f7-623098da7b3b": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "So einfach wie genial",
+            "title": "Frustfreie Versandkartons ohne Abreisfaden",
+            "title_size": 72,
+            "subheading": "Manchmal sind es auch die kleinen, unscheinbaren Dinge, die bereits großes Bewirken können. Unsere Versandkartons sind so gestanzt, dass du sie ganz einfach an den Öffnungsmulden aufschneiden kannst.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Website_Grid-02.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "f67005c1-333b-4aa9-a559-30549a9f4c36": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Marketing, Kundenbindung und Nachhaltigkeit verbinden",
+            "title": "Mehrweg- Treuesysteme",
+            "title_size": 80,
+            "subheading": "Alles, was wir wiederverwenden können, verwenden wir auch wieder. Über unser Treuesystem erhaltet ihr beispielsweise für 10 Versandkärtchen einen tollen Rabatt. Oder für 10 Lipbalm-Tiegel einen Lipbalm gratis.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/lipbalm.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "56fc8641-4cb5-4c24-8534-2b6f45ace73d",
+        "1641567334171dbe6b-0",
+        "1641567334171dbe6b-1",
+        "2896d8ab-cca2-44a6-92f7-623098da7b3b",
+        "f67005c1-333b-4aa9-a559-30549a9f4c36"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "500px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    },
+    "1641564441f8df2d60": {
+      "type": "testimonials",
+      "blocks": {
+        "1641564441a40d4726-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Ich hatte immer das Gefühl mich zwischen hochwertiger Kosmetik und Nachhaltig entscheiden zu müssen. <strong>Mein Antrieb: <\/strong>beides miteinander zu verbinden. So war die Idee von puremetics geboren.<\/p>",
+            "image": "shopify:\/\/shop_images\/chris_cosma_puremetics.jpg",
+            "author": "Chris Cosma",
+            "author_info": "CEO & Co-Founder"
+          }
+        },
+        "1641564441a40d4726-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Als Familienvater ist die Zukunft meiner Kinder eines der wichtigsten Themen in meinem Leben. Jeden Tag setzen wir Erwachsenen schon heute die Weichen, in welcher Welt unsere Kinder später leben werden.<\/p>",
+            "image": "shopify:\/\/shop_images\/chido_ogbukagu_puremetics.jpg",
+            "author": "Chido Ogbukagu",
+            "author_info": "CEO & Co-Founder"
+          }
+        },
+        "1641564441a40d4726-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>puremetics beschützt unsere Meere vor Plastikabfall. Mit jeder Bestellung bei puremetics wird 1 kg Plastikmüll verhindert in unsere Meere zu gelangen. Bis heute über 44 Tonnen!<\/p>",
+            "image": "shopify:\/\/shop_images\/joel_cleanhub.jpg",
+            "author": "Joel",
+            "author_info": "(CEO) Cleanhub"
+          }
+        },
+        "903bc0dd-a76b-4975-8af8-14ecfee9511d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Meeresschildkröten stehen vor vielen Gefahren, die meisten davon sind Menschen gemacht. Danke, dass puremetics auch auf diesem Weg einen Beitrag zum Schutz dieser wunderbaren Tiere leistet.<\/p>",
+            "image": "shopify:\/\/shop_images\/Birgit_AGA.jpg",
+            "author": "Birgit",
+            "author_info": "(CEO) Aktionsgemeinschaft Artenschutz"
+          }
+        },
+        "2bed1b13-7b97-4847-8f19-0a049913d244": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Gemeinsam für die Abschaffung der schrecklichen Affenhirnversuche in Deutschland. Diese besonders grausame Forschung an unseren nächsten Verwandten ist ethisch nicht zu rechtfertigen und wissenschaftlich gesehen Unsinn, da Tierversuche nicht auf den Menschen übertragbar sind.<\/p>",
+            "image": "shopify:\/\/shop_images\/Astrid_Aerzte_gegen_Tierversuche.jpg",
+            "author": "Astrid",
+            "author_info": "(Verwaltung) Ärzte gegen Tierversuche"
+          }
+        },
+        "5ee3da96-a5b7-44fb-9cea-ae266326d787": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Mit der Kastration von einer Straßenkatze, erspart man vielen weiteren Katzen sehr viel Elend und Leid. Vieles kann verhindert werden, wenn man präventiv arbeitet, weshalb wir jedes Jahr versuchen so viele Katzen wie möglich kastrieren zu lassen.  <\/p>",
+            "image": "shopify:\/\/shop_images\/Tessa_Seelenkatzen.jpg",
+            "author": "Tessa",
+            "author_info": "(Vorstand) Seelenkatzen e.V."
+          }
+        },
+        "bfcafeb8-6c2e-4b67-ad98-29669a10d8ed": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Die Spenden haben Deutschkurse ermöglicht, in dem die Deutschlehrerin geflüchteten Kindern und Jugendlichen aus der Ukraine zwischen 12-17 Jahren drei Mal in der Woche unterrichten konnte. Sprache ist so wichtig für die Integration!<\/p>",
+            "image": "shopify:\/\/shop_images\/Anja_pro_Zukunft.jpg",
+            "author": "Anja",
+            "author_info": "(Vorstand) Pro Zukunft e.V"
+          }
+        }
+      },
+      "block_order": [
+        "1641564441a40d4726-0",
+        "1641564441a40d4726-1",
+        "1641564441a40d4726-3",
+        "903bc0dd-a76b-4975-8af8-14ecfee9511d",
+        "2bed1b13-7b97-4847-8f19-0a049913d244",
+        "5ee3da96-a5b7-44fb-9cea-ae266326d787",
+        "bfcafeb8-6c2e-4b67-ad98-29669a10d8ed"
+      ],
+      "settings": {
+        "title": "Das Beste für dich und die Zukunft",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "16415651612976fdaa": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Grid-01.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Mit Liebe, Freude und Inspiration",
+        "title": "Motivieren statt missionieren",
+        "text": "<p>Wir der Überzeugung, dass Nachhaltigkeit nur durch langfristige Änderungen funktionieren kann. Und wer kennt es nicht? Jahrelang antrainierte, gemütliche und liebgewonnenen Angewohnheiten kann man nicht einfach so von heute auf morgen umstellen.<\/p><p><strong>Unser Ansatz? Wir machen es euch so bequem wie möglich!  <\/strong>Unsere Produkte sollen dabei Spaß an Nachhaltigkeit machen. Darüber hinaus präsentieren wir euch auf unseren sozialen Kanälen, in unserem Newsletter und in unserem Blog inspirierende News, Facts, DIYs und Videos wie ihr euren Alltag mit Spaß und Freude spielend leicht Schritt für Schritt nachhaltiger gestalten könnt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "25692aa8-4ddb-4ce3-b97a-1a71cba4cbb7": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Wir können den Verlauf jetzt ändern",
+        "title": "gemeinsam werden wir es schaffen!",
+        "text": "<p>Unsere Mission erreichen wir nur mit deiner Unterstützung. Lasst uns gemeinsam die Welt retten und dabei echt aussehen! <\/p>",
+        "button_label": "Ich bin dabei!",
+        "button_link": "shopify:\/\/collections\/alle-artikel",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0e36c6b8b8a84137a6087bbbbb610a28.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1654078431eb0c29a6",
+    "1641561406dbbf92f0",
+    "16415619285d3a8ce7",
+    "16415631968bd1012e",
+    "3c7ed145-7db3-4ee4-aea5-9299e557bf9f",
+    "1641562421a6858ee7",
+    "16415639761dd6197c",
+    "1641567334e056221b",
+    "1641564441f8df2d60",
+    "16415651612976fdaa",
+    "25692aa8-4ddb-4ce3-b97a-1a71cba4cbb7"
+  ]
+}

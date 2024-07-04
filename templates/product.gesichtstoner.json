@@ -1,0 +1,559 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "was bewirkt eigentlich ein",
+        "title": "Gesichtswasser, Toner, Tonic oder Tonisierer?",
+        "text": "<p>Zunächst einmal beschreiben all diese Begriffe das gleiche Produkt. Ein Gesichtstoner ist ein vielseitiges Pflegeprodukt, das verschiedene Vorteile für die Haut bietet und deshalb in einer perfekten Pflegeroutine nicht fehlen sollte.<\/p><p>Ein Gesichtstoner ist ein unverzichtbares Produkt in der täglichen Hautpflege-Routine, um die Haut gründlich zu reinigen, zu pflegen und sie optimal auf die nachfolgende Pflege vorzubereiten und holt das Maximum aus deiner weiteren  Pflegeroutine heraus. Wir erklären es dir gerne genauer.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/81fa5a7dbf17465b8aa564936e0dac6f.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Gesichtswasser_2.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Reinigungsfinish und",
+        "title": "PH-WERT HARMONISIERUNG",
+        "text": "<p>Er reinigt sanft und gründlich, entfernt überschüssigen Schmutz, Talg und Rückstände von Reinigungsprodukten, die nach der Reinigung noch auf der Haut zurückbleiben können. <\/p><p>Darüber hinaus hilft er dabei, den pH-Wert der Haut wieder auszugleichen, was entscheidend ist, um die Hautbarriere intakt zu halten und das Wachstum von Bakterien zu kontrollieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Gesichtswasser_1.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "feuchtigkeitspflege und",
+        "title": "beruhigende erfrischung",
+        "text": "<p>Ein Gesichtstoner bereitet die Haut auch optimal auf die nachfolgende Pflege vor, indem er die Haut hydratisiert und für die Aufnahme von Feuchtigkeitscremes und Seren vorbereitet. <\/p><p>Bei puremetics enthält das Tonic auch beruhigende Inhaltsstoffe um Irritationen zu lindern und die Haut zu beruhigen, oder erfrischende Inhaltsstoffe die der Haut ein belebendes Gefühl verleihen.<\/p><p>Tonisierer können zudem die Poren verfeinern, überschüssiges Öl kontrollieren und das Erscheinungsbild von Mitessern reduzieren, was zu einem klareren und mattierten Teint führt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6LJNe9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Gesichtswasser_3.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "ein echter allrounder!",
+        "title": "ein gesichtstoner",
+        "text": "<p><strong>1. reinigt sanft und gründlich<\/strong><\/p><p><strong>2. beruhigt und erfrischt die Haut <\/strong><\/p><p><strong>3. hilft dabei, den pH-Wert der Haut auszugleichen<\/strong><\/p><p><strong>4. hilft dabei die Hautbarriere intakt zu halten.<\/strong><\/p><p><strong>5. bereitet die Haut optimal auf die nachfolgende Pflege vor<\/strong><\/p><p><strong>6. hydratisiert die Haut <\/strong><\/p><p><strong>7. kann die Poren verfeinern<\/strong><\/p><p><strong>8. kontrolliert überschüssiges Öl <\/strong><\/p><p><strong>9. kann Mitessern reduzieren <\/strong><\/p><p><strong>10. und damit das Erscheinungsbild der Haut verbessern<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_MYjpLz": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Mit Pentylene Glycol, pflanzlichem Glycerin und",
+        "title": "Ätherischem Lorbeeröl",
+        "text": "<p>Pentylene Glycol ist ein Feuchthaltemittel, das die Feuchtigkeit in der Haut einschließt und sie hydratisiert, während Glycerin die Haut mit Feuchtigkeit versorgt und sie geschmeidig macht. Ätherisches Lorbeeröl wirkt reinigend und beruhigend auf die Haut, wodurch Unreinheiten reduziert werden können und die Haut ein frisches, geklärtes Gefühl erhält. In Kombination tragen diese Inhaltsstoffe dazu bei, die Haut zu klären, zu hydratisieren und sie geschmeidig zu machen, was zu einem strahlenden und gesunden Hautbild führt.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/593ed9547c67433e8b1c4987762507ff.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich den Gesichtstoner verwenden?",
+            "text": "<p>Für optimale Ergebnisse empfehlen wir, den Gesichtstoner morgens und abends nach der Reinigung und vor der Pflege zu verwenden.<\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Passt der Gesichtstoner zu meinem Hauttyp?",
+            "text": "<p>Unser Gesichtstoner eignet sich für alle Hauttypen, einschließlich normaler, trockener, fettiger und sensibler Haut.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Gesichtstoner auch um die Augenpartie verwenden?",
+            "text": "<p>Ja, unser Gesichtstoner ist sanft genug für die Augenpartie. Vermeide jedoch direkten Kontakt mit den Augen.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Gesichtstoner als Make-up-Entferner verwenden?",
+            "text": "<p>Unser Gesichtstoner ist primär zur Reinigung und Tonisierung der Haut gedacht. Für die Make-up-Entfernung empfehlen wir die Verwendung eines speziellen Make-up-Entferners, zum Beispiel unserer Make-up Entferner Seife.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Gesichtstoner auch auf meinen Hals und Dekolleté verwenden?",
+            "text": "<p>Ja, du kannst den Gesichtstoner auch auf Hals und Dekolleté auftragen, um diese Bereiche zu reinigen und zu tonisieren.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange dauert es, bis ich Ergebnisse sehe?",
+            "text": "<p>Die Ergebnisse können je nach Hauttyp variieren, aber viele unserer Kunden berichten bereits nach der ersten Anwendung von einem spürbarem Effekt und nach kurzer Anwendungsdauer von einem sichtbaren Effekt.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Gesichtstoner bei Akne verwenden?",
+            "text": "<p>Ja, unser Gesichtstoner kann auch bei Akne verwendet werden, da er dazu beitragen kann, die Haut zu klären und Unreinheiten zu reduzieren.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Gesichtstoner nach dem Sonnenbaden verwenden?",
+            "text": "<p>Ja, unser Gesichtstoner kann nach dem Sonnenbaden verwendet werden, um die Haut zu beruhigen und zu erfrischen.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist der Gesichtstoner haltbar?",
+            "text": "<p>Unser Gesichtstoner hat eine Haltbarkeit von etwa 12 Monaten nach dem Öffnen. Es wird empfohlen, das Produkt kühl und trocken zu lagern.<\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich den Gesichtstoner als Erfrischungsspray verwenden?",
+            "text": "<p>Ja, du kannst den Gesichtstoner auch als Erfrischungsspray verwenden, um Ihre Haut den ganzen Tag über zu erfrischen und zu beleben.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_p4Kcxj",
+        "question_wMaDab"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"Gesichtstoner\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "das beste für deine haut und deine Umwelt",
+        "text": "<p>Gesichtstoner sind für viele Menschen ein absolutes Must-Have in der Pflegeroutine und das aus gutem Grund. Leider sehe ich noch viel zu häufig Seren, die in Einwegplastik verpackt sind, obwohl das überhaupt nicht sein muss.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unser Toner kommt in einer Glasflasche mit einem Naturkorken daher. Die Verwendung von Glas statt Kunststoff reduziert die Umweltbelastung durch Plastik und ermöglicht das Recycling und die Wiederverwendung der Flasche. Glas ist zudem eine umweltfreundliche Verpackungsalternative, da es weder Schadstoffe abgibt noch die Qualität des Inhalts beeinträchtigt. Der Naturkorken, der die Flasche verschließt, ist ebenfalls eine nachhaltige Wahl. Kork wird aus der Rinde der Korkeiche gewonnen, ohne den Baum zu schädigen, da die Rinde nachwächst. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "vor dem toner sollte deine gesichtshaut gut gereinigt sein. Das passt optimal dazu",
+        "home_featured_products": "gesichtsseifen",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "rich_text_D8KzXN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aJpBiL": {
+          "type": "heading",
+          "settings": {
+            "title": "nach dem toner sollte eine feuchtigkeispflege erfolgen. Dürfen wir dir unser intensivserum empfehlen?"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aJpBiL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_product_9ctcbG": {
+      "type": "featured-product",
+      "blocks": {
+        "inventory_status_6TTEXy": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "price_4rRmwT": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_f7tk3A": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "inventory_status_6TTEXy",
+        "price_4rRmwT",
+        "buy_buttons_f7tk3A"
+      ],
+      "settings": {
+        "featured_product": "gesichtspflege-hyaluronserum",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_G8efbn",
+    "text_and_image_aQ6RB3",
+    "text_and_image_6LJNe9",
+    "background_video_text_MYjpLz",
+    "text_with_icons_MK3AR6",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "rich_text_D8KzXN",
+    "featured_product_9ctcbG",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

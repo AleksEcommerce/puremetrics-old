@@ -1,0 +1,524 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "392c4b91-bedc-4228-90b0-334e806abd70": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "5dacdf01-1618-455c-a3cb-177124a9cd02": {
+          "type": "product_weight",
+          "settings": {
+          }
+        },
+        "recharge_subscriptions_subscription_widget_RmcCWj": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Klarna_TrustedShops_Kopie3_7659cf24-898f-4e0d-a011-5f5d4a02223a.jpg"
+          }
+        },
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "100% plastikfrei und vegan"
+          }
+        },
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Für deine Bestellung sammeln wir 1 Kg Plastikmüll!"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/puremetics_Adventskalender_2023_Jede_Bestellung_zaehlt_96a93782-5fcd-4bab-b8a9-613d0e668b19.jpg"
+          }
+        },
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0": {
+          "type": "tab",
+          "settings": {
+            "title": "Anwendung & Produktinfos",
+            "content": "<p>{{ product.metafields.tab2.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Inhaltsstoffe",
+            "content": "<p>{{ product.metafields.tab3.content.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "8fae770e-7136-456c-9620-5e74d86c049f": {
+          "type": "contact",
+          "settings": {
+            "title": "Fragen zum Produkt?",
+            "phone": false
+          }
+        },
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18": {
+          "type": "sticky_bar",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "392c4b91-bedc-4228-90b0-334e806abd70",
+        "price",
+        "inventory_status",
+        "variant_picker",
+        "ad57bfb8-0fab-41a5-82ba-faa8831ed068",
+        "5dacdf01-1618-455c-a3cb-177124a9cd02",
+        "recharge_subscriptions_subscription_widget_RmcCWj",
+        "buy_buttons",
+        "e15cd45d-ab06-4cfd-85dd-bda16a545bb2",
+        "ca48e3f2-bf59-4481-92c5-e35b782c5e60",
+        "48f7d8dc-1774-4d55-9cb6-0e11ad425744",
+        "description",
+        "4c3bd659-3064-46b1-be52-fabcf44ea1b0",
+        "f6218b71-bbea-4927-95bd-6a06fb4b70a0",
+        "tab",
+        "8fae770e-7136-456c-9620-5e74d86c049f",
+        "14e6e65e-6572-432c-acd7-60c7ea6a2d18"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background_video_text_rKexN8": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Unsere Lippenpflegestifte bestehen aus",
+        "title": "97% natürliche bio-öle",
+        "text": "<p>Unsere Lippenpflegestifte enthalten hochwertige Bio-Öle, die reich an Nährstoffen sind und eine natürliche Feuchtigkeitspflege bieten. Im Gegensatz zu mineralölbasierten Produkten, dringen die Bio-Öle leichter in die Haut ein und versorgen sie intensiv mit Feuchtigkeit. Sie unterstützen die Regeneration der Lippenhaut und helfen dabei, sie geschmeidig und hydratisiert zu halten. Dank ihrer natürlichen Zusammensetzung neigen sie nicht dazu, die Lippen auszutrocknen oder eine Abhängigkeit zu schaffen, wie es bei einigen mineralölbasierten Produkten der Fall sein kann. Stattdessen unterstützen sie die natürliche Balance der Lippenhaut.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5bfb8e802d8a4f6a8d3b904e8cb242db.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_APkTMP": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Jojobasamenoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "hydration & pflege",
+        "title": "bio-Jojobasamenöl",
+        "text": "<p>Bio-Jojobasamenöl ist ein essenzieller Bestandteil unserer Lippenpflegestifte, da es reich an Vitamin E und weiteren Nährstoffen ist, die die Lippen intensiv pflegen und hydratisieren. Es hat eine leichte Textur, die schnell von der Haut aufgenommen wird, ohne ein klebriges Gefühl zu hinterlassen. Jojobaöl schützt die Lippen vor dem Austrocknen, beruhigt gereizte Haut und verleiht den Lippen ein geschmeidiges Gefühl.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_G8efbn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_sheabutter.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "feuchtigkeitsspendend & beschützend",
+        "title": "bio-Sheabutter",
+        "text": "<p>Sheabutter ist reich an Vitaminen und Fettsäuren, die die Lippen intensiv mit Feuchtigkeit versorgen und ihre natürliche Feuchtigkeitsbarriere stärken. Dadurch werden trockene und spröde Lippen geschmeidig weich und erhalten langanhaltende Pflege. Die hautberuhigenden Eigenschaften der Sheabutter tragen auch dazu bei, gereizte Lippen zu beruhigen und zu regenerieren, sodass sie sich angenehm und geschützt anfühlen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yMJLDA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_mandeloel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "reich an Vitaminen und Mineralstoffen",
+        "title": "bio-Mandelöl",
+        "text": "<p>Mandelöl ist eine weitere wertvolle Zutat in unseren Lippenpflegestiften, da es reich an Vitaminen und Mineralstoffen ist, die die Lippen pflegen und schützen. Es ist besonders bekannt für seine feuchtigkeitsspendenden Eigenschaften, die dazu beitragen können, trockene und spröde Lippen zu revitalisieren und zu beruhigen. Mandelöl zieht schnell in die Haut ein, ohne einen fettigen Rückstand zu hinterlassen, und hinterlässt die Lippen weich, geschmeidig und hydratisiert. Reich an essentiellen Fettsäuren und Vitaminen sind diese natürlichen Öle  in der Lage, Feuchtigkeit in die Haut einzuschließen, sie zu pflegen und vor dem Austrocknen zu schützen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aQ6RB3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_rizinusoel.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "entzündungshemmend & beruhigend",
+        "title": "bio-Rizinusöl",
+        "text": "<p>Kokosöl ist reich an feuchtigkeitsspendenden Fettsäuren ist, die die Lippen intensiv hydratisieren und sie vor dem Austrocknen schützen. Es bildet eine natürliche Barriere auf den Lippen, die Feuchtigkeit einschließt und gleichzeitig helfen kann, trockene und rissige Haut zu reparieren. Darüber hinaus hat Kokosöl auch entzündungshemmende Eigenschaften, die dazu beitragen können, gereizte oder entzündete Lippen zu beruhigen und zu pflegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_MK3AR6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_rHAxz8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "100% vegan",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_t7Ny3y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "100% nachhaltig",
+            "text": "<p>Nachhaltigkeit ist unser Antrieb! Unsere Produkte gestalten wir mit Blick auf die Zukunft umweltfreundlich.<\/p>"
+          }
+        },
+        "text_block_LEXXLd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "100% plastikfrei",
+            "text": "<p>Vom Produkt, über die Verpackung bis hin zum Versand ist bei uns alles frei von Plastik, Mikroplastik oder verstecktem Plastik.<\/p>"
+          }
+        },
+        "text_block_U7mat7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "100% Handgemacht",
+            "text": "<p>Unsere Kosmetik wird mit Liebe und Leidenschaft  von sorgfältiger Hand in Deutschland produziert, konfektioniert und versendet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rHAxz8",
+        "text_block_t7Ny3y",
+        "text_block_LEXXLd",
+        "text_block_U7mat7"
+      ],
+      "settings": {
+        "title": "DAS PUREMETICS VERSPRECHEN",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#99ce99",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_Uq78JD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_sonnenblumenwachs.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "heimisch & nachhaltig",
+        "title": "sonnenblumenwachs",
+        "text": "<p>Sonnenblumenwachs ist eine bemerkenswerte Zutat in unseren Lippenpflegestiften. Als vegane Alternative zu Bienenwachs unterstützt es den Umweltschutz und das Tierwohl. Aus den Samen der Sonnenblumen gewonnen, ist dieses Wachs eine heimische und praktische Ressource. Sonnenblumenwachs bietet eine geschmeidige Konsistenz, die die Lippen sanft pflegt und schützt. Es bildet eine natürliche Barriere gegen äußere Einflüsse wie Kälte, Wind und Trockenheit, während es gleichzeitig Feuchtigkeit einschließt. Diese Eigenschaften machen es zu einer idealen Komponente unserer Lippenpflegestifte, die für weiche und geschmeidige Lippen sorgen und die Umwelt respektieren.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_nKjpDg": {
+      "type": "faq",
+      "blocks": {
+        "question_NnRbBm": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange hält ein Lippenpflegestift?",
+            "text": "<p>Ein Lippenpflegestift hält etwa 20 Monate, nachdem er geöffnet wurde.<\/p>"
+          }
+        },
+        "question_FMV7ii": {
+          "type": "question",
+          "settings": {
+            "title": "Sind eure Lippenpflegestifte vegan?",
+            "text": "<p>Ja, alle unsere Produkte sind zu 100% vegan.<\/p>"
+          }
+        },
+        "question_CqTTRR": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich eure Lippenpflegestifte auch bei empfindlichen Lippen verwenden?",
+            "text": "<p>Ja, unsere Lippenpflegestifte  sind für empfindliche Lippen geeignet, da sie nur natürliche Inhaltsstoffe enthalten.<\/p>"
+          }
+        },
+        "question_YzCHLW": {
+          "type": "question",
+          "settings": {
+            "title": "Enthalten eure Lippenpflegestifte Mineralöle oder Parabene?",
+            "text": "<p>Nein, unsere Lippenpflegestifte enthalten keine Mineralöle oder Parabene.<\/p>"
+          }
+        },
+        "question_MMwRQx": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich euren Lippenpflegestifte auch unter Lippenstift verwenden?",
+            "text": "<p>Ja, unser Lippenpflegestifte kann als Basis unter Lippenstift verwendet werden, um die Lippen zu pflegen und ihnen Feuchtigkeit zu spenden.<\/p>"
+          }
+        },
+        "question_mCd33y": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich euren Lippenpflegestift auch vor dem Schlafengehen verwenden?",
+            "text": "<p>Ja, unser Lippenpflegestift eignet sich hervorragend für die nächtliche Anwendung, um die Lippen über Nacht intensiv zu pflegen.<\/p>"
+          }
+        },
+        "question_XeEgHt": {
+          "type": "question",
+          "settings": {
+            "title": "Wie oft sollte ich euren Lippenpflegestift anwenden?",
+            "text": "<p>Du kannst unseren Lippenpflegestift so oft anwenden, wie du möchtest. Empfohlen wird jedoch, ihn bei Bedarf oder mehrmals täglich zu verwenden.<\/p>"
+          }
+        },
+        "question_R9BCAw": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich euren Lippenpflegestift auch bei Sonnenbrand oder spröden Lippen verwenden?",
+            "text": "<p>Ja, unser Lippenpflegestift kann auch bei Sonnenbrand oder spröden Lippen verwendet werden, um Feuchtigkeit zu spenden und die Lippen zu beruhigen.<\/p>"
+          }
+        },
+        "question_p4Kcxj": {
+          "type": "question",
+          "settings": {
+            "title": "Sind die Lippenpflegestifte für Kinder geeignet?",
+            "text": "<p>Ja, unsere Lippenpflegestifte sind für Kinder geeignet, da sie sanft und schonend sind und keine schädlichen Inhaltsstoffe enthalten.<\/p>"
+          }
+        },
+        "question_wMaDab": {
+          "type": "question",
+          "settings": {
+            "title": "Wieso hält der Lippenpflegestift in einer Papierverpackung?",
+            "text": "<p>Der Lippenpflegestift hält in der Papierverpackung dank eines speziellen Herstellungsverfahrens, bei dem das Papier sorgfältig gewalzt und anschließend mit pflanzlichem Wachs behandelt wird. Dadurch entsteht eine robuste und stabile Hülle, die den Lippenpflegestift sicher umschließt und vor äußeren Einflüssen schützt. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NnRbBm",
+        "question_FMV7ii",
+        "question_CqTTRR",
+        "question_YzCHLW",
+        "question_MMwRQx",
+        "question_mCd33y",
+        "question_XeEgHt",
+        "question_R9BCAw",
+        "question_p4Kcxj",
+        "question_wMaDab"
+      ],
+      "settings": {
+        "title": "DIESE FRAGEN ERHALTEN WIR HÄUFIG ZUM THEMA \"lippenpflegestifte\". HIER SIND DIE ANTWORTEN 💚"
+      }
+    },
+    "text_and_image_9j7QEY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chris_Cosma_puremetics_43b091c1-f4bc-4d54-ade1-eb9c5310c571.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "CHRIS (CEO UND CO-FOUNDER)",
+        "title": "zarte pflege für deine lippen und die umwelt",
+        "text": "<p>Lippenpflege ist wichtig, um die Lippen vor Trockenheit und Rissen zu schützen. Die Haut unserer Lippen ist besonders dünn und empfindlich, was sie anfälliger für Umwelteinflüsse wie Sonne, Wind und Kälte macht. Lippenpflege ist also nicht nur optisch, sonder auch für die Gesundheit wichtig. Leider sind die meisten Lippenpflegeprodukte immer noch in umweltbelastendem Material verpackt, was nicht sein muss.<\/p><p><strong>Deine Entscheidung zu einer umweltfreundlichen Alternative ist also vollkommen richtig und wichtig. Danke<\/strong>💚<\/p><p>Unsere Lippenpflegestifte in der Papierhülse mit Bioölen sind nachhaltig, weil sie eine umweltfreundliche Alternative zu herkömmlichen Plastikverpackungen darstellen. Die Papierhülse besteht zu 100% aus nachhaltigen, recycelbaren Materialien, die weniger Ressourcen verbrauchen und weniger Abfall erzeugen. Durch die Verwendung von Bioölen anstelle von synthetischen Inhaltsstoffen tragen wir dazu bei, die Belastung für die Umwelt zu reduzieren und die natürlichen Ressourcen zu schonen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_QPAKCM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "dürfen wir dir weitere gesichtspflege highlights vorstellen, die genauso nachhaltig wie unsere lippenpflegestifte sind?",
+        "home_featured_products": "toner-und-seren",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Wird oft zusammen gekauft",
+        "related_count": 6,
+        "products_per_row": 6
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ccb3b73-8ace-48fc-a353-d0b5d3707b13"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_text_rKexN8",
+    "text_and_image_APkTMP",
+    "text_and_image_G8efbn",
+    "text_and_image_yMJLDA",
+    "text_and_image_aQ6RB3",
+    "text_with_icons_MK3AR6",
+    "text_and_image_Uq78JD",
+    "faq_nKjpDg",
+    "text_and_image_9j7QEY",
+    "featured_collection_QPAKCM",
+    "product-recommendations",
+    "sub",
+    "recently-viewed",
+    "collection-return"
+  ]
+}
