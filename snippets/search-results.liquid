@@ -84,7 +84,7 @@
               {%- for product in predictive_search.resources.products -%}
                 {% unless product.price == 0 %}
                 
-                <li role="option">
+                <li role="option" data-vendor="{{ product.vendor }}">
                   <a href="{{ product.url }}">
                     <div class="results-products__image grid__image-ratio">
                       {% if product.media != blank %}

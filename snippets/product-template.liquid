@@ -80,7 +80,8 @@
 
   {%- render 'product-template-variables', product: product, current_variant: current_variant -%}
 
-  <div class="page-content page-content--product">
+  <div class="page-content page-content--product" data-vendor="{{ product.vendor }}">
+
     <div class="page-width">
 
       <div class="grid{% unless image_position == 'left' %} grid--product-images-right{% endunless %}{% if mobile_layout == 'partial' %} grid--product-images--partial{% endif %}">
@@ -336,7 +337,11 @@
                     </div>
                   {%- when 'buy_buttons' -%}
                     {% if product.price > 0 %}
-
+                        {% if product.vendor == 'bundle'  %}
+                          <div class="product-cta--bundle">
+                            {{ 'products.product.in_bundle_stock' | t }}
+                          </div>
+                        {%- endif -%}
                         <div class="product-cta" {{ block.shopify_attributes }}>
                             <div class="product-cta__inner">
                                 {%- unless product.empty? -%}

@@ -663,31 +663,31 @@
         "space_around": true
       }
     },
-    "bundle_products_3Ur4Yb": {
+    "bundle_products_q7pmeD": {
       "type": "bundle-products",
       "blocks": {
-        "discount_amount_PWacLC": {
+        "discount_amount_mfxbQA": {
           "type": "discount_amount",
           "settings": {
             "quantity": "1",
             "percent": 5
           }
         },
-        "discount_amount_AiYYqn": {
+        "discount_amount_BFdwLL": {
           "type": "discount_amount",
           "settings": {
             "quantity": "2",
             "percent": 10
           }
         },
-        "discount_amount_ny6QJB": {
+        "discount_amount_HpC7dK": {
           "type": "discount_amount",
           "settings": {
             "quantity": "3",
             "percent": 15
           }
         },
-        "discount_amount_F8Uwxf": {
+        "discount_amount_NDQQ76": {
           "type": "discount_amount",
           "settings": {
             "quantity": "4",
@@ -696,18 +696,18 @@
         }
       },
       "block_order": [
-        "discount_amount_PWacLC",
-        "discount_amount_AiYYqn",
-        "discount_amount_ny6QJB",
-        "discount_amount_F8Uwxf"
+        "discount_amount_mfxbQA",
+        "discount_amount_BFdwLL",
+        "discount_amount_HpC7dK",
+        "discount_amount_NDQQ76"
       ],
       "settings": {
-        "title": "Häufig zusammen gekauft",
+        "title": "Bundle Products",
         "related_products": [
-          "badesalz-set-aromatische-entspannungsmomente",
-          "bundle-demo-only-for-development",
-          "organischer-schwefel-msm-pulver",
-          "deostick-zitrone"
+          "3in1-dusch-fluff-sensibelchen",
+          "duschfluff-bluetenmeer",
+          "3in1-dusch-fluff-coconut-cream",
+          "duschfluff-cotton"
         ]
       }
     }
@@ -731,6 +731,6 @@
     "71097e42-fe75-4189-ab04-b1edcd371fe7",
     "blog-posts",
     "275246555a48badb20",
-    "bundle_products_3Ur4Yb"
+    "bundle_products_q7pmeD"
   ]
 }

@@ -315,6 +315,7 @@
     "product": {
       "description": "Beschreibung",
       "in_stock_label": "Auf Lager! In 2-3 Tagen bei Dir im Bad!",
+      "in_bundle_stock": "Dieses Produkt ist nur im Bundle mit anderen Produkten erhältlich!",
       "stock_label": {
         "one": "Geringer Bestand! Nur noch {{ count }} Stück auf Lager.",
         "other": "Geringer Bestand! Nur noch {{ count }} Stück auf Lager."
