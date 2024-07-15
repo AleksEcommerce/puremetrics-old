@@ -242,8 +242,8 @@ label.variant_label_image {
     border-radius: 8px;
     background-position: center center;
     background-repeat: no-repeat;
-    background-color: transparent;
-    border: 2px solid var(--colorVariantBorder);
+    background-color: #ffffff;
+    border: 2px solid transparent;
     transition: all 0.3s;
   }
   .bundle-products__item-img {
@@ -312,7 +312,7 @@ label.variant_label_image {
   @media (min-width: 1100px) {
     .bundle-products__price {
       position: static;
-      justify-content: flex-end;
+      justify-content: center;
       padding-left: 24px;
       border-left: 1px dashed var(--colorBorder);
     }
