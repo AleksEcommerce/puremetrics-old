@@ -36,7 +36,7 @@
                       <img class="bundle-products__item-img" src="{{ product.featured_image | img_url: '400x400' }}" alt="{{ product.title }}">
                       <h3 class="bundle-products__item-title">{{ product.title }}</h3>
                       <p class="bundle-products__item-price" data-compare-price="{% if variant.compare_at_price > variant.price %}{{ variant.compare_at_price | money }}{% endif %}">
-                        {{ variant.price | money }}
+                        <span class="original-price">{{ variant.price | money }}</span>
                       </p>
                     </label>
                   </div>
@@ -143,7 +143,8 @@
       checkboxes.forEach(function(checkbox) {
         const checkboxParentEl = checkbox.closest('.bundle-products__item');
         const relPriceEl = checkboxParentEl.querySelector('.bundle-products__item-price');
-        const currentPrice = relPriceEl.innerHTML.replace('$', '');
+        const currencySymbol = getCurrencySymbol();
+        const currentPrice = relPriceEl.querySelector('.original-price').innerHTML.replace(currencySymbol, '').trim();
         const priceWithDiscount = (parseFloat(currentPrice) * (1 - discount / 100)).toFixed(2);
 
         if (parseFloat(currentPrice) > parseFloat(priceWithDiscount)) {
