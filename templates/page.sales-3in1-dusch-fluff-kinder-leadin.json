@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "58372c13-dbcf-4e09-b7f3-a69e844af524": {
+      "type": "hero-video",
+      "settings": {
+        "title": "die perfekte reinigung und pflege für  sensible Kinderhaut",
+        "title_size": 78,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "#fd0d66",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/18ea1c4bd2b54f19a85cb05deda6fab1.mp4",
+        "overlay_opacity": 52,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "🥰 sichere dir deinen vip zugang!",
+            "heading_size": "h2",
+            "text": "<p><strong>Registriere dich unverbindlich zu unserem VIP Verkauf und sichere dir einen früheren Zugang zum Start des Dusch-Fluffs 'Kinder' und einen garantierten Versand direkt am Montag <\/strong>🤩<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "08",
+            "day": "25",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Leider zu spät! Die Anmeldung zum exklusiven Vorverkaufszugang ist nicht mehr möglich. Du kannst aber dennoch  über den regulären Zugang ab Sonntag den 28.07.2024 10:00 Uhr zum Dusch-Fluff 'Kinder' gelangen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#fada72",
+        "overlay_color": "#f91111",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "⏰ Die Nachfrage ist oft größer, als unser Produktkontingent. Sichere dir daher jetzt deinen Early-Access Zugang und sichere dir einen schnellen Versand zum Wochenstart ⏰",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "1699613018be63b7dd": {
+      "type": "apps",
+      "blocks": {
+        "fb892762-74e3-4976-8d10-7db38c0d40dd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "SbV4Bn"
+          }
+        }
+      },
+      "block_order": [
+        "fb892762-74e3-4976-8d10-7db38c0d40dd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "rich_text_qcTh6U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QKhmfn": {
+          "type": "heading",
+          "settings": {
+            "title": "🐳🍓🍑🍋🌴"
+          }
+        },
+        "heading_zt8je7": {
+          "type": "heading",
+          "settings": {
+            "title": "Unser erster Dusch-Fluff speziell für empfindliche Kinderhaut"
+          }
+        },
+        "text_7Wqrd8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Der Dusch-Fluff 'Kinder' ist speziell für die empfindliche Haut von Kindern entwickelt worden.  Der Dusch-Fluff 'Kinder' bietet eine sanfte und pflegende Reinigung, die speziell auf die Bedürfnisse der jungen Haut abgestimmt ist.<\/p><p>Im Gegensatz zu den 3in1 Dusch-Fluffs enthält er kein Peeling, um die zarte Kinderhaut zu schonen. Er ist mit einem natürlichen, allergenfreien Duft versehen, der für Kinder ab 3 Jahren geeignet ist. Die Formulierung enthält eine Extraportion Kokosöl, das die Haut intensiv pflegt und Feuchtigkeit spendet. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QKhmfn",
+        "heading_zt8je7",
+        "text_7Wqrd8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_video_text_4GFyhq": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürliche Pflege und Schutz",
+        "title": "Kokosöl",
+        "text": "<p>Kokosöl ist reich an Fettsäuren, die tief in die Haut eindringen und <strong>intensive Feuchtigkeit <\/strong>spenden. Dies hilft, die Haut zu <strong>hydratisieren <\/strong>und <strong>vor äußeren Einflüssen zu beschützen. <\/strong><\/p><p>Die enthaltenen <strong>Fettsäuren<\/strong>, insbesondere <strong>Laurinsäure<\/strong>, dringen tief in die Haut ein und halten sie weich und geschmeidig. Kokosöl bildet eine leichte <strong>Schutzschicht ohne dabei zu fetten<\/strong>, die Feuchtigkeit einschließt. <\/p><p>Zudem besitzt es <strong>natürliche antimikrobielle Eigenschaften<\/strong>, die die Haut sauber halten und Irritationen vorbeugen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/489f18e92d01400ba14346edf2a851b7.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Kinderhaut_dermatologie.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Auf das Wesentliche Reduziert",
+        "title": "Frei von belastenden inhaltsstStoffen",
+        "text": "<p>Kinderhaut unterscheidet sich von der Haut Erwachsener in mehreren wichtigen Aspekten. Sie ist etwa 30% dünner, wodurch sie empfindlicher gegenüber äußeren Einflüssen ist. Die Hautbarriere von Kindern ist noch nicht vollständig entwickelt, was zu einem höheren Wasserverlust und einer größeren Anfälligkeit für Reizungen führt. Kinderhaut absorbiert Substanzen leichter, was bedeutet, dass aggressive Inhaltsstoffe schneller aufgenommen werden können. Daher ist es wichtig, Produkte zu verwenden, die speziell für Kinder formuliert sind, um ihre empfindliche Haut zu schützen und zu pflegen.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_YgxxdG": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Frei von Allergenen und Reizenden Stoffen",
+        "title": "🦜 🌞 Auf in ein Fruchtiges Abenteuer",
+        "text": "<p>Der fruchtige Duft unseres Dusch-Fluffs 'Kinder' entführt die Kleinen auf eine imaginäre Reise in die Karibik. Stellt euch vor, eure Kinder genießen den Duft von saftigen, tropischen Früchten wie Ananas, Mango und Kokosnuss, die in der warmen Brise wehen. Dieser Duft ist nicht nur ein sinnliches Erlebnis, sondern wurde speziell allergenfrei entwickelt, um auch die empfindlichste Kinderhaut zu schonen.<br\/><br\/>Unser Dusch-Fluff ist ideal für Kinder ab drei Jahren, da er extra sanft zur Haut ist und keine reizenden Inhaltsstoffe enthält. So wird die Kinderhaut sicher und perfekt gepflegt. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0d97b6ddb6d64eb994568ef97d63e729.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_zAEV3b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_09_Chris_Cosma_puremetics_GmbH.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "rounded",
+        "subtitle": "Chris (CEO & CO-Founder)",
+        "title": "Das war meine Inspiration",
+        "text": "<p>Die Inspiration für den Dusch-Fluff 'Kinder' kam aus meiner eigenen Erfahrung in einer großen Familie, in der immer viel los ist. Meine Verwandten bitten mich oft, Produkte zu überprüfen, die sie für ihre Kinder verwenden möchten. Dabei war ich oft schockiert darüber, welche Inhaltsstoffe in vielen Kinderpflegeprodukten enthalten sind. <strong>Das war für mich ein Anstoß, ein Produkt zu entwickeln, das auf das Wesentliche reduziert ist und speziell auf die Bedürfnisse empfindlicher Kinderhaut eingeht.<\/strong><br\/><br\/>Der Dusch-Fluff 'Kinder' sollte nicht nur schonend und pflegend sein, sondern auch Spaß machen. Daher habe ich mich für einen fruchtigen Duft entschieden, der allergenfrei ist und für Kinder ab 3 Jahren geeignet. So können sich die Kleinen auf ein angenehmes Badeerlebnis freuen, ohne dass die Eltern sich Sorgen um reizende Inhaltsstoffe machen müssen. Bei unseren Kids ist der Dusch-Fluff mittlerweile unverzichtbar geworden – er macht das Baden und Duschen zu einem echten Vergnügen!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "58372c13-dbcf-4e09-b7f3-a69e844af524",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "1699613018be63b7dd",
+    "rich_text_qcTh6U",
+    "background_video_text_4GFyhq",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f",
+    "background_video_text_YgxxdG",
+    "text_and_image_zAEV3b"
+  ]
+}

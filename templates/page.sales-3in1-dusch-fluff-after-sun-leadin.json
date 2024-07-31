@@ -1,0 +1,278 @@
+{
+  "sections": {
+    "58372c13-dbcf-4e09-b7f3-a69e844af524": {
+      "type": "hero-video",
+      "settings": {
+        "title": "🌞dusch-fluff After-sun🌞<br>Die perfekte Pflege nach dem Sonnenbad",
+        "title_size": 78,
+        "subheading": "Unser limitierter Dusch-Fluff mit den Wirkstoffen D-Panthenol, Allantoin und Aloe Vera schützt und pflegt sonnenbelastete Haut intensiv.",
+        "link_text": "",
+        "link": "",
+        "color_accent": "#fd0d66",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b97f4ca77fbf46c082d4d39b7548054c.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0": {
+      "type": "countdown",
+      "blocks": {
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1": {
+          "type": "content",
+          "settings": {
+            "heading": "🌴 sichere dir deinen vip zugang!",
+            "heading_size": "h2",
+            "text": "<p><strong>Registriere dich unverbindlich zu unserem VIP Verkauf und sichere dir einen früheren Zugang zum Start der limitierten Edition und einen garantierten Versand direkt am Montag <\/strong>🤩<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "07",
+            "day": "28",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Leider zu spät! Die Anmeldung zum exklusiven Vorverkaufszugang ist nicht mehr möglich. Du kannst aber dennoch  über den regulären Zugang ab Sonntag den 28.07.2024 10:00 Uhr zum Dusch-Fluff 'After Sun' gelangen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-content-1",
+        "template--18184301314314__fce8ae8b-a87a-4392-ba6b-97858afa8bf0-timer-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#fdce0d",
+        "overlay_color": "#f91111",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "b0f30eee-868e-4515-87e0-629aa84abe75": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "⏰ Die Nachfrage ist oft größer, als unser Produktkontingent. Sichere dir daher jetzt deinen Early-Access Zugang und sichere dir einen schnellen Versand zum Wochenstart ⏰",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "1699613018be63b7dd": {
+      "type": "apps",
+      "blocks": {
+        "fb892762-74e3-4976-8d10-7db38c0d40dd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "SbV4Bn"
+          }
+        }
+      },
+      "block_order": [
+        "fb892762-74e3-4976-8d10-7db38c0d40dd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "rich_text_qcTh6U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QKhmfn": {
+          "type": "heading",
+          "settings": {
+            "title": "🌴🌞🌊😎"
+          }
+        },
+        "heading_zt8je7": {
+          "type": "heading",
+          "settings": {
+            "title": "Unser erster Dusch-Fluff mit nachweislich belegten Wirkstoffen"
+          }
+        },
+        "text_7Wqrd8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Unser Dusch-Fluff 'After Sun' bietet umfassende Pflege nach einem sonnigen Tag, indem er die Haut mit feuchtigkeitsspendendem Kokosöl, beruhigendem Panthenol, heilungsförderndem Allantoin und regenerierendem Aloe Vera versorgt, was Irritationen lindert, die Haut hydratisiert und ihre natürliche Heilung unterstützt.<\/p><p><\/p><p><strong>Bitte beachte: Im Vergleich zu unseren 3in1 Dusch-Fluffs enthält der Dusch-Fluff 'After Sun' kein Peeling, damit er ganz sanft zur sonnenirritierten Haut ist.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QKhmfn",
+        "heading_zt8je7",
+        "text_7Wqrd8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background_video_text_k68cnt": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Die Wohltat für sonnenstrapazierte Haut",
+        "title": "D-Panthenol\/Provitamin B5",
+        "text": "<p>Besonders nach einem Tag in der Sonne entfaltet D-Panthenol seine wohltuenden Eigenschaften. Es dringt tief in die Haut ein und hilft, <strong>Feuchtigkeit <\/strong>zu binden, was die Haut <strong>geschmeidig <\/strong>und <strong>hydratisiert <\/strong>hält. Es wirkt <strong>beruhigend <\/strong>auf sonnenstrapazierte Haut und <strong>lindert Rötungen und Irritationen<\/strong>, die durch UV-Strahlen verursacht wurden.<br\/> D-Panthenol fördert die <strong>Regeneration <\/strong>der Hautzellen und unterstützt die natürliche <strong>Heilung <\/strong>von kleinen Verletzungen und Sonnenbränden. Es <strong>stärkt die Hautbarriere, schützt vor weiterem Feuchtigkeitsverlust <\/strong>und macht die Haut widerstandsfähiger gegen äußere Einflüsse.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/14a53e5add9c418d8f3376c9d087b73a.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3in1_Dusch-Fluff_Sommer_24_Grund_5_UNTERSTUeTZT_DIE_NATUeRLICHE_HAUTBARRIERE.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "auch ohne sichtbaren Sonnenbrand",
+        "title": "Vorteile der Pflege mit unserem \"After Sun\" Dusch-Fluff",
+        "text": "<p>Auch wenn du keinen sichtbaren und spürbaren Sonnenbrand hast, bringt eine ausreichende Pflege mit unserem After Sun Fluff zahlreiche Vorteile. Die Haut ist nach einem Tag in der Sonne oft gestresst und ausgetrocknet, selbst wenn keine offensichtlichen Verbrennungen vorliegen. Unser After Sun Fluff mit Aloe Vera, Panthenol, Allantoin und Kokosöl hilft, die Haut zu beruhigen, mit Feuchtigkeit zu versorgen und die natürliche Regeneration zu unterstützen. <\/p><p>Diese Inhaltsstoffe wirken entzündungshemmend, feuchtigkeitsspendend und heilungsfördernd, wodurch die Haut geschmeidig und gesund bleibt. Die regelmäßige Anwendung kann Rötungen, Trockenheit und langfristige Sonnenschäden vorbeugen, das allgemeine Hautbild verbessern und die Hautbarriere stark zu halten.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_YgxxdG": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Vorteile nach intensiver Sonneneinstrahlung",
+        "title": "Allantoin",
+        "text": "<p>Allantoin ist bekannt für seine <strong>beruhigenden <\/strong>und <strong>heilungsfördernden <\/strong>Eigenschaften. Es hilft, irritierte Haut zu beruhigen und Rötungen zu <strong>lindern<\/strong>, die durch UV-Strahlen verursacht werden können. Darüber hinaus fördert Allantoin die <strong>Zellregeneration <\/strong>und unterstützt die natürliche <strong>Erneuerung <\/strong>der Hautzellen, was die <strong>Heilung <\/strong>kleinerer Sonnenbrände und Hautschäden beschleunigt. Zudem spendet Allantoin <strong>Feuchtigkeit<\/strong>, verbessert die <strong>Hautelastizität <\/strong>und trägt dazu bei, die Haut geschmeidig und weich zu halten. Durch seine <strong>entzündungshemmende <\/strong>Wirkung schützt es die Haut vor weiteren Schäden und sorgt für ein angenehmes Hautgefühl. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b97f4ca77fbf46c082d4d39b7548054c.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_After_Sun_Eiswuerfel_8d78c15a-b5b2-44ee-8ec8-ffc1f9d1e37d.png",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Ist es ein Sonnenbrand, wenn",
+        "title": "wenn sich die Haut nach einem Tag in der Sonne warm anfühlt?",
+        "text": "<p>Das warme Gefühl der Haut nach einem Tag in der Sonne kann ein frühes Anzeichen eines Sonnenbrands sein, muss es aber nicht zwangsläufig sein. Sonnenbrand ist eine akute Entzündungsreaktion der Haut auf übermäßige UV-Strahlung und kann sich durch Symptome wie Rötung, Schmerzen, Schwellungen und in schweren Fällen Blasenbildung äußern. Selbst wenn diese Symptome nicht sofort sichtbar sind, kann die Haut dennoch geschädigt sein und Pflege benötigen.<br\/><br\/><strong>Unser After Sun Fluff bietet zahlreiche Vorteile für die Hautpflege nach einem Tag in der Sonne, selbst wenn kein sichtbarer Sonnenbrand vorliegt. <\/strong>Die Haut kann durch die Sonneneinstrahlung gestresst und ausgetrocknet sein. Inhaltsstoffe wie Aloe Vera, Panthenol, Allantoin und Kokosöl helfen dabei, die Haut zu beruhigen, mit Feuchtigkeit zu versorgen und die natürliche Regeneration zu unterstützen. Diese Inhaltsstoffe wirken entzündungshemmend, feuchtigkeitsspendend und heilungsfördernd, was die Haut geschmeidig und gesund hält und langfristige Sonnenschäden vorbeugt<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_8Ax8Ar": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Natürliche und bewährte Pflege nach der Sonne",
+        "title": "Aloe Vera",
+        "text": "<p>Aloe Vera ist bekannt für ihre <strong>feuchtigkeitsspendenden <\/strong>Eigenschaften und hilft, die Haut nach einem Tag in der Sonne intensiv zu <strong>hydratisieren<\/strong>. Sie zieht schnell ein und versorgt die Haut mit wichtigen <strong>Nährstoffen<\/strong>, die die natürliche <strong>Regeneration <\/strong>fördern. Zudem wirkt Aloe Vera <strong>beruhigend <\/strong>und <strong>entzündungshemmend<\/strong>, <strong>lindert <\/strong>Rötungen und Reizungen und sorgt für ein <strong>angenehmes <\/strong>Hautgefühl. Ihre <strong>antioxidativen <\/strong>Eigenschaften schützen die Haut vor Schäden durch freie Radikale und unterstützen die <strong>Heilung <\/strong>von kleineren Sonnenbränden. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ac20ceceb5484ab7a5a9e65e2a32d49d.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_BTyGz8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Sonnenbrand_Help.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Was ist ein Sonnenbrand und wieso sollte man ihn vermeiden?",
+        "title": "Bräunung bereits schädlich",
+        "text": "<p>Ein Sonnenbrand ist eine akute Entzündungsreaktion der Haut, die durch übermäßige UV-Strahlung verursacht wird. Dabei dringen die UV-Strahlen in die Haut ein und schädigen die DNA der Hautzellen, was zu Rötungen, Schmerzen, Schwellungen und in schweren Fällen zu Blasenbildung führen kann. Langfristig erhöht häufiger Sonnenbrand das Risiko für Hautkrebs und beschleunigt die Hautalterung.<\/p><p><strong>Bereits die Bräunung der Haut ist im Prinzip leider schön schädlich. <\/strong>Ein Sonnenbrand sollte dringlich vermieden werden, da er nicht nur kurzfristige Beschwerden wie Schmerzen und Rötungen verursacht, sondern auch langfristige Schäden wie vorzeitige Hautalterung und ein erhöhtes Hautkrebsrisiko mit sich bringt. Daher ist es wichtig, die Haut regelmäßig zu schützen und zu pflegen. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_4GFyhq": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Hautpflege nach einem Tag in der Sonne",
+        "title": "Kokosöl",
+        "text": "<p>Kokosöl ist reich an Fettsäuren, die tief in die Haut eindringen und <strong>intensive Feuchtigkeit <\/strong>spenden. Dies hilft, die durch Sonnenexposition ausgetrocknete Haut zu <strong>hydratisieren <\/strong>und wieder <strong>geschmeidig <\/strong>zu machen. Zudem besitzt Kokosöl natürliche <strong>entzündungshemmende <\/strong>und <strong>beruhigende <\/strong>Eigenschaften, die helfen, Rötungen und Irritationen zu lindern. Es unterstützt die <strong>Hautbarriere<\/strong>, fördert die <strong>Heilung <\/strong>kleinerer Sonnenbrände und schützt vor weiteren Schäden. Darüber hinaus hat Kokosöl <strong>antioxidative <\/strong>Eigenschaften, die die Haut vor freien Radikalen schützen und die Zeichen vorzeitiger Hautalterung reduzieren. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5902d194c5ec46369e2dc641508fce2b.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "text_and_image_zAEV3b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Chris_Strand_02.png",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/puremetics_promotion_grids_quadrat_Chris_Strand_01.png",
+        "image2_mask": "rounded",
+        "subtitle": "Chris (CEO & CO-Founder)",
+        "title": "Das war meine Inspiration",
+        "text": "<p>Als echtes Sonnenkind habe ich immer schon die Sonne genossen und liebe es, meine Tage draußen zu verbringen. Doch mit den Jahren habe ich gelernt, wie wichtig es ist, die Haut nach all den sonnenverwöhnten Stunden zu pflegen. Der Dusch-Fluff 'After Sun' ist aus meiner eigenen Erfahrung heraus entstanden – als Hommage an all die warmen Sommertage, an denen die Haut eine Extra-Portion Liebe braucht.<br\/>Dieser Dusch-Fluff duftet sanft cremig nach Urlaub, fast wie ein Ausflug in ein tropisches Paradies. Mit einer Mischung aus Kokosöl, Panthenol, Allantoin und Aloe Vera ist er die perfekte Pflege nach einem Tag in der Sonne. Diese Inhaltsstoffe sind wie kleine Helden, die der Haut nach all den UV-Strahlen eine wohltuende Umarmung schenken.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "58372c13-dbcf-4e09-b7f3-a69e844af524",
+    "fce8ae8b-a87a-4392-ba6b-97858afa8bf0",
+    "b0f30eee-868e-4515-87e0-629aa84abe75",
+    "1699613018be63b7dd",
+    "rich_text_qcTh6U",
+    "background_video_text_k68cnt",
+    "15fed9a8-80a3-4688-ae20-ef333f065f5f",
+    "background_video_text_YgxxdG",
+    "c65c2727-cdd6-488c-84f6-5e9219ff0ad3",
+    "background_video_text_8Ax8Ar",
+    "text_and_image_BTyGz8",
+    "background_video_text_4GFyhq",
+    "text_and_image_zAEV3b"
+  ]
+}

@@ -113,6 +113,11 @@ window.TriplePixelData={TripleName:"puremetics-shop.myshopify.com",ver:"2.12",pl
             {% assign productUrl = productUrl | replace: '-gratis', '' %}
             window.location.href = "{{ productUrl }}";
         {% endif %}
+
+        {% if template.name == 'product' and productVendor == 'bundle' %}
+          {% assign productUrl = productUrl | replace: '-bundle', '' %}
+          window.location.href = "{{ productUrl }}";
+          {% endif %}
     </script>
 
 

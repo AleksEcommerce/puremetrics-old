@@ -5,9 +5,9 @@
       {% endif %}
       <div class="bundle-products__mobile">
         {% if section.settings.related_products != blank %}
-          {% for product in section.settings.related_products %}
+          {% for product_bundle in section.settings.related_products %}
             <figure class="bundle-products__mobile__item-figure">
-              <img class="bundle-products__mobile__item-img" src="{{ product.featured_image | img_url: '200x200' }}" alt="{{ product.title }}">
+              <img class="bundle-products__mobile__item-img" src="{{ product_bundle.featured_image | img_url: '200x200' }}" alt="{{ product_bundle.title }}">
             </figure>
           {% endfor %}
           <span class="bundle-products__mobile__toggler button btn add-to-cart btn--full">{{ section.settings.text-btn }}</span>
@@ -17,9 +17,9 @@
         <form id="bundle-form--{{ section.id }}" class="bundle-products__form">
           <div class="bundle-products__list">
             {% if section.settings.related_products != blank %}
-              {% for product in section.settings.related_products %}
-                {% assign product_handle = product.handle %}
-                  {% assign variant = product.selected_or_first_available_variant %}
+              {% for product_bundle in section.settings.related_products %}
+                {% assign product_handle = product_bundle.handle %}
+                  {% assign variant = product_bundle.selected_or_first_available_variant %}
                   <div class="bundle-products__item">
                       <input type="checkbox"
                           checked
@@ -27,16 +27,16 @@
                           id='{{ variant.id }}'
                           value='{{ variant.id }}' 
                           data-variant-id='{{ variant.id }}'
-                          data-product-id='{{ product.id }}'
+                          data-product-id='{{ product_bundle.id }}'
                           data-price='{{ variant.price }}'
                           data-compare-price='{{ variant.compare_at_price }}'
                           quantity='1'
                           class="bundle-products__item-checkbox">
                       <label for='{{ variant.id }}' class="bundle-products__label">
-                      <img class="bundle-products__item-img" src="{{ product.featured_image | img_url: '400x400' }}" alt="{{ product.title }}">
-                      <h3 class="bundle-products__item-title">{{ product.title }}</h3>
+                      <img class="bundle-products__item-img" src="{{ product_bundle.featured_image | img_url: '400x400' }}" alt="{{ product_bundle.title }}">
+                      <h3 class="bundle-products__item-title">{{ product_bundle.title }}</h3>
                       <p class="bundle-products__item-price" data-compare-price="{% if variant.compare_at_price > variant.price %}{{ variant.compare_at_price | money }}{% endif %}">
-                        <span class="original-price">{{ variant.price | money }}</span>
+                        <span class="original-price" data-original-price="{{ variant.price }}">{{ variant.price | money }}</span>
                       </p>
                     </label>
                   </div>
@@ -45,10 +45,13 @@
           </div>
           <div class="bundle-products__price">
             <div class="bundle-products__price-header">
-              <span class="bundle-products__price-label">You save: <span id="total-savings" class="bundle-products__price-saved">0%</span></span>
+              <span class="bundle-products__price-label">
+                {{ section.settings.save_label }}: 
+                <span id="total-savings" class="bundle-products__price-saved">0%</span>
+              </span>
             </div>
             <div class="bundle-products__price-footer">
-              <span class="bundle-products__price-name">Total Price:</span>
+              <span class="bundle-products__price-name">{{ section.settings.total_label }}:</span>
               <div>
                 <span id="total-price-discounted" class="bundle-products__price-old">0.00</span>
                 <span id="total-price" class="bundle-products__price-actual">0.00</span>
@@ -77,32 +80,33 @@
     function getCurrencySymbol() {
       const currencyCode = Shopify.currency.active;
 
-      const supportedCurrencies = [
-        "USD", // United States Dollar
-        "EUR", // Euro
-        "GBP", // British Pound Sterling
-        "JPY", // Japanese Yen
-        "CNY", // Chinese Yuan
-        "UAH", // Ukrainian Hryvnia
-        "AUD", // Australian Dollar
-        "CAD", // Canadian Dollar
-        "CHF", // Swiss Franc
-        "RUB", // Russian Ruble
-        "INR", // Indian Rupee
-        "BRL", // Brazilian Real
-        "ZAR", // South African Rand
-        "SGD", // Singapore Dollar
-        "KRW", // South Korean Won
-        "MXN", // Mexican Peso
-      ];
+      const supportedCurrencies = {
+        "USD": "$", // United States Dollar
+        "EUR": "€", // Euro
+        "GBP": "£", // British Pound Sterling
+        "JPY": "¥", // Japanese Yen
+        "CNY": "¥", // Chinese Yuan
+        "UAH": "₴", // Ukrainian Hryvnia
+        "AUD": "$", // Australian Dollar
+        "CAD": "$", // Canadian Dollar
+        "CHF": "CHF", // Swiss Franc
+        "RUB": "₽", // Russian Ruble
+        "INR": "₹", // Indian Rupee
+        "BRL": "R$", // Brazilian Real
+        "ZAR": "R", // South African Rand
+        "SGD": "$", // Singapore Dollar
+        "KRW": "₩", // South Korean Won
+        "MXN": "$", // Mexican Peso
+        "PLN": "zł", // Polish Zloty
+        "SEK": "kr", // Swedish Krona
+        "RON": "lei ", // Romanian Leu
+      };
 
-      if (!supportedCurrencies.includes(currencyCode)) {
+      if (!supportedCurrencies.hasOwnProperty(currencyCode)) {
         throw new Error(`Unsupported currency code: ${currencyCode}`);
       }
 
-      return new Intl.NumberFormat(undefined, { style: "currency", currency: currencyCode, currencyDisplay: "symbol" })
-              .formatToParts(0)
-              .find(part => part.type === "currency").value;
+      return supportedCurrencies[currencyCode];
     }
           
     function updateTotal() {
@@ -114,11 +118,13 @@
         if (checkbox.checked) {
           checkedCount++;
           var productPrice = parseFloat(checkbox.getAttribute('data-price'));
-          var productPriceSale = parseFloat(checkbox.getAttribute('data-compare-price'));
+          var productPriceSale = parseFloat(checkbox.getAttribute('data-compare-price')) || 0;
           if (!isNaN(productPrice) && !isNaN(productPriceSale)) {
             totalPrice += productPrice / 100;
             totalPriceDiscounted += productPriceSale / 100;
           } else {
+            console.log("data-price:", checkbox.getAttribute('data-price'));
+          console.log("data-compare-price:", checkbox.getAttribute('data-compare-price'));
             console.error("Invalid price data for product:", checkbox);
           }
         }
@@ -143,8 +149,7 @@
       checkboxes.forEach(function(checkbox) {
         const checkboxParentEl = checkbox.closest('.bundle-products__item');
         const relPriceEl = checkboxParentEl.querySelector('.bundle-products__item-price');
-        const currencySymbol = getCurrencySymbol();
-        const currentPrice = relPriceEl.querySelector('.original-price').innerHTML.replace(currencySymbol, '').trim();
+        const currentPrice = parseFloat(+(relPriceEl.querySelector('.original-price').getAttribute('data-original-price')) / 100).toFixed(2);
         const priceWithDiscount = (parseFloat(currentPrice) * (1 - discount / 100)).toFixed(2);
 
         if (parseFloat(currentPrice) > parseFloat(priceWithDiscount)) {
@@ -154,8 +159,8 @@
         }
       });
 
-      totalPriceElem.textContent = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2 }).format(discountedPrice);
-      totalPriceDiscountedElem.textContent = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2 }).format(totalPrice);
+      totalPriceElem.textContent = getCurrencySymbol() + discountedPrice.toFixed(2);
+      totalPriceDiscountedElem.textContent = getCurrencySymbol() + totalPrice.toFixed(2);
       totalSavingsElem.textContent = discount + "%";
 
       if (discountedPrice === 0) {
@@ -234,6 +239,16 @@
           "type": "text",
           "id": "title",
           "label": "Title"
+      },
+      {
+          "type": "text",
+          "id": "save_label",
+          "label": "Save label"
+      },
+      {
+          "type": "text",
+          "id": "total_label",
+          "label": "Total Label"
       },
       {
         "type": "product_list",

@@ -54,13 +54,6 @@
         "0831986c-a11c-4739-b94f-d9d82dccd374": {
           "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
-            "margin": "",
-            "textColor": "",
-            "fontSize": "",
-            "ratingIconColor": "",
-            "ratingIconSize": "",
-            "questionsIconColor": "",
-            "questionsIconSize": ""
           }
         },
         "price": {
@@ -234,25 +227,6 @@
         "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
           "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
-            "containerMaxWidth": "",
-            "containerMarginTop": "",
-            "containerMarginBottom": "",
-            "containerSidePadding": "",
-            "containerLineHeight": "",
-            "containerFontFamily": "",
-            "containerLetterSpacing": "",
-            "buttonsColor": "",
-            "buttonsColorOnHover": "",
-            "buttonsBackgroundColor": "",
-            "buttonsBackgroundColorOnHover": "",
-            "buttonsBorder": "",
-            "buttonsBorderColorOnHover": "",
-            "buttonsBoxShadow": "",
-            "buttonsBoxShadowOnHover": "",
-            "buttonsPaddings": "",
-            "buttonsTextTransform": "",
-            "tabTriggerSelector": "",
-            "tabContentSelector": ""
           }
         }
       },
@@ -739,6 +713,50 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "bundle_products_94NLP9": {
+      "type": "bundle-products",
+      "blocks": {
+        "discount_amount_jgbVpL": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "2",
+            "percent": 5
+          }
+        },
+        "discount_amount_39KYaH": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "3",
+            "percent": 10
+          }
+        },
+        "discount_amount_RDyWrh": {
+          "type": "discount_amount",
+          "settings": {
+            "quantity": "4",
+            "percent": 15
+          }
+        }
+      },
+      "block_order": [
+        "discount_amount_jgbVpL",
+        "discount_amount_39KYaH",
+        "discount_amount_RDyWrh"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Mehr kaufen, mehr sparen",
+        "save_label": "Sie sparen",
+        "total_label": "Gesamtpreis",
+        "related_products": [
+          "3in1-dusch-fluff-mandelmilch-bundle",
+          "deo-stick-zitrone-bundle",
+          "gesichtspflegeseife-mediterran-bundle",
+          "haarseife-zitrone-vanille-bundle"
+        ],
+        "text-btn": "Kaufen Sie alles zusammen und sparen Sie!"
+      }
     }
   },
   "order": [
@@ -761,6 +779,7 @@
     "23d907bf-716c-4711-9507-8bed60a93e5e",
     "product-recommendations",
     "recently-viewed",
-    "collection-return"
+    "collection-return",
+    "bundle_products_94NLP9"
   ]
 }

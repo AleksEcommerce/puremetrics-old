@@ -39,13 +39,6 @@
         "0831986c-a11c-4739-b94f-d9d82dccd374": {
           "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
-            "margin": "",
-            "textColor": "",
-            "fontSize": "",
-            "ratingIconColor": "",
-            "ratingIconSize": "",
-            "questionsIconColor": "",
-            "questionsIconSize": ""
           }
         },
         "price": {
@@ -192,7 +185,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Unser Dusch-Fluff 'After Sun' bietet umfassende Pflege nach einem sonnigen Tag, indem er die Haut mit feuchtigkeitsspendendem Kokosöl, beruhigendem Panthenol, heilungsförderndem Allantoin und regenerierendem Aloe Vera versorgt, was Irritationen lindert, die Haut hydratisiert und ihre natürliche Heilung unterstützt.<\/p><p><\/p><p><strong>Bitte beachte: Im Vergleich zu unseren 3in1 Dusch-Fluffs enthalten unsere Dusch-Fluffs kein Peeling.<\/strong><\/p>"
+            "text": "<p>Unser Dusch-Fluff 'After Sun' bietet umfassende Pflege nach einem sonnigen Tag, indem er die Haut mit feuchtigkeitsspendendem Kokosöl, beruhigendem Panthenol, heilungsförderndem Allantoin und regenerierendem Aloe Vera versorgt, was Irritationen lindert, die Haut hydratisiert und ihre natürliche Heilung unterstützt.<\/p><p><\/p><p><strong>Bitte beachte: Im Vergleich zu unseren 3in1 Dusch-Fluffs enthält der Dusch-Fluff 'After Sun' kein Peeling, damit er ganz sanft zur sonnenirritierten Haut ist.<\/strong><\/p>"
           }
         }
       },
@@ -212,25 +205,6 @@
         "d8f137ce-33e4-4c9f-9ac1-674ed2588df0": {
           "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
-            "containerMaxWidth": "",
-            "containerMarginTop": "",
-            "containerMarginBottom": "",
-            "containerSidePadding": "",
-            "containerLineHeight": "",
-            "containerFontFamily": "",
-            "containerLetterSpacing": "",
-            "buttonsColor": "",
-            "buttonsColorOnHover": "",
-            "buttonsBackgroundColor": "",
-            "buttonsBackgroundColorOnHover": "",
-            "buttonsBorder": "",
-            "buttonsBorderColorOnHover": "",
-            "buttonsBoxShadow": "",
-            "buttonsBoxShadowOnHover": "",
-            "buttonsPaddings": "",
-            "buttonsTextTransform": "",
-            "tabTriggerSelector": "",
-            "tabContentSelector": ""
           }
         }
       },

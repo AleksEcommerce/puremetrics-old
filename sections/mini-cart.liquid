@@ -52,6 +52,8 @@
         <div class="mini-cart__product-caption">
             <div class="mini-cart__product-name"><a href="#"></a></div>
 
+            <small class="mini-cart__product-properties"></small>
+
             <div class="mini-cart__product-footer">
                 <div class="mini-cart__product-footer-item">
                     <div class="mini-cart__product-price"></div>
@@ -123,7 +125,7 @@
 
     .mini-cart {
         transition: right linear 400ms;
-        width: 470px;
+        width: 490px;
         max-width: 100%;
         position: fixed;
         top: 0;
@@ -405,6 +407,10 @@
         grid-template-columns: 90px 1fr;
         border-bottom: 1px solid rgba(0,0,0,.15);
         padding: 20px 0;
+    }
+
+    .mini-cart__product-properties:empty {
+        display: none;
     }
 
     .mini-cart__product:last-child {
@@ -708,14 +714,15 @@
             e.preventDefault();
             const url = window.location.href;
             const match = url.match(/[?&]variant=([^&]*)/);
-
+            const sellingPlan = url.match(/[?&]selling_plan=([^&]*)/);
 
             const currentBtn = $(e.currentTarget);
             const variantID = match ? match[1] : currentBtn.data('variant-id');
+            const sellingPlanId = sellingPlan ? sellingPlan[1] : false;
 
             const qty = currentBtn.closest('.page-content--product').find('.js-qty__num') ? currentBtn.closest('.page-content--product').find('.js-qty__num').val() : false;
 
-            addItem(variantID, qty);
+            addItem(variantID, qty, sellingPlanId);
         })
 
         const targetCaption = $(".mini-cart__goals-target-caption");
@@ -812,19 +819,29 @@
             const productTitle = item.title.replace(/&#(\d+);/g, function(match, dec) {
                 return String.fromCharCode(dec);
             });
+            const sellingPlan = item.selling_plan_allocation;
+
+            let comparePrice = item.original_line_price > item.line_price ? item.original_line_price : false;
+
             const removeBtn = cartItem.find('.js-remove-cart-line');
+
+            if (sellingPlan && sellingPlan.compare_at_price > sellingPlan.price) {
+                comparePrice = sellingPlan.compare_at_price;
+                cartItem.find('.mini-cart__product-properties').text(sellingPlan.selling_plan.name)
+            }
+
             cartItem.addClass(`mini-cart__product--${item.product_type.toLowerCase()}`);
 
             cartItem.attr('data-variant-id', item.variant_id);
 
-            productImg.css('background-image', `url(${item.featured_image.url})`);
+            productImg.css('background-image', `url(${item.featured_image.url}&width=250)`);
             productImg.attr('href', item.url);
             productName.attr('href', item.url);
             productName.text(productTitle);
             productPrice.text(`${addCommas(item.line_price / 100)}`);
 
-            if (item.original_line_price > item.line_price) {
-                productPrice.attr('data-sale', addCommas(item.original_line_price / 100));
+            if (comparePrice) {
+                productPrice.attr('data-sale', addCommas(comparePrice / 100));
             }
 
             cartItem.attr('data-cart-line', index);
@@ -865,7 +882,8 @@
 
             cartItem.on('click', '.js-remove-cart-line', (event) => {
                 const $this = $(event.currentTarget);
-                removeItem($this.data('variant-id'));
+                const lineIndex = $this.closest('[data-cart-line]').data('cart-line');
+                removeItem($this.data('variant-id'), lineIndex);
             })
 
             return cartItem;
@@ -913,7 +931,7 @@
 
             cartItems.forEach((item) => {
                 if (cartItem(item)) {
-                    cartContent.prepend(cartItem(item, index));
+                    cartContent.append(cartItem(item, index));
                     ++index;
                 }
             })
@@ -929,30 +947,40 @@
 
         renderCart();
 
-        function removeItem(id) {
+        function removeItem(id, index) {
             const inTheCart = CartJS.cart.items.find(item => +item.id === +id);
 
-            console.log(id);
-
             if (inTheCart) {
-                console.log(id, 555);
-                CartJS.removeItemById(id, {
+                CartJS.removeItem(index, {
                     "success": function (data, textStatus, jqXHR) {
-                        console.log('gift removed');
+                        console.log('item removed');
                     },
                     "error": function (jqXHR, textStatus, errorThrown) {
                         console.log(textStatus);
                     }
                 });
+                // CartJS.removeItemById(id, {
+                //     "success": function (data, textStatus, jqXHR) {
+                //         console.log('gift removed');
+                //     },
+                //     "error": function (jqXHR, textStatus, errorThrown) {
+                //         console.log(textStatus);
+                //     }
+                // });
             }
         }
 
-        function addItem(id, qty) {
+        function addItem(id, qty, sellingPlan) {
             const inTheCart = CartJS.cart.items.find(item => +item.variant_id === +id);
+            const properties = {};
 
             if (!id && !inTheCart) return;
 
-            CartJS.addItem(id, qty, {}, {
+            if(sellingPlan) {
+                properties['selling_plan'] = sellingPlan;
+            }
+
+            CartJS.addItem(id, qty, properties, {
                 "success": function (data, textStatus, jqXHR) {
                     cartToggle();
                 },

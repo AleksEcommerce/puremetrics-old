@@ -1,0 +1,68 @@
+{
+  "sections": {
+    "countdown_N4zCXV": {
+      "type": "countdown",
+      "blocks": {
+        "content_jcQKKd": {
+          "type": "content",
+          "settings": {
+            "heading": "Das hat geklappt! 🤩",
+            "heading_size": "h1",
+            "text": "<p>Deine Anmeldung war erfolgreich! Wir werden dich zum Verkaufsstart per E-Mail informieren.<\/p><p><strong>Bitte behalte deine E-Mails im Auge und freue dich auf deinen früheren Zugang zu der limitierten Edition <\/strong>🥳<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_tf6Uhb": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "07",
+            "day": "28",
+            "hour": "09",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>Der Verkauf hat bereits begonnen. Jetzt aber schnell 😅<\/p>"
+          }
+        },
+        "button_UMHJCH": {
+          "type": "button",
+          "settings": {
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0227\/5013\/4336\/files\/puremetics_Dusch-Fluff_After_Sun.ics?v=1721816633",
+            "button": "Im Kalender speichern",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_jcQKKd",
+        "timer_tf6Uhb",
+        "button_UMHJCH"
+      ],
+      "settings": {
+        "layout": "hero",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_image": "shopify:\/\/shop_images\/puremetics_Countdown_Bilder_Palms_and_Pool.png",
+        "overlay_color": "#000000",
+        "overlay_opacity": 26,
+        "lazyload_images": true
+      }
+    },
+    "scrolling_text_WcydCj": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "🌞🌴🌊😎  Schnell sein lohnt sich. Wir erwarten ein hohes Aufkommen 😎🌊🌴",
+        "link": "",
+        "text_size": 24,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
+    }
+  },
+  "order": [
+    "countdown_N4zCXV",
+    "scrolling_text_WcydCj"
+  ]
+}
